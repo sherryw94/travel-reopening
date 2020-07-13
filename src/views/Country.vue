@@ -38,6 +38,7 @@
             <h3>Domestic Travel</h3>
           </CountryBody>
         </div>
+        <CountryTravelIdeas :country="country" />
         <div class="panel">
           <div class="panel__inner">
             <p class="mb-0">
@@ -59,6 +60,7 @@ import axios from 'axios';
 import moment from 'moment';
 import CountryBody from '@/components/CountryBody.vue';
 import CountrySources from '@/components/CountrySources.vue';
+import CountryTravelIdeas from '@/components/CountryTravelIdeas.vue';
 import CovidStats from '@/components/CovidStats.vue';
 import Disclaimer from '@/components/Disclaimer.vue';
 import TitleMapSelect from '@/components/TitleMapSelect.vue';
@@ -70,6 +72,7 @@ export default {
   components: {
     CountryBody,
     CountrySources,
+    CountryTravelIdeas,
     CovidStats,
     Disclaimer,
     TitleMapSelect,
