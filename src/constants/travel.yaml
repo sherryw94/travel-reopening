@@ -544,6 +544,11 @@ countries:
       domestic: partial
       inbound: partial
       outbound: 'yes'
+    travel_ideas:
+      - alt: 'Tablelands at Gros Morne National Park'
+        href: 'https://www.tourhero.com/en/magazine/travel/newfoundland-getaway-48-hours-in-gros-morne-national-park/'
+        src: 'gros-morne-national-park-tablelands-1024x705.jpg'
+        title: 'Newfoundland Getaway: 48 Hours in Gros Morne National Park'
     updated_on: 2020-07-13
   CD:
     reopening:
@@ -1117,6 +1122,11 @@ countries:
         - CH
         - LI
       outbound: 'yes'
+    travel_ideas:
+      - alt: 'Day trips near Barcelona — Montserrat'
+        href: 'https://www.tourhero.com/en/magazine/travel/best-day-trips-near-barcelona-to-inspire-you-montserrat-included/'
+        src: 'day-trips-near-barcelona-1-1800x880.jpg'
+        title: 'Spain Travel Guide: Best day trips near Barcelona for every type of traveler'
     updated_on: 2020-07-14
   ET:
     sources:
