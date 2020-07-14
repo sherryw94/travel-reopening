@@ -1120,7 +1120,7 @@ countries:
     updated_on: 2020-07-14
   ET:
     sources:
-      inbound:
+      domestic:
         - '[Authorities lifted public transportation restrictions within the state](https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11), and allowed ''small and medium business entreprises'' as well as bars, restaurants, and cafes to open for takeout services.'
       inbound:
         - 'On 23 March, 2020, the Government of Ethiopia announced the [closure of the country''s land borders](https://www.gov.uk/foreign-travel-advice/ethiopia/entry-requirements).'
@@ -1567,7 +1567,7 @@ countries:
     reopening:
       '2020-08-01': '[The government of Grenada has announced that it expects its borders to re-open at the end of June.](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements)'
     sources:
-      inbound:
+      domestic:
         - 'Grenada''s Maurice Bishop International airport will reopen to [regional commercial flights from July 15, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements), and commercial flights from UK, Europe and Canada from August 1, 2020.'
       inbound:
         - 'Grenada''s Maurice Bishop International airport will reopen to regional commercial flights from July 15, 2020, and [commercial flights from UK, Europe and Canada from August 1, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements).'
