@@ -692,7 +692,7 @@ countries:
     sources:
       domestic:
         - 'Some non-essential businesses and public facilities, including barbershops, museums, and libraries have since [begun to reopen](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
-        - '[strict weekend quarantine restrictions will be imposed in Medellín and the municipalities in Valle de Aburrá ](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
+        - '[Strict weekend quarantine restrictions](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19) will be imposed in Medellín and the municipalities in Valle de Aburrá.'
       inbound:
         - 'All overland, water and air borders are closed and have been [extended until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
       outbound:
@@ -1739,9 +1739,9 @@ countries:
       domestic:
         - 'The Government of Honduras announced that the [nationwide curfew has been extended until July 19, 2020](https://www.garda.com/crisis24/news-alerts/359226/honduras-authorities-extend-curfew-orders-until-july-19-update-11) in addition to renewed vehicle circulation restrictions amid the coronavirus disease (COVID-19) pandemic. The curfew remains in place between the hours of 17:00 and 09:00 (local time).'
       inbound:
-        - 'The Honduran government announced all borders (air, land, and sea) would be closed as of 15 March, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
+        - 'The Honduran government announced all borders (air, land, and sea) would be closed as of March 15, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
       outbound:
-        - 'The Honduran government announced all borders (air, land, and sea) would be closed as of 15 March, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
+        - 'The Honduran government announced all borders (air, land, and sea) would be closed as of March 15, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -2305,14 +2305,14 @@ countries:
     updated_on: 2020-07-15
   LA:
     reopening:
-      '2020-07-31': '[All land border crossings and airports will remain closed, entry into Laos is granted only in very limited circumstances and will last until July 31, 2020](https://la.usembassy.gov/covid-19-information/).'
+      '2020-07-31': '[All land border crossings and airports will remain closed](https://la.usembassy.gov/covid-19-information/), entry into Laos is granted only in very limited circumstances and will last until July 31, 2020.'
     sources:
       domestic:
         - '[Large gatherings are still banned](https://la.usembassy.gov/covid-19-information/) and it is not possible to organize a party or attend night markets, beer shops, online game shops, karaoke venues, cinemas, casinos, and team sports tournaments.'
       inbound:
-        - '[All land border crossings and airports will remain closed, entry into Laos is granted only in very limited circumstances and will last until July 31, 2020](https://la.usembassy.gov/covid-19-information/).'
+        - '[All land border crossings and airports will remain closed](https://la.usembassy.gov/covid-19-information/), entry into Laos is granted only in very limited circumstances and will last until July 31, 2020.'
       outbound:
-        - 'For Lao nationals who need to travel abroad are [able to do so](https://la.usembassy.gov/wp-content/uploads/sites/85/Travel-advisory-of-the-Lao-PDR-1444-Eng-Unofficial-Translation.pdf.pdf) provided that it is permissible by the country of destination and they have to fulfil the requirements under the law and regulations of the country of destination.'
+        - 'Lao nationals who need to travel abroad are [able to do so](https://la.usembassy.gov/wp-content/uploads/sites/85/Travel-advisory-of-the-Lao-PDR-1444-Eng-Unofficial-Translation.pdf.pdf) provided that it is permissible by the country of destination and they have to fulfil the requirements under the law and regulations of the country of destination.'
     travel:
       domestic: partial
       inbound: partial
@@ -2632,7 +2632,7 @@ countries:
     sources:
       domestic:
         - '[All persons are required to remain at home](https://www.gov.uk/foreign-travel-advice/lesotho/staying-during-coronavirus) unless providing or acquiring goods or services, or attending funerals and religious services.'
-        - 'Cafes and restaurants may only provide take away meals while parks and nightclubs are [not yet allowed to open](https://www.gov.uk/foreign-travel-advice/lesotho/staying-during-coronavirus).'
+        - 'Cafes and restaurants may only provide take away meals while parks and night clubs are [not yet allowed to open](https://www.gov.uk/foreign-travel-advice/lesotho/staying-during-coronavirus).'
       inbound:
         - '[Lesotho’s borders remain closed](https://www.gov.uk/foreign-travel-advice/lesotho) and movement of persons in or out of Lesotho is prohibited.'
     travel:
@@ -2641,7 +2641,7 @@ countries:
   LT:
     sources:
       inbound:
-        - '[Opened its borders to Baltic neighbours Estonia and Latvia on 15 May, 2020, allowing entry to citizens of Poland for business and studies](https://www.euronews.com/2020/06/11/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)'
+        - '[Opened its borders to Baltic neighbors Estonia and Latvia on May 15, 2020, allowing entry to citizens of Poland for business and studies](https://www.euronews.com/2020/06/11/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)'
     travel:
       inbound: partial
       inbound_allowed:
@@ -2652,9 +2652,9 @@ countries:
   LV:
     sources:
       domestic:
-        - 'Indoor events are limited to a maximum of 100 persons in premises smaller than 1000 square metres and a maximum of 500 persons in premises larger than 1000 square metres, whereas [outdoor events are limited to a maximum of 1000 persons](https://covid19.gov.lv/index.php/en/support-society/how-behave-safely/covid-19-control-measures).'
+        - 'Indoor events are limited to a maximum of 100 persons in premises smaller than 1000 square meters and a maximum of 500 persons in premises larger than 1000 square meters, whereas [outdoor events are limited to a maximum of 1000 persons](https://covid19.gov.lv/index.php/en/support-society/how-behave-safely/covid-19-control-measures).'
       inbound:
-        - 'Borders are only open to residents of Latvia, other EU Member States, countries in the European Economic Area, Lithuania, Estonia and Switzerland that [hold proper residency documentation](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
+        - 'Borders are only open to residents (with proper residency documentation) of Latvia, other EU Member States, countries in the European Economic Area, Lithuania, Estonia and Switzerland](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
       outbound:
         - 'The Republic of Latvia does not recommend outbound travel to countries with infection rates above 25 per 100,000 people [within a 14-day cumulative period](https://spkc.gov.lv/lv/tavai-veselibai/aktualitate-par-jauno-koronavi/valstu-saslimstibas-raditaji-a/).'
       visa_quarantine:
@@ -4753,7 +4753,7 @@ countries:
   US:
     sources:
       domestic:
-        - 'Majority of states are easing restrictions. Regulations differ from state to state. [Refer to updated guidelines](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/).'
+        - 'Majority of states are easing restrictions. Regulations differ from state to state. [Refer to this updated guideline](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/).'
         - 'California Governor Gavin Newsom ordered all businesses to [stop all indoor activities](https://www.garda.com/crisis24/news-alerts/359266/us-california-orders-businesses-to-stop-indoor-activities-july-13-update-70).'
       inbound:
         - 'There are restrictions on the entry of certain travelers into the United States. [Refer to the CDC website for full details](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html).'
