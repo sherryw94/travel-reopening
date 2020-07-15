@@ -650,7 +650,7 @@ countries:
         - '[Under the quarantine measures](https://www.natlawreview.com/article/summer-2020-travel-advisory-us-embassyconsular-services-and-covid-19-restrictions), members of the public may only leave their homes to access basic or essential services, including medical, or to access public services.'
         - 'On July 12, 2020, public health authorities announced that the city of Rengo and the urban areas of Arica will be [placed under quarantine as of 22:00 (local time) on July 14, 2020](https://www.garda.com/crisis24/news-alerts/359016/chile-rengo-and-parts-of-arica-commune-to-be-quarantined-as-of-july-14-update-22).'
       inbound:
-        - 'Chile’s borders have been [closed to foreigners since 18 March, 2020.](https://www.natlawreview.com/article/summer-2020-travel-advisory-us-embassyconsular-services-and-covid-19-restrictions)'
+        - 'Chile’s borders have been [closed to foreigners since March 18, 2020.](https://www.natlawreview.com/article/summer-2020-travel-advisory-us-embassyconsular-services-and-covid-19-restrictions)'
       outbound:
         - 'Chile’s borders have been [closed to foreigners since March 18, 2020.](https://www.natlawreview.com/article/summer-2020-travel-advisory-us-embassyconsular-services-and-covid-19-restrictions)'
     travel:
@@ -1121,12 +1121,12 @@ countries:
   ET:
     sources:
       domestic:
-        - '[Authorities lifted public transportation restrictions within the state](https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11), and allowed ''small and medium business entreprises'' as well as bars, restaurants, and cafes to open for takeout services.'
+        - 'Authorities lifted [public transportation restrictions within the state](https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11), and allowed ''small and medium business entreprises'' as well as bars, restaurants, and cafes to open for takeout services.'
       inbound:
-        - 'On 23 March, 2020, the Government of Ethiopia announced the [closure of the country''s land borders](https://www.gov.uk/foreign-travel-advice/ethiopia/entry-requirements).'
+        - 'On March 23, 2020, the Government of Ethiopia announced the [closure of the country''s land borders](https://www.gov.uk/foreign-travel-advice/ethiopia/entry-requirements).'
         - 'Air passengers from international destinations are being asked to [complete a health declaration form](https://et.usembassy.gov/alert-revised-quarantine-requirements-for-arriving-travelers/).'
       visa_quarantine:
-        - 'Travellers to Ethiopia are required to undergo a [mandatory 14-day quarantine](https://et.usembassy.gov/alert-revised-quarantine-requirements-for-arriving-travelers/). If individuals have no family in Ethiopia to quarantine with, they will be subject to isolation in a designated government facility.'
+        - 'Travelers to Ethiopia are required to undergo a [mandatory 14-day quarantine](https://et.usembassy.gov/alert-revised-quarantine-requirements-for-arriving-travelers/). If individuals have no family in Ethiopia to quarantine with, they will be subject to isolation in a designated government facility.'
     travel:
       domestic: partial
       inbound: partial
@@ -1134,10 +1134,10 @@ countries:
   FI:
     sources:
       domestic:
-        - '[Domestic travel allowed as long as health and safety guidelines are observed](https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/muutoksia-koronavirusepidemian-vuoksi-asetettuihin-rajoituksiin-1-kesakuuta).'
+        - '[Domestic travel allowed](https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/muutoksia-koronavirusepidemian-vuoksi-asetettuihin-rajoituksiin-1-kesakuuta) as long as health and safety guidelines are observed.'
       inbound:
         - 'Air traffic and regular ferry services have resumed between Finland and Norway, Denmark, Iceland, Estonia, Latvia and Lithuania [as of June 15, 2020](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions).'
-        - '[Effective July 13, 2020, Finland''s new border restrictions are in effect, expanding the list of countries from which unrestricted travel is permitted](https://fi.usembassy.gov/covid-19-information/).'
+        - 'Effective July 13, 2020, Finland''s new border restrictions are in effect, expanding the list of countries from which [unrestricted travel is permitted](https://fi.usembassy.gov/covid-19-information/).'
       outbound:
         - '[No restrictions for exiting the country](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions). Avoid all non-essential travel.'
       visa_quarantine:
@@ -1565,7 +1565,7 @@ countries:
     updated_on: 2020-06-16
   GD:
     reopening:
-      '2020-08-01': '[The government of Grenada has announced that it expects its borders to re-open at the end of June.](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements)'
+      '2020-08-01': 'The government of Grenada has announced that it expects its borders to [re-open on August 1, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements).'
     sources:
       domestic:
         - 'Grenada''s Maurice Bishop International airport will reopen to [regional commercial flights from July 15, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements), and commercial flights from UK, Europe and Canada from August 1, 2020.'
@@ -1580,13 +1580,13 @@ countries:
     updated_on: 2020-07-14
   GE:
     reopening:
-      '2020-07-31': '[Commercial air travel to Georgia is suspended until July 31, 2020, at least](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
+      '2020-07-31': 'Commercial air travel to Georgia is [suspended until July 31, 2020, at least](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
     sources:
       domestic:
         - 'All public transport—including the metro—has resumed service, though passengers are required to wear face masks. [Intercity trains have also resumed service](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
         - 'Assembly of persons in one location up to a maximum of 10 people is now permitted. Restaurants are now able to operate both indoor and outdoor seating. Customers in restaurants are required to wear masks and maintain social distancing measures, and a maximum of six people are allowed at one table. All retail and wholesale shops, including malls and currency exchanges, are now open. Hotels may resume operations after [inspection and permission from the Ministry of Health](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
       inbound:
-        - '[Commercial air travel to Georgia is suspended until July 31, 2020, at least](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
+        - 'Commercial air travel to Georgia is [suspended until July 31, 2020, at least](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -1696,9 +1696,9 @@ countries:
   GW:
     sources:
       domestic:
-        - 'Interregional travel is prohibited, schools are closed, public transport only operable at 50% capacity and face overings are mandatory until July 25, 2020](https://gw.usmission.gov/covid-19-information/).'
+        - 'Inter-region travel is prohibited, schools are closed, public transport only operable at 50% capacity and face coverings are mandatory until July 25, 2020](https://gw.usmission.gov/covid-19-information/).'
       inbound:
-        - 'Entry and exit to and from Guinea-Bissau [permitted only with the presentation of a certificate of negative COVID-19 status](https://gw.usmission.gov/covid-19-information/).'
+        - 'Entry and exit to and from Guinea-Bissau [permitted only by presenting a certificate of negative COVID-19 test results](https://gw.usmission.gov/covid-19-information/).'
     travel:
       domestic: 'partial'
       inbound: 'yes'
@@ -1784,7 +1784,7 @@ countries:
         - 'Authorities announced that [selected countries will be divided into "red" or "yellow" categories](https://hungarytoday.hu/coronavirus-travel-restrictions-import-abroad-hungary/). From July 15, 2020, foreign nationals arriving from a "yellow" country will be required to go into quarantine for 14 days on their arrival in Hungary, whilst those arriving from a red country will be denied entry.'
         - 'Yellow states include Bulgaria, China, Japan, Norway, Portugal, Romania, Russia, Serbia, Sweden, UK and US. Red states include Albania, Belarus, Bosnia and Herzegovina, Moldova, Montenegro, North Macedonia, and Ukraine in addition to a number of destinations in Africa, Asia, and South America](https://hungarytoday.hu/coronavirus-travel-restrictions-import-abroad-hungary/).'
       outbound:
-        - 'Borders to some [neighbouring countries have reopened](https://hu.usembassy.gov/covid-19/#:~:text=General%20Rule%3A,able%20to%20enter%20the%20country).'
+        - 'Borders to some [neighboring countries have reopened](https://hu.usembassy.gov/covid-19/#:~:text=General%20Rule%3A,able%20to%20enter%20the%20country).'
       visa_quarantine:
         - 'Authorities announced that selected countries will be divided into "red" or "yellow" categories. From July 15, 2020, foreign nationals arriving from a "yellow" country will be [required to go into quarantine for 14 days](https://hungarytoday.hu/coronavirus-travel-restrictions-import-abroad-hungary/) on their arrival in Hungary, whilst those arriving from a red country will be denied entry.'
     travel:
@@ -2002,9 +2002,9 @@ countries:
   JM:
     sources:
       inbound:
-        - '[All persons travelling to Jamaica require a Travel Authorization.](https://www.visitjamaica.com/travelauthorization/)'
+        - 'All persons travelling to Jamaica require a [Travel Authorization](https://www.visitjamaica.com/travelauthorization/).'
       visa_quarantine:
-        - 'Visitors should expect to complete a COVID-19 test upon arrival. If the test is positive, or if visitors develop COVID-19 symptoms during quarantine, they should [expect to be placed in mandatory isolati](https://jm.usembassy.gov/covid-19-information-jamaica/)'
+        - 'Visitors should expect to complete a COVID-19 test upon arrival. If the test is positive, or if visitors develop COVID-19 symptoms during quarantine, they should [expect to be placed in mandatory isolation](https://jm.usembassy.gov/covid-19-information-jamaica/).'
     travel:
       inbound: 'yes'
     updated_on: 2020-07-14
@@ -2202,10 +2202,10 @@ countries:
       domestic:
         - 'The Cambodian Ministry of Education has issued an immediate, indefinite, closure of all schools in in Cambodia until further notice. The Cambodian government has also shuttered all museums, cinemas, concert halls, bars, and karaoke establishments. Any large religious gatherings are [prohibited until further notice](https://kh.usembassy.gov/covid-19-information/).'
       inbound:
-        - 'Visitors must possess a [COVID-19 negative medical certificate issued no more than 72 hours prior to the date of arrival](https://kh.usembassy.gov/covid-19-information/) and proof of medical insurance coverage of at least $50,000.'
+        - 'Visitors must possess a [COVID-19 negative medical certificate](https://kh.usembassy.gov/covid-19-information/) issued no more than 72 hours prior to the date of arrival and proof of medical insurance coverage of at least $50,000.'
       visa_quarantine:
         - '[Cambodia has imposed suspension of visa exemption policy for ASEAN nationals, tourist visas, and e-visas.Tourists will no longer be issued visas](https://www.mfa.gov.sg/countries-regions/c/cambodia/travel-page)'
-        - 'In the event one or more travelers on an arriving vessel/flight test positive, [all passengers must undergo a 14-day quarantine](https://www.mfa.gov.sg/countries-regions/c/cambodia/travel-page) at a location designated by Cambodian authorities. If all travelers test negative, health authorities will require travelers to self-isolate for 14-days at their home or lodging under supervision of local authorities.  Health authorities will then oversee another COVID-19 test on the 13th day of self-isolation.'
+        - 'In the event one or more travelers on an arriving vessel/flight test positive, [all passengers must undergo a 14-day quarantine](https://www.mfa.gov.sg/countries-regions/c/cambodia/travel-page) at a location designated by Cambodian authorities. If all travelers test negative, health authorities will require travelers to self-isolate for 14-days at their home or lodging under supervision of local authorities. Health authorities will then oversee another COVID-19 test on the 13th day of self-isolation.'
     travel:
       domestic: partial
       inbound: partial
@@ -2213,7 +2213,7 @@ countries:
   KI:
     sources:
       inbound:
-        - 'Kiribati medical officials issued a travel advisory requiring travelers “from countries with ongoing local transmission of novel coronavirus” – which includes the United States — to [spend at least 14 days in a country free of the virus](https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/) before traveling to Kiribati, and to provide a medical clearance to confirm that they are virus-free.'
+        - 'Kiribati medical officials issued a travel advisory requiring travelers “from countries with ongoing local transmission of COVID-19” – which includes the United States — to [spend at least 14 days in a country free of the virus](https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/) before traveling to Kiribati, and to provide a medical clearance to confirm that they are virus-free.'
     travel:
       inbound: partial
       inbound_restricted:
@@ -2257,17 +2257,17 @@ countries:
   KR:
     sources:
       domestic:
-        - '[Domestic air carriers have resumed routes](https://newsinfo.inquirer.net/1259719/south-koreas-air-carriers-resume-domestic-routes-for-spring-travel-season).'
+        - '[Domestic air carriers have resumed domestic flights](https://newsinfo.inquirer.net/1259719/south-koreas-air-carriers-resume-domestic-routes-for-spring-travel-season).'
         - 'As of May 28, 2020, a series of social distancing measures have been re-imposed due to a new spike in COVID-19 cases. [These measures remain in place until further notice.](https://www.channelnewsasia.com/news/asia/covid-19-south-korea-second-wave-45-new-cases-seoul-clusters-12861676)'
       inbound:
         - 'The Ministry of Health and Welfare issued a statement on Sunday, June 21, announcing they plan to limit the number of foreign nationals entering South Korea through a [temporary restriction on visas and a ban on non-scheduled flights.](https://www.garda.com/crisis24/news-alerts/352921/south-korea-authorities-restrict-foreign-arrivals-amid-rising-covid-19-cases-june-21-update-24)'
       outbound:
         - 'Foreigners who are long term residents of the Republic of Korea (ROK) will be required to obtain a [re-entry permit prior to departing for international travel](https://kr.usembassy.gov/022420-covid-19-information/).'
       visa_quarantine:
-        - '[As of April 1, 2020, all inbound passengers are required to undergo 14-day mandatory quarantine.](https://www.garda.com/crisis24/news-alerts/330281/south-korea-visa-waivers-suspended-for-countries-with-entry-ban-on-south-koreans-april-8-update-16)'
-        - '[As of April 8, 2020, visa-free entry and visa waiver programs for countries with entry bans on South Koreans have been suspended.](https://www.garda.com/crisis24/news-alerts/330281/south-korea-visa-waivers-suspended-for-countries-with-entry-ban-on-south-koreans-april-8-update-16)'
-        - '[As of April 13, 2020, foreigners who need to enter South Korea due to necessary reasons (excluding tourism) will need to personally apply for visas through the Ministry of Foreign Affairs.](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1)'
-        - '[South Korea has implemented a temporary suspension on short-term visas. Visa-free entry and visa waiver programs for normal passports are also suspended for countries with entry bans on South Koreans.](https://www.garda.com/crisis24/news-alerts/330281/south-korea-visa-waivers-suspended-for-countries-with-entry-ban-on-south-koreans-april-8-update-16)'
+        - 'As of April 1, 2020, all inbound passengers are required to undergo [14-day mandatory quarantine](https://www.garda.com/crisis24/news-alerts/330281/south-korea-visa-waivers-suspended-for-countries-with-entry-ban-on-south-koreans-april-8-update-16).'
+        - 'As of April 8, 2020, visa-free entry and visa waiver programs for countries with [entry bans on South Koreans have been suspended](https://www.garda.com/crisis24/news-alerts/330281/south-korea-visa-waivers-suspended-for-countries-with-entry-ban-on-south-koreans-april-8-update-16).'
+        - 'As of April 13, 2020, foreigners who need to enter South Korea due to necessary reasons (excluding tourism) will need to [personally apply for visas through the Ministry of Foreign Affairs](https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761454&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1).'
+        - 'South Korea has implemented a [temporary suspension on short-term visas](https://www.garda.com/crisis24/news-alerts/330281/south-korea-visa-waivers-suspended-for-countries-with-entry-ban-on-south-koreans-april-8-update-16).'
     travel:
       domestic: 'partial'
       inbound: 'partial'
@@ -2689,7 +2689,7 @@ countries:
         - '[Inter-provincial travel is permitted](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18), subject to movement restrictions in certain areas. You must carry identification documents with you at all times.'
         - 'As of June 25, 2020, [domestic transport services, including flights and railways, have resumed](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18).'
         - 'Authorities will be permitted to [enforce lockdowns on a region-by-region basis](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20) until August 10, 2020.'
-        - 'Public transport into and out of Tangier is also [suspended](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20), and any movement outside of the city limits will require a permit from authorities.'
+        - 'Public transport into and out of Tangier is [suspended](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20), and any movement outside of the city limits will require a permit from authorities.'
         - 'Domestic travel has resumed and borders are [scheduled to reopen on Tuesday, July 14, 2020](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20).'
       inbound:
         - 'Domestic travel has resumed and [borders are scheduled to reopen on Tuesday, July 14, 2020](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20).'
@@ -4815,9 +4815,9 @@ countries:
         - '[The Venezuelan government has announced an extension of the nationwide lockdown, in place to limit the spread of the coronavirus disease (COVID-19), until August 10, 2020](https://www.garda.com/crisis24/news-alerts/358646/venezuela-authorities-extend-state-of-emergency-until-august-10-update-8).'
         - '[Local quarantines and bans on interstate movement remain in place](https://www.garda.com/crisis24/news-alerts/358646/venezuela-authorities-extend-state-of-emergency-until-august-10-update-8). Educational institutions and non-essential shops are to remain closed, and public gatherings are prohibited.'
       inbound:
-        - '[International and domestic flights, initially scheduled to resume from Saturday, June 13, has been pushed back to an unknown date](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
+        - '[International and domestic flights, initially scheduled to resume from June 13, 2020, has been suspended indefinitely](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
       outbound:
-        - '[International and domestic flights, initially scheduled to resume from Saturday, June 13, has been pushed back to an unknown date](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
+        - '[International and domestic flights, initially scheduled to resume from June 13, 2020, has been suspended indefinitely](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
     travel:
       domestic: 'no'
       inbound: 'no'
