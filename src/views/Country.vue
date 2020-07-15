@@ -6,7 +6,7 @@
         <h2 class="country-header px-4">{{title}}</h2>
         <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
           <p v-if='updatedOn' class="font-semibold text-sm">
-            Last updated on {{updatedOn}}
+            Last checked on {{updatedOn}}
           </p>
           <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
             Want the latest travel updates in your inbox?
