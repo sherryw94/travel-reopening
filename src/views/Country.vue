@@ -3,21 +3,21 @@
     <TitleMapSelect/>
     <div class="main-container">
       <div class="main-container__inner">
+        <h2 class="country-header px-4">{{title}}</h2>
+        <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
+          <p v-if='updatedOn' class="font-semibold text-sm">
+            Last checked on {{updatedOn}}
+          </p>
+          <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
+            Want the latest travel updates in your inbox?
+          </p>
+          <router-link :to="{name: 'Subscribe'}" class="inline-flex font-semibold text-sm">
+            Subscribe here →
+          </router-link>
+        </div>
         <div class="panel">
           <div class="panel__inner">
-           <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
-              <p v-if='updatedOn' class="font-semibold text-sm">
-                Last updated on {{updatedOn}}
-              </p>
-              <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
-                Want the latest travel updates in your inbox?
-              </p>
-              <router-link :to="{name: 'Subscribe'}" class="inline-flex font-semibold text-sm">
-                Subscribe here →
-              </router-link>
-            </div>
-            <h2 class="country-header">{{title}}</h2>
-            <div class="mt-6 md:flex">
+            <div class="md:flex">
               <div class="md:order-1">
                 <TravelState :country="country" />
               </div>
