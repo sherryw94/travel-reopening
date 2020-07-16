@@ -10,6 +10,11 @@
     "covid:get": "curl -s https://covid.ourworldindata.org/data/owid-covid-data.csv -o public/data/covid-data.csv"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-brands-svg-icons": "^5.14.0",
+    "@fortawesome/free-regular-svg-icons": "^5.14.0",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/vue-fontawesome": "^0.1.10",
     "@sentry/browser": "^5.19.2",
     "@sentry/integrations": "^5.19.2",
     "@types/d3": "^5.7.2",
