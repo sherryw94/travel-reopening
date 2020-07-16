@@ -25,6 +25,7 @@
                 <CovidStats :country="country" />
               </div>
             </div>
+            <p class="text-xs mt-6"><sup>*</sup>Statistics are published by <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">European Centre for Disease Prevention and Control</a></p>
           </div>
         </div>
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'>
