@@ -20,8 +20,13 @@ For the most up-to-date daily briefing of COVID-19 cases in China, refer to the 
 
 - Until at least September 18, 2020, all non-Hong Kong residents arriving by air from any location other than mainland China, Macau, and Taiwan will be denied entry. Non-Hong Kong residents arriving from mainland China, Macau, or Taiwan will be denied entry if they have been to any overseas countries and regions in the past two weeks.
 - Until at least July 7, 2020, Hong Kong residents and non-Hong Kong residents arriving from mainland China, Macau, or Taiwan with no travel to any overseas countries and regions in the past two weeks will be subject to a 14-day compulsory quarantine.
-- Until July 14, 2020, Hong Kong [bans gatherings](https://www.garda.com/crisis24/news-alerts/355666/hong-kong-ban-on-gatherings-of-more-than-50-people-extended-until-july-14-as-other-covid-19-measures-eased-update-30) of more than 50 people.
-- As of July 13, 2020, [schools have closed](https://www.garda.com/crisis24/news-alerts/358271/hong-kong-schools-to-close-on-july-13-amid-new-covid-19-outbreak-update-31) due to a new COVID-19 outbreak.
+- Incoming travelers who have been in or transited through high-risk areas in the last 14 days must show proof of a negative COVID-19 test before boarding flights into Hong Kong.
+- The wearing of masks is now [mandatory](https://edition.cnn.com/world/live-news/coronavirus-pandemic-07-14-20-intl/h_b6e2f8fa0be9f094793f021fbb8cf864) on all public transportation.
+- Public gatherings are capped at four people.
+- Customers cannot sit in groups larger than four at restaurants.
+- Dine-in services must stop between 6pm to 5am (GMT+8) everyday.
+- Gaming centers, bathhouses, gyms, and other public recreational facilities are closed.
+- Exhibitions and public events are canceled or postponed.
 
 For the most up-to-date daily information, refer to [The Government of Hong Kong Special Administrative Region](https://www.info.gov.hk/gia/general/202003/18/P2020031800758.htm).
 
