@@ -9,7 +9,7 @@
 
 <script>
 import {
-  axisBottom, line, select, scaleTime, max, scaleLinear, axisRight,
+  axisBottom, line, select, scaleTime, max, scaleLinear, axisRight, timeFormat,
 } from 'd3';
 import moment from 'moment';
 
@@ -59,7 +59,7 @@ export default {
       svg.append('g')
         .attr('class', 'xaxis')
         .attr('transform', `translate(0, ${height})`)
-        .call(axisBottom(x));
+        .call(axisBottom(x).tickFormat(timeFormat('%B')));
 
       // Add Y axis
       const y = scaleLinear()
