@@ -14,8 +14,9 @@
       hashtags="touherotravel"
       twitterUser="touherotravel"
     >
-      <img :src="require(`@/assets/images/social_${network.icon}.svg`)"
-        class="h-6 w-6 mr-2 sm:mr-0 sm:ml-3 cursor-pointer" />
+      <div class="pr-2 sm:pr-0 sm:pl-3 text-xl cursor-pointer">
+        <font-awesome-icon :icon="['fab', network.icon]" />
+      </div>
     </ShareNetwork>
   </div>
 </template>
@@ -28,7 +29,7 @@ export default {
         { network: 'twitter', icon: 'twitter' },
         { network: 'linkedin', icon: 'linkedin' },
         { network: 'telegram', icon: 'telegram' },
-        { network: 'whatsapp', icon: 'whatsapp' },
+        { network: 'whatsapp', icon: 'whatsapp-square' },
       ],
     };
   },
