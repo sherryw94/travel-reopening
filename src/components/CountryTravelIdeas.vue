@@ -14,9 +14,7 @@
       </div>
       <p v-else>
         If you have any travel articles about {{country.name}}
-        that you'd like to share with us,
-        <a href="mailto:travel-map@tourhero.com?subject=Travel%20Idea%20for%20Singapore">
-          let us know</a>
+        that you'd like to share with us, <a :href="emailTo">let us know</a>
         for a chance to be featured here.
       </p>
     </div>
@@ -29,6 +27,10 @@ import { findTravelIdeasForCountry } from '@/constants/travel';
 export default {
   name: 'CountryTravelIdeas',
   computed: {
+    emailTo() {
+      const subject = encodeURI(`Travel Idea for ${this.country.name}`);
+      return `mailto:travel-map@tourhero.com?subject=${subject}`;
+    },
     travelIdeasList() {
       return findTravelIdeasForCountry(this.country.code).map(
         ({
