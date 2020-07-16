@@ -7,6 +7,8 @@ export const Travel = TravelDefaults;
 
 const { countries } = Travel;
 
+export const sourcesLastCheckedOn = countries.checked_on;
+
 export const reopenings = Object.keys(countries)
   .reduce((acc: {date: string; content: string; country: string}[], country) => {
     const { reopening } = countries[country];
