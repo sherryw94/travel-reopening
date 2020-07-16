@@ -5,8 +5,8 @@
       <div class="main-container__inner">
         <h2 class="country-header px-4">{{title}}</h2>
         <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
-          <p v-if='updatedOn' class="font-semibold text-sm">
-            Last checked on {{updatedOn}}
+          <p v-if='checkedOn' class="font-semibold text-sm">
+            Last checked on {{checkedOn}}
           </p>
           <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
             Want the latest travel updates in your inbox?
@@ -90,9 +90,8 @@ export default {
     ...mapState(['country']),
     ...mapGetters(['getCountryBySlug', 'getCountryGlobalState']),
     title() { return `${this.country.name} COVID-19 Travel Update`; },
-    updatedOn() {
-      const date = this.getCountryGlobalState(this.country.code)?.updatedOn;
-      return date ? moment(date).format('MMMM D, YYYY') : date;
+    checkedOn() {
+      return moment().format('MMMM D, YYYY');
     },
     emailTo() {
       const subject = encodeURI(`Travel Map Update for ${this.country.name}`);
