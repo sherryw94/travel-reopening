@@ -57,7 +57,6 @@ export default new Vuex.Store({
           domestic: c?.travel?.domestic,
           inbound: c?.travel?.inbound,
           outbound: c?.travel?.outbound,
-          updatedOn: c.updated_on,
         };
       };
     },

@@ -14,7 +14,6 @@ countries:
       domestic: 'yes'
       inbound: 'yes'
       outbound: 'yes'
-    updated_on: 2020-07-14
   AE:
     sources:
       domestic:
@@ -34,7 +33,6 @@ countries:
       inbound_restricted:
         - PK
       outbound: partial
-    updated_on: 2020-07-13
   AF:
     sources:
       domestic:
@@ -53,7 +51,6 @@ countries:
       inbound_allowed:
         - IR
       outbound: partial
-    updated_on: 2020-06-26
   AG:
     sources:
       domestic:
@@ -69,7 +66,6 @@ countries:
       domestic: 'partial'
       inbound: 'yes'
       outbound: 'yes'
-    updated_on: 2020-07-08
   AL:
     sources:
       domestic:
@@ -85,7 +81,6 @@ countries:
       domestic: partial
       inbound: partial
       outbound: partial
-    updated_on: 2020-07-14
   AM:
     sources:
       domestic:
@@ -102,7 +97,6 @@ countries:
       domestic: 'partial'
       inbound: partial
       outbound: partial
-    updated_on: 2020-07-15
   AO:
     sources:
       domestic:
@@ -112,7 +106,6 @@ countries:
     travel:
       domestic: partial
       inbound: 'no'
-    updated_on: 2020-06-26
   AR:
     sources:
       domestic:
@@ -127,7 +120,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: partial
-    updated_on: 2020-07-14
   AT:
     sources:
       domestic:
@@ -180,7 +172,6 @@ countries:
         - VA
         - CY
       outbound: partial
-    updated_on: 2020-06-30
   AU:
     sources:
       domestic:
@@ -199,7 +190,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-15
   AZ:
     sources:
       domestic:
@@ -215,7 +205,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-01
   BA:
     sources:
       domestic:
@@ -231,7 +220,6 @@ countries:
         - HR
         - RS
         - ME
-    updated_on: 2020-07-01
   BB:
     sources:
       domestic:
@@ -246,7 +234,6 @@ countries:
       domestic: 'yes'
       inbound: 'yes'
       outbound: 'yes'
-    updated_on: 2020-06-30
   BD:
     sources:
       domestic:
@@ -263,7 +250,6 @@ countries:
       domestic: 'partial'
       inbound: 'yes'
       outbound: no
-    updated_on: 2020-07-09
   BE:
     sources:
       domestic:
@@ -312,7 +298,6 @@ countries:
         - IE
         - RO
       outbound: 'yes'
-    updated_on: 2020-07-07
   BF:
     sources:
       domestic:
@@ -323,7 +308,6 @@ countries:
         - '[Burkina Faso''s borders are closed to foreigners and international flights are canceled](https://www.smartraveller.gov.au/destinations/africa/burkina-faso).'
     travel:
       inbound: 'no'
-    updated_on: 2020-07-07
   BG:
     sources:
       domestic:
@@ -376,7 +360,6 @@ countries:
         - LI
         - NO
         - CH
-    updated_on: 2020-07-02
   BH:
     sources:
       inbound:
@@ -387,7 +370,6 @@ countries:
         - '[All arriving passengers will be quarantined for 14 days](https://bh.usembassy.gov/covid-19-information/), regardless of the outcome of the COVID-19 test.'
     travel:
       inbound: 'partial'
-    updated_on: 2020-07-07
   BI:
     sources:
       inbound:
@@ -400,7 +382,6 @@ countries:
     travel:
       inbound: partial
       outbound: partial
-    updated_on: 2020-07-07
   BJ:
     sources:
       domestic:
@@ -416,7 +397,6 @@ countries:
       domestic: no
       inbound: partial
       outbound: partial
-    updated_on: 2020-07-07
   BN:
     sources:
       domestic:
@@ -429,7 +409,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: no
-    updated_on: 2020-07-07
   BO:
     sources:
       domestic:
@@ -445,7 +424,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-07
   BR:
     sources:
       domestic:
@@ -460,7 +438,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: yes
-    updated_on: 2020-07-06
   BS:
     sources:
       domestic:
@@ -473,7 +450,6 @@ countries:
     travel:
       domestic: 'yes'
       inbound: 'no'
-    updated_on: 2020-07-02
   BT:
     sources:
       domestic:
@@ -487,7 +463,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-07
   BW:
     sources:
       domestic:
@@ -502,14 +477,12 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-07
   BY:
     sources:
       inbound:
         - '[Belavia Airlines is resuming flights to Rome](https://by.usembassy.gov/health-alert-u-s-embassy-minsk-belarus-june-8-2020/).'
     travel:
       inbound: partial
-    updated_on: 2020-07-07
   BZ:
     reopening:
       '2020-08-15': 'The Belize Airport will [reopen on August 15, 2020](https://belizetourismboard.org/belize-covid-19-update-for-travellers/#1584380395464-fa111d6c-5a2b).'
@@ -526,7 +499,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'yes'
-    updated_on: 2020-07-07
   CA:
     sources:
       domestic:
@@ -545,7 +517,11 @@ countries:
       domestic: partial
       inbound: partial
       outbound: 'yes'
-    updated_on: 2020-07-13
+    travel_ideas:
+      - alt: 'Tablelands at Gros Morne National Park'
+        href: 'https://www.tourhero.com/en/magazine/travel/newfoundland-getaway-48-hours-in-gros-morne-national-park/'
+        src: 'gros-morne-national-park-tablelands-1024x705.jpg'
+        title: 'Newfoundland Getaway: 48 Hours in Gros Morne National Park'
   CD:
     reopening:
       '2020-07-30': '[DRC has [suspended all international passenger flights until at least July 30, 2020](https://www.garda.com/crisis24/news-alerts/358551/congo-state-of-health-emergency-extended-until-july-30-update-8).'
@@ -559,7 +535,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'partial'
-    updated_on: 2020-07-13
   CF:
     sources:
       domestic: null
@@ -569,7 +544,6 @@ countries:
         - 'Persons entering CAR from locations with local-transmission of COVID-19 are required to [self-isolate for 21 days](https://cf.usembassy.gov/covid-19-information/).'
     travel:
       inbound: 'no'
-    updated_on: 2020-07-08
   CG:
     sources:
       domestic:
@@ -583,7 +557,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-08
   CH:
     sources:
       domestic:
@@ -627,7 +600,6 @@ countries:
         - SE
         - GB
       outbound: 'yes'
-    updated_on: 2020-07-08
   CI:
     sources:
       domestic:
@@ -643,7 +615,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-08
   CL:
     sources:
       domestic:
@@ -658,14 +629,12 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-14
   CM:
     sources:
       inbound:
         - '[Cameroon’s land, air and sea borders are closed till further notice.](https://www.spm.gov.cm/site/?q=en/content/government-response-strategy-coronavirus-pandemic-covid-19)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-15
   CN:
     sources:
       domestic:
@@ -685,7 +654,6 @@ countries:
       domestic: partial
       inbound: partial
       outbound: partial
-    updated_on: 2020-07-02
   CO:
     reopening:
       '2020-08-01': 'All overland, water and air borders are closed and have been [extended until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
@@ -701,7 +669,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-15
   CR:
     sources:
       domestic:
@@ -715,7 +682,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-09
   CU:
     reopening:
       '2020-08-01': '[The suspension has been extended until 1 August, 2020.](https://cu.usembassy.gov/covid-19-information/)'
@@ -732,7 +698,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-02
   CV:
     sources:
       domestic:
@@ -742,7 +707,6 @@ countries:
     travel:
       domestic: yes
       inbound: partial
-    updated_on: 2020-07-09
   CY:
     sources:
       domestic:
@@ -778,7 +742,6 @@ countries:
         - RO
       inbound_restricted:
         - LB
-    updated_on: 2020-07-06
   CZ:
     sources:
       domestic:
@@ -821,7 +784,6 @@ countries:
         - ES
         - SE
       outbound: partial
-    updated_on: 2020-07-03
   DE:
     sources:
       domestic:
@@ -871,7 +833,6 @@ countries:
         - NO
         - CH
       outbound: partial
-    updated_on: 2020-07-08
   DJ:
     sources:
       inbound:
@@ -881,7 +842,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-09
   DK:
     sources:
       domestic:
@@ -923,7 +883,6 @@ countries:
         - SI
         - ES
       outbound: 'yes'
-    updated_on: 2020-07-09
   DM:
     reopening:
       '2020-08-07': 'Dominica is projected to open airports and seaports on July 15, 2020, for nationals. And on [August 7, 2020, for non-nationals](https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements).'
@@ -938,7 +897,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-09
   DO:
     sources:
       domestic:
@@ -951,7 +909,6 @@ countries:
       domestic: 'partial'
       inbound: 'partial'
       outbound: 'partial'
-    updated_on: 2020-07-09
   DZ:
     sources:
       domestic:
@@ -966,7 +923,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-14
   EC:
     sources:
       domestic:
@@ -979,7 +935,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'partial'
-    updated_on: 2020-07-14
   EE:
     sources:
       domestic:
@@ -1041,7 +996,6 @@ countries:
         - TN
         - UY
       outbound: 'yes'
-    updated_on: 2020-07-08
   EG:
     sources:
       domestic:
@@ -1057,7 +1011,6 @@ countries:
       domestic: 'partial'
       inbound: 'partial'
       outbound: 'yes'
-    updated_on: 2020-07-03
   ER:
     sources:
       domestic:
@@ -1072,7 +1025,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-09
   ES:
     reopening:
     sources:
@@ -1121,7 +1073,11 @@ countries:
         - CH
         - LI
       outbound: 'yes'
-    updated_on: 2020-07-14
+    travel_ideas:
+      - alt: 'Day trips near Barcelona — Montserrat'
+        href: 'https://www.tourhero.com/en/magazine/travel/best-day-trips-near-barcelona-to-inspire-you-montserrat-included/'
+        src: 'day-trips-near-barcelona-1-1800x880.jpg'
+        title: 'Spain Travel Guide: Best day trips near Barcelona for every type of traveler'
   ET:
     sources:
       domestic:
@@ -1134,7 +1090,6 @@ countries:
     travel:
       domestic: partial
       inbound: partial
-    updated_on: 2020-07-14
   FI:
     sources:
       domestic:
@@ -1156,7 +1111,6 @@ countries:
         - SM
         - VA
       outbound: 'yes'
-    updated_on: 2020-07-14
   FJ:
     sources:
       inbound:
@@ -1221,7 +1175,6 @@ countries:
         - UA
         - GB
         - VA
-    updated_on: 2020-07-14
   FM:
     sources:
       inbound:
@@ -1231,7 +1184,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: partial
-    updated_on: 2020-07-14
   FR:
     sources:
       domestic:
@@ -1287,7 +1239,6 @@ countries:
         - SM
         - VA
       outbound: 'yes'
-    updated_on: 2020-06-15
   GA:
     sources:
       domestic:
@@ -1301,7 +1252,6 @@ countries:
       domestic: 'yes'
       inbound: 'partial'
       outbound: 'no'
-    updated_on: 2020-07-03
   GB:
     sources:
       domestic:
@@ -1566,7 +1516,6 @@ countries:
         - ZM
         - ZW
       outbound: 'yes'
-    updated_on: 2020-06-16
   GD:
     reopening:
       '2020-08-01': 'The government of Grenada has announced that it expects its borders to [re-open on August 1, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements).'
@@ -1581,7 +1530,6 @@ countries:
     travel:
       domestic: 'yes'
       inbound: 'no'
-    updated_on: 2020-07-14
   GE:
     reopening:
       '2020-07-31': 'Commercial air travel to Georgia is [suspended until July 31, 2020, at least](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
@@ -1594,7 +1542,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'no'
-    updated_on: 2020-07-14
   GH:
     sources:
       domestic:
@@ -1605,7 +1552,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'no'
-    updated_on: 2020-07-14
   GM:
     sources:
       domestic:
@@ -1617,7 +1563,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'no'
-    updated_on: 2020-07-13
   GN:
     sources:
       domestic:
@@ -1635,7 +1580,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-14
   GR:
     sources:
       domestic:
@@ -1685,7 +1629,6 @@ countries:
         - RO
         - CY
         - RS
-    updated_on: 2020-07-07
   GT:
     sources:
       domestic:
@@ -1696,7 +1639,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'no'
-    updated_on: 2020-07-14
   GW:
     sources:
       domestic:
@@ -1706,7 +1648,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'yes'
-    updated_on: 2020-07-14
   GY:
     sources:
       domestic:
@@ -1717,7 +1658,6 @@ countries:
     travel:
       domestic: 'no'
       inbound: 'no'
-    updated_on: 2020-07-07
   HK:
     sources:
       domestic:
@@ -1733,7 +1673,6 @@ countries:
       domestic: partial
       inbound: partial
       outbound: yes
-    updated_on: 2020-07-13
   HN:
     sources:
       domestic:
@@ -1746,7 +1685,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-15
   HR:
     sources:
       domestic:
@@ -1762,7 +1700,6 @@ countries:
       domestic: open
       inbound: open
       outbound: partial
-    updated_on: 2020-07-14
   HT:
     sources:
       domestic:
@@ -1777,7 +1714,6 @@ countries:
       domestic: 'partial'
       inbound: 'yes'
       outbound: 'yes'
-    updated_on: 2020-07-14
   HU:
     sources:
       domestic:
@@ -1805,7 +1741,6 @@ countries:
         - KR
         - JP
         - PL
-    updated_on: 2020-07-14
   ID:
     sources:
       domestic:
@@ -1822,7 +1757,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: partial
-    updated_on: 2020-07-13
   IE:
     sources:
       domestic:
@@ -1840,7 +1774,6 @@ countries:
       domestic: partial
       inbound: 'yes'
       outbound: no
-    updated_on: 2020-07-06
   IL:
     sources:
       domestic:
@@ -1853,7 +1786,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: partial
-    updated_on: 2020-07-09
   IN:
     sources:
       domestic:
@@ -1876,7 +1808,6 @@ countries:
         - BT
         - Mv
       outbound: 'yes'
-    updated_on: 2020-07-09
   IQ:
     sources:
       domestic:
@@ -1892,7 +1823,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-14
   IR:
     sources:
       domestic:
@@ -1907,7 +1837,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-14
   IS:
     sources:
       domestic:
@@ -1949,7 +1878,10 @@ countries:
         - GR
         - NL
       outbound: 'yes'
-    updated_on: 2020-06-26
+    travel_ideas:
+      - href: 'https://www.tourhero.com/en/magazine/travel/iceland-travel-5-hidden-towns-that-you-need-to-add-to-your-bucket-list-now/'
+        src: 'iceland-travel-plans-to-five-hidden-towns-1536x1024.jpg'
+        title: '5 Hidden towns to add to your Iceland travel plans right now'
   IT:
     sources:
       domestic:
@@ -2002,7 +1934,6 @@ countries:
         - SK
         - GB
       outbound: partial
-    updated_on: 2020-07-13
   JM:
     sources:
       inbound:
@@ -2011,7 +1942,6 @@ countries:
         - 'Visitors should expect to complete a COVID-19 test upon arrival. If the test is positive, or if visitors develop COVID-19 symptoms during quarantine, they should [expect to be placed in mandatory isolation](https://jm.usembassy.gov/covid-19-information-jamaica/).'
     travel:
       inbound: 'yes'
-    updated_on: 2020-07-14
   JO:
     sources:
       domestic:
@@ -2024,7 +1954,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-06
   JP:
     sources:
       domestic:
@@ -2174,7 +2103,6 @@ countries:
         - VC
         - SN
       outbound: 'yes'
-    updated_on: 2020-07-02
   KE:
     reopening:
       '2020-08-01': 'Kenyatta stated that [international commercial flights would resume from August 1, 2020](https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25).'
@@ -2188,7 +2116,6 @@ countries:
         - 'Kenyatta stated that international commercial flights would resume from August 1, 2020, and that [domestic flights will commence from July 15, 2020](https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25).'
     travel:
       inbound: 'no'
-    updated_on: 2020-07-07
   KG:
     sources:
       domestic:
@@ -2200,7 +2127,6 @@ countries:
     travel:
       domestic: partial
       inbound: no
-    updated_on: 2020-07-14
   KH:
     sources:
       domestic:
@@ -2213,7 +2139,6 @@ countries:
     travel:
       domestic: partial
       inbound: partial
-    updated_on: 2020-07-14
   KI:
     sources:
       inbound:
@@ -2222,7 +2147,6 @@ countries:
       inbound: partial
       inbound_restricted:
         - US
-    updated_on: 2020-07-14
   KM:
     sources:
       domestic:
@@ -2232,7 +2156,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'no'
-    updated_on: 2020-07-14
   KN:
     sources:
       domestic:
@@ -2248,7 +2171,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: 'yes'
-    updated_on: 2020-06-23
   KP:
     sources:
       inbound:
@@ -2257,7 +2179,6 @@ countries:
         - 'Foreigners who have travelled into North Korea from virus-affected countries are subject to a [30 day period of quarantine and medical supervision](https://www.worldaware.com/covid-19-alert-north-korea-continues-enforcing-measures-may-15).'
     travel:
       inbound: 'no'
-    updated_on: 2020-07-14
   KR:
     sources:
       domestic:
@@ -2276,7 +2197,6 @@ countries:
       domestic: 'partial'
       inbound: 'partial'
       outbound: partial
-    updated_on: 2020-07-14
   KW:
     sources:
       domestic:
@@ -2290,7 +2210,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'yes'
-    updated_on: 2020-07-13
   KZ:
     sources:
       domestic:
@@ -2302,7 +2221,6 @@ countries:
     travel:
       domestic: no
       inbound: 'no'
-    updated_on: 2020-07-15
   LA:
     reopening:
       '2020-07-31': '[All land border crossings and airports will remain closed](https://la.usembassy.gov/covid-19-information/), entry into Laos is granted only in very limited circumstances and will last until July 31, 2020.'
@@ -2317,7 +2235,6 @@ countries:
       domestic: partial
       inbound: partial
       outbound: partial
-    updated_on: 2020-07-15
   LB:
     sources:
       domestic:
@@ -2331,7 +2248,6 @@ countries:
       domestic: 'partial'
       inbound: 'partial'
       outbound: 'partial'
-    updated_on: 2020-07-03
   LC:
     sources:
       domestic:
@@ -2594,7 +2510,6 @@ countries:
         - ZA
         - ZM
         - ZW
-    updated_on: 2020-06-09
   LK:
     reopening:
       '2020-08-01': '[Sri Lanka plans to reopen its tourism sector on 1 August, 2020, by allowing small groups of visitors into the country.](https://www.reuters.com/article/us-health-coronavirus-sri-lanka-tourism/sri-lanka-to-reopen-some-tourism-in-august-with-restrictions-official-idUSKBN2370KT)'
@@ -2614,7 +2529,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: 'yes'
-    updated_on: 2020-06-09
   LR:
     sources:
       domestic:
@@ -2627,7 +2541,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-15
   LS:
     sources:
       domestic:
@@ -2637,7 +2550,6 @@ countries:
         - '[Lesotho’s borders remain closed](https://www.gov.uk/foreign-travel-advice/lesotho) and movement of persons in or out of Lesotho is prohibited.'
     travel:
       inbound: 'no'
-    updated_on: 2020-07-15
   LT:
     sources:
       inbound:
@@ -2648,7 +2560,6 @@ countries:
         - EE
         - LV
         - PL
-    updated_on: 2020-06-12
   LV:
     sources:
       domestic:
@@ -2695,7 +2606,6 @@ countries:
         - LI
         - NO
       outbound: partial
-    updated_on: 2020-07-15
   LY:
     sources:
       domestic:
@@ -2708,7 +2618,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-09
   MA:
     sources:
       domestic:
@@ -2726,7 +2635,6 @@ countries:
       domestic: 'partial'
       inbound: 'yes'
       outbound: 'no'
-    updated_on: 2020-07-15
   MD:
     sources:
       inbound:
@@ -2738,7 +2646,6 @@ countries:
         - '[Moldova requires a 14 day home stay (quarantine) for new arrivals, with certain exceptions including asymptomatic individuals delivering goods, crew members, students, people traveling for health care, work related travelers with visas, diplomatic corps accredited in Moldova, and passengers in transit.](https://md.usembassy.gov/u-s-citizen-services/covid-19-information/)'
     travel:
       inbound: partial
-    updated_on: 2020-06-12
   ME:
     sources:
       domestic:
@@ -2858,7 +2765,6 @@ countries:
         - SY
         - CI
       outbound: 'yes'
-    updated_on: 2020-06-29
   MG:
     sources:
       domestic:
@@ -2873,7 +2779,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-07
   MH:
     sources:
       inbound:
@@ -2885,7 +2790,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-07
   MK:
     sources:
       domestic:
@@ -2898,14 +2802,12 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'partial'
-    updated_on: 2020-07-06
   ML:
     sources:
       inbound:
         - '[On March 20, the Government of Mali prohibited flights coming from countries with confirmed cases of COVID-19. Additionally, the Malian government has closed all land borders to passenger vehicle traffic while allowing cargo and freight.](https://ml.usembassy.gov/covid-19-information/)'
     travel:
       inbound: partial
-    updated_on: 2020-06-12
   MM:
     sources:
       domestic:
@@ -2920,7 +2822,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-06
   MN:
     sources:
       domestic:
@@ -2935,7 +2836,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-01
   MR:
     sources:
       inbound:
@@ -2944,7 +2844,6 @@ countries:
         - '[Due to the constantly evolving situation, we cannot confirm the quarantine procedures upon entry into neighboring countries or upon entry into Mauritania.](https://mr.usembassy.gov/covid-19-information-2/)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-12
   MT:
     reopening:
       '2020-07-15': '[Restrictions on all other flight destinations will be lifted on July 15.](https://www.mta.com.mt/en/news-details/263)'
@@ -2981,7 +2880,6 @@ countries:
         - GR
         - HR
       outbound: partial
-    updated_on: 2020-06-12
   MU:
     sources:
       inbound:
@@ -2993,7 +2891,6 @@ countries:
           lapses.](https://mu.usembassy.gov/covid-19-information/)
     travel:
       inbound: 'no'
-    updated_on: 2020-06-12
   MV:
     sources:
       domestic:
@@ -3019,7 +2916,6 @@ countries:
         - DE
         - FR
         - LK
-    updated_on: 2020-07-06
   MW:
     sources:
       inbound:
@@ -3278,7 +3174,6 @@ countries:
         - ZA
         - ZM
         - ZW
-    updated_on: 2020-06-12
   MX:
     sources:
       domestic:
@@ -3299,7 +3194,6 @@ countries:
       inbound_restricted:
         - US
       outbound: 'partial'
-    updated_on: 2020-07-14
   MY:
     sources:
       domestic:
@@ -3313,7 +3207,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: partial
-    updated_on: 2020-06-09
   MZ:
     sources:
       domestic:
@@ -3332,7 +3225,6 @@ countries:
       domestic: partial
       inbound: partial
       outbound: partial
-    updated_on: 2020-06-30
   NA:
     sources:
       domestic:
@@ -3343,14 +3235,12 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'partial'
-    updated_on: 2020-06-11
   NE:
     sources:
       inbound:
         - '[Commercial international flights into Niger’s international airports have been cancelled until further notice. Land borders have been closed since March 19, except for merchandise.](https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-11
   NG:
     sources:
       domestic:
@@ -3364,14 +3254,12 @@ countries:
       domestic: partial
       inbound: no
       outbound: no
-    updated_on: 2020-07-14
   NI:
     sources:
       inbound:
         - '[While the Nicaraguan government has not officially imposed any restrictions as a result of the worldwide outbreak, borders and airports are effectively closed. Officially, travelers do not need any particular documentation to enter/exit Nicaragua. Unless arriving from a country with known yellow fever risk, then one must demonstrate vaccination against yellow fever at least 10 days prior to entering zone of risk.](https://ni.usembassy.gov/covid-19-information-2-2/)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-11
   NL:
     sources:
       domestic:
@@ -3421,7 +3309,6 @@ countries:
         - SK
         - UK
       outbound: 'yes'
-    updated_on: 2020-06-16
   NO:
     sources:
       domestic:
@@ -3469,7 +3356,6 @@ countries:
         - CH
         - GB
       outbound: 'yes'
-    updated_on: 2020-07-15
   NP:
     reopening:
       '2020-08-01': 'The Ministry of Culture, Tourism and Civil Aviation announced on Friday, June 19, 2020, that it [plans to resume domestic and international flights from August 1, 2020](https://www.garda.com/crisis24/news-alerts/352291/nepal-domestic-and-international-flights-to-resume-from-august-1-update-15).'
@@ -3485,7 +3371,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-01
   NR:
     sources:
       inbound:
@@ -3501,7 +3386,6 @@ countries:
         - KR
         - IT
         - IR
-    updated_on: 2020-06-11
   NZ:
     sources:
       domestic:
@@ -3517,7 +3401,6 @@ countries:
       domestic: 'yes'
       inbound: 'no'
       outbound: 'yes'
-    updated_on: 2020-07-08
   OM:
     sources:
       inbound:
@@ -3527,21 +3410,18 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-11
   PA:
     sources:
       inbound:
         - '[International passenger flights will remain suspended until 22 June, 2020.](https://www.garda.com/crisis24/news-alerts/345786/panama-government-announces-second-stage-of-reopening-as-of-june-1-update-13)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-09
   PE:
     sources:
       inbound:
         - '[The State of Emergency has been extended until 30 June, and all international passenger transport by air, sea, land and river is suspended during this period,except for humanitarian reasons.](https://newlandchase.com/wp-content/uploads/2020/06/19-June-PM-COVID19-Updates_FINAL.pdf)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-22
   PG:
     sources:
       domestic:
@@ -3551,7 +3431,6 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'no'
-    updated_on: 2020-06-09
   PH:
     sources:
       domestic:
@@ -3569,7 +3448,6 @@ countries:
       domestic: partial
       inbound: partial
       outbound: yes
-    updated_on: 2020-07-08
   PK:
     sources:
       domestic:
@@ -3835,7 +3713,6 @@ countries:
         - ZM
         - ZW
       outbound: partial
-    updated_on: 2020-07-06
   PL:
     sources:
       domestic:
@@ -3878,7 +3755,6 @@ countries:
         - ES
         - SE
       outbound: 'partial'
-    updated_on: 2020-06-30
   PS:
     sources:
       inbound:
@@ -3888,7 +3764,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   PT:
     sources:
       domestic:
@@ -3950,21 +3825,18 @@ countries:
         - CA
         - ZA
       outbound: yes
-    updated_on: 2020-07-01
   PW:
     sources:
       inbound:
         - '[All commercial passenger flights to and from Palau have been suspended until further notice.](https://www.smartraveller.gov.au/destinations/pacific/palau)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-09
   PY:
     sources:
       inbound:
         - '[Borders will remain closed for non-resident foreigners until further notice.](https://www.gov.uk/foreign-travel-advice/paraguay)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-09
   QA:
     sources:
       domestic:
@@ -3977,7 +3849,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'yes'
-    updated_on: 2020-07-01
   RO:
     sources:
       domestic:
@@ -4013,7 +3884,6 @@ countries:
         - SK
         - SI
         - CH
-    updated_on: 2020-07-03
     RS:
       sources:
         domestic:
@@ -4028,7 +3898,7 @@ countries:
       travel:
         domestic: partial
         inbound: yes
-      updated_on: 2020-07-13
+
   RU:
     sources:
       domestic:
@@ -4038,7 +3908,6 @@ countries:
     travel:
       domestic: partial
       inbound: 'no'
-    updated_on: 2020-07-03
   RW:
     sources:
       domestic:
@@ -4050,7 +3919,6 @@ countries:
         - 'All passengers, including those in transit, will be required to show proof of a negative COVID-19 test result taken within 72 hours of arrival in Rwanda, and those staying in Rwanda will have to take a second test upon arrival and stay in designated hotels at their own cost until the [result is confirmed](https://www.garda.com/crisis24/news-alerts/356661/rwanda-authorities-to-reopen-airports-for-commercial-flights-from-august-1-update-10)'
     travel:
       inbound: 'no'
-    updated_on: 2020-07-06
   SA:
     sources:
       domestic:
@@ -4065,7 +3933,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: partial
-    updated_on: 2020-06-23
   SB:
     sources:
       domestic:
@@ -4075,7 +3942,6 @@ countries:
     travel:
       domestic: 'yes'
       inbound: 'no'
-    updated_on: 2020-06-23
   SC:
     sources:
       inbound:
@@ -4108,7 +3974,6 @@ countries:
         - CH
         - TH
       outbound: 'yes'
-    updated_on: 2020-06-23
   SD:
     sources:
       domestic:
@@ -4122,7 +3987,6 @@ countries:
       domestic: 'partial'
       inbound: 'partial'
       outbound: 'no'
-    updated_on: 2020-07-13
   SE:
     reopening:
       '2020-08-31': 'The Swedish Government has decided to stop non-essential travel to Sweden from countries outside the EU, which will be [in effect until August 31, 2020](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/travel-restrictions#:~:text=Temporary%20entry%20ban%20to%20Sweden,the%20spread%20of%20Covid%2D19).'
@@ -4173,7 +4037,6 @@ countries:
         - CH
         - BG
       outbound: 'yes'
-    updated_on: 2020-07-13
   SG:
     sources:
       domestic:
@@ -4192,7 +4055,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: 'yes'
-    updated_on: 2020-06-29
   SI:
     sources:
       inbound:
@@ -4226,7 +4088,6 @@ countries:
         - SK
         - ES
         - CH
-    updated_on: 2020-06-23
   SK:
     sources:
       domestic:
@@ -4261,7 +4122,6 @@ countries:
         - AT
         - PL
         - HU
-    updated_on: 2020-07-07
   SL:
     reopening:
       '2020-07-22': 'The Lungi International Airport (FNA) is [scheduled to reopen on July 22, 2020](https://www.garda.com/crisis24/news-alerts/358511/sierra-leone-authorities-ease-some-covid-19-restrictions-from-july-10-update-11).'
@@ -4280,7 +4140,6 @@ countries:
       domestic: 'partial'
       inbound: 'yes'
       outbound: 'yes'
-    updated_on: 2020-07-13
   SM:
     sources:
       inbound:
@@ -4290,7 +4149,6 @@ countries:
     travel:
       domestic: 'no'
       inbound: 'no'
-    updated_on: 2020-06-23
   SN:
     sources:
       domestic:
@@ -4303,7 +4161,6 @@ countries:
       domestic: no
       inbound: no
       outbound: no
-    updated_on: 2020-07-01
   SO:
     sources:
       domestic:
@@ -4313,7 +4170,6 @@ countries:
     travel:
       domestic: 'no'
       inbound: 'no'
-    updated_on: 2020-06-23
   SR:
     sources:
       inbound:
@@ -4322,14 +4178,12 @@ countries:
         - '[All SR citizen returning from abroad to the territory of the SR is ordered to stay in quarantine (isolation) in facilities specified by the Ministry of Interior of the SR for a period necessary for performance of laboratory diagnostics of COVID-19.](https://korona.gov.sk/en/adopted-measures/)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-23
   SS:
     sources:
       inbound:
         - '[The South Sudan Civil Aviation Authority (SSCAA) also announced the resumption of a limited number of international flights on Tuesday, May 12, although these have continued to be canceled at short notice. ](https://www.garda.com/crisis24/news-alerts/344781/south-sudan-number-of-confirmed-covid-19-cases-passes-500-may-22-update-5)'
     travel:
       inbound: 'partial'
-    updated_on: 2020-06-09
   ST:
     sources:
       domestic:
@@ -4342,14 +4196,12 @@ countries:
     travel:
       domestic: partial
       inbound: 'no'
-    updated_on: 2020-06-23
   SV:
     sources:
       inbound:
         - '[There are no commercial flights entering or departing El Salvador at this time.](https://sv.usembassy.gov/covid-19-information/)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-15
   SY:
     sources:
       inbound:
@@ -4359,7 +4211,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   TD:
     sources:
       domestic:
@@ -4372,7 +4223,6 @@ countries:
       domestic: partial
       inbound: no
       outbound: no
-    updated_on: 2020-07-08
   TG:
     sources:
       inbound:
@@ -4382,7 +4232,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   TH:
     sources:
       domestic:
@@ -4399,7 +4248,6 @@ countries:
       domestic: partial
       inbound: 'partial'
       outbound: partial
-    updated_on: 2020-07-01
   TJ:
     sources:
       domestic:
@@ -4411,14 +4259,12 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   TL:
     sources:
       inbound:
         - '[Foreigners are no longer authorized to enter Timor-Leste.  Exceptions include permanent residents of Timor-Leste, those who were born in Timor-Leste, those responsible for transporting and releasing goods (with restrictions to remain in the “international zone” of airports, seaports, and land borders), those who are legal representatives of Timorese minors, and those who work on oil rigs in the Timor Sea.](https://tl.usembassy.gov/covid-19-information/#:~:text=Timor%2DLeste%20will%20temporarily%20close,authorized%20to%20enter%20Timor%2DLeste.)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-09
   TM:
     sources:
       inbound:
@@ -4428,7 +4274,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   TN:
     sources:
       domestic:
@@ -4441,7 +4286,6 @@ countries:
       domestic: 'yes'
       inbound: 'yes'
       outbound: 'yes'
-    updated_on: 2020-06-30
   TO:
     sources:
       inbound:
@@ -4451,7 +4295,6 @@ countries:
     travel:
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   TR:
     sources:
       domestic:
@@ -4467,14 +4310,12 @@ countries:
       inbound_restricted:
         - IR
       outbound: partial
-    updated_on: 2020-06-09
   TT:
     sources:
       inbound:
         - '[As of 3 April, 2020, borders remain closed until further notice. All airports and seaports are currently closed to inbound traffic. Entry ban applies to all travelers, including Trinidad and Tobago citizens.](https://www.garda.com/crisis24/news-alerts/329131/trinidad-and-tobago-travel-restrictions-continue-amid-covid-19-pandemic-april-3-update-2)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-09
   TV:
     sources:
       inbound:
@@ -4484,7 +4325,6 @@ countries:
     travel:
       inbound: 'partial'
       outbound: 'no'
-    updated_on: 2020-06-09
   TW:
     reopening:
       '2020-10-01': '[Projected reopening timeline: Foreign tourists may be allowed to visit the country in October, according to the Ministry of Transportation and Communications (MOTC).](https://www.taiwannews.com.tw/en/news/3937453)'
@@ -4501,7 +4341,6 @@ countries:
       domestic: 'yes'
       inbound: 'partial'
       outbound: 'no'
-    updated_on: 2020-07-01
   TZ:
     sources:
       domestic:
@@ -4514,7 +4353,6 @@ countries:
       domestic: partial
       inbound: 'yes'
       outbound: 'yes'
-    updated_on: 2020-06-09
   UA:
     sources:
       domestic:
@@ -4736,7 +4574,6 @@ countries:
         - GB
         - US
       outbound: yes
-    updated_on: 2020-07-08
   UG:
     sources:
       domestic:
@@ -4749,7 +4586,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-29
   US:
     sources:
       domestic:
@@ -4802,7 +4638,6 @@ countries:
         - IE
         - BR
       outbound: 'yes'
-    updated_on: 2020-07-15
   UY:
     sources:
       domestic:
@@ -4815,7 +4650,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   UZ:
     sources:
       domestic:
@@ -4830,14 +4664,12 @@ countries:
       domestic: partial
       inbound: partial
       outbound: partial
-    updated_on: 2020-07-09
   VC:
     sources:
       inbound:
         - '[LIAT is extending the suspension of its passenger services until June 30, 2020.](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/)'
     travel:
       inbound: 'no'
-    updated_on: 2020-06-09
   VE:
     sources:
       domestic:
@@ -4851,7 +4683,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-14
   VN:
     reopening:
       '2020-04-29': '[Domestic flights resumed on several routes amid the easing of lockdown measures nationwide.](https://www.garda.com/crisis24/news-alerts/341166/vietnam-hanoi-authorities-ease-covid-19-restrictions-may-11-update-27)'
@@ -4871,7 +4702,6 @@ countries:
       domestic: 'yes'
       inbound: 'no'
       outbound: partial
-    updated_on: 2020-06-09
   VU:
     sources:
       domestic:
@@ -4885,7 +4715,6 @@ countries:
       domestic: partial
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   WS:
     sources:
       domestic:
@@ -4902,7 +4731,6 @@ countries:
       domestic: 'partial'
       inbound: 'partial'
       outbound: 'no'
-    updated_on: 2020-07-07
   XK:
     sources:
       domestic:
@@ -4919,7 +4747,6 @@ countries:
       domestic: 'yes'
       inbound: 'partial'
       outbound: 'partial'
-    updated_on: 2020-07-07
   YE:
     sources:
       domestic:
@@ -4932,7 +4759,6 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09
   ZA:
     sources:
       domestic:
@@ -4947,7 +4773,6 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-07-14
   ZM:
     sources:
       domestic:
@@ -4961,7 +4786,6 @@ countries:
       domestic: partial
       inbound: 'yes'
       outbound: 'yes'
-    updated_on: 2020-06-29
   ZW:
     sources:
       domestic:
@@ -4974,4 +4798,3 @@ countries:
       domestic: 'no'
       inbound: 'no'
       outbound: 'no'
-    updated_on: 2020-06-09

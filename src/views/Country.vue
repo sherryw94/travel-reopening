@@ -3,21 +3,21 @@
     <TitleMapSelect/>
     <div class="main-container">
       <div class="main-container__inner">
+        <h2 class="country-header px-4">{{title}}</h2>
+        <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
+          <p v-if='checkedOn' class="font-semibold text-sm">
+            Last checked on {{checkedOn}}
+          </p>
+          <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
+            Want the latest travel updates in your inbox?
+          </p>
+          <router-link :to="{name: 'Subscribe'}" class="inline-flex font-semibold text-sm">
+            Subscribe here →
+          </router-link>
+        </div>
         <div class="panel">
           <div class="panel__inner">
-           <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
-              <p v-if='updatedOn' class="font-semibold text-sm">
-                Last updated on {{updatedOn}}
-              </p>
-              <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
-                Want the latest travel updates in your inbox?
-              </p>
-              <router-link :to="{name: 'Subscribe'}" class="inline-flex font-semibold text-sm">
-                Subscribe here →
-              </router-link>
-            </div>
-            <h2 class="country-header">{{title}}</h2>
-            <div class="mt-6 md:flex">
+            <div class="md:flex">
               <div class="md:order-1">
                 <TravelState :country="country" />
               </div>
@@ -38,6 +38,7 @@
             <h3>Domestic Travel</h3>
           </CountryBody>
         </div>
+        <CountryTravelIdeas :country="country" />
         <div class="panel">
           <div class="panel__inner">
             <p class="mb-0">
@@ -59,6 +60,7 @@ import axios from 'axios';
 import moment from 'moment';
 import CountryBody from '@/components/CountryBody.vue';
 import CountrySources from '@/components/CountrySources.vue';
+import CountryTravelIdeas from '@/components/CountryTravelIdeas.vue';
 import CovidStats from '@/components/CovidStats.vue';
 import Disclaimer from '@/components/Disclaimer.vue';
 import TitleMapSelect from '@/components/TitleMapSelect.vue';
@@ -70,6 +72,7 @@ export default {
   components: {
     CountryBody,
     CountrySources,
+    CountryTravelIdeas,
     CovidStats,
     Disclaimer,
     TitleMapSelect,
@@ -87,9 +90,8 @@ export default {
     ...mapState(['country']),
     ...mapGetters(['getCountryBySlug', 'getCountryGlobalState']),
     title() { return `${this.country.name} COVID-19 Travel Update`; },
-    updatedOn() {
-      const date = this.getCountryGlobalState(this.country.code)?.updatedOn;
-      return date ? moment(date).format('MMMM D, YYYY') : date;
+    checkedOn() {
+      return moment().format('MMMM D, YYYY');
     },
     emailTo() {
       const subject = encodeURI(`Travel Map Update for ${this.country.name}`);
