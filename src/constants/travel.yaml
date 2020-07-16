@@ -85,15 +85,16 @@ countries:
     sources:
       domestic:
         - '[Ban on public transport has been lifted.](https://www.gov.am/en/covid-travel-restrictions/)'
+        - 'Armenian authorities have extended the country''s state of emergency [until August 12, 2020](https://www.gov.am/en/covid-travel-restrictions/).'
       inbound:
         - '[Entry is allowed only under special circumstances.](https://www.gov.am/en/covid-travel-restrictions/)'
       outbound:
-        - '[Land borders are closed. Citizens of Armenia or Georgia are permitted to return to their respective countries.](https://am.usembassy.gov/u-s-citizen-services/covid-19-information/)'
+        - '[Land borders are closed. Citizens of Armenia or Georgia are permitted to return to their respective countries](https://am.usembassy.gov/u-s-citizen-services/covid-19-information/).'
       visa_quarantine:
-        - 'Travelers who are permitted to enter Armenia are asked to [complete health questionnaires and self-quarantine or self-monitor for 14 days.](https://am.usembassy.gov/u-s-citizen-services/covid-19-information/)'
-        - 'Most visa services are [suspended until further notice.](https://am.usembassy.gov/u-s-citizen-services/covid-19-information/)'
+        - 'Travelers who are permitted to enter Armenia are asked to [complete health questionnaires and self-quarantine or self-monitor for 14 days](https://am.usembassy.gov/u-s-citizen-services/covid-19-information/).'
+        - 'Most visa services are [suspended until further notice](https://am.usembassy.gov/u-s-citizen-services/covid-19-information/).'
     travel:
-      domestic: 'yes'
+      domestic: 'partial'
       inbound: partial
       outbound: partial
   AO:
@@ -174,10 +175,10 @@ countries:
   AU:
     sources:
       domestic:
-        - '[Domestic travel varies from state to state. Refer to indvidual goverment websites.](https://www.interstatequarantine.org.au/state-and-territory-border-closures/)'
-        - '[On Sunday, June 21, 2020, authorities in Victoria state announced that they were extending the current state of emergency for four weeks until July 19](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29)'
-        - '[NSW will ease restrictions on July 1, with the 50-person cap for indoor venues to be lifted provided guests apply social distancing measures.](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29)'
-        - 'Following discussions between Victoria''s Premier Daniel Andrews and his New South Wales (NSW) counterpart Gladys Berejiklian on Monday, July 6, 2020, it has been announced that the [border between the states will close from 23:59 (local time) on Tuesday, July 7, 2020](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34).'
+        - '[Domestic travel varies from state to state](https://www.interstatequarantine.org.au/state-and-territory-border-closures/).'
+        - 'On June 21, 2020, authorities in Victoria state announced that they were extending the current state of emergency for [four weeks until July 19, 2020](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29)'
+        - 'NSW authorities stated that pubs will now be limited to [no more than 300 people](https://www.garda.com/crisis24/news-alerts/359371/australia-government-tightens-covid-19-restrictions-in-several-states-july-14-update-36).'
+        - 'South Australia (SA) withdrew plans to reopen its border to [New South Wales (NSW) and Australian Capital Territory (ACT)](https://www.garda.com/crisis24/news-alerts/359371/australia-government-tightens-covid-19-restrictions-in-several-states-july-14-update-36).'
       inbound:
         - '[Only nationals and residents of Australia are allowed.](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)'
         - '[Nationals of New Zealand usually residing in Australia are allowed to enter Australia.](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)'
@@ -654,13 +655,16 @@ countries:
       inbound: partial
       outbound: partial
   CO:
+    reopening:
+      '2020-08-01': 'All overland, water and air borders are closed and have been [extended until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
     sources:
       domestic:
-        - '[Some non-essential businesses and public facilities, including barbershops, museums, and libraries have since begun to reopen](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
+        - 'Some non-essential businesses and public facilities, including barbershops, museums, and libraries have since [begun to reopen](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
+        - '[Strict weekend quarantine restrictions](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19) will be imposed in Medellín and the municipalities in Valle de Aburrá.'
       inbound:
-        - '[All overland, water and air borders are closed and have been extended until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
+        - 'All overland, water and air borders are closed and have been [extended until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
       outbound:
-        - '[All overland, water and air borders are closed and have been extended until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
+        - 'All overland, water and air borders are closed and have been [extended until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -1672,11 +1676,11 @@ countries:
   HN:
     sources:
       domestic:
-        - 'The Government of Honduras announced on June 29, 2020, that the [nationwide curfew has been extended until July 12, 2020](https://www.garda.com/crisis24/news-alerts/355511/honduras-authorities-extend-nationwide-curfew-until-july-12-update-10) in addition to renewed vehicle circulation restrictions amid the coronavirus disease (COVID-19) pandemic. The curfew remains in place between the hours of 17:00 and 09:00 (local time).'
+        - 'The Government of Honduras announced that the [nationwide curfew has been extended until July 19, 2020](https://www.garda.com/crisis24/news-alerts/359226/honduras-authorities-extend-curfew-orders-until-july-19-update-11) in addition to renewed vehicle circulation restrictions amid the coronavirus disease (COVID-19) pandemic. The curfew remains in place between the hours of 17:00 and 09:00 (local time).'
       inbound:
-        - 'The Honduran government announced all borders (air, land, and sea) would be closed as of 15 March, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
+        - 'The Honduran government announced all borders (air, land, and sea) would be closed as of March 15, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
       outbound:
-        - 'The Honduran government announced all borders (air, land, and sea) would be closed as of 15 March, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
+        - 'The Honduran government announced all borders (air, land, and sea) would be closed as of March 15, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -2209,7 +2213,7 @@ countries:
   KZ:
     sources:
       domestic:
-        - '[The two-week lockdown will see some non-essential businesses closed](https://www.garda.com/crisis24/news-alerts/356021/kazakhstan-authorities-announce-two-week-lockdown-from-july-5-update-20), while restrictions on travel between provinces will be reintroduced. Public transport operating hours will be reduced and a ban on public gatherings will be implemented until July 19.'
+        - '[The extension of the lockdown will see some non-essential businesses closed](https://www.garda.com/crisis24/news-alerts/356021/kazakhstan-authorities-announce-two-week-lockdown-from-july-5-update-20), while restrictions on travel between provinces will be reintroduced. Reduced public transport operating hours and a ban on public gatherings will be in place until July 27, 2020.'
       inbound:
         - '[President Kassym-Jomart Tokayev on March 15 declared a state of emergency, barring entry to the country for everyone except returning citizens, diplomats and those invited by the government](https://www.garda.com/crisis24/news-alerts/322946/kazakhstan-government-bars-entry-to-foreigners-due-to-covid-19-march-15-update-8)'
       visa_quarantine:
@@ -2219,12 +2223,18 @@ countries:
       inbound: 'no'
   LA:
     reopening:
-      '2020-06-30': '[All land border crossings and airports will remain closed, entry into Laos is granted only in very limited circumstances and will last until 30 June, 2020.](https://la.usembassy.gov/covid-19-information/)'
+      '2020-07-31': '[All land border crossings and airports will remain closed](https://la.usembassy.gov/covid-19-information/), entry into Laos is granted only in very limited circumstances and will last until July 31, 2020.'
     sources:
+      domestic:
+        - '[Large gatherings are still banned](https://la.usembassy.gov/covid-19-information/) and it is not possible to organize a party or attend night markets, beer shops, online game shops, karaoke venues, cinemas, casinos, and team sports tournaments.'
       inbound:
-        - '[All land border crossings and airports will remain closed, entry into Laos is granted only in very limited circumstances and will last until June 30, 2020.](https://la.usembassy.gov/covid-19-information/)'
+        - '[All land border crossings and airports will remain closed](https://la.usembassy.gov/covid-19-information/), entry into Laos is granted only in very limited circumstances and will last until July 31, 2020.'
+      outbound:
+        - 'Lao nationals who need to travel abroad are [able to do so](https://la.usembassy.gov/wp-content/uploads/sites/85/Travel-advisory-of-the-Lao-PDR-1444-Eng-Unofficial-Translation.pdf.pdf) provided that it is permissible by the country of destination and they have to fulfil the requirements under the law and regulations of the country of destination.'
     travel:
+      domestic: partial
       inbound: partial
+      outbound: partial
   LB:
     sources:
       domestic:
@@ -2521,20 +2531,29 @@ countries:
       outbound: 'yes'
   LR:
     sources:
+      domestic:
+        - 'Citizens are now required to be [indoors by 6 pm](https://www.emansion.gov.lr/2press.php?news_id=5165&related=7&pg=sp).'
       inbound:
-        - '[In view of the ongoing COVID-19 situation, all commercial flights are suspended from 24 March, 2020.](https://www.mfa.gov.sg/countries-regions/l/liberia/travel-page)'
+        - '[Borders are to remain closed](https://www.garda.com/crisis24/news-alerts/353506/liberia-authorities-extend-state-of-emergency-until-july-21-update-11) and travel between regions is banned.'
+      outbound:
+        - '[Borders are to remain closed](https://www.garda.com/crisis24/news-alerts/353506/liberia-authorities-extend-state-of-emergency-until-july-21-update-11) and travel between regions is banned.'
     travel:
+      domestic: 'partial'
       inbound: 'no'
+      outbound: 'no'
   LS:
     sources:
+      domestic:
+        - '[All persons are required to remain at home](https://www.gov.uk/foreign-travel-advice/lesotho/staying-during-coronavirus) unless providing or acquiring goods or services, or attending funerals and religious services.'
+        - 'Cafes and restaurants may only provide take away meals while parks and night clubs are [not yet allowed to open](https://www.gov.uk/foreign-travel-advice/lesotho/staying-during-coronavirus).'
       inbound:
-        - '[Lesotho’s borders remain closed and movement of persons in or out of Lesotho is prohibited.](https://www.gov.uk/foreign-travel-advice/lesotho)'
+        - '[Lesotho’s borders remain closed](https://www.gov.uk/foreign-travel-advice/lesotho) and movement of persons in or out of Lesotho is prohibited.'
     travel:
       inbound: 'no'
   LT:
     sources:
       inbound:
-        - '[Opened its borders to Baltic neighbours Estonia and Latvia on 15 May, 2020, allowing entry to citizens of Poland for business and studies.](https://www.euronews.com/2020/06/11/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)'
+        - '[Opened its borders to Baltic neighbors Estonia and Latvia on May 15, 2020, allowing entry to citizens of Poland for business and studies](https://www.euronews.com/2020/06/11/which-european-countries-have-opened-their-borders-ahead-of-the-summer-holiday-season)'
     travel:
       inbound: partial
       inbound_allowed:
@@ -2543,9 +2562,16 @@ countries:
         - PL
   LV:
     sources:
+      domestic:
+        - 'Indoor events are limited to a maximum of 100 persons in premises smaller than 1000 square meters and a maximum of 500 persons in premises larger than 1000 square meters, whereas [outdoor events are limited to a maximum of 1000 persons](https://covid19.gov.lv/index.php/en/support-society/how-behave-safely/covid-19-control-measures).'
       inbound:
-        - '[Borders are only open to residents of Latvia, other EU Member States, countries in the European Economic Area and Switzerland that hold proper residency documentation.](https://lv.usembassy.gov/covid-19-information/)'
+        - 'Borders are only open to residents (with proper residency documentation) of Latvia, other EU Member States, countries in the European Economic Area, Lithuania, Estonia and Switzerland](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
+      outbound:
+        - 'The Republic of Latvia does not recommend outbound travel to countries with infection rates above 25 per 100,000 people [within a 14-day cumulative period](https://spkc.gov.lv/lv/tavai-veselibai/aktualitate-par-jauno-koronavi/valstu-saslimstibas-raditaji-a/).'
+      visa_quarantine:
+        - 'A 14-day self quarantine period is mandated [based on arrival from specific countries](https://spkc.gov.lv/lv/tavai-veselibai/aktualitate-par-jauno-koronavi/valstu-saslimstibas-raditaji-a/).'
     travel:
+      domestic: yes
       inbound: partial
       inbound_allowed:
         - AT
@@ -2578,7 +2604,8 @@ countries:
         - CH
         - IS
         - LI
-        - 'NO'
+        - NO
+      outbound: partial
   LY:
     sources:
       domestic:
@@ -2598,10 +2625,10 @@ countries:
         - '[Inter-provincial travel is permitted](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18), subject to movement restrictions in certain areas. You must carry identification documents with you at all times.'
         - 'As of June 25, 2020, [domestic transport services, including flights and railways, have resumed](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18).'
         - 'Authorities will be permitted to [enforce lockdowns on a region-by-region basis](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20) until August 10, 2020.'
-        - 'Public transport into and out of Tangier is [suspended](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20), and any movement outside of the city limits will require a permit from authorities.'
+        - 'Public transport into and out of Tangier is also [suspended](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20), and any movement outside of the city limits will require a permit from authorities.'
         - 'Domestic travel has resumed and borders are [scheduled to reopen on Tuesday, July 14, 2020](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20).'
       inbound:
-        - 'Domestic travel has resumed and [borders are scheduled to reopen on Tuesday, July 14, 2020](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20).'
+        - 'The borders remain [closed to all foreign nationals and tourism](https://www.garda.com/crisis24/news-alerts/359606/morocco-authorities-announce-the-partial-reopening-of-borders-from-july-15-update-22).'
       outbound:
         - '[All commercial flights to or from Morocco have now been suspended.](https://www.gov.uk/foreign-travel-advice/morocco/entry-requirements)'
     travel:
@@ -3292,6 +3319,7 @@ countries:
         - 'The Ministry of Foreign Affairs states that there is [no ban on travel](https://www.regjeringen.no/en/topics/foreign-affairs/reiseinformasjon/travel_coronavirus/id2691821/). It is up to each individual to decide whether or not a trip is essential.'
       visa_quarantine:
         - 'Anyone returning from international travel must [stay in quarantine for 10 days](https://helsenorge.no/koronavirus/travel-advice) after the date of their return to Norway, except for leisure travels to Denmark after June 15, 2020.'
+        - '10 day quarantine rule does not apply to travelers returning from countries in Europe with [low infection rates](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/travel-advice-COVID19/).'
     travel:
       domestic: 'yes'
       inbound: 'partial'
@@ -4561,15 +4589,16 @@ countries:
   US:
     sources:
       domestic:
-        - '[Majority of states are easing restrictions. Regulations differ from state to state. Refer to updated guidelines.](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/)'
+        - 'Majority of states are easing restrictions. Regulations differ from state to state. [Refer to this updated guideline](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/).'
+        - 'California Governor Gavin Newsom ordered all businesses to [stop all indoor activities](https://www.garda.com/crisis24/news-alerts/359266/us-california-orders-businesses-to-stop-indoor-activities-july-13-update-70).'
       inbound:
-        - '[There are restrictions on the entry of certain travelers into the United States. Refer to the CDC website for full details.](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html)'
-        - '[Land border restrictions with Canada and Mexico will be extended through July 21.](https://www.garda.com/crisis24/news-alerts/352361/us-authorities-impose-mandatory-wearing-of-face-masks-in-public-in-california-june-18-update-60)'
+        - 'There are restrictions on the entry of certain travelers into the United States. [Refer to the CDC website for full details](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html).'
+        - 'Land border restrictions with Canada and Mexico will be [extended through July 21, 2020](https://www.garda.com/crisis24/news-alerts/352361/us-authorities-impose-mandatory-wearing-of-face-masks-in-public-in-california-june-18-update-60).'
       outbound:
         - '[The U.S. Department of State has issued a Global Level 4 Health Advisory advising U.S. citizens to avoid all international travel.](https://travel.state.gov/content/travel/en/traveladvisories/ea/travel-advisory-alert-global-level-4-health-advisory-issue.html)'
-        - '[Air travel is possible with flights operating at a limited capacity. Precautions should be taken.](https://www.flylax.com/travelsafely)'
+        - '[Air travel is possible](https://www.flylax.com/travelsafely) with flights operating at a limited capacity. Precautions should be taken.'
       visa_quarantine:
-        - '[While not enforced, travelers are advised to stay home for 14 days from the time they return home from international travel.](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html)'
+        - 'While not enforced, travelers are [advised to stay home for 14 days](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html) from the time they return home from international travel.'
     travel:
       domestic: partial
       inbound: partial
