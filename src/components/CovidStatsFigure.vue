@@ -29,8 +29,8 @@ export default {
       const lastFigure = (this.data.slice(0) || []) // make copy of array to prevent mutation
         .sort((a, b) => b.date - a.date)
         .find(({ value }) => value);
-      const formattedDate = lastFigure.date ? moment(lastFigure.date).format('MMMM D, YYYY') : notAvailable;
-      const formattedValue = lastFigure.value
+      const formattedDate = lastFigure?.date ? moment(lastFigure.date).format('MMMM D, YYYY') : notAvailable;
+      const formattedValue = lastFigure?.value
         ? lastFigure.value.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,') : notAvailable;
 
       return { date: formattedDate, value: formattedValue };
