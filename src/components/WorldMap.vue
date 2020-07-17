@@ -53,6 +53,7 @@ function travelStateLabel(state) {
 
 function tooltipBody(d) {
   const country = this.getCountryById(d.id);
+  if (!country) { return false; }
   const state = this.getCountryGlobalState(country.code);
 
   return `
