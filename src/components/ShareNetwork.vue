@@ -11,8 +11,8 @@
         the world during this COVID-19 pandemic.
         Travel safe!"
       quote="Get the latest travel reopening information"
-      hashtags="touherotravel"
-      twitterUser="touherotravel"
+      hashtags="tourherotravel"
+      twitterUser="tourherotravel"
     >
       <div class="pr-2 sm:pr-0 sm:pl-3 text-xl cursor-pointer">
         <font-awesome-icon :icon="['fab', network.icon]" />
