@@ -13,6 +13,8 @@ import {
 } from 'd3';
 import moment from 'moment';
 
+const notAvailable = 'NA';
+
 export default {
   name: 'CovidStatsFigure',
   props: {
@@ -21,16 +23,17 @@ export default {
   created() { window.addEventListener('resize', this.handleSizeChange); },
   computed: {
     latestFigure() {
-      if (!this.data || this.data.length <= 0) { return { value: 'NA', date: 'NA' }; }
+      if (!this.data || this.data.length <= 0) {
+        return { value: notAvailable, date: notAvailable };
+      }
       const lastFigure = (this.data.slice(0) || []) // make copy of array to prevent mutation
         .sort((a, b) => b.date - a.date)
         .find(({ value }) => value);
-      const formattedDate = lastFigure.date ? moment(lastFigure.date).format('MMMM D, YYYY') : 'NA';
+      const formattedDate = lastFigure.date ? moment(lastFigure.date).format('MMMM D, YYYY') : notAvailable;
+      const formattedValue = lastFigure.value
+        ? lastFigure.value.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,') : notAvailable;
 
-      return {
-        date: formattedDate,
-        value: lastFigure.value.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,'),
-      };
+      return { date: formattedDate, value: formattedValue };
     },
   },
   destroyed() { window.removeEventListener('resize', this.handleSizeChange); },
