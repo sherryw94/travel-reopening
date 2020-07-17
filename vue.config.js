@@ -61,6 +61,7 @@ module.exports = {
     }
   },
   pwa: {
+    assetsVersion: Date.now(),
     iconPaths: {
       favicon32: 'img/favicon.png',
       favicon16: 'img/favicon.png',
