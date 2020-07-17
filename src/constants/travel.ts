@@ -33,7 +33,9 @@ export enum TravelDirection {
 }
 
 export function findSourcesForCountry(countryCode: string) {
-  return Object.values(countries[countryCode]?.sources || {}).flat();
+  return Object.values(countries[countryCode]?.sources || {})
+    .flat()
+    .filter((i) => i);
 }
 
 export function findTravelIdeasForCountry(countryCode: string) {
