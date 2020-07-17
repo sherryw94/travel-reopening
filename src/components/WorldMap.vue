@@ -99,8 +99,8 @@ export default {
           : `Where you can go from ${this.country.name}`;
       }
       return this.travelContext === TravelDirection.Inbound
-        ? 'Entry travel restriction'
-        : 'Exit travel restriction';
+        ? 'Entry travel restrictions'
+        : 'Exit travel restrictions';
     },
   },
   methods: {
