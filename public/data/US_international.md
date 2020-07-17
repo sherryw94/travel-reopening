@@ -8,6 +8,8 @@ Foreign nationals who have been in any of the following countries within 14 days
 
 - China, Iran, European Austria, Belgium, Czechia, Denmark, Estonia, France, Finland, Greece, Germany, Hungary, Italy, Iceland, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Norway, Netherlands, Portugal, Poland, Slovenia, Slovakia, Spain, Switzerland, Sweden, Monaco, San Marino, Vatican City, the United Kingdom, Ireland, and Brazil.
 
+On **July 15, 2020**, authorities announced an extension of the land border closure between the United States of America and Mexico. Non-essential travel is prohibited. This period will last until at least August 21, 2020.
+
 For more information on travel restrictions into the United States of America, refer to the [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html).
 
 #### Outbound Travel: Who can travel out of the United States of America?
