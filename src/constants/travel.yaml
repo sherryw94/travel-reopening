@@ -537,7 +537,6 @@ countries:
       inbound: 'partial'
   CF:
     sources:
-      domestic: null
       inbound:
         - '[Anyone coming from a country with local-transmission of COVID-19 is banned from entering, airport is also closed.](https://cf.usembassy.gov/covid-19-information/)'
       visa_quarantine:
@@ -887,7 +886,6 @@ countries:
     reopening:
       '2020-08-07': 'Dominica is projected to open airports and seaports on July 15, 2020, for nationals. And on [August 7, 2020, for non-nationals](https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements).'
     sources:
-      domestic:
       inbound:
         - '[Dominica has closed its airports](https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements) (Douglas Charles and Canefield) and its seaports to arriving and departing passengers. They will open for nationals and residents on July 15, 2020, and for non-nationals on August 7, 2020.'
       outbound:
