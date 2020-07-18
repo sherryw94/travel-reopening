@@ -61,10 +61,18 @@ module.exports = {
     }
   },
   pwa: {
+    appleMobileWebAppStatusBarStyle: 'black',
+    appleMobileWebAppCapable: 'yes',
     assetsVersion: Date.now(),
     iconPaths: {
       favicon32: 'img/favicon.png',
-      favicon16: 'img/favicon.png',
+      favicon16: null,
+      appleTouchIcon: 'img/favicon.png',
+      maskIcon: null,
+      msTileImage: null
     },
+    msTileColor: '#ffffff',
+    themeColor: '#1c355e',
+    name: 'Travel Reopening',
   },
 };
