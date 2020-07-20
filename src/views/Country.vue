@@ -5,7 +5,7 @@
       <div class="main-container__inner">
         <h2 class="country-header px-4">{{title}}</h2>
         <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
-          <p v-if='checkedOn' class="font-semibold text-sm">
+          <p v-if="checkedOn" class="font-semibold text-sm">
             Last checked on {{checkedOn}}
           </p>
           <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
@@ -57,6 +57,8 @@
 </template>
 
 <script>
+/* eslint-disable @typescript-eslint/camelcase */
+
 import axios from 'axios';
 import moment from 'moment';
 import CountryBody from '@/components/CountryBody.vue';
@@ -66,6 +68,7 @@ import CovidStats from '@/components/CovidStats.vue';
 import Disclaimer from '@/components/Disclaimer.vue';
 import TitleMapSelect from '@/components/TitleMapSelect.vue';
 import TravelState from '@/components/TravelState.vue';
+import { checkedOn } from '@/constants/travel';
 import { mapActions, mapGetters, mapState } from 'vuex';
 
 export default {
@@ -92,7 +95,7 @@ export default {
     ...mapGetters(['getCountryBySlug', 'getCountryGlobalState']),
     title() { return `${this.country.name} COVID-19 Travel Update`; },
     checkedOn() {
-      return moment().format('MMMM D, YYYY');
+      return moment(checkedOn).format('MMMM D, YYYY');
     },
     emailTo() {
       const subject = encodeURI(`Travel Map Update for ${this.country.name}`);
