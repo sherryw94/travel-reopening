@@ -8,7 +8,7 @@ export const Travel = TravelDefaults;
 
 const { countries, checked_on } = Travel;
 
-export const checkedOn = checked_on;
+export const checkedOn = process.env.VUE_APP_LAST_UPDATED_ON || checked_on;
 
 export const reopenings = Object.keys(countries)
   .reduce((acc: {date: string; content: string; country: string}[], country) => {
