@@ -18,6 +18,15 @@ Advisories may change without warning. Please check official government websites
 
 ## Project setup
 
+Mac Requirements:
+
+- `Xcode` - Install this from [App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+- [`homebrew`](https://brew.sh/) - sotware package manager: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+- [`asdf`](https://asdf-vm.com/#/core-manage-asdf-vm?id=install) - multiple runtime versions manager: `brew install asdf`
+- [`yarn`](https://yarnpkg.com/) - Install yarn via asdf: `asdf plugin-add yarn; asdf install yarn latest`
+
+Clone this project from Github then run:
+
 ```sh
 yarn install
 ```
