@@ -126,28 +126,28 @@ export default {
       select(this.$el)
         .selectAll('.state')
         .classed('open', (d) => {
-          if (d.id) {
+          if (d?.id) {
             const country = this.getCountryById(d.id);
             return this.getCountryState(country.code, context, this.country) === OpenStatus.Open;
           }
           return false;
         })
         .classed('closed', (d) => {
-          if (d.id) {
+          if (d?.id) {
             const country = this.getCountryById(d.id);
             return this.getCountryState(country.code, context, this.country) === OpenStatus.Closed;
           }
           return false;
         })
         .classed('partial', (d) => {
-          if (d.id) {
+          if (d?.id) {
             const country = this.getCountryById(d.id);
             return this.getCountryState(country.code, context, this.country) === OpenStatus.Partial;
           }
           return false;
         })
         .classed('undefined', (d) => {
-          if (d.id) {
+          if (d?.id) {
             const country = this.getCountryById(d.id);
             return this.getCountryState(country.code, context, this.country) === undefined;
           }

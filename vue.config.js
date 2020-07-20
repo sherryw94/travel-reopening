@@ -29,6 +29,9 @@ const productionPlugins = [
       if (renderedRoute.route.endsWith('.html')) {
         renderedRoute.outputPath = path.join(__dirname, buildDir, renderedRoute.route);
       }
+      renderedRoute.html = renderedRoute.html
+        .replace(/<script (.*?)>/g, '<script $1 defer>')
+        .replace('id="app"', 'id="app" data-server-rendered="true"');
 
       return renderedRoute;
     },
