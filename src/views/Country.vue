@@ -56,6 +56,8 @@
 </template>
 
 <script>
+/* eslint-disable @typescript-eslint/camelcase */
+
 import axios from 'axios';
 import moment from 'moment';
 import CountryBody from '@/components/CountryBody.vue';
@@ -65,7 +67,7 @@ import CovidStats from '@/components/CovidStats.vue';
 import Disclaimer from '@/components/Disclaimer.vue';
 import TitleMapSelect from '@/components/TitleMapSelect.vue';
 import TravelState from '@/components/TravelState.vue';
-import { sourcesLastCheckedOn } from '@/constants/travel';
+import { checkedOn } from '@/constants/travel';
 import { mapActions, mapGetters, mapState } from 'vuex';
 
 export default {
@@ -92,7 +94,7 @@ export default {
     ...mapGetters(['getCountryBySlug', 'getCountryGlobalState']),
     title() { return `${this.country.name} COVID-19 Travel Update`; },
     checkedOn() {
-      return moment(sourcesLastCheckedOn).format('MMMM D, YYYY');
+      return moment(checkedOn).format('MMMM D, YYYY');
     },
     emailTo() {
       const subject = encodeURI(`Travel Map Update for ${this.country.name}`);

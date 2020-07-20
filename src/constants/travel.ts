@@ -1,13 +1,14 @@
 /* eslint-disable @typescript-eslint/ban-ts-ignore */
+/* eslint-disable @typescript-eslint/camelcase */
 // @ts-ignore
 
 import TravelDefaults from '@/constants/travel.yaml';
 
 export const Travel = TravelDefaults;
 
-const { countries } = Travel;
+const { countries, checked_on } = Travel;
 
-export const sourcesLastCheckedOn = countries.checked_on;
+export const checkedOn = checked_on;
 
 export const reopenings = Object.keys(countries)
   .reduce((acc: {date: string; content: string; country: string}[], country) => {
