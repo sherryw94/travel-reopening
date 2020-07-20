@@ -31,6 +31,7 @@ const routes: Array<RouteConfig> = [
     path: '/404.html',
     name: 'NotFound',
     component: () => import('@/views/NotFound.vue'),
+    alias: '*',
   },
   {
     path: '/:country.html',
