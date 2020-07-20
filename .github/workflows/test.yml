@@ -27,7 +27,9 @@ jobs:
           key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
             ${{ runner.os }}-yarn-
-
+      - name: "Get travel.yml Last Updated On"
+        id: travel-updated-on
+        run: echo "::set-output name=date::$(git log -1 --format=%cs -- src/constants/travel.yaml)"
       - name: Installing project dependencies
         run: yarn install
       - name: Get latest COVID-19 data
@@ -39,6 +41,7 @@ jobs:
         env:
           VUE_APP_SUBSCRIPTION_FORM_URL: ${{ secrets.VUE_APP_SUBSCRIPTION_FORM_URL }}
           VUE_APP_GTM_ID: ${{ secrets.VUE_APP_GTM_ID }}
+          VUE_APP_LAST_UPDATED_ON: ${{ steps.travel-updated-on.outputs.date }}
           VUE_APP_SENTRY: ${{ secrets.VUE_APP_SENTRY }}
       - uses: jakejarvis/s3-sync-action@master
         if: ${{ github.ref == 'refs/heads/master' }}
