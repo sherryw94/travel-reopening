@@ -1,4 +1,6 @@
-Domestic travel is allowed. The wearing of face masks is mandatory in:
+The Romanian government has extended the [state of alert](https://www.garda.com/crisis24/news-alerts/360996/romania-authorities-extend-state-of-alert-through-august-16-update-10) through to August 16, 2020.
+
+The wearing of face masks is mandatory in:
 
 - Enclosed public spaces
 - Stores
