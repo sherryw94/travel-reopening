@@ -35,7 +35,9 @@ Refer to the [South Australia Government website](https://www.covid-19.sa.gov.au
 
 #### Victoria
 
-- On **July 7, 2020**, the border between Victoria and New South Wales will close from 11:59 pm (local time) due to a spike in COVID-19 cases in Melbourne. This will remain in effect until further notice.
+- Victoria’s state of emergency has been extended until **August 16, 2020** due to a spike in COVID-19 cases.
+- From **July 22, 2020**, wearing of face masks in Melbourne and the Mitchell Shire [is mandatory](https://www.garda.com/crisis24/news-alerts/361011/australia-face-masks-mandatory-in-melbourne-from-july-22-update-37).
+- As of **July 7, 2020**, the border between Victoria and New South Wales is closed. This will remain in effect until further notice.
 - As of **July 4, 2020**, lockdown measures have been reintroduced in parts of Melbourne due to a rise in local cases of COVID-19. Movement may be restricted for certain postcodes. [Click here](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34) for more information.
 - As of **June 28, 2020**, COVID-19 testing is compulsory for all returning travelers entering Victoria. Those who refuse testing must quarantine for an additional 10 days on top of the 14-day minimum quarantine period.
 
