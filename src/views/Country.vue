@@ -107,6 +107,7 @@ export default {
       this.visaQuarantineContent = null;
 
       const country = this.getCountryBySlug(this.$route.params.country);
+      if (!country) { this.$router.push({ name: 'NotFound' }); return; }
       this.updateCountryAction(country);
 
       const promises = [
