@@ -25,7 +25,7 @@
                 <CovidStats :country="country" />
               </div>
             </div>
-            <p class="text-xs mt-6"><sup>*</sup>Statistics are published by <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">European Centre for Disease Prevention and Control</a></p>
+            <p class="text-xs mt-6"><sup>*</sup>Statistics are published by <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">European Centre for Disease Prevention and Control</a>&nbsp;<CovidStatsDate :country="country" /></p>
           </div>
         </div>
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'>
@@ -63,6 +63,7 @@ import CountryBody from '@/components/CountryBody.vue';
 import CountrySources from '@/components/CountrySources.vue';
 import CountryTravelIdeas from '@/components/CountryTravelIdeas.vue';
 import CovidStats from '@/components/CovidStats.vue';
+import CovidStatsDate from '@/components/CovidStatsDate.vue';
 import Disclaimer from '@/components/Disclaimer.vue';
 import TitleMapSelect from '@/components/TitleMapSelect.vue';
 import TravelState from '@/components/TravelState.vue';
@@ -75,6 +76,7 @@ export default {
     CountrySources,
     CountryTravelIdeas,
     CovidStats,
+    CovidStatsDate,
     Disclaimer,
     TitleMapSelect,
     TravelState,
