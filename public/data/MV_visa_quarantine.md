@@ -1,0 +1,3 @@
+- Travelers will undergo non-invasive temperature checks and screening upon arrival. Random COVID-19 PCR testing may occur — the Maldives government will bear the cost of this test.
+- Quarantine is not required for travelers staying on uninhabited islands who do not display COVID-19 symptoms.
+- As of **July 19, 2020**, travelers entering **inhabited** **islands**, whether by sea or air, **will need to undergo 14 days of quarantine**.
