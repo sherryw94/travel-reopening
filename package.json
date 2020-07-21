@@ -32,7 +32,7 @@
     "tailwindcss": "^1.5.1",
     "topojson": "^3.0.2",
     "vue": "^2.6.11",
-    "vue-class-component": "^7.2.3",
+    "vue-class-component": "^7.2.4",
     "vue-gtm": "^2.3.1",
     "vue-markdown": "^2.2.4",
     "vue-meta": "^2.4.0",
