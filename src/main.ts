@@ -4,7 +4,7 @@ import { Vue as VueIntegration } from '@sentry/integrations';
 import VueSocialSharing from 'vue-social-sharing';
 import { library } from '@fortawesome/fontawesome-svg-core';
 import {
-  faFacebook, faLinkedin, faTwitter, faTelegram, faWhatsappSquare,
+  faFacebookF, faTwitter, faLinkedinIn, faTelegramPlane, faWhatsapp,
 } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import App from './App.vue';
@@ -13,7 +13,13 @@ import router from './router';
 import store from './store';
 import './assets/styles/index.css';
 
-library.add(faFacebook, faLinkedin, faTwitter, faTelegram, faWhatsappSquare);
+library.add(
+  faFacebookF,
+  faTwitter,
+  faLinkedinIn,
+  faTelegramPlane,
+  faWhatsapp,
+);
 
 Vue.component('font-awesome-icon', FontAwesomeIcon);
 
