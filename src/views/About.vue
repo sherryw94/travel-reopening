@@ -15,15 +15,14 @@
         to the destination, as well as relevant links to sources.
       </p>
 
-      <h2>How you can contribute</h2>
+      <h2>How You Can Contribute</h2>
       <p>
         As the situation changes rapidly around the world, keeping information
         up-to-date can be challenging. If you spot any incorrect or outdated
         information, we encourage you to contribute to the project. The source
-        code and the data is open-sourced on Github:
-        <a href="https://github.com/tourhero/travel-reopening">
-          https://github.com/tourhero/travel-reopening
-        </a>. Alternatively, you can submit data or situation reports from your
+        code and the data is open-sourced on GitHub:
+        <a href="https://github.com/tourhero/travel-reopening">https://github.com/tourhero/travel-reopening</a>.
+        Alternatively, you can submit data or situation reports from your
         region to <a href="mailto:travel-map@tourhero.com">travel-map@tourhero.com</a>.
       </p>
 

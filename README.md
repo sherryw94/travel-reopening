@@ -25,7 +25,7 @@ Mac Requirements:
 - [`asdf`](https://asdf-vm.com/#/core-manage-asdf-vm?id=install) - multiple runtime versions manager: `brew install asdf`
 - [`yarn`](https://yarnpkg.com/) - Install yarn via asdf: `asdf plugin-add yarn; asdf install yarn latest`
 
-Clone this project from Github then run:
+Clone this project from GitHub then run:
 
 ```sh
 yarn install
