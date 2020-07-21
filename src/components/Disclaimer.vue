@@ -1,19 +1,44 @@
 <template>
-  <div class="panel">
-    <div class="panel__inner">
-      <h3>Disclaimer</h3>
-      <p class="mb-0">
-        Advisories may change without warning. Please check official government
-        websites for up-to-date information on travel restrictions prior to your
-        journeys. This project displays information that is related only to COVID-19
-        travel restrictions and not to existing restrictions.
-      </p>
-    </div>
+  <div>
+    <Heading :tag="tag" :title="title" />
+    <p>
+      We gather our data from hundreds of sources to ensure that our information
+      is up-to-date. Our sources include official government websites
+      and reputable news outlets. Please note, however, that advisories may change
+      without warning. We encourage you to check the official government websites
+      before traveling.
+    </p>
+    <p>
+      We also provide community COVID-19 statistics to help you make an informed
+      travel decision. These statistics come from the <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">European Centre for Disease Prevention and Control</a>,
+      and show daily new confirmed cases, total confirmed cases, and total deaths.
+    </p>
+    <p>
+      <strong>Daily new confirmed cases:</strong> Reflects the daily number of COVID-19 cases
+      in given country.
+    </p>
+    <p>
+      <strong>Total confirmed cases:</strong> Reflects the total number of positive COVID-19 cases
+      in given country.
+    </p>
+    <p>
+      <strong>Total deaths:</strong> Reflects the total number of deaths caused by COVID-19
+      in given country.
+    </p>
   </div>
 </template>
 
 <script>
+import Heading from '@/components/Heading.vue';
+
 export default {
   name: 'Disclaimer',
+  components: {
+    Heading,
+  },
+  props: {
+    tag: String,
+    title: String,
+  },
 };
 </script>

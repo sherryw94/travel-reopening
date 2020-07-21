@@ -27,12 +27,7 @@
         region to <a href="mailto:travel-map@tourhero.com">travel-map@tourhero.com</a>.
       </p>
 
-      <h2>Disclaimer</h2>
-      <p>Advisories may change without warning. Please check official government
-        websites for up-to-date information on travel restrictions prior to your
-        journeys. This project displays information that is related only to COVID-19
-        travel restrictions and not to existing restrictions.
-      </p>
+      <Disclaimer tag="h2" title="About Our Data" />
 
       <h2>Legend</h2>
       <div class="inline-grid grid-cols-legend row-gap-2 col-gap-4 items-baseline">
@@ -56,11 +51,12 @@
 </template>
 
 <script>
+import Disclaimer from '@/components/Disclaimer.vue';
 import TravelStateBadge from '@/components/TravelStateBadge.vue';
 
 export default {
   name: 'About',
-  components: { TravelStateBadge },
+  components: { Disclaimer, TravelStateBadge },
   mounted() {
     this.$nextTick(() => document.dispatchEvent(new Event('render-completed')));
   },
