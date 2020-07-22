@@ -16,6 +16,7 @@
       </form>
     </div>
     <div v-if='status === "submitted"'>
+      <h2>You Are Subscribed</h2>
       <p class="mb-0">Awesome! You’ll get the latest updates in your inbox.</p>
     </div>
   </div>
