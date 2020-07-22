@@ -28,7 +28,7 @@ export default {
   name: 'CountryTravelIdeas',
   computed: {
     emailTo() {
-      const subject = encodeURI(`Travel Idea for ${this.country.name}`);
+      const subject = encodeURI(`Travel Ideas for ${this.country.name}`);
       return `mailto:travel-map@tourhero.com?subject=${subject}`;
     },
     travelIdeasList() {

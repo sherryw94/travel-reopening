@@ -226,7 +226,7 @@ countries:
       inbound:
         - 'The BiH Council of Ministers has announced that it will allow entry to the citizens of Croatia, Serbia, and Montenegro as of June 1, 2020. There is [still a ban to entry for non-resident foreign nationals.](https://ba.usembassy.gov/covid-19-information/)'
       visa_quarantine:
-        - 'Both the Republika Srpska and the Federation have [abolished self-isolation measures for people entering BiH.](https://ba.usembassy.gov/covid-19-information/).'
+        - 'Both the Republika Srpska and the Federation have [abolished self-isolation measures for people entering BiH.](https://ba.usembassy.gov/covid-19-information/)'
     travel:
       domestic: partial
       inbound: partial

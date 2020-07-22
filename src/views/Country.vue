@@ -22,11 +22,11 @@
               <div class="md:order-1">
                 <TravelState :country="country" />
               </div>
-              <div class="md:order-0 w-full md:w-1/2 mt-6 md:mt-0 md:mr-4">
+              <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
                 <CovidStats :country="country" />
               </div>
             </div>
-            <p class="text-xs mt-6"><sup>*</sup>Statistics are published by <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">European Centre for Disease Prevention and Control</a>&nbsp;<CovidStatsDate :country="country" /></p>
+            <p class="text-xs"><sup>*</sup>Statistics are published by <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">European Centre for Disease Prevention and Control</a>&nbsp;<CovidStatsDate :country="country" /></p>
           </div>
         </div>
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'>
@@ -43,7 +43,7 @@
         <CountryTravelIdeas :country="country" />
         <div class="panel">
           <div class="panel__inner">
-            <p class="mb-0">
+            <p>
               Help us improve this data by dropping us
               <a :href="emailTo">an email</a>.
               Thank you very much for your help!

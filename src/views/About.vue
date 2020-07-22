@@ -26,24 +26,24 @@
         region to <a href="mailto:travel-map@tourhero.com">travel-map@tourhero.com</a>.
       </p>
 
-      <Disclaimer tag="h2" title="About Our Data" />
+      <Disclaimer tag="h2" title="About Our Data" class="pt-2" />
 
       <h2>Legend</h2>
       <div class="inline-grid grid-cols-legend row-gap-2 col-gap-4 items-baseline">
         <TravelStateBadge travelState="selected" />
-        <p class="mb-0">Selected country</p>
+        <span>Selected country</span>
         <TravelStateBadge travelState="yes" />
-        <p class="mb-0">No travel restrictions related to COVID-19 apply</p>
+        <span>No travel restrictions related to COVID-19 apply</span>
         <TravelStateBadge travelState="partial" />
-        <p class="mb-0">Some travel restrictions apply depending on traveler’s point of origin,
+        <span>Some travel restrictions apply depending on traveler’s point of origin,
           nationality, or other reasons
-        </p>
+        </span>
         <TravelStateBadge travelState="no" />
-        <p class="mb-0">
+        <span>
           Non-essential travel is prohibited. Repatriation travel may be possible
-        </p>
+        </span>
         <TravelStateBadge travelState="unknown" />
-        <p class="mb-0">No information</p>
+        <span>No information</span>
       </div>
     </div>
   </div>
