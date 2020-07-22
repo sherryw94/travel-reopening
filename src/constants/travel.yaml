@@ -576,7 +576,7 @@ countries:
         title: 'Newfoundland Getaway: 48 Hours in Gros Morne National Park'
   CD:
     reopening:
-      '2020-07-30': '[DRC has [suspended all international passenger flights until at least July 30, 2020](https://www.garda.com/crisis24/news-alerts/358551/congo-state-of-health-emergency-extended-until-july-30-update-8).'
+      '2020-07-30': 'DRC has [suspended all international passenger flights until at least July 30, 2020](https://www.garda.com/crisis24/news-alerts/358551/congo-state-of-health-emergency-extended-until-july-30-update-8).'
     sources:
       domestic:
         - 'The Congolese government has been easing COVID-19 restrictions across the country since the end of April, with the [reopening of shops and other facilities in major urban centers](https://www.garda.com/crisis24/news-alerts/352646/drc-government-extends-state-of-health-emergency-until-july-5-update-17).'
@@ -734,7 +734,7 @@ countries:
       outbound: 'no'
   CU:
     reopening:
-      '2020-08-01': 'International flights will be permitted from August 1, 2020](https://cu.usembassy.gov/covid-19-information/).'
+      '2020-08-01': 'International flights will be [permitted from August 1, 2020](https://cu.usembassy.gov/covid-19-information/).'
     sources:
       domestic:
         - 'The capital, Havana, will enter phase one of a three-phase normalization process. [Residents will be permitted](https://cu.usembassy.gov/covid-19-information/) to travel on public or private transport, go to the beach, visit bars and restaurants, and go to recreation centers.'
@@ -2916,7 +2916,7 @@ countries:
       inbound: 'no'
   MT:
     reopening:
-      '2020-07-15': '[Restrictions on all other flight destinations will be lifted on July 15, 2020](https://www.mta.com.mt/en/news-details/263).'
+      '2020-07-15': 'Restrictions on all other flight destinations will be [lifted on July 15, 2020](https://www.mta.com.mt/en/news-details/263).'
     sources:
       domestic:
         - 'Museums and tourist sites, shops, gyms, hairdressers, swimming pools, restaurants and bars have re-opened but with [restrictions on the number of customers allowed entry](https://www.gov.uk/foreign-travel-advice/malta/coronavirus), a requirement to wear a mask and an ability to maintain social distancing.'
