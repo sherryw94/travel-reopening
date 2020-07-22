@@ -25,11 +25,11 @@ export default {
   data() {
     return {
       networks: [
-        { network: 'facebook', icon: 'facebook' },
+        { network: 'facebook', icon: 'facebook-f' },
         { network: 'twitter', icon: 'twitter' },
-        { network: 'linkedin', icon: 'linkedin' },
-        { network: 'telegram', icon: 'telegram' },
-        { network: 'whatsapp', icon: 'whatsapp-square' },
+        { network: 'linkedin', icon: 'linkedin-in' },
+        { network: 'telegram', icon: 'telegram-plane' },
+        { network: 'whatsapp', icon: 'whatsapp' },
       ],
     };
   },
