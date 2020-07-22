@@ -51,7 +51,11 @@
           </div>
         </div>
         <CountrySources :countryCode="country.code" />
-        <Disclaimer />
+        <div class="panel">
+          <div class="panel__inner">
+            <Disclaimer tag="h3" title="About Our Data" />
+          </div>
+        </div>
       </div>
     </div>
   </div>

@@ -8,13 +8,30 @@
 
 Our data is pulled from multiple sources including official government websites and news outlets. Selecting a country will display detailed information on domestic travel, international travel, and visa and quarantine regulations current to the destination, as well as relevant links to sources.
 
-### How you can contribute
+### How You Can Contribute
 
 As the situation changes rapidly around the world, keeping information up-to-date can be challenging. If you spot any incorrect or outdated information, we encourage you to contribute to the project. Alternatively, you can submit data or situation reports from your region to [travel-map@tourhero.com](mailto:travel-map@tourhero.com).
 
-### Disclaimer
+### About Our Data
 
-Advisories may change without warning. Please check official government websites for up-to-date information on travel restrictions prior to your journeys. This project displays information that is related only to COVID-19 travel restrictions and not to existing restrictions.
+We gather our data from hundreds of sources to ensure that our information
+is up-to-date. Our sources include official government websites
+and reputable news outlets. Please note, however, that advisories may change
+without warning. We encourage you to check the official government websites
+before traveling.
+
+We also provide community COVID-19 statistics to help you make an informed
+travel decision. These statistics come from the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en/covid-19-pandemic),
+and show daily new confirmed cases, total confirmed cases, and total deaths.
+
+**Daily new confirmed cases:** Reflects the daily number of COVID-19 cases
+in given country.
+
+**Total confirmed cases:** Reflects the total number of positive COVID-19 cases
+in given country.
+
+**Total deaths:** Reflects the total number of deaths caused by COVID-19
+in given country.
 
 ## Project setup
 
@@ -25,7 +42,7 @@ Mac Requirements:
 - [`asdf`](https://asdf-vm.com/#/core-manage-asdf-vm?id=install) - multiple runtime versions manager: `brew install asdf`
 - [`yarn`](https://yarnpkg.com/) - Install yarn via asdf: `asdf plugin-add yarn; asdf install yarn latest`
 
-Clone this project from Github then run:
+Clone this project from GitHub then run:
 
 ```sh
 yarn install

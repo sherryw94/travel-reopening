@@ -15,24 +15,18 @@
         to the destination, as well as relevant links to sources.
       </p>
 
-      <h2>How you can contribute</h2>
+      <h2>How You Can Contribute</h2>
       <p>
         As the situation changes rapidly around the world, keeping information
         up-to-date can be challenging. If you spot any incorrect or outdated
         information, we encourage you to contribute to the project. The source
-        code and the data is open-sourced on Github:
-        <a href="https://github.com/tourhero/travel-reopening">
-          https://github.com/tourhero/travel-reopening
-        </a>. Alternatively, you can submit data or situation reports from your
+        code and the data is open-sourced on GitHub:
+        <a href="https://github.com/tourhero/travel-reopening">https://github.com/tourhero/travel-reopening</a>.
+        Alternatively, you can submit data or situation reports from your
         region to <a href="mailto:travel-map@tourhero.com">travel-map@tourhero.com</a>.
       </p>
 
-      <h2>Disclaimer</h2>
-      <p>Advisories may change without warning. Please check official government
-        websites for up-to-date information on travel restrictions prior to your
-        journeys. This project displays information that is related only to COVID-19
-        travel restrictions and not to existing restrictions.
-      </p>
+      <Disclaimer tag="h2" title="About Our Data" />
 
       <h2>Legend</h2>
       <div class="inline-grid grid-cols-legend row-gap-2 col-gap-4 items-baseline">
@@ -56,11 +50,12 @@
 </template>
 
 <script>
+import Disclaimer from '@/components/Disclaimer.vue';
 import TravelStateBadge from '@/components/TravelStateBadge.vue';
 
 export default {
   name: 'About',
-  components: { TravelStateBadge },
+  components: { Disclaimer, TravelStateBadge },
   mounted() {
     this.$nextTick(() => document.dispatchEvent(new Event('render-completed')));
   },
