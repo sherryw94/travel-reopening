@@ -1,0 +1,1 @@
+- Travelers who test positive in Dubai following COVID-19 PCR testing are required to undergo quarantine.
