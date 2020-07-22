@@ -1,9 +1,12 @@
 <template>
   <div>
     <h3>COVID-19 Statistics</h3>
-    <CovidStatsFigure :data="countryData.newCases">Daily new confirmed cases</CovidStatsFigure>
-    <CovidStatsFigure :data="countryData.totalCases">Total confirmed cases</CovidStatsFigure>
-    <CovidStatsFigure :data="countryData.totalDeaths">Total deaths</CovidStatsFigure>
+    <CovidStatsFigure class="mb-4"
+    :data="countryData.newCases">Daily new confirmed cases</CovidStatsFigure>
+    <CovidStatsFigure class="mb-4"
+    :data="countryData.totalCases">Total confirmed cases</CovidStatsFigure>
+    <CovidStatsFigure class="mb-6"
+    :data="countryData.totalDeaths">Total deaths</CovidStatsFigure>
   </div>
 </template>
 

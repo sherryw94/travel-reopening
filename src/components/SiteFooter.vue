@@ -1,6 +1,6 @@
 <template>
   <div class="p-4 sm:px-6 md:px-8 mt-6 md:mt-8 border-t border-gray-200">
-    <div class="flex flex-col items-starts sm:flex-row sm:items-center sm:justify-between mb-1">
+    <div class="flex flex-col items-starts sm:flex-row sm:items-center sm:justify-between">
       <p class="sm:mb-0 text-gray-700 text-sm">
         Notice a mistake?
         <a class="inline-flex no-underline" href="mailto:travel-map@tourhero.com">Let us know</a>

@@ -5,7 +5,7 @@
         <div class="mb-4 sm:mb-6 lg:mb-8">
           <h1>The Ultimate Guide to COVID-19 Travel Restrictions</h1>
           <div class="flex flex-col sm:justify-between sm:flex-row">
-            <div class="sm:order-last mb-3 sm:mb-0">
+            <div class="sm:order-last mb-2 sm:mb-0">
               <ShareNetwork />
             </div>
             <p class="w-full md:w-9/12 sm:order-first">
