@@ -3185,7 +3185,7 @@ countries:
       inbound:
         - 'Land border restrictions with the US, which were introduced due to COVID-19, will be [extended through August 21, 2020](https://www.garda.com/crisis24/news-alerts/355486/mexico-authorities-further-ease-covid-19-restrictions-in-mexico-city-june-29-update-17)'
         - 'All airports of entry are operating, [possibly on a reduced schedule](https://www.universalweather.com/blog/mexico-coronavirus-covid-19-impact-on-business-aviation/).'
-        - 'Mexican and US authorities announced that the closure of their mutual border has been [extended until at least August 21](https://www.garda.com/crisis24/news-alerts/360211/mexico-authorities-extend-border-closure-until-august-21-update-21).'
+        - 'Mexican and US authorities announced that the closure of their mutual border has been [extended until at least August 21](https://mx.usembassy.gov/travel-restrictions-fact-sheet/).'
       outbound:
         - 'Land border restrictions with the US, which were introduced due to COVID-19, will be [extended through August 21, 2020](https://www.garda.com/crisis24/news-alerts/355486/mexico-authorities-further-ease-covid-19-restrictions-in-mexico-city-june-29-update-17)'
         - 'All airports of entry are operating, [possibly on a reduced schedule](https://www.universalweather.com/blog/mexico-coronavirus-covid-19-impact-on-business-aviation/).'
@@ -4661,9 +4661,8 @@ countries:
         - 'Philadelphia Mayor Jim Kenney announced on July 14, 2020, that [most large public events will be prohibited until February 28, 2021](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/).'
       inbound:
         - 'There are restrictions on the entry of certain travelers into the United States. Refer to the CDC website for [full details.](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html)'
-        - 'Land border restrictions with Mexico will be [extended through July 21, 2020](https://www.garda.com/crisis24/news-alerts/352361/us-authorities-impose-mandatory-wearing-of-face-masks-in-public-in-california-june-18-update-60).'
+        - 'Land border restrictions with Mexico will be [extended through August 21, 2020](https://mx.usembassy.gov/travel-restrictions-fact-sheet/).'
         - 'Canadian and US authorities announced on July 15, 2020, that the closure of their mutual border has been [extended until at least August 21, 2020](https://www.garda.com/crisis24/news-alerts/360646/canada-authorities-extend-border-closure-with-us-until-august-21-update-20).'
-        - 'Mexican and US authorities announced that the closure of their mutual border has been [extended until at least August 21, 2020](https://www.garda.com/crisis24/news-alerts/360211/mexico-authorities-extend-border-closure-until-august-21-update-21).'
       outbound:
         - 'The U.S. Department of State has issued a Global Level 4 Health Advisory advising U.S. citizens to [avoid all international travel.](https://travel.state.gov/content/travel/en/traveladvisories/ea/travel-advisory-alert-global-level-4-health-advisory-issue.html)'
         - 'Air travel is possible with [flights operating at a limited capacity](https://www.flylax.com/travelsafely). Precautions should be taken.'
