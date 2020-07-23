@@ -3939,7 +3939,7 @@ countries:
       inbound: 'no'
   QA:
     reopening:
-        '2020-08-01': 'Travelers from specific countries will be allowed into Qatar from August 1, 2020](https://www.garda.com/crisis24/news-alerts/362166/qatar-international-travel-restrictions-to-be-eased-from-august-1-update-24).'
+      '2020-08-01': 'Travelers from specific countries will be allowed into Qatar from August 1, 2020](https://www.garda.com/crisis24/news-alerts/362166/qatar-international-travel-restrictions-to-be-eased-from-august-1-update-24).'
     sources:
       domestic:
         - '[Restrictions are easing](https://www.garda.com/crisis24/news-alerts/355431/qatar-government-to-further-ease-covid-19-restrictions-from-july-1-update-22), so restaurants will be able to resume operations at a limited capacity and public parks and beaches will reopen. Offices will also be allowed to reopen at a maximum of 50 percent capacity. Private and public gatherings should not exceed a five-person limit.'
