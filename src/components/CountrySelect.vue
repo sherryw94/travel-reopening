@@ -38,7 +38,12 @@ export default {
       }
       const country = this.getCountryByCode(val.code);
       if (this.$route.params.country === country.slug) return;
-      this.$gtm.trackEvent({ category: 'dropdown_country', action: 'select', label: country.name });
+      this.$gtm.trackEvent({
+        action: 'select',
+        category: 'dropdown_country',
+        event: 'event_dropdown_country',
+        label: country.name,
+      });
       this.$router.push({ name: 'Country', params: { country: country.slug } });
     },
   },
