@@ -1,5 +1,5 @@
 ---
-checked_on: 2020-07-21
+checked_on: 2020-07-22
 countries:
   AD:
     sources:
@@ -21,16 +21,16 @@ countries:
         - 'Residents of Abu Dhabi city, Al Ain and Al Dhafra can [travel within their cities but not enter or leave them and cannot go to other emirates](https://www.thenational.ae/uae/health/coronavirus-everything-you-need-to-know-about-covid-19-in-the-uae-1.990131).'
         - 'From June 24, 2020, cinemas, auction houses, entertainment centers, valet services, and fitness facilities are [permitted to open](https://www.garda.com/crisis24/news-alerts/353051/uae-authorities-in-emirate-of-sharjah-announce-easing-of-covid-19-restrictions-from-june-24-update-46), provided they do not exceed 50 percent capacity and respect social distancing measures.'
       inbound:
-        - 'Authorities in the UAE eased travel restrictions for international tourists, [permitting their arrival](https://www.garda.com/crisis24/news-alerts/357706/uae-authorities-in-dubai-ease-travel-restrictions-on-july-7-update-48).'
-        - 'All passengers are expected to [produce a negative COVID-19 test](https://www.garda.com/crisis24/news-alerts/357706/uae-authorities-in-dubai-ease-travel-restrictions-on-july-7-update-48) prior to boarding flights to Dubai that is less than 4 days old](https://www.garda.com/crisis24/news-alerts/357706/uae-authorities-in-dubai-ease-travel-restrictions-on-july-7-update-48).'
-        - 'UAE authorities [suspended all flights arriving from Pakistan](https://www.garda.com/crisis24/news-alerts/353051/uae-authorities-in-emirate-of-sharjah-announce-easing-of-covid-19-restrictions-from-june-24-update-46) from Monday, June 29, 2020.'
+        - 'Authorities in the UAE eased travel restrictions for international tourists, [permitting their arrival](https://www.emirates.com/sg/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/) in Dubai only.'
+        - 'All passengers are expected to [produce a negative COVID-19 test](https://www.garda.com/crisis24/news-alerts/357706/uae-authorities-in-dubai-ease-travel-restrictions-on-july-7-update-48) prior to boarding flights to Dubai that is less than 4 days old.'
+        - 'UAE authorities [suspended all flights arriving from Pakistan](https://www.garda.com/crisis24/news-alerts/353051/uae-authorities-in-emirate-of-sharjah-announce-easing-of-covid-19-restrictions-from-june-24-update-46) from June 29, 2020.'
       outbound:
         - 'Officials in Abu Dhabi eased travel restrictions for residents on July 4, 2020 [permitting short trips outside of the emirate, provided they take a coronavirus disease (COVID-19) test](https://www.garda.com/crisis24/news-alerts/358091/uae-travel-restrictions-eased-for-residents-of-abu-dhabi-july-4-update-49).'
       visa_quarantine:
-        - 'On July 11, authorities in the UAE [canceled visa extension granted to expatriates](https://www.garda.com/crisis24/news-alerts/358546/uae-authorities-cancel-visa-extension-for-expatriates-july-11-update-50).'
+        - 'On July 11, 2020, authorities in the UAE [canceled visa extension granted to expatriates](https://www.garda.com/crisis24/news-alerts/358546/uae-authorities-cancel-visa-extension-for-expatriates-july-11-update-50).'
     travel:
       domestic: partial
-      inbound: 'yes'
+      inbound: partial
       inbound_restricted:
         - PK
       outbound: partial
@@ -121,11 +121,14 @@ countries:
       domestic: partial
       inbound: 'no'
   AR:
+    reopening:
+      '2020-09-01': 'Commercial flights may [reopen on September 1, 2020](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21).'
     sources:
       domestic:
         - 'Domestic flights, long-haul buses and trains [remain suspended](https://www.worldnomads.com/travel-safety/south-america/argentina/travel-alert).'
         - 'The lockdown in place in the Buenos Aires metropolitan area to prevent the spread of the coronavirus disease (COVID-19) [will be extended until July 17, 2020](https://www.garda.com/crisis24/news-alerts/354761/argentina-authorities-extend-buenos-aires-lockdown-until-july-17-update-19).'
-        - 'Most of those non-essential businesses which resumed operations on June 8, 2020 will be required to [close again](https://www.garda.com/crisis24/news-alerts/354761/argentina-authorities-extend-buenos-aires-lockdown-until-july-17-update-19)'
+        - '[Local shops can re-open](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21), whereas food and drink establishments can also re-open, but only for takeaways.'
+        - 'Restrictions will remain in place on what day citizens can leave their homes, [depending on their national identity card numbers](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21).'
       inbound:
         - 'All commercial flights have been [suspended until September 1, 2020](https://www.worldnomads.com/travel-safety/south-america/argentina/travel-alert).'
       outbound:
@@ -193,13 +196,13 @@ countries:
         - 'On June 21, 2020, authorities in Victoria state announced that they were [extending the current state of emergency for four weeks until July 19, 2020](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29).'
         - '[NSW will ease restrictions on July 1, 2020](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29), with the 50-person cap for indoor venues to be lifted provided guests apply social distancing measures.'
         - 'Border between the Victoria and New South Wales will [close from 23:59 (local time) on July 7, 2020, until further notice](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34).'
+        - 'The wearing of facemasks in Melbourne will be [mandatory from July 22, 2020](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34).'
       inbound:
-        - '[Only nationals and residents of Australia are allowed entry](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
-        - '[Nationals of New Zealand usually residing in Australia are allowed to enter Australia](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
+        - 'Nationals of New Zealand usually residing in Australia are [allowed to enter Australia](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
       outbound:
-        - '[There is a ban on Australians traveling overseas](https://www.smartraveller.gov.au/COVID-19-australian-travellers#departing).'
+        - 'There is a [ban on Australians traveling overseas](https://www.smartraveller.gov.au/COVID-19-australian-travellers#departing).'
       visa_quarantine:
-        - '[When you arrive in Australia from overseas, you must complete 14 days of mandatory quarantine in designated facilities in the city you arrive in](https://www.smartraveller.gov.au/).'
+        - 'When you arrive in Australia from overseas, you must complete [14 days of mandatory quarantine in designated facilities](https://www.smartraveller.gov.au/) in the city you arrive in.'
     travel:
       domestic: partial
       inbound: 'no'
@@ -226,7 +229,7 @@ countries:
       inbound:
         - 'The BiH Council of Ministers has announced that it will allow entry to the citizens of Croatia, Serbia, and Montenegro as of June 1, 2020. There is [still a ban to entry for non-resident foreign nationals.](https://ba.usembassy.gov/covid-19-information/)'
       visa_quarantine:
-        - 'Both the Republika Srpska and the Federation have [abolished self-isolation measures for people entering BiH.](https://ba.usembassy.gov/covid-19-information/)'
+        - 'Both the Republika Srpska and the Federation have [abolished self-isolation measures for people entering BiH.](https://ba.usembassy.gov/covid-19-information/).'
     travel:
       domestic: partial
       inbound: partial
@@ -456,15 +459,48 @@ countries:
   BS:
     sources:
       domestic:
-        - '[Inter island travel allowed with travel application.](https://www.osac.gov/Content/Report/1e5dbe0f-306f-429e-b385-18d348bd34ff)'
+        - 'Inter island travel allowed with [travel application](https://www.osac.gov/Content/Report/1e5dbe0f-306f-429e-b385-18d348bd34ff).'
+        - 'All public and private beaches on the island of New Providence, Paradise Island, Rose Island, Athol Island, and surrounding cays have closed from July 20, 2020. Indoor dining is also not permitted, bars will be closed, and public gatherings, including church services and sports activities, [will be prohibited](https://www.garda.com/crisis24/news-alerts/361576/bahamas-authorities-announce-new-restrictions-from-july-20-update-8).'
       inbound:
-        - 'On July 1, 2020, the Bahamian government [reopened the country''s borders to international tourists](https://www.garda.com/crisis24/news-alerts/355966/bahamas-authorities-reopen-borders-to-international-tourism-on-july-1-update-6).'
+        - 'On July 1, 2020, the Bahamian government [reopened the country''s borders](https://www.garda.com/crisis24/news-alerts/355966/bahamas-authorities-reopen-borders-to-international-tourism-on-july-1-update-6) to flights from Canada, the United Kingdom, and the European Union, but only after presenting proof of a negative COVID-19 test taken within 10 days of their arrival.'
         - 'Those arriving before Tuesday, July 7, must [provide negative COVID-19 test results](https://www.garda.com/crisis24/news-alerts/355966/bahamas-authorities-reopen-borders-to-international-tourism-on-july-1-update-6) that are no more than ten days old. After July 7, arrivals must provide a test result that is no more than seven days old.'
       visa_quarantine:
         - 'Each traveler must submit a [Travel Health Visa Application form](https://www.osac.gov/Content/Report/1e5dbe0f-306f-429e-b385-18d348bd34ff).'
     travel:
       domestic: 'yes'
-      inbound: 'no'
+      inbound: 'partial'
+      inbound_allowed:
+        - CA
+        - GB
+        - AT
+        - BE
+        - CZ
+        - DK
+        - EE
+        - FI
+        - FR
+        - DE
+        - GR
+        - HU
+        - IS
+        - IT
+        - LV
+        - LT
+        - LU
+        - MT
+        - NL
+        - NO
+        - PL
+        - PT
+        - SK
+        - SI
+        - ES
+        - SE
+        - BG
+        - HR
+        - CY
+        - IE
+        - RO
   BT:
     sources:
       domestic:
@@ -540,7 +576,7 @@ countries:
         title: 'Newfoundland Getaway: 48 Hours in Gros Morne National Park'
   CD:
     reopening:
-      '2020-07-30': '[DRC has [suspended all international passenger flights until at least July 30, 2020](https://www.garda.com/crisis24/news-alerts/358551/congo-state-of-health-emergency-extended-until-july-30-update-8).'
+      '2020-07-30': 'DRC has [suspended all international passenger flights until at least July 30, 2020](https://www.garda.com/crisis24/news-alerts/358551/congo-state-of-health-emergency-extended-until-july-30-update-8).'
     sources:
       domestic:
         - 'The Congolese government has been easing COVID-19 restrictions across the country since the end of April, with the [reopening of shops and other facilities in major urban centers](https://www.garda.com/crisis24/news-alerts/352646/drc-government-extends-state-of-health-emergency-until-july-5-update-17).'
@@ -655,16 +691,17 @@ countries:
       domestic:
         - 'Certain areas need a ''green health code'', [more information can be found in the link](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg).'
         - '[Beijing lifted lockdowns in five neighborhoods](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg) following a decrease in coronavirus disease (COVID-19) cases.'
+        - 'Urumqi locked down all residential areas of the city, [forbidding residents to leave their housing compounds](https://www.garda.com/crisis24/news-alerts/361556/china-authorities-declare-wartime-state-for-urumqi-xinjiang-region-july-18-update-75).'
       inbound:
-        - '[In Beijing, all international flights are currently being redirected to one of 12 other cities.](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/)'
+        - 'In Beijing, all international flights are [currently being redirected to one of 12 other cities.](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/)'
       outbound:
         - '[US bans all commercial passenger flights by Chinese carriers.](https://www.washingtonpost.com/local/trafficandcommuting/trump-administration-bans-flights-by-chinese-airlines/2020/06/03/d5eb7136-a5a5-11ea-b619-3f9133bbb482_story.html)'
-        - '[Land border crossings in the northeast and surveilling the flights from Moscow are restricted.](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/)'
-        - '[China has signed fast track agreements with Germany, France, South Korea, UK, and Japan.](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/)'
+        - 'Land border crossings in the northeast and surveilling the flights from Moscow [are restricted.](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/)'
+        - '[China has signed fast track agreements](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/) with Germany, France, South Korea, UK, and Japan.'
       visa_quarantine:
-        - '[Hong Kong: - People coming from Mainland China, Macau, and Taiwan will be put under 14 day home based quarantine.](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg)'
-        - '[Refer to cities which have no quarantine requirement if travelers can provide a green health code.](https://www.europeanchamber.com.cn/en/national-news/3188/travel_policies_to_and_from_cities_in_china)'
-        - '[From 1 April, 2020, the Customs authorities have said they would cooperate with local governments to carry out nucleic acid testing for all overseas passengers entering China by air, sea, or land.](http://www.gov.cn/xinwen/2020-04/06/content_5499662.htm) More information [here](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg).'
+        - 'Hong Kong: People coming from Mainland China, Macau, and Taiwan will be put under [14 day home based quarantine.](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg)'
+        - 'Refer to cities which have no quarantine requirement if [travelers can provide a green health code.](https://www.europeanchamber.com.cn/en/national-news/3188/travel_policies_to_and_from_cities_in_china)'
+        - 'From April 1, 2020, the customs authorities have said they would cooperate with local governments to carry out nucleic acid testing for [all overseas passengers entering China by air, sea, or land.](http://www.gov.cn/xinwen/2020-04/06/content_5499662.htm) More information [here](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg).'
     travel:
       domestic: partial
       inbound: partial
@@ -673,6 +710,7 @@ countries:
     sources:
       domestic:
         - '[Some non-essential businesses and public facilities, including barbershops, museums, and libraries have since begun to reopen](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
+        - 'Domestic commercial flights have [resumed from July 21, 2020](https://www.garda.com/crisis24/news-alerts/360941/colombia-highest-single-day-increase-of-covid-19-cases-recorded-july-17-update-22).'
       inbound:
         - '[All overland, water and air borders are closed are closed until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).'
       outbound:
@@ -696,7 +734,7 @@ countries:
       outbound: 'no'
   CU:
     reopening:
-      '2020-08-01': 'International flights will be permitted from August 1, 2020](https://cu.usembassy.gov/covid-19-information/).'
+      '2020-08-01': 'International flights will be [permitted from August 1, 2020](https://cu.usembassy.gov/covid-19-information/).'
     sources:
       domestic:
         - 'The capital, Havana, will enter phase one of a three-phase normalization process. [Residents will be permitted](https://cu.usembassy.gov/covid-19-information/) to travel on public or private transport, go to the beach, visit bars and restaurants, and go to recreation centers.'
@@ -758,6 +796,7 @@ countries:
     sources:
       domestic:
         - 'Domestic travel is [allowed in the Czech Republic](https://koronavirus.mzcr.cz/en/roadmap-for-easing-measures/).'
+        - 'The compulsory wearing of face coverings has been reintroduced, while [restaurant opening hours have been reduced.](https://www.garda.com/crisis24/news-alerts/360956/czech-republic-authorities-tighten-covid-19-restrictions-on-july-17-update-17).'
       inbound:
         - 'The Czech Republic allows entry to citizens of the [European Union](https://koronavirus.mzcr.cz/en/list-of-european-countries-according-to-the-level-of-risk/).'
       outbound:
@@ -850,9 +889,13 @@ countries:
       domestic:
         - 'There is a [ban on gatherings of more than ten people.](https://www.garda.com/crisis24/news-alerts/360816/djibouti-authorities-to-allow-international-flights-to-resume-from-july-18-update-4)'
       inbound:
-        - '[International flights have resumed](https://www.garda.com/crisis24/news-alerts/360816/djibouti-authorities-to-allow-international-flights-to-resume-from-july-18-update-4).'
+        - 'International flights [have resumed](https://www.garda.com/crisis24/news-alerts/360816/djibouti-authorities-to-allow-international-flights-to-resume-from-july-18-update-4).'
+        - 'Land and sea borders [have reopened](https://www.garda.com/crisis24/news-alerts/361331/djibouti-authorities-re-open-land-and-sea-borders-as-of-july-17-update-5).'
       outbound:
-        - '[International flights have resumed](https://www.garda.com/crisis24/news-alerts/360816/djibouti-authorities-to-allow-international-flights-to-resume-from-july-18-update-4).'
+        - 'International flights [have resumed](https://www.garda.com/crisis24/news-alerts/360816/djibouti-authorities-to-allow-international-flights-to-resume-from-july-18-update-4).'
+        - 'Land and sea borders [have reopened](https://www.garda.com/crisis24/news-alerts/361331/djibouti-authorities-re-open-land-and-sea-borders-as-of-july-17-update-5).'
+      visa_quarantine:
+        - 'Passengers at border entry points will be subject to screening at the travelers expense; any travelers that test positive for the virus will immediately be [taken to a treatment centre.](https://www.garda.com/crisis24/news-alerts/361331/djibouti-authorities-re-open-land-and-sea-borders-as-of-july-17-update-5).'
     travel:
       domestic: 'partial'
       inbound: 'yes'
@@ -914,15 +957,16 @@ countries:
   DO:
     sources:
       domestic:
-        - 'The government of the Dominican Republic has confirmed that they will [not extend a nationwide curfew](https://www.garda.com/crisis24/news-alerts/354771/dominican-republic-authorities-lift-curfew-from-june-28-update-11) which is due to expire on Sunday, June 28, 2020.'
+        - 'The government of the Dominican Republic has declared a state of emergency for 45 days from, July 20, 2020](https://www.garda.com/crisis24/news-alerts/354771/dominican-republic-authorities-lift-curfew-from-june-28-update-11) that provides the government with the ability to apply proportional restrictions on freedom of movement, public assembly, and other powers needed to control the spread of the virus.'
+        - 'Many hotels on the island have reopened with [health and safety measures in place](https://www.garda.com/crisis24/news-alerts/361486/dominican-republic-government-declares-state-of-emergency-july-20-update-14).'
       inbound:
-        - 'The Dominican Republic will [gradually reopen for international tourism on July 1, 2020](https://travel.gc.ca/destinations/dominican-republic?wbdisable=true) as the country relaxes restrictions imposed due to the COVID-19 pandemic.'
+        - 'The Dominican Republic has [reopened for international tourism from July 1, 2020](https://www.garda.com/crisis24/news-alerts/361486/dominican-republic-government-declares-state-of-emergency-july-20-update-14).'
       outbound:
-        - 'The Dominican Republic will [gradually reopen for international tourism on July 1, 2020](https://travel.gc.ca/destinations/dominican-republic?wbdisable=true) as the country relaxes restrictions imposed due to the COVID-19 pandemic.'
+        - 'The Dominican Republic has [reopened for international tourism from July 1, 2020](https://www.garda.com/crisis24/news-alerts/361486/dominican-republic-government-declares-state-of-emergency-july-20-update-14).'
     travel:
       domestic: 'partial'
-      inbound: 'partial'
-      outbound: 'partial'
+      inbound: 'yes'
+      outbound: 'yes'
   DZ:
     sources:
       domestic:
@@ -1015,10 +1059,10 @@ countries:
       domestic:
         - 'Hotels in Egypt have now resumed operation, and have been able to operate at 50% capacity since June 1, 2020. Casinos are also allowed to open if they [do not exceed 50% of their total capacity.](https://www.garda.com/crisis24/news-alerts/355906/egypt-national-carrier-announces-resumption-of-flights-from-july-1-update-30).'
       inbound:
-        - 'EgyptAir officials have announced that international commercial flights have resumed](https://www.garda.com/crisis24/news-alerts/355906/egypt-national-carrier-announces-resumption-of-flights-from-july-1-update-30).'
+        - 'EgyptAir officials have announced that [international commercial flights have resumed](https://www.garda.com/crisis24/news-alerts/355906/egypt-national-carrier-announces-resumption-of-flights-from-july-1-update-30).'
         - 'A limited number of services to Egypt are now [operating from a variety of international destinations](https://www.egyptonlinevisa.com/travel-restrictions/).'
       outbound:
-        - '[Outbound travel from Egypt is not restricted](https://www.egyptonlinevisa.com/travel-restrictions/).'
+        - 'Outbound travel from Egypt is [not restricted](https://www.egyptonlinevisa.com/travel-restrictions/).'
         - 'Border between Egypt and Jordan [remains closed](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
       visa_quarantine:
         - 'All passengers arriving in Egypt by air, including returning Egyptian residents, are still required to have their [temperature taken and self-quarantine for 7 days.](https://www.egyptonlinevisa.com/travel-restrictions/)'
@@ -1046,6 +1090,8 @@ countries:
       domestic:
         - 'Authorities reimposed a lockdown that only includes a [ban on movement in and out of the area](https://newseu.cgtn.com/news/2020-05-25/Spain-s-lockdown-eased-UK-schools-to-reopen-COVID-19-daily-bulletin-QMAjS8xApG/index.html) in Segrià municipality (Catalonia region), including the city of Lleida, due to a rise in coronavirus disease (COVID-19) cases in the area on Saturday, July 4, 2020.'
         - '[Galician authorities reimposed a lockdown in La Mariña](https://www.garda.com/crisis24/news-alerts/356816/spain-authorities-reimpose-lockdown-in-la-marina-galicia-region-july-5-update-34) until Friday, July 10, 2020. However, residents will not be required to go on a full quarantine within their confined area. Bars and restaurants will remain open during the lockdown, but limited to a 50 percent capacity.'
+        - 'Social gatherings in Catalonia are [limited to ten people](https://www.garda.com/crisis24/news-alerts/361026/spain-authorities-implement-additional-restrictions-in-catalonia-and-aragon-regions-from-july-18-update-38), bars and restaurants are only permitted to operate at 50-percent capacity for indoor areas, and nightclubs, cinemas, theatres, gyms, and children''s indoor playgrounds will be closed.'
+        - 'In Aragon, bars and restaurants are only permitted to operate at a 50-percent capacity for indoor areas, and retail stores, night clubs, cinemas, theatres, gyms, and facilities offering cultural activities will be [permitted to operate at 75-percent capacity](https://www.garda.com/crisis24/news-alerts/361026/spain-authorities-implement-additional-restrictions-in-catalonia-and-aragon-regions-from-july-18-update-38).'
       inbound:
         - '[The Spanish authorities have decided to reopen country’s borders](https://www.schengenvisainfo.com/news/spain-to-reopen-borders-a-week-later-than-commissions-recommended-date/) on 21 June, 2020, for all EU and Schengen countries, except for Portugal with which the borders will reopen in July, 2020.'
       outbound:
@@ -1202,12 +1248,12 @@ countries:
   FR:
     sources:
       domestic:
-        - '[France announced the long-awaited nationwide reopening of bars, restaurants and cafes from June 2, albeit with restrictions, and lifted limitations on domestic travel in time for the summer holidays.](https://www.businesstimes.com.sg/government-economy/france-to-reopen-cafes-end-domestic-travel-limit)'
-        - '[The wearing of face masks in indoor public spaces will be compulsory throughout the country](https://www.garda.com/crisis24/news-alerts/360441/france-face-masks-to-be-compulsory-in-indoor-public-spaces-july-16-update-30).'
+        - 'France announced the long-awaited nationwide reopening of bars, restaurants and cafes from June 2, 2020, albeit with restrictions, and [lifted limitations on domestic travel in time for the summer holidays.](https://www.businesstimes.com.sg/government-economy/france-to-reopen-cafes-end-domestic-travel-limit)'
+        - 'The wearing of face masks in indoor public spaces will be [compulsory throughout the country from July 20, 2020](https://www.garda.com/crisis24/news-alerts/361151/france-face-masks-to-be-compulsory-in-indoor-public-spaces-from-july-20-update-31).'
       inbound:
         - '[Entry is not allowed](https://www.diplomatie.gouv.fr/en/coming-to-france/coronavirus-advice-for-foreign-nationals-in-france/coronavirus-statements/article/travel-restrictions-and-implementation-of-public-health-measures-at-borders) for travelers arriving from outside the European area (all countries of the world except European Union member States, the United Kingdom, Andorra, Iceland, Lichtenstein, Monaco, Norway, San Marino, Switzerland, Vatican City).'
       outbound:
-        - '[Avoid non-essential travel, especially beyond EU member states and Schengen Associated States](https://ec.europa.eu/transparency/regdoc/rep/1/2020/EN/COM-2020-115-F1-EN-MAIN-PART-1.PDF).'
+        - 'Avoid non-essential travel, especially [beyond EU member states and Schengen Associated States](https://ec.europa.eu/transparency/regdoc/rep/1/2020/EN/COM-2020-115-F1-EN-MAIN-PART-1.PDF).'
       visa_quarantine:
         - 'For French nationals and foreign nationals living in France with a national permit: if you travel to a French Overseas Territory, or if you present symptoms of COVID-19 when you arrive in French territory, [you will be required to quarantine](https://www.gouvernement.fr/en/coronavirus-covid-19).'
         - 'Travelers arriving from outside the European space are given, upon arrival, information on the conditions for a [voluntary quarantine in the residence of their choice](https://www.gouvernement.fr/en/coronavirus-covid-19), or where appropriate, in an appropriate accommodation structure.'
@@ -1678,8 +1724,10 @@ countries:
       domestic:
         - '[A ban on gatherings of more than 50 people](https://mup.gov.hr/uzg-covid/english/286212) in Hong Kong, implemented in response to the coronavirus disease (COVID-19) pandemic, was extended by two weeks on Tuesday, June 30 to July 14, 2020.'
         - '[Authorities in Hong Kong have announced the closure of schools](https://www.garda.com/crisis24/news-alerts/358271/hong-kong-schools-to-close-on-july-13-amid-new-covid-19-outbreak-update-31), and all students will now begin their summer holidays on July 13, 2020.'
+        - 'Non-essential civil servants have been ordered to work from home for a week, and the closure of amusement parks, gyms, and other venues where social distancing is challenging [has been extended](https://www.garda.com/crisis24/news-alerts/361551/hong-kong-authorities-to-introduce-new-entry-restrictions-on-july-25-update-34).'
       inbound:
         - '[The Hong Kong SAR Government restricts](https://www.coronavirus.gov.hk/eng/travel-advice.html) any Hubei residents, and non-Hong Kong residents who have visited the Hubei Province in the past 14 days upon arrival from entering Hong Kong since January 27, 2020.'
+        - 'Inbound passengers with travel history to Bangladesh, India, Indonesia, Nepal, Pakistan, the Philippines, and South Africa in the past 14 days will need to present a [negative COVID-19 test result taken 72 hours prior to departure.](https://www.garda.com/crisis24/news-alerts/361551/hong-kong-authorities-to-introduce-new-entry-restrictions-on-july-25-update-34).'
       outbound:
         - 'Members of the public are strongly urged to [avoid non-essential travel outside Hong Kong.](https://www.coronavirus.gov.hk/eng/travel-advice.html)'
       visa_quarantine:
@@ -1691,7 +1739,8 @@ countries:
   HN:
     sources:
       domestic:
-        - '[The curfew remains in place](https://www.garda.com/crisis24/news-alerts/355511/honduras-authorities-extend-nationwide-curfew-until-july-12-update-10) between the hours of 17:00 and 09:00 (local time).'
+        - '[The curfew remains in place](https://www.garda.com/crisis24/news-alerts/361606/honduras-authorities-extend-curfew-orders-until-july-26-update-12) between the hours of 5 pm and 9 am (local time) until July 26, 2020.'
+        - '[Banks, pharmacies, gas stations, supermarkets, hardware stores, fruit and vegetable markets, and other authorized businesses will be open Monday through Friday.](https://www.garda.com/crisis24/news-alerts/361606/honduras-authorities-extend-curfew-orders-until-july-26-update-12)'
       inbound:
         - 'The Honduran government announced all borders (air, land, and sea) would be closed as of March 15, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
       outbound:
@@ -1827,13 +1876,14 @@ countries:
     sources:
       domestic:
         - '[Domestic flights remain suspended, as are flights to and from Iraq.](https://gds.gov.iq/covid-19-iraq-extends-nationwide-curfew/)'
-        - 'Local authorities in the northern province of Erbil began [easing restrictions in place on Saturday, July 4, 2020](https://www.garda.com/crisis24/news-alerts/357026/iraq-authorities-ease-covid-19-restrictions-in-erbil-province-on-july-4-update-39).'
+        - 'Local authorities in the northern province of Erbil began [easing restrictions in place on July 4, 2020](https://www.garda.com/crisis24/news-alerts/357026/iraq-authorities-ease-covid-19-restrictions-in-erbil-province-on-july-4-update-39).'
         - 'There will be no restrictions on traffic and movement within the province, however, the travel ban between Erbil province other provinces of the region and the rest of Iraq [remains in place until further notice](https://www.garda.com/crisis24/news-alerts/357026/iraq-authorities-ease-covid-19-restrictions-in-erbil-province-on-july-4-update-39).'
         - '[The national 18:00 to 05:00 (local time) curfew remains in place](https://www.garda.com/crisis24/news-alerts/355496/iraq-authorities-to-impose-total-lockdown-in-erbil-province-from-june-30-update-37) in Iraq''s other provinces.'
+        - '[Curfews and lockdowns will be lifted after August 3, 2020](https://www.garda.com/crisis24/news-alerts/361256/iraq-authorities-announce-easing-of-nationwide-curfew-and-re-opening-of-airports-july-16-update-42).'
       inbound:
-        - 'The current ban on regular doemstic and commercial flight operations have been [extended until at least July 22, 2020](https://www.garda.com/crisis24/news-alerts/360236/iraq-authorities-extend-commercial-flight-suspension-until-july-22-update-41)'
+        - 'The government announced that airports will re-open as of July 23, 2020](https://www.garda.com/crisis24/news-alerts/361256/iraq-authorities-announce-easing-of-nationwide-curfew-and-re-opening-of-airports-july-16-update-42).'
       outbound:
-        - 'The current ban on regular doemstic and commercial flight operations have been [extended until at July 22, 2020](https://www.garda.com/crisis24/news-alerts/360236/iraq-authorities-extend-commercial-flight-suspension-until-july-22-update-41)'
+        - 'The government announced that airports will re-open as of July 23, 2020](https://www.garda.com/crisis24/news-alerts/361256/iraq-authorities-announce-easing-of-nationwide-curfew-and-re-opening-of-airports-july-16-update-42).'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -1842,7 +1892,7 @@ countries:
     sources:
       domestic:
         - 'Gyms, swimming pools, and mosques have been closed, and school tests and exams [have been postponed](https://www.garda.com/crisis24/news-alerts/360346/iran-authorities-reintroduce-lockdown-measures-in-tehran-on-july-15-update-35).'
-        - '[Wearing of face masks in public places](https://www.garda.com/crisis24/news-alerts/355401/iran-wearing-of-facemasks-mandatory-in-certain-public-spaces-from-july-5-update-32) will become mandatory from Sunday, July 5, 2020 due to the ongoing coronavirus disease (COVID-19) pandemic. The measures will remain in place until July 22, 2020, however, they may be extended further.'
+        - '[Wearing of face masks in public places](https://www.garda.com/crisis24/news-alerts/355401/iran-wearing-of-facemasks-mandatory-in-certain-public-spaces-from-july-5-update-32) will become mandatory from July 5, 2020 due to the ongoing coronavirus disease (COVID-19) pandemic. The measures will remain in place until July 22, 2020, however, they may be extended further.'
         - 'President Hassan Rouhani announced on July 11, 2020, that large gatherings including weddings and funerals have been [banned until further notice](https://www.garda.com/crisis24/news-alerts/351296/iran-covid-19-death-toll-rises-amid-fears-of-second-wave-on-june-15-update-31).'
       inbound:
         - '[Flights remain suspended until further notice](https://www.garda.com/crisis24/news-alerts/320716/iran-over-6500-confirmed-covid-19-cases-reported-as-further-flight-restrictions-are-implemented-march-8-update-11).'
@@ -1973,18 +2023,18 @@ countries:
   JP:
     sources:
       domestic:
-        - 'On June 19, the Japanese government [lifted domestic travel restrictions](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31).'
+        - 'On June 19, 2020, the Japanese government [lifted domestic travel restrictions](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31).'
         - 'Both Nippon Airways and Japan Airlines announced they would [increase domestic flights in July based on demand](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31); however, these will operate on a reduced schedule.'
         - 'Tokyo has [raised its infection alert level to "red" the highest level in a four-tier system](https://www.garda.com/crisis24/news-alerts/359876/japan-tokyo-raises-covid-19-alert-to-highest-level-july-15-update-32), however, the alert does not mean there will be lockdowns in place.'
       inbound:
-        - '[Foreign nationals who have stayed in the listed areas are denied permission to enter Japan.](https://www.japan.travel/en/coronavirus/)'
-        - '[Foreign nationals who have Chinese passports issued in Hubei Province or Zhejiang Province of China.](https://www.japan.travel/en/coronavirus/)'
+        - 'Foreign nationals who have stayed in the listed areas are [denied permission to enter Japan.](https://www.japan.travel/en/coronavirus/)'
+        - 'Foreign nationals who have [Chinese passports issued in Hubei Province or Zhejiang Province of China](https://www.japan.travel/en/coronavirus/) will be denied entry into Japan.'
         - 'The Japanese government [added passengers from 18 countries to an entry ban](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31) in place to limit the spread of the coronavirus disease (COVID-19).'
       outbound:
-        - '[No current restrictions on outbound travel. Airports remain operational.](https://www.japan.travel/en/coronavirus/)'
+        - 'No current restrictions on outbound travel, [airports remain operational.](https://www.japan.travel/en/coronavirus/)'
       visa_quarantine:
-        - '[All nationals arriving from all regions are requested to wait 14 days at a location designated by the quarantine station chief and to refrain from using public transportation. This will be implemented until the end of June, 2020. The period can be renewed.](https://www.japan.travel/en/coronavirus/)'
-        - '[Suspension of visa validity applies to various visa types.](https://www.japan.travel/en/coronavirus/)'
+        - 'All nationals arriving from all regions are requested to wait 14 days at a location designated by the quarantine station chief and to refrain from using public transportation. This will be implemented until the end of June, 2020. [The period can be renewed.](https://www.japan.travel/en/coronavirus/)'
+        - 'Suspension of visa validity applies to [various visa types.](https://www.japan.travel/en/coronavirus/)'
     travel:
       domestic: yes
       inbound: partial
@@ -2617,13 +2667,13 @@ countries:
   LY:
     sources:
       domestic:
-        - 'The Tripoli-based Government of National Accord (GNA) [extended a curfew](https://reliefweb.int/report/libya/covid-19-movement-restrictions-libya-mobility-restriction-dashboard-3-7-may-2020) and other lockdown measures in place in areas under its control due to the coronavirus disease (COVID-19) pandemic until July 17, 2020.'
+        - 'The Tripoli-based Government of National Accord (GNA) [extended a curfew](https://www.garda.com/crisis24/news-alerts/361406/libya-gna-extends-nationwide-curfew-july-18-update-13), in place from 9 pm to 6 am (local time), and other lockdown measures in place in areas under its control until August 2, 2020.'
       inbound:
-        - 'Libyan authorities initiated public health measures in March 2020 aimed at curbing the spread of COVID-19. These measures include [travel and mobility restrictions](https://reliefweb.int/report/libya/covid-19-movement-restrictions-libya-mobility-restriction-dashboard-3-7-may-2020) due to the closure of airports, points of entry (POE) along land borders and maritime boundaries, as well as domestic movement restrictions.'
+        - 'The GNA extended a [ban on civil aviation for a further 15 days as of July 19, 2020](https://www.garda.com/crisis24/news-alerts/361406/libya-gna-extends-nationwide-curfew-july-18-update-13).'
       outbound:
-        - 'Libyan authorities initiated public health measures in March 2020 aimed at curbing the spread of COVID-19. These measures include [travel and mobility restrictions](https://reliefweb.int/report/libya/covid-19-movement-restrictions-libya-mobility-restriction-dashboard-3-7-may-2020) due to the closure of airports, points of entry (POE) along land borders and maritime boundaries, as well as domestic movement restrictions.'
+        - 'The GNA extended a [ban on civil aviation for a further 15 days as of July 19, 2020](https://www.garda.com/crisis24/news-alerts/361406/libya-gna-extends-nationwide-curfew-july-18-update-13).'
     travel:
-      domestic: 'no'
+      domestic: 'partial'
       inbound: 'no'
       outbound: 'no'
   MA:
@@ -2866,7 +2916,7 @@ countries:
       inbound: 'no'
   MT:
     reopening:
-      '2020-07-15': '[Restrictions on all other flight destinations will be lifted on July 15, 2020](https://www.mta.com.mt/en/news-details/263).'
+      '2020-07-15': 'Restrictions on all other flight destinations will be [lifted on July 15, 2020](https://www.mta.com.mt/en/news-details/263).'
     sources:
       domestic:
         - 'Museums and tourist sites, shops, gyms, hairdressers, swimming pools, restaurants and bars have re-opened but with [restrictions on the number of customers allowed entry](https://www.gov.uk/foreign-travel-advice/malta/coronavirus), a requirement to wear a mask and an ability to maintain social distancing.'
@@ -3240,13 +3290,19 @@ countries:
       domestic: 'partial'
       inbound: 'partial'
   NE:
+    reopening:
+      '2020-08-01': 'Commercial international flights will [resume on August 1, 2020](https://www.garda.com/crisis24/news-alerts/361281/niger-authorities-to-allow-international-flights-as-of-august-1-update-7).'
     sources:
       inbound:
-        - 'Commercial international flights into Niger’s international airports have been cancelled until further notice. Land borders have been [closed since March 19, 2020](https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/).'
+        - 'Commercial international flights will [resume on August 1, 2020](https://www.garda.com/crisis24/news-alerts/361281/niger-authorities-to-allow-international-flights-as-of-august-1-update-7).'
+        - 'Land borders will remain closed until further notice.](https://www.garda.com/crisis24/news-alerts/361281/niger-authorities-to-allow-international-flights-as-of-august-1-update-7)'
+      outbound:
+        - 'Commercial international flights will [resume on August 1, 2020](https://www.garda.com/crisis24/news-alerts/361281/niger-authorities-to-allow-international-flights-as-of-august-1-update-7).'
       visa_quarantine:
         - 'All travelers entering Niger from countries suffering from the COVID-19 must [self-quarantine in their homes or in another adequate location for a period of 14 days](https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/).'
     travel:
       inbound: 'no'
+      outbound: no
   NG:
     sources:
       domestic:
@@ -3366,15 +3422,15 @@ countries:
       outbound: 'yes'
   NP:
     reopening:
-      '2020-08-01': '[Domestic and international flights will resume from August 1, 2020](https://www.garda.com/crisis24/news-alerts/352291/nepal-domestic-and-international-flights-to-resume-from-august-1-update-15).'
+      '2020-08-01': 'Domestic flights and international flights will resume from [August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
     sources:
       domestic:
-        - '[Domestic and international flights will resume from August 1, 2020](https://www.garda.com/crisis24/news-alerts/352291/nepal-domestic-and-international-flights-to-resume-from-august-1-update-15).'
+        - 'Domestic flights and international flights will resume from [August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
         - '[Nepalese authorities have extended lockdown measures until July 22, 2020](https://www.garda.com/crisis24/news-alerts/355626/nepal-authorities-extend-lockdown-until-july-22-update-16), where only some businesses and activities are permitted to operate as long as they adhere to social distancing measures.'
       inbound:
-        - 'The Ministry of Culture, Tourism and Civil Aviation announced on Friday, June 19, 2020, that it [plans to resume domestic and international flights from August 1, 2020](https://www.garda.com/crisis24/news-alerts/352291/nepal-domestic-and-international-flights-to-resume-from-august-1-update-15).'
+        - 'The Ministry of Culture, Tourism and Civil Aviation announced that it [plans to resume international flights from August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
       outbound:
-        - 'The Ministry of Culture, Tourism and Civil Aviation announced on Friday, June 19, 2020, that it [plans to resume domestic and international flights from August 1, 2020](https://www.garda.com/crisis24/news-alerts/352291/nepal-domestic-and-international-flights-to-resume-from-august-1-update-15).'
+        - 'The Ministry of Culture, Tourism and Civil Aviation announced that it [plans to resume international flights from August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -3422,12 +3478,12 @@ countries:
       outbound: 'yes'
   PA:
     reopening:
-      '2020-07-22': 'International passenger flights will [resume on July 22, 2020](https://pa.usembassy.gov/covid-19-information/).'
+      '2020-08-22': 'International passenger flights will [resume on August 22, 2020](https://www.garda.com/crisis24/news-alerts/360931/panama-suspension-of-international-flights-extended-until-august-22-update-16.'
     sources:
       domestic:
-        - 'Effective July 17, 2020, [MINSA established new quarantine hours](https://www.garda.com/crisis24/news-alerts/345786/panama-government-announces-second-stage-of-reopening-as-of-june-1-update-13) for the Panama and Panama Oeste provinces. Total quarantine begins on Friday at 7:00pm and ends on Monday at 5:00am. Movements remain restricted based on gender and ID number.'
+        - 'Effective July 17, 2020, [MINSA established new quarantine hours](https://www.garda.com/crisis24/news-alerts/345786/panama-government-announces-second-stage-of-reopening-as-of-june-1-update-13) for the Panama and Panama Oeste provinces. Total quarantine begins on Friday at 7 pm and ends on Monday at 5 am. Movements remain restricted based on gender and ID number.'
       inbound:
-        - 'International passenger flights will [resume on July 22, 2020](https://pa.usembassy.gov/covid-19-information/).'
+        - 'International passenger flights will [resume on August 22, 2020](https://www.garda.com/crisis24/news-alerts/360931/panama-suspension-of-international-flights-extended-until-august-22-update-16).'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -3886,11 +3942,11 @@ countries:
     sources:
       domestic:
         - '[The Romanian Government permitted the reopening of shopping centers, fitness clubs, private indoor events of no more than 20 people, and outdoor events of no more than 50 people](https://www.garda.com/crisis24/news-alerts/355876/romania-authorities-postpone-relaxing-of-some-covid-19-restrictions-june-30-update-9).'
-        - '[The relaxation of measures was scheduled to take place on Wednesday, July 1, 2020](https://www.garda.com/crisis24/news-alerts/355876/romania-authorities-postpone-relaxing-of-some-covid-19-restrictions-june-30-update-9).'
+        - '[Limitations on public gatherings and movement](https://www.garda.com/crisis24/news-alerts/360996/romania-authorities-extend-state-of-alert-through-august-16-update-10) are in place, and it is forbidden to organize and hold rallies, demonstrations, and other types of large gatherings in open spaces.'
       inbound:
         - 'The Government has [eased commercial flight and travel restrictions to 22 countries](https://ro.usembassy.gov/covid-19-information/) with documented COVID-19 case reduction as of June 22, 2020.'
       visa_quarantine:
-        - '[The state of alert requires home-quarantine for all people arriving in Romania except for certain professionals and people entering the country after spending at least 14 days in certain countries with low COVID-19 case growth, as determined by the National Institute of Public Health on a weekly basis](https://ro.usembassy.gov/covid-19-information/)'
+        - 'The state of alert requires [home-quarantine for all people arriving in Romania](https://ro.usembassy.gov/covid-19-information/) except for certain professionals and people entering the country after spending at least 14 days in certain countries with low COVID-19 case growth, as determined by the National Institute of Public Health on a weekly basis'
     travel:
       domestic: partial
       inbound: partial
@@ -4659,6 +4715,8 @@ countries:
       domestic:
         - '[Majority of states are easing restrictions](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/). Regulations differ from state to state. Refer to updated guidelines.'
         - 'Philadelphia Mayor Jim Kenney announced on July 14, 2020, that [most large public events will be prohibited until February 28, 2021](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/).'
+        - 'The no sail order for all cruise ships has been [extended until September 30, 2020](https://www.garda.com/crisis24/news-alerts/360901/us-cruise-lines-prohibited-from-sailing-until-september-30-update-75).'
+        - 'The Mayor of Chicago announced that establishments which do not serve food will only be [permitted to serve customers outdoors](https://www.garda.com/crisis24/news-alerts/361496/us-chicago-authorities-to-reinstate-precautionary-restrictions-on-certain-establishments-from-july-24-update-76).'
       inbound:
         - 'There are restrictions on the entry of certain travelers into the United States. Refer to the CDC website for [full details.](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html)'
         - 'Land border restrictions with Mexico will be [extended through August 21, 2020](https://mx.usembassy.gov/travel-restrictions-fact-sheet/).'
@@ -4745,12 +4803,12 @@ countries:
   VE:
     sources:
       domestic:
-        - '[The Venezuelan government has announced an extension of the nationwide lockdown, in place to limit the spread of the coronavirus disease (COVID-19), until August 10, 2020](https://www.garda.com/crisis24/news-alerts/358646/venezuela-authorities-extend-state-of-emergency-until-august-10-update-8).'
+        - '[The Venezuelan government has announced an extension of the nationwide lockdown](https://www.garda.com/crisis24/news-alerts/361611/venezuela-authorities-impose-nationwide-seven-day-quarantine-july-20-update-9), in place to limit the spread of the coronavirus disease (COVID-19), until August 10, 2020.'
         - '[Local quarantines and bans on interstate movement remain in place](https://www.garda.com/crisis24/news-alerts/358646/venezuela-authorities-extend-state-of-emergency-until-august-10-update-8). Educational institutions and non-essential shops are to remain closed, and public gatherings are prohibited.'
       inbound:
-        - '[International and domestic flights, initially scheduled to resume from June 13, 2020, has been suspended indefinitely](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
+        - '[International and domestic flights has been [suspended indefinitely](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
       outbound:
-        - '[International and domestic flights, initially scheduled to resume from June 13, 2020, has been suspended indefinitely](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
+        - 'International and domestic flights has been [suspended indefinitely](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
     travel:
       domestic: 'no'
       inbound: 'no'
@@ -4796,7 +4854,7 @@ countries:
         - '[The government also amended regulations on public gatherings](https://www.samoagovt.ws/2020/06/amended-state-of-emergency-orders-for-coronavirs-covid-19-03rd-june-2020/), with meetings and church services now allowed to have up to 50 attendees so long as social distancing of 6 ft is adhered to. Restaurants will be permitted to operate on Sundays between 12:00 (local time) and 22:00 for take away services only.'
       inbound:
         - 'All travelers outside of New Zealand must spend 28 days or more in New Zealand before onward travel to Samoa and [must comply with requirements](https://www.samoagovt.ws/2020/06/22-june-2020-%e2%9d%97special-travel-advice-and-information-paper-for-travellers-from-new-zealand/).'
-        - '[As of June 3, 2020, [all travel to and from Samoa has ceased](https://www.samoagovt.ws/2020/06/amended-state-of-emergency-orders-for-coronavirs-covid-19-03rd-june-2020/).'
+        - 'As of June 3, 2020, [all travel to and from Samoa has ceased](https://www.samoagovt.ws/2020/06/amended-state-of-emergency-orders-for-coronavirs-covid-19-03rd-june-2020/).'
       outbound:
         - 'As of June 3, 2020, [all travel to and from Samoa has ceased](https://www.samoagovt.ws/2020/06/amended-state-of-emergency-orders-for-coronavirs-covid-19-03rd-june-2020/).'
       visa_quarantine:
@@ -4837,7 +4895,7 @@ countries:
     sources:
       domestic:
         - '[Only essential domestic travel is permitted.](https://www.smartraveller.gov.au/destinations/africa/south-africa)'
-        - '[A night time curfew remains in place between 20:00 to 05:00 (local time). Interprovincial travel is not permitted except to return to work with proof of employment and in exceptional circumstances, such as funerals (with approval) or essential services.](https://www.garda.com/crisis24/news-alerts/353551/south-africa-authorities-confirm-over-100000-covid-19-cases-as-of-june-22-update-17)'
+        - 'A night time curfew remains in place [between 9 pm to 4 am (local time)](https://www.garda.com/crisis24/news-alerts/353551/south-africa-authorities-confirm-over-100000-covid-19-cases-as-of-june-22-update-17). Interprovincial travel is not permitted except to return to work with proof of employment and in exceptional circumstances, such as funerals (with approval) or essential services.'
         - '[Hotels and guest houses have been permitted to reopen](https://www.garda.com/crisis24/news-alerts/358681/south-africa-over-250000-confirmed-covid-19-cases-reported-as-of-july-11-update-20).'
       inbound:
         - '[International travel is suspended indefinitely](https://www.garda.com/crisis24/news-alerts/354681/south-africa-government-to-ease-covid-19-restrictions-further-from-june-29-update-18).'
