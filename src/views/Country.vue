@@ -2,11 +2,18 @@
   <div>
     <TitleMapSelect/>
     <div class="main-container">
-      <div class="main-container__inner">
-        <h2 class="country-header px-4">{{title}}</h2>
+      <div class="main-container__inner" v-schema:scope="{ type: 'Article' }">
+        <h2 class="country-header px-4" v-schema="{ prop: 'headline' }">{{title}}</h2>
+        <span v-schema="{ prop: 'author', content: 'TourHero' }" />
+        <span v-schema="{ prop: 'publisher', content: 'TourHero' }" />
+        <span v-schema="{ prop: 'image', content: articleImage }" />
         <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
           <p v-if="checkedOn" class="font-semibold text-sm">
-            Last checked on {{checkedOn}}
+            <span v-schema="{ prop: 'datePublished', content: '2020-05-01' }" />
+            Last checked on
+            <span v-schema="{ prop: 'dateModified', content: checkedOniso8601 }">
+              {{checkedOn}}
+            </span>
           </p>
           <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
             Want the latest travel updates in your inbox?
@@ -29,15 +36,16 @@
             <p class="text-xs mt-6"><sup>*</sup>Statistics are published by <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">European Centre for Disease Prevention and Control</a>&nbsp;<CovidStatsDate :country="country" /></p>
           </div>
         </div>
-        <div v-if='domesticContent || internationalContent || visaQuarantineContent'>
+        <div v-if='domesticContent || internationalContent || visaQuarantineContent'
+          v-schema="{ prop: 'articleBody' }">
           <CountryBody :content="internationalContent">
-            <h3>International Travel</h3>
+            <h3 v-schema="{ prop: 'articleSection' }">International Travel</h3>
           </CountryBody>
           <CountryBody :content="visaQuarantineContent">
-            <h3>Visa &amp; Quarantine Measures</h3>
+            <h3 v-schema="{ prop: 'articleSection' }">Visa &amp; Quarantine Measures</h3>
           </CountryBody>
           <CountryBody :content="domesticContent">
-            <h3>Domestic Travel</h3>
+            <h3 v-schema="{ prop: 'articleSection' }">Domestic Travel</h3>
           </CountryBody>
         </div>
         <CountryTravelIdeas :country="country" />
@@ -103,6 +111,12 @@ export default {
     title() { return `${this.country.name} COVID-19 Travel Update`; },
     checkedOn() {
       return moment(checkedOn).format('MMMM D, YYYY');
+    },
+    checkedOniso8601() {
+      return moment(checkedOn).toISOString();
+    },
+    articleImage() {
+      return `https://www.tourhero.com${process.env.BASE_URL}img/travel-reopening-cover.jpg`;
     },
     emailTo() {
       const subject = encodeURI(`Travel Map Update for ${this.country.name}`);
