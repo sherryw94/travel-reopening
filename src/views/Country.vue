@@ -121,9 +121,9 @@ export default {
       this.updateCountryAction(country);
 
       const promises = [
-        axios(`${this.baseUrl}data/${this.country.code}_domestic.md`),
-        axios(`${this.baseUrl}data/${this.country.code}_international.md`),
-        axios(`${this.baseUrl}data/${this.country.code}_visa_quarantine.md`),
+        axios(`${this.baseUrl}data/written/${this.country.code}_domestic.md`),
+        axios(`${this.baseUrl}data/written/${this.country.code}_international.md`),
+        axios(`${this.baseUrl}data/written/${this.country.code}_visa_quarantine.md`),
       ];
 
       Promise.allSettled(promises).then(axios.spread((...r) => {
