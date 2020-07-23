@@ -202,16 +202,18 @@ export default {
 
 <style lang="scss">
   .state {
+    @media (min-width: 400px), (hover: hover) {
+      cursor: pointer;
+      &:hover { opacity: 0.85; }
+    }
     fill: theme("colors.gray.400");
     stroke: theme("colors.gray.200");
     stroke-width: 0.5;
-    cursor: pointer;
     transition: fill 100ms ease;
     &.undefined { fill: theme("colors.gray.400"); }
     &.closed    { fill: theme("colors.secondary"); }
     &.open      { fill: theme("colors.state-open") }
     &.partial   { fill: theme("colors.state-partial") }
-    &:hover { opacity: 0.85; }
     &.current   {
       fill: theme("colors.primary");
       &:hover {
