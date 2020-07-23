@@ -1,3 +1,11 @@
 #!/bin/sh
 
 curl -s https://covid.ourworldindata.org/data/owid-covid-data.csv -o public/data/covid-data.csv
+awk -F, '{ fname="public/data/covid_" $1 ".csv"; print >> fname; close(fname)}' public/data/covid-data.csv
+
+header=$(head -n 1 public/data/covid-data.csv)
+
+for file in public/data/covid_*.csv
+do
+  echo "${header}$(cat $file)" > $file
+done
