@@ -722,7 +722,7 @@ countries:
       outbound: 'no'
   CR:
     reopening:
-      '2020-08-01': 'Borders will [reopen to tourists from certain destinations on August 1, 2020.](https://www.garda.com/crisis24/news-alerts/354691/costa-rica-borders-to-reopen-to-tourists-on-august-1-update-8)''
+      '2020-08-01': 'Borders will [reopen to tourists from certain destinations on August 1, 2020.](https://www.garda.com/crisis24/news-alerts/354691/costa-rica-borders-to-reopen-to-tourists-on-august-1-update-8)'
     sources:
       domestic:
         - 'Shops, museums, and theatres in these areas [may open on weekends](https://www.garda.com/crisis24/news-alerts/354691/costa-rica-borders-to-reopen-to-tourists-on-august-1-update-8); however, they may only operate at 50 percent capacity.'
