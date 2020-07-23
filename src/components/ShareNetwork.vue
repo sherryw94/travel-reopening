@@ -4,13 +4,12 @@
       v-for="network in networks"
       :network="network.network"
       :key="network.network"
-      url="https://www.tourhero.com/en/ultimate-guide-covid19-travel-restrictions-reopening/"
+      :url='`https://tourhe.ro/${network.network}-share`'
       title="The Ultimate Guide to COVID-19 Travel Restrictions"
       description="A free and open-source project by TourHero.
         Find the latest information for travel restrictions around
-        the world during this COVID-19 pandemic.
-        Travel safe!"
-      quote="Get the latest travel reopening information"
+        the world during this COVID-19 pandemic."
+      quote="Check this free guide for the latest travel restrictions around the world."
       hashtags="tourherotravel"
       twitterUser="tourherotravel"
     >
