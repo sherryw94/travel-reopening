@@ -28,7 +28,7 @@ export default {
     },
   },
   created() {
-    csv('data/covid-data.csv').then((r) => {
+    csv('data/covid/covid-data.csv').then((r) => {
       this.countryDataDates = r.reduce((acc, { iso_code, date }) => {
         if (!acc[iso_code]) {
           acc[iso_code] = {
