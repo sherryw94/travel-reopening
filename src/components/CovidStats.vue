@@ -32,7 +32,7 @@ export default {
     countryData() { return this.countriesData[this.country.alpha3] || []; },
   },
   created() {
-    csv('data/covid-data.csv').then((r) => {
+    csv('data/covid/covid-data.csv').then((r) => {
       this.countriesData = r.reduce((acc, {
         iso_code, date, total_cases, total_deaths, new_cases,
       }) => {
