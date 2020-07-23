@@ -84,6 +84,7 @@ function tooltipBody(d) {
 export default {
   data() {
     return {
+      isMobile: false,
       svgMaxWidth: 900,
       svgWidth: undefined,
       svgHeight: undefined,
@@ -109,6 +110,7 @@ export default {
       const padding = 12 * 2; // 2 rem
       this.svgWidth = Math.min(+select('body').style('width').slice(0, -2) - padding, this.svgMaxWidth) - padding;
       this.svgHeight = Math.round(this.svgWidth / 2);
+      this.isMobile = 'ontouchstart' in document && window.matchMedia('(max-width: 400px)').matches;
     },
     handleCountryChange(country) {
       this.drawCurrentCountry(country);
