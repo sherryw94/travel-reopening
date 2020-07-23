@@ -96,8 +96,8 @@ export default {
     mapTitle() {
       if (this.country) {
         return this.travelContext === TravelDirection.Inbound
-          ? `From where you can enter ${this.country.name}`
-          : `Where you can go from ${this.country.name}`;
+          ? `I can travel to ${this.country.name} from:`
+          : `I can travel from ${this.country.name} to:`;
       }
       return this.travelContext === TravelDirection.Inbound
         ? 'Entry travel restrictions'
