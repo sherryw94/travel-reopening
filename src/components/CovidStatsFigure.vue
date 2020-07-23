@@ -57,7 +57,7 @@ export default {
       svg.append('g')
         .attr('class', 'xaxis')
         .attr('transform', `translate(0, ${height})`)
-        .call(axisBottom(x).tickFormat(timeFormat('%B')));
+        .call(axisBottom(x).tickFormat(timeFormat('%b')));
 
       // Add Y axis
       const y = scaleLinear()
