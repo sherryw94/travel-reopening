@@ -7,6 +7,7 @@ import {
   faFacebookF, faTwitter, faLinkedinIn, faTelegramPlane, faWhatsapp,
 } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
+import VueSchemaMicrodata from 'vue-schema-microdata';
 import App from './App.vue';
 import './registerServiceWorker';
 import router from './router';
@@ -25,6 +26,7 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 
 Vue.config.productionTip = false;
 Vue.use(VueSocialSharing);
+Vue.use(VueSchemaMicrodata);
 
 new Vue({
   router,
