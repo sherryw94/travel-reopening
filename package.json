@@ -7,7 +7,7 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
-    "covid:get": "curl -s https://covid.ourworldindata.org/data/owid-covid-data.csv -o public/data/covid-data.csv"
+    "covid:get": "bin/get-covid"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
