@@ -72,13 +72,13 @@ module.exports = {
       favicon16: null,
       appleTouchIcon: 'img/favicon.png',
       maskIcon: null,
-      msTileImage: null
+      msTileImage: null,
     },
     msTileColor: '#ffffff',
     themeColor: '#1c355e',
     name: 'Travel Reopening',
     workboxOptions: {
-      skipWaiting: true
-    }
+      skipWaiting: true,
+    },
   },
 };
