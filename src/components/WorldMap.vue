@@ -180,6 +180,7 @@ export default {
         .attr('class', 'state')
         .attr('d', path)
         .on('click', (d) => {
+          if (this.isMobile) { return; }
           const country = this.getCountryById(d.id);
           if (this.$route.params.country === country.slug) return;
           this.$router.push({ name: 'Country', params: { country: country.slug } });
