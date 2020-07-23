@@ -728,9 +728,9 @@ countries:
         - 'Shops, museums, and theatres in these areas [may open on weekends](https://www.garda.com/crisis24/news-alerts/354691/costa-rica-borders-to-reopen-to-tourists-on-august-1-update-8); however, they may only operate at 50 percent capacity.'
         - 'The government has eased [nationwide vehicular restrictions](https://www.garda.com/crisis24/news-alerts/361971/costa-rica-authorities-update-covid-19-restrictions-july-20-31-update-10), with new measures in place between July 20, 2020 and July 31, 2020.'
       inbound:
-        - '[Borders will reopen to tourists from certain destinations on August 1, 2020](https://www.garda.com/crisis24/news-alerts/354691/costa-rica-borders-to-reopen-to-tourists-on-august-1-update-8) following their closure due to the coronavirus disease (COVID-19) pandemic. The health ministry stated that international airports will take arrivals from countries deemed to have controlled the spread of COVID-19.'
+        - 'Borders will reopen to tourists from [certain destinations on August 1, 2020](https://www.garda.com/crisis24/news-alerts/354691/costa-rica-borders-to-reopen-to-tourists-on-august-1-update-8) following their closure due to the coronavirus disease (COVID-19) pandemic. The health ministry stated that international airports will take arrivals from countries deemed to have controlled the spread of COVID-19.'
       outbound:
-        - '[Borders will reopen to tourists from certain destinations on August 1](https://www.garda.com/crisis24/news-alerts/354691/costa-rica-borders-to-reopen-to-tourists-on-august-1-update-8) following their closure due to the coronavirus disease (COVID-19) pandemic. The health ministry stated that international airports will take arrivals from countries deemed to have controlled the spread of COVID-19.'
+        - 'Borders will reopen to tourists from [certain destinations on August 1, 2020](https://www.garda.com/crisis24/news-alerts/354691/costa-rica-borders-to-reopen-to-tourists-on-august-1-update-8) following their closure due to the coronavirus disease (COVID-19) pandemic. The health ministry stated that international airports will take arrivals from countries deemed to have controlled the spread of COVID-19.'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -1650,7 +1650,6 @@ countries:
         - 'Travel by ferry to and from islands [is permitted.](https://gr.usembassy.gov/covid-19-information/)'
         - 'Some flights to islands are [operational.](https://gr.usembassy.gov/covid-19-information/)'
       inbound:
-        - 'The Greek government has announced that Serbian nationals will be barred from entering Greece, which will [remain in place until July 15, 2020](https://www.garda.com/crisis24/news-alerts/356806/greece-authorities-bar-entry-to-serbian-nationals-from-july-6-update-26).'
         - 'Greek authorities announced the [reopening of the country''s borders on July 2, 2020](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25), following the easing of some coronavirus disease (COVID-19) restrictions.'
         - 'Travelers entering the country must complete an [Online Passenger Locator Form (PLF) at least 48 hours before arriving](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25).'
         - 'The Greek government has introduced [stricter border controls at its land borders](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25) for at least two weeks from July 21, 2020.'
@@ -3494,7 +3493,6 @@ countries:
     sources:
       domestic:
         - 'Effective July 17, 2020, [MINSA established new quarantine hours](https://www.garda.com/crisis24/news-alerts/345786/panama-government-announces-second-stage-of-reopening-as-of-june-1-update-13) for the Panama and Panama Oeste provinces. Total quarantine begins on Friday at 7 pm and ends on Monday at 5 am. Movements remain restricted based on gender and ID number.'
-        - 'Car dealerships, private construction businesses, and companies providing administrative or professional services will be [allowed to resume operations](https://www.garda.com/crisis24/news-alerts/362071/panama-authorities-announce-further-economic-resumption-in-some-sectors-from-july-27-update-17).'
       inbound:
         - 'International passenger flights will [resume on August 22, 2020](https://www.garda.com/crisis24/news-alerts/360931/panama-suspension-of-international-flights-extended-until-august-22-update-16).'
     travel:
@@ -3940,6 +3938,8 @@ countries:
       domestic: 'partial'
       inbound: 'no'
   QA:
+    reopening:
+        '2020-08-01': 'Travelers from specific countries will be allowed into Qatar from August 1, 2020](https://www.garda.com/crisis24/news-alerts/362166/qatar-international-travel-restrictions-to-be-eased-from-august-1-update-24).'
     sources:
       domestic:
         - '[Restrictions are easing](https://www.garda.com/crisis24/news-alerts/355431/qatar-government-to-further-ease-covid-19-restrictions-from-july-1-update-22), so restaurants will be able to resume operations at a limited capacity and public parks and beaches will reopen. Offices will also be allowed to reopen at a maximum of 50 percent capacity. Private and public gatherings should not exceed a five-person limit.'
@@ -4940,7 +4940,7 @@ countries:
       domestic:
         - 'A ban on inter-city public transport, a ban on public social, political, and religious gatherings, and the compulsory use of face masks in public, [remain in force](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12).'
         - 'A 6 pm to 6 am curfew, will be enforced across Zimbabwe [from July 22, 2020](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12).'
-        - 'Opening hours for essential businesses have also been reduced to 08:00 - 13:00 (local time), with the enforcement of health and hygiene measures in shops [being tightened.](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12)'
+        - 'Opening hours for essential businesses have also been reduced to 8 am - 1 pm (local time), with the enforcement of health and hygiene measures in shops [being tightened.](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12)'
       inbound:
         - '[Zimbabwe’s borders are closed to all human traffic except for returning Zimbabwean nationals and permit holders.](https://www.garda.com/crisis24/news-alerts/347696/zimbabwe-security-forces-enforce-lockdown-in-central-harare-june-2-update-10)'
       outbound:
