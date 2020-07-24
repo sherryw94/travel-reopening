@@ -68,15 +68,15 @@ module.exports = {
     appleMobileWebAppCapable: 'yes',
     assetsVersion: Date.now(),
     iconPaths: {
-      favicon32: 'img/favicon.png',
+      favicon32: 'img/favicon-192x192.png',
       favicon16: null,
-      appleTouchIcon: 'img/favicon.png',
+      appleTouchIcon: 'img/favicon-192x192.png',
       maskIcon: null,
       msTileImage: null,
     },
     msTileColor: '#ffffff',
     themeColor: '#1c355e',
-    name: 'Travel Reopening',
+    name: 'COVID-19 Travel Guide',
     workboxOptions: {
       skipWaiting: true,
     },
