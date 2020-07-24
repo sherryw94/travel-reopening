@@ -28,7 +28,7 @@ countries:
         - 'Officials in Abu Dhabi eased travel restrictions for residents on July 4, 2020 [permitting short trips outside of the emirate, provided they take a coronavirus disease (COVID-19) test](https://www.garda.com/crisis24/news-alerts/358091/uae-travel-restrictions-eased-for-residents-of-abu-dhabi-july-4-update-49).'
       visa_quarantine:
         - 'On July 11, 2020, authorities in the UAE [canceled visa extension granted to expatriates](https://www.garda.com/crisis24/news-alerts/358546/uae-authorities-cancel-visa-extension-for-expatriates-july-11-update-50).'
-        - 'Authorities require negative PCR tests to be dated within the prior 96 hours of arrival in the country and to be [carried out by a recognized laboratory](https://www.garda.com/crisis24/news-alerts/362591/uae-authorities-make-covid-19-pcr-tests-compulsory-for-arriving-passengers-august-1-update-51).'
+        - 'Authorities require negative PCR tests to be dated within the prior 4 days of arrival in the country and to be [carried out by a recognized laboratory](https://www.garda.com/crisis24/news-alerts/362591/uae-authorities-make-covid-19-pcr-tests-compulsory-for-arriving-passengers-august-1-update-51).'
     travel:
       domestic: partial
       inbound: partial
@@ -275,7 +275,7 @@ countries:
       inbound:
         - 'The Government of Belgium has imposed entry and exit controls on [non-essential travel to and from the country.](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx)'
         - '[Entry is allowed](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx) for nationals of EU Member States and Schengen Member States, for the purposes of returning to their homes; Third-country nationals who are in possession a residence card (or D-visa) delivered by a Schengen Member State, for the purpose of returning to their homes.'
-        - 'Face masks to be [compulsory in crowded public places from July 25, 2020](https://www.garda.com/crisis24/news-alerts/362606/belgium-face-masks-to-be-compulsory-in-crowded-public-places-from-july-25-update-18)'
+        - 'Face masks will be [compulsory in crowded public places from July 25, 2020](https://www.garda.com/crisis24/news-alerts/362606/belgium-face-masks-to-be-compulsory-in-crowded-public-places-from-july-25-update-18)'
       outbound:
         - '[From June 15, 2020, you are allowed to go on holiday](https://www.info-coronavirus.be/en/faq/). You may only visit countries in the European Union, including the United Kingdom, Switzerland, Liechtenstein, Iceland, Norway.'
       visa_quarantine:
@@ -3273,7 +3273,7 @@ countries:
       outbound:
         - 'Malaysian citizens and PRs are [not allowed to travel abroad for holidays during this period.](http://www.klia.com.my/passenger-guide/faq-covid-19-conditional-movement-control-order-cmco)'
       visa_quarantine:
-        - 'Incoming travelers from overseas permitted to enter the country will be required to [undergo quarantine for 14-days at quarantine centers](https://www.garda.com/crisis24/news-alerts/362466/malaysia-mandatory-quarantine-in-centers-for-incoming-travelers-from-july-24-update-23)'
+        - 'Incoming travelers, including Malaysian citizens and Permanent Residents, from overseas who are permitted to enter the country, will be required to [undergo quarantine for 14-days at quarantine centers](https://www.garda.com/crisis24/news-alerts/362466/malaysia-mandatory-quarantine-in-centers-for-incoming-travelers-from-july-24-update-23)'
     travel:
       domestic: partial
       inbound: 'no'
@@ -4502,7 +4502,7 @@ countries:
   UA:
     sources:
       domestic:
-        - 'In Ukraine, all public transportation, hotels, restaurants and coffee shops, church services, day care centers, swimming pools and sports gyms (except groups that are larger than 10 people) are [open](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/), as well as sporting events without spectators.'
+        - 'In Ukraine, all public transportation, hotels, restaurants and coffee shops, church services, day care centers, swimming pools and sports gyms (except groups that are larger than 10 people) are [open](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/), including sporting events without spectators.'
         - 'Inter-regional transportation, including passenger rail travel on Ukrzaliznytsia (Ukrainian Railways) are [available](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/).'
         - 'Nationwide quarantine measures [extended through August 31, 2020](https://www.garda.com/crisis24/news-alerts/362611/ukraine-nationwide-quarantine-measures-extended-through-august-31-update-17).'
       inbound:
