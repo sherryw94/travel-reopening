@@ -28,6 +28,7 @@ countries:
         - 'Officials in Abu Dhabi eased travel restrictions for residents on July 4, 2020 [permitting short trips outside of the emirate, provided they take a coronavirus disease (COVID-19) test](https://www.garda.com/crisis24/news-alerts/358091/uae-travel-restrictions-eased-for-residents-of-abu-dhabi-july-4-update-49).'
       visa_quarantine:
         - 'On July 11, 2020, authorities in the UAE [canceled visa extension granted to expatriates](https://www.garda.com/crisis24/news-alerts/358546/uae-authorities-cancel-visa-extension-for-expatriates-july-11-update-50).'
+        - 'Authorities require negative PCR tests to be dated within the prior 4 days of arrival in the country and to be [carried out by a recognized laboratory](https://www.garda.com/crisis24/news-alerts/362591/uae-authorities-make-covid-19-pcr-tests-compulsory-for-arriving-passengers-august-1-update-51).'
     travel:
       domestic: partial
       inbound: partial
@@ -274,6 +275,7 @@ countries:
       inbound:
         - 'The Government of Belgium has imposed entry and exit controls on [non-essential travel to and from the country.](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx)'
         - '[Entry is allowed](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx) for nationals of EU Member States and Schengen Member States, for the purposes of returning to their homes; Third-country nationals who are in possession a residence card (or D-visa) delivered by a Schengen Member State, for the purpose of returning to their homes.'
+        - 'Face masks will be [compulsory in crowded public places from July 25, 2020](https://www.garda.com/crisis24/news-alerts/362606/belgium-face-masks-to-be-compulsory-in-crowded-public-places-from-july-25-update-18)'
       outbound:
         - '[From June 15, 2020, you are allowed to go on holiday](https://www.info-coronavirus.be/en/faq/). You may only visit countries in the European Union, including the United Kingdom, Switzerland, Liechtenstein, Iceland, Norway.'
       visa_quarantine:
@@ -418,8 +420,8 @@ countries:
   BN:
     sources:
       domestic:
-        - 'Officials intend to allow cinemas and swimming pools to [restart operations from July 6 with safeguards](https://www.worldaware.com/covid-19-alert-brunei-further-ease-domestic-controls-july-4), such as limiting the facilities to 30 percent of the capacity and banning children below 15 years of age.'
-        - 'Most eating establishments can serve dine-in customers at 80 percent of the seating capacity from July 6, while open-air stalls may operate with [full seating capacity](https://www.worldaware.com/covid-19-alert-brunei-further-ease-domestic-controls-july-4).'
+        - 'Officials intend to allow cinemas and swimming pools to [restart operations from July 6, 2020 with safeguards](https://www.worldaware.com/covid-19-alert-brunei-further-ease-domestic-controls-july-4), such as limiting the facilities to 30 percent of the capacity and banning children below 15 years of age.'
+        - 'Restrictions on schools, markets, restaurants, sports facilities, and places of worship eased, with these being [allowed to operate at full capacity from July 27, 2020](https://www.garda.com/crisis24/news-alerts/362551/brunei-government-announces-further-easing-of-covid-19-restrictions-from-july-27-update-8).'
       inbound:
         - 'The Bruneian government has imposed an entry ban on all foreign travelers, including transit passengers, from March 24, 2020 [until further notice](https://www.mfa.gov.sg/countries-regions/b/brunei-darussalam/travel-page).'
       outbound:
@@ -962,6 +964,7 @@ countries:
       domestic:
         - 'The government of the Dominican Republic has declared a state of emergency for 45 days from, July 20, 2020](https://www.garda.com/crisis24/news-alerts/354771/dominican-republic-authorities-lift-curfew-from-june-28-update-11) that provides the government with the ability to apply proportional restrictions on freedom of movement, public assembly, and other powers needed to control the spread of the virus.'
         - 'Many hotels on the island have reopened with [health and safety measures in place](https://www.garda.com/crisis24/news-alerts/361486/dominican-republic-government-declares-state-of-emergency-july-20-update-14).'
+        - 'Curfews from 7 pm to 5 am (local time) Monday to Friday, and from 5 pm to 5 am on Saturdays and Sundays will be in place [in certain districts](https://www.garda.com/crisis24/news-alerts/362481/dominican-republic-authorities-impose-nationwide-nighttime-curfews-july-21-update-15).'
       inbound:
         - 'The Dominican Republic has [reopened for international tourism from July 1, 2020](https://www.garda.com/crisis24/news-alerts/361486/dominican-republic-government-declares-state-of-emergency-july-20-update-14).'
       outbound:
@@ -1061,6 +1064,7 @@ countries:
     sources:
       domestic:
         - 'Hotels in Egypt have now resumed operation, and have been able to operate at 50% capacity since June 1, 2020. Casinos are also allowed to open if they [do not exceed 50% of their total capacity.](https://www.garda.com/crisis24/news-alerts/355906/egypt-national-carrier-announces-resumption-of-flights-from-july-1-update-30).'
+        - 'The government has extended the hours that certain parts of the retail sector are [permitted to open from July 26, 2020](https://www.garda.com/crisis24/news-alerts/362471/egypt-authorities-extend-retail-operating-hours-from-july-26-update-32).'
       inbound:
         - 'EgyptAir officials have announced that [international commercial flights have resumed](https://www.garda.com/crisis24/news-alerts/355906/egypt-national-carrier-announces-resumption-of-flights-from-july-1-update-30).'
         - 'A limited number of services to Egypt are now [operating from a variety of international destinations](https://www.egyptonlinevisa.com/travel-restrictions/).'
@@ -1728,6 +1732,7 @@ countries:
         - '[A ban on gatherings of more than 50 people](https://mup.gov.hr/uzg-covid/english/286212) in Hong Kong, implemented in response to the coronavirus disease (COVID-19) pandemic, was extended by two weeks on Tuesday, June 30 to July 14, 2020.'
         - '[Authorities in Hong Kong have announced the closure of schools](https://www.garda.com/crisis24/news-alerts/358271/hong-kong-schools-to-close-on-july-13-amid-new-covid-19-outbreak-update-31), and all students will now begin their summer holidays on July 13, 2020.'
         - 'Non-essential civil servants have been ordered to work from home for a week, and the closure of amusement parks, gyms, and other venues where social distancing is challenging [has been extended](https://www.garda.com/crisis24/news-alerts/361551/hong-kong-authorities-to-introduce-new-entry-restrictions-on-july-25-update-34).'
+        - 'Individuals will be required to wear face masks [in all indoor public venues until August 6, 2020](https://www.garda.com/crisis24/news-alerts/361551/hong-kong-authorities-to-introduce-new-entry-restrictions-on-july-25-update-34).'
       inbound:
         - '[The Hong Kong SAR Government restricts](https://www.coronavirus.gov.hk/eng/travel-advice.html) any Hubei residents, and non-Hong Kong residents who have visited the Hubei Province in the past 14 days upon arrival from entering Hong Kong since January 27, 2020.'
         - 'Inbound passengers with travel history to Bangladesh, India, Indonesia, Nepal, Pakistan, the Philippines, and South Africa in the past 14 days will need to present a [negative COVID-19 test result taken 72 hours prior to departure.](https://www.garda.com/crisis24/news-alerts/361551/hong-kong-authorities-to-introduce-new-entry-restrictions-on-july-25-update-34).'
@@ -2697,7 +2702,7 @@ countries:
         - 'Public transport into and out of Tangier is [suspended](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20), and any movement outside of the city limits will require a permit from authorities.'
         - 'Domestic travel has resumed and borders are [scheduled to reopen on Tuesday, July 14, 2020](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20).'
       inbound:
-        - 'Domestic travel has resumed and [borders have reopened](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20).'
+        - 'The borders remain closed to [all foreign nationals and tourism.](https://www.garda.com/crisis24/news-alerts/359606/morocco-authorities-announce-the-partial-reopening-of-borders-from-july-15-update-22).'
       outbound:
         - '[All commercial flights to or from Morocco have now been suspended.](https://www.gov.uk/foreign-travel-advice/morocco/entry-requirements)'
     travel:
@@ -3262,12 +3267,13 @@ countries:
   MY:
     sources:
       domestic:
-        - '[Inter-state travel will be allowed, with the exception of areas under local lockdowns, which are to be designated as being under ''enhanced movement control orders'' (MCO).](https://www.garda.com/crisis24/news-alerts/348781/malaysia-authorities-announce-easing-of-covid-19-measures-from-june-10-update-22)'
-        - '[Malaysia has relaxed restrictions and has allowed interstate travel.](https://www.garda.com/crisis24/news-alerts/348781/malaysia-authorities-announce-easing-of-covid-19-measures-from-june-10-update-22)'
+        - 'Malaysia has relaxed restrictions and has [allowed interstate travel.](https://www.garda.com/crisis24/news-alerts/348781/malaysia-authorities-announce-easing-of-covid-19-measures-from-june-10-update-22)'
       inbound:
-        - '[International borders are to remain closed indefinitely, with some exceptions, and Malaysian immigration services have resumed operations by appointment only.](https://www.garda.com/crisis24/news-alerts/348781/malaysia-authorities-announce-easing-of-covid-19-measures-from-june-10-update-22)'
+        - '[International borders are to remain closed indefinitely](https://www.garda.com/crisis24/news-alerts/348781/malaysia-authorities-announce-easing-of-covid-19-measures-from-june-10-update-22), with some exceptions, and Malaysian immigration services have resumed operations by appointment only.'
       outbound:
-        - '[Malaysian citizens and PRs are not allowed to travel abroad for holidays during this period.](http://www.klia.com.my/passenger-guide/faq-covid-19-conditional-movement-control-order-cmco)'
+        - 'Malaysian citizens and PRs are [not allowed to travel abroad for holidays during this period.](http://www.klia.com.my/passenger-guide/faq-covid-19-conditional-movement-control-order-cmco)'
+      visa_quarantine:
+        - 'Incoming travelers, including Malaysian citizens and Permanent Residents, from overseas who are permitted to enter the country, will be required to [undergo quarantine for 14-days at quarantine centers](https://www.garda.com/crisis24/news-alerts/362466/malaysia-mandatory-quarantine-in-centers-for-incoming-travelers-from-july-24-update-23)'
     travel:
       domestic: partial
       inbound: 'no'
@@ -4496,8 +4502,9 @@ countries:
   UA:
     sources:
       domestic:
-        - 'In Ukraine, all public transportation, hotels, restaurants and coffee shops, church services, day care centers, swimming pools and sports gyms (except group that are larger than 10 people) are [open](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/), as well as sporting events without spectators.'
+        - 'In Ukraine, all public transportation, hotels, restaurants and coffee shops, church services, day care centers, swimming pools and sports gyms (except groups that are larger than 10 people) are [open](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/), including sporting events without spectators.'
         - 'Inter-regional transportation, including passenger rail travel on Ukrzaliznytsia (Ukrainian Railways) are [available](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/).'
+        - 'Nationwide quarantine measures [extended through August 31, 2020](https://www.garda.com/crisis24/news-alerts/362611/ukraine-nationwide-quarantine-measures-extended-through-august-31-update-17).'
       inbound:
         - 'The Ministry of Health of Ukraine have created a [''RED Zone'' country list and a ''GREEN Zone'' country list](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/).'
         - 'The ''RED Zone'' countries are defined by having more than 40 active cases per 100,000 population. Tourists entering Ukraine from the ''RED Zone'' countries may still be permitted, but [need to undergo quarantine for 14 days.](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/).'
@@ -4743,6 +4750,7 @@ countries:
         - 'Air travel is possible with [flights operating at a limited capacity](https://www.flylax.com/travelsafely). Precautions should be taken.'
       visa_quarantine:
         - 'While not enforced, travelers are advised to [stay home for 14 days from the time they return home from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).'
+        - 'People traveling to New York, New Jersey, Connecticut, Alaska, Delaware, Indiana, Maryland, Missouri, Montana, North Dakota, Nebraska, Virginia, and Washington from 31 other states, are now [required to self-quarantine for 14 days as of July 21, 2020](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).'
     travel:
       domestic: partial
       inbound: partial
@@ -4807,6 +4815,59 @@ countries:
     travel:
       domestic: partial
       inbound: partial
+      inbound_allowed:
+        - AT
+        - BE
+        - CZ
+        - DK
+        - EE
+        - FI
+        - FR
+        - DE
+        - GR
+        - HU
+        - IS
+        - IT
+        - LV
+        - LT
+        - LU
+        - MT
+        - NL
+        - NO
+        - PL
+        - PT
+        - SK
+        - SI
+        - ES
+        - SE
+        - BG
+        - HR
+        - CY
+        - IE
+        - RO
+        - SG
+        - MY
+        - TH
+        - JP
+        - KR
+        - CN
+        - IL
+        - AE
+        - TR
+        - AG
+        - IR
+        - RU
+        - AM
+        - AZ
+        - BY
+        - GE
+        - KZ
+        - KG
+        - MD
+        - TJ
+        - TM
+        - UA
+        - UZ
       outbound: partial
   VC:
     sources:
