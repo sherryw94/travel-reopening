@@ -84,6 +84,7 @@ function tooltipBody(d) {
 export default {
   data() {
     return {
+      isMobile: false,
       svgMaxWidth: 900,
       svgWidth: undefined,
       svgHeight: undefined,
@@ -109,6 +110,7 @@ export default {
       const padding = 12 * 2; // 2 rem
       this.svgWidth = Math.min(+select('body').style('width').slice(0, -2) - padding, this.svgMaxWidth) - padding;
       this.svgHeight = Math.round(this.svgWidth / 2);
+      this.isMobile = 'ontouchstart' in document && window.matchMedia('(max-width: 400px)').matches;
     },
     handleCountryChange(country) {
       this.drawCurrentCountry(country);
@@ -178,6 +180,7 @@ export default {
         .attr('class', 'state')
         .attr('d', path)
         .on('click', (d) => {
+          if (this.isMobile) { return; }
           const country = this.getCountryById(d.id);
           if (this.$route.params.country === country.slug) return;
           this.$router.push({ name: 'Country', params: { country: country.slug } });
@@ -199,16 +202,18 @@ export default {
 
 <style lang="scss">
   .state {
+    @media (min-width: 400px), (hover: hover) {
+      cursor: pointer;
+      &:hover { opacity: 0.85; }
+    }
     fill: theme("colors.gray.400");
     stroke: theme("colors.gray.200");
     stroke-width: 0.5;
-    cursor: pointer;
     transition: fill 100ms ease;
     &.undefined { fill: theme("colors.gray.400"); }
     &.closed    { fill: theme("colors.secondary"); }
     &.open      { fill: theme("colors.state-open") }
     &.partial   { fill: theme("colors.state-partial") }
-    &:hover { opacity: 0.85; }
     &.current   {
       fill: theme("colors.primary");
       &:hover {
