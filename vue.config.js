@@ -76,7 +76,7 @@ module.exports = {
     },
     msTileColor: '#ffffff',
     themeColor: '#1c355e',
-    name: 'Travel Reopening',
+    name: 'COVID-19 Travel Guide',
     workboxOptions: {
       skipWaiting: true,
     },
