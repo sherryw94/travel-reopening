@@ -10,6 +10,8 @@ Serbian nationals are [barred from entry](https://www.garda.com/crisis24/news-al
 
 Land borders with Albania, North Macedonia, and Bulgaria are open. Visitors will be subject to random tests upon arrival. The land border with Turkey remains closed.
 
+Essential movement is only allowed through the land border checkpoints of Kakavia, Krystallopigi, Evzonous, Promahonas, Nymfaio, and Kymi until [August 4, 2020](https://greekcitytimes.com/2020/07/21/greece-introduces-strict-new-coronavirus-land-border-controls/). Seasonal land workers who leave Greece before August 4, 2020, will not be allowed to return.
+
 #### Sea Arrivals
 
 International sea arrivals permitted beginning July 1, 2020. Travelers are subject to random testing.

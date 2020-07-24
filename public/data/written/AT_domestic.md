@@ -2,4 +2,6 @@ Individual states and provinces have implemented their own measures that may imp
 
 Currently, Austria is in a phase of gradual, secure, and monitored re-opening. Restaurants and museums have opened on May 15, 2020, accommodation facilities, and recreational operations on May 29, 2020.
 
+The wearing of face masks is [mandatory in all shops](https://www.garda.com/crisis24/news-alerts/362161/austria-authorities-to-make-face-masks-compulsory-in-shops-from-july-24-update-17) from July 24, 2020.
+
 The [Vienna](https://www.viennaairport.com/en/passengers), [Salzburg](https://www.salzburg-airport.com/en/), and [Innsbruck](https://www.innsbruck-airport.com/en) airports currently operate with a limited flight plan. On June 15, 2020, [Austrian Airlines](https://www.austrian.com/?sc_lang=en&cc=US) have resumed flight operations for selected destinations.

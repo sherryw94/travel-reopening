@@ -8,11 +8,11 @@ Additional measures are in place:
 
 - Casinos are allowed to operate if they do not exceed 50% of their total capacity.
 
-- Restaurants, cafes, sports clubs, and movie theatres are allowed to operate at 25% capacity.
+- Sports clubs and movie theatres are allowed to operate at 25% capacity.
 
-- Restaurants and cafes will be required to close by 10pm (GMT+2).
+- [Restaurants and cafes are allowed to operate at 50% capacity. They will be required to close by 12 am (GMT+2)](https://www.insider.com/egypt-extends-operating-hours-of-cafes-restaurants-until-midnight-from-july-26-statement-2020-7).
 
-- Other shops are required to close by 9pm (GMT+2).
+- Other shops are required to close by 10 pm (GMT+2).
 
 - Places of worship are opened from Sunday to Thursday.
 

@@ -1,4 +1,4 @@
-Quarantine restrictions have extended until July 31, 2020 due to the [increasing number of COVID-19 cases](https://medicalxpress.com/news/2020-06-virus-cases-ukraine.html). The Ukrainian government recommends the use of face masks, social distancing, and disinfection measures.
+Quarantine restrictions have extended until [August 31, 2020](https://www.garda.com/crisis24/news-alerts/362611/ukraine-nationwide-quarantine-measures-extended-through-august-31-update-17). The Ukrainian government recommends the use of face masks, social distancing, and disinfection measures.
 
 These services and institutions are subject to social distancing requirements:
 
