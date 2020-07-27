@@ -3444,7 +3444,7 @@ countries:
       outbound: 'yes'
   NP:
     reopening:
-      '2020-08-01': 'Domestic flights and international flights will resume from [August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
+      '2020-08-17': 'Domestic flights and international flights will resume from [August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
     sources:
       domestic:
         - 'Domestic flights and international flights will resume from [August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
