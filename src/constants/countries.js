@@ -21,11 +21,17 @@ const countryNameOverrides = {
   US: 'United States of America',
 };
 
+const countrySearchAliases = {
+  AE: 'UAE',
+};
+
 const countries = countriesJson.map((c) => {
   const code = c['ISO3166-1-Alpha-2'];
   const name = countryNameOverrides[code] || c['CLDR display name'];
+  const searchAlias = countrySearchAliases[code] || '';
   const searchKey = [
     name,
+    searchAlias,
     c['ISO3166-1-Alpha-3'],
     c['CLDR display name'],
     c['UNTERM English Formal'],
