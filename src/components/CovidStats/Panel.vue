@@ -6,7 +6,16 @@
           <TravelState :country="country" />
         </div>
         <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
-          <CovidStats :country="country" :covidData="covidData" />
+          <h3>COVID-19 Statistics</h3>
+          <CovidStatsFigure class="mb-4" :covidData="covidData.newCases">
+            Daily new confirmed cases
+          </CovidStatsFigure>
+          <CovidStatsFigure class="mb-4" :covidData="covidData.totalCases">
+            Total confirmed cases
+          </CovidStatsFigure>
+          <CovidStatsFigure class="mb-6" :covidData="covidData.totalDeaths">
+            Total deaths
+          </CovidStatsFigure>
         </div>
       </div>
       <p class="text-xs">
@@ -24,13 +33,13 @@
 
 import { csv, timeParse } from 'd3';
 import TravelState from '@/components/TravelState.vue';
-import CovidStats from './CovidStats.vue';
 import CovidStatsDate from './CovidStatsDate.vue';
+import CovidStatsFigure from './CovidStatsFigure.vue';
 
 export default {
   components: {
-    CovidStats,
     CovidStatsDate,
+    CovidStatsFigure,
     TravelState,
   },
   data() {
