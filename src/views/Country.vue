@@ -23,19 +23,7 @@
             Subscribe here →
           </router-link>
         </div>
-        <div class="panel">
-          <div class="panel__inner">
-            <div class="md:flex">
-              <div class="md:order-1">
-                <TravelState :country="country" />
-              </div>
-              <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
-                <CovidStats :country="country" />
-              </div>
-            </div>
-            <p class="text-xs"><sup>*</sup>Statistics are published by <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">European Centre for Disease Prevention and Control</a>&nbsp;<CovidStatsDate :country="country" /></p>
-          </div>
-        </div>
+        <CovidStatsPanel :country="country" />
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'
           v-schema="{ prop: 'articleBody' }">
           <CountryBody :content="internationalContent">
@@ -77,11 +65,9 @@ import moment from 'moment';
 import CountryBody from '@/components/CountryBody.vue';
 import CountrySources from '@/components/CountrySources.vue';
 import CountryTravelIdeas from '@/components/CountryTravelIdeas.vue';
-import CovidStats from '@/components/CovidStats.vue';
-import CovidStatsDate from '@/components/CovidStatsDate.vue';
+import CovidStatsPanel from '@/components/CovidStats/Panel.vue';
 import Disclaimer from '@/components/Disclaimer.vue';
 import TitleMapSelect from '@/components/TitleMapSelect.vue';
-import TravelState from '@/components/TravelState.vue';
 import { checkedOn } from '@/constants/travel';
 import { mapActions, mapGetters, mapState } from 'vuex';
 
@@ -91,11 +77,9 @@ export default {
     CountryBody,
     CountrySources,
     CountryTravelIdeas,
-    CovidStats,
-    CovidStatsDate,
+    CovidStatsPanel,
     Disclaimer,
     TitleMapSelect,
-    TravelState,
   },
   data() {
     return {
