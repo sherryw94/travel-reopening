@@ -7,15 +7,9 @@
         </div>
         <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
           <h3>COVID-19 Statistics</h3>
-          <CovidStatsFigure class="mb-4" :covidData="covidData.newCases">
-            Daily new confirmed cases
-          </CovidStatsFigure>
-          <CovidStatsFigure class="mb-4" :covidData="covidData.totalCases">
-            Total confirmed cases
-          </CovidStatsFigure>
-          <CovidStatsFigure class="mb-6" :covidData="covidData.totalDeaths">
-            Total deaths
-          </CovidStatsFigure>
+          <Graph class="mb-4" :covidData="covidData.newCases">Daily new confirmed cases</Graph>
+          <Graph class="mb-4" :covidData="covidData.totalCases">Total confirmed cases</Graph>
+          <Graph class="mb-6" :covidData="covidData.totalDeaths">Total deaths</Graph>
         </div>
       </div>
       <p class="text-xs">
@@ -23,7 +17,7 @@
         Statistics are published by
         <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">
           European Centre for Disease Prevention and Control
-        </a>&nbsp;<CovidStatsDate :country="country" :covidData="covidData.newCases" /></p>
+        </a><LastUpdatedOn :stats="covidData.newCases" /></p>
     </div>
   </div>
 </template>
@@ -33,13 +27,13 @@
 
 import { csv, timeParse } from 'd3';
 import TravelState from '@/components/TravelState.vue';
-import CovidStatsDate from './CovidStatsDate.vue';
-import CovidStatsFigure from './CovidStatsFigure.vue';
+import LastUpdatedOn from './LastUpdatedOn.vue';
+import Graph from './Graph.vue';
 
 export default {
   components: {
-    CovidStatsDate,
-    CovidStatsFigure,
+    LastUpdatedOn,
+    Graph,
     TravelState,
   },
   data() {

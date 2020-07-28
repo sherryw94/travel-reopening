@@ -15,7 +15,7 @@ import moment from 'moment';
 const notAvailable = 'NA';
 
 export default {
-  name: 'CovidStatsFigure',
+  name: 'Graph',
   props: {
     covidData: { type: Array, default() { return []; } },
   },
