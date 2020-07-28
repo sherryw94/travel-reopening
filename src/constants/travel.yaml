@@ -980,8 +980,8 @@ countries:
   DZ:
     sources:
       domestic:
-        - 'The Algerian government announced that the partial lockdown in 29 provinces have been [extended until July 28, 2020](https://www.garda.com/crisis24/news-alerts/360566/algeria-lockdown-extended-until-july-28-update-23).'
-        - 'There is a curfew between the hours of 10 pm and 5 am (local time), as well as [a ban on movement between provinces](https://www.garda.com/crisis24/news-alerts/360566/algeria-lockdown-extended-until-july-28-update-23), other than for essential goods and security forces.'
+        - 'The Algerian government announced that the partial lockdown in 29 provinces has been [extended until August 12, 2020](https://www.garda.com/crisis24/news-alerts/363551/algeria-covid-19-movement-restrictions-curfew-extended-until-august-12-update-24).'
+        - 'There is a curfew between the hours of 8 pm and 5 am (local time), as well as [a ban on movement between provinces](https://www.garda.com/crisis24/news-alerts/360566/algeria-lockdown-extended-until-july-28-update-23).'
         - 'Public transportation including buses and taxi services have partially resumed, with capacity limits for the number of passengers. Other businesses such as clothing shops, car rentals, and hair salons have also been [permitted to reopen.](https://dz.usembassy.gov/covid-19-information/)'
       inbound:
         - 'Non-cargo international air and maritime travel, as well as domestic flights, are [suspended](https://www.garda.com/crisis24/news-alerts/355311/algeria-president-announces-borders-to-remain-closed-until-end-of-covid-19-pandemic-update-20).'
@@ -1893,13 +1893,13 @@ countries:
         - '[The national 18:00 to 05:00 (local time) curfew remains in place](https://www.garda.com/crisis24/news-alerts/355496/iraq-authorities-to-impose-total-lockdown-in-erbil-province-from-june-30-update-37) in Iraq''s other provinces.'
         - '[Curfews and lockdowns will be lifted after August 3, 2020](https://www.garda.com/crisis24/news-alerts/361256/iraq-authorities-announce-easing-of-nationwide-curfew-and-re-opening-of-airports-july-16-update-42).'
       inbound:
-        - 'The government announced that airports will re-open as of July 23, 2020](https://www.garda.com/crisis24/news-alerts/361256/iraq-authorities-announce-easing-of-nationwide-curfew-and-re-opening-of-airports-july-16-update-42).'
+        - 'The government announced that airports have reopened for limited international commercial flights](https://www.garda.com/crisis24/news-alerts/363481/iraq-authorities-announce-total-lockdown-for-eid-al-adha-holiday-until-august-9-update-44).'
       outbound:
-        - 'The government announced that airports will re-open as of July 23, 2020](https://www.garda.com/crisis24/news-alerts/361256/iraq-authorities-announce-easing-of-nationwide-curfew-and-re-opening-of-airports-july-16-update-42).'
+        - 'The government announced that airports have reopened for limited international commercial flights](https://www.garda.com/crisis24/news-alerts/363481/iraq-authorities-announce-total-lockdown-for-eid-al-adha-holiday-until-august-9-update-44).'
     travel:
       domestic: 'partial'
-      inbound: 'no'
-      outbound: 'no'
+      inbound: 'partial'
+      outbound: 'partial'
   IR:
     sources:
       domestic:
@@ -2021,13 +2021,15 @@ countries:
     travel:
       inbound: 'yes'
   JO:
+    reopening:
+      '2020-08-05': 'Jordanian authorities have announced that airports are to [reopen to commercial flights](https://www.garda.com/crisis24/news-alerts/363466/jordan-authorities-announce-airports-to-reopen-to-commercial-flights-from-august-5-update-27) from August 5, 2020 from countries deemed ''low-risk'' for the COVID-19.'
     sources:
       domestic:
         - 'Jordan''s Minister of Industry, Trade, and Supply, Tariq Hammouri, [granted approval](https://jo.usembassy.gov/covid-19-information/) for entertainment and recreation activities within tourist resorts to resume.'
       inbound:
-        - 'The Queen Alia International Airport (AMM) will [reopen in early August for some international flights](https://www.garda.com/crisis24/news-alerts/362156/jordan-authorities-announce-on-july-21-that-some-international-flights-will-resume-in-august-update-26), to and from locations with a lower risk of infection, including Austria, China, Norway, Italy, Cyprus, Thailand, Latvia, Malaysia, and Switzerland, will be the first to resume.'
+        - 'Jordanian authorities have announced that airports are to [reopen to commercial flights](https://www.garda.com/crisis24/news-alerts/363466/jordan-authorities-announce-airports-to-reopen-to-commercial-flights-from-august-5-update-27) from August 5, 2020 from countries deemed ''low-risk'' for the COVID-19.'
       outbound:
-        - 'The Queen Alia International Airport (AMM) will [reopen in early August for some international flights](https://www.garda.com/crisis24/news-alerts/362156/jordan-authorities-announce-on-july-21-that-some-international-flights-will-resume-in-august-update-26), to and from locations with a lower risk of infection, including Austria, China, Norway, Italy, Cyprus, Thailand, Latvia, Malaysia, and Switzerland, will be the first to resume.'
+        - 'Jordanian authorities have announced that airports are to [reopen to commercial flights](https://www.garda.com/crisis24/news-alerts/363466/jordan-authorities-announce-airports-to-reopen-to-commercial-flights-from-august-5-update-27) from August 5, 2020 from countries deemed ''low-risk'' for the COVID-19.'
       visa_quarantine:
         - 'All passengers arriving or departing from Jordan will be [required to undergo a COVID-19 test.](https://www.garda.com/crisis24/news-alerts/362156/jordan-authorities-announce-on-july-21-that-some-international-flights-will-resume-in-august-update-26).'
     travel:
@@ -2215,12 +2217,16 @@ countries:
         - 'The Cambodian Ministry of Education has issued an immediate, indefinite, closure of all schools in in Cambodia until further notice. The Cambodian government has also shuttered all museums, cinemas, concert halls, bars, and karaoke establishments. Any large religious gatherings are [prohibited until further notice](https://kh.usembassy.gov/covid-19-information/).'
       inbound:
         - 'Visitors must possess a [COVID-19 negative medical certificate](https://kh.usembassy.gov/covid-19-information/) issued no more than 72 hours prior to the date of arrival and proof of medical insurance coverage of at least $50,000.'
+        - 'A temporary ban on [all commercial flights from Malaysia and Indonesia](https://www.garda.com/crisis24/news-alerts/363451/cambodia-government-announce-that-they-will-temporarily-ban-all-flights-from-malaysia-and-indonesia-from-august-1-update-11) will be in effect from Saturday, August 1, 2020.'
       visa_quarantine:
         - '[Cambodia has imposed suspension of visa exemption policy for ASEAN nationals, tourist visas, and e-visas.Tourists will no longer be issued visas](https://www.mfa.gov.sg/countries-regions/c/cambodia/travel-page)'
         - 'In the event one or more travelers on an arriving vessel/flight test positive, [all passengers must undergo a 14-day quarantine](https://www.mfa.gov.sg/countries-regions/c/cambodia/travel-page) at a location designated by Cambodian authorities. If all travelers test negative, health authorities will require travelers to self-isolate for 14-days at their home or lodging under supervision of local authorities. Health authorities will then oversee another COVID-19 test on the 13th day of self-isolation.'
     travel:
       domestic: partial
       inbound: partial
+      inbound_restricted:
+        - MY
+        - ID
   KI:
     sources:
       inbound:
@@ -2257,6 +2263,7 @@ countries:
     sources:
       inbound:
         - '[A ban on inbound tourist travel remains in place](https://www.worldaware.com/covid-19-alert-north-korea-continues-enforcing-measures-may-15).'
+        - 'North Korean authorities placed the southern city of Kaesong (North Hwanghae Province) [under lockdown](https://www.garda.com/crisis24/news-alerts/363441/north-korea-authorities-place-kaesong-north-hwanghae-province-under-lockdown-after-reporting-first-suspected-covid-19-case-on-july-26-update-3)'
       visa_quarantine:
         - 'Foreigners who have travelled into North Korea from virus-affected countries are subject to a [30 day period of quarantine and medical supervision](https://www.worldaware.com/covid-19-alert-north-korea-continues-enforcing-measures-may-15).'
     travel:
@@ -2700,11 +2707,11 @@ countries:
     sources:
       domestic:
         - 'Government has classified the country into 2 zones, [with different restrictions for each zone.](https://www.garda.com/crisis24/news-alerts/352501/morocco-further-easing-of-covid-19-restrictions-from-june-19-update-17)'
-        - '[Inter-provincial travel is permitted](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18), subject to movement restrictions in certain areas. You must carry identification documents with you at all times.'
+        - '[Inter-provincial travel is permitted for certain states](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18), subject to movement restrictions in certain areas. You must carry identification documents with you at all times.'
         - 'As of June 25, 2020, [domestic transport services, including flights and railways, have resumed](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18).'
         - 'Authorities will be permitted to [enforce lockdowns on a region-by-region basis](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20) until August 10, 2020.'
         - 'Public transport into and out of Tangier is [suspended](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20), and any movement outside of the city limits will require a permit from authorities.'
-        - 'Domestic travel has resumed and borders are [scheduled to reopen on Tuesday, July 14, 2020](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20).'
+        - 'A partial lockdow has been reintroduced and will [restrict entry and exit from the cities of Casablanca, Fez, Tangier, Marrakech, and Meknes](https://www.garda.com/crisis24/news-alerts/363566/morocco-authorities-to-restrict-access-to-major-cities-amid-spike-in-covid-19-cases-from-july-27-update-23).'
       inbound:
         - 'The borders remain closed to [all foreign nationals and tourism.](https://www.garda.com/crisis24/news-alerts/359606/morocco-authorities-announce-the-partial-reopening-of-borders-from-july-15-update-22).'
       outbound:
@@ -3872,7 +3879,7 @@ countries:
       domestic:
         - 'Wearing a face mask is mandatory and [social distancing rules need to be observed](https://www.visitportugal.com/en/node/421189).'
         - 'The state of alert has been decreed](https://www.garda.com/crisis24/news-alerts/356491/portugal-government-downgrade-to-state-of-alert-july-1-update-17) amid the easing of some coronavirus disease (COVID-19) restrictions, however, some areas including the Lisbon Metropolitan Area remain under additional restrictions.'
-        - 'Portuguese authorities announced on June 22, 2020, that [some lockdown measures would be restored in Lisbon](https://www.garda.com/crisis24/news-alerts/356491/portugal-government-downgrade-to-state-of-alert-july-1-update-17) following an increase in COVID-19, cases in the city. Gatherings are limited to 20 people, except for religious ceremonies and family events, such as weddings and christenings.'
+        - 'Portuguese authorities announced on June 22, 2020, that [some lockdown measures would be restored in Lisbon](https://www.garda.com/crisis24/news-alerts/363546/portugal-over-50000-confirmed-covid-19-cases-as-of-july-26-update-19) until at least July 31, 2020. Gatherings are limited to 20 people, except for religious ceremonies and family events, such as weddings and christenings.'
         - 'Gatherings in some areas are [restricted to no more than five people](https://www.garda.com/crisis24/news-alerts/359936/portugal-authorities-extend-restrictions-in-lisbon-metropolitan-area-until-july-31-update-18)and are in 19 parishes in Lisbon, Sintra, Amadora, Loures, and Odivelas.'
       inbound:
         - '[Flights will be permitted from countries](https://www.schengenvisainfo.com/news/portugal-to-open-its-borders-for-tourists-from-certain-countries-only/) in the European Schengen travel zone except Spain and Italy. Flights are also permitted to some countries outside of the EU.'
