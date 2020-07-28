@@ -2035,6 +2035,29 @@ countries:
     travel:
       domestic: 'partial'
       inbound: 'partial'
+      inbound_allowed:
+        - AT
+        - CA
+        - CN
+        - CY
+        - DK
+        - EE
+        - GE
+        - DE
+        - GL
+        - IS
+        - IE
+        - IT
+        - LV
+        - LT
+        - MY
+        - MT
+        - NZ
+        - NO
+        - CH
+        - TW
+        - TH
+        - MC
       outbound: 'partial'
   JP:
     sources:
@@ -2711,7 +2734,7 @@ countries:
         - 'As of June 25, 2020, [domestic transport services, including flights and railways, have resumed](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18).'
         - 'Authorities will be permitted to [enforce lockdowns on a region-by-region basis](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20) until August 10, 2020.'
         - 'Public transport into and out of Tangier is [suspended](https://www.garda.com/crisis24/news-alerts/358186/morocco-emergency-decree-extended-until-august-10-update-20), and any movement outside of the city limits will require a permit from authorities.'
-        - 'A partial lockdow has been reintroduced and will [restrict entry and exit from the cities of Casablanca, Fez, Tangier, Marrakech, and Meknes](https://www.garda.com/crisis24/news-alerts/363566/morocco-authorities-to-restrict-access-to-major-cities-amid-spike-in-covid-19-cases-from-july-27-update-23).'
+        - 'A partial lockdown has been reintroduced and will [restrict entry and exit from the cities of Casablanca, Fez, Tangier, Marrakech, and Meknes](https://www.garda.com/crisis24/news-alerts/363566/morocco-authorities-to-restrict-access-to-major-cities-amid-spike-in-covid-19-cases-from-july-27-update-23).'
       inbound:
         - 'The borders remain closed to [all foreign nationals and tourism.](https://www.garda.com/crisis24/news-alerts/359606/morocco-authorities-announce-the-partial-reopening-of-borders-from-july-15-update-22).'
       outbound:
