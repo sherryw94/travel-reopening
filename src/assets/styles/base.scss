@@ -1,0 +1,56 @@
+/** CUSTOM BASE STYLES **/
+
+/**
+/* HEADINGS */
+
+h1,
+h2,
+h3,
+h4,
+h5 { @apply mb-2 text-primary; }
+
+h1:not(:first-child),
+h2:not(:first-child),
+h3:not(:first-child),
+h4:not(:first-child),
+h5:not(:first-child) { @apply pt-2; }
+
+h1,
+h2 { @apply text-lg font-bold; }
+h3 { @apply text-lg font-bold; }
+h4 { @apply text-base font-semibold; }
+h5 { @apply text-base font-medium; }
+
+h2.country-header { @apply text-xl font-bold; }
+
+@screen md {
+  h1,
+  h2,
+  h3 { @apply text-xl; }
+
+  h2.country-header { @apply text-2xl; }
+}
+
+/**
+/* PARAGRAPHS AND LINKS */
+
+p { @apply mb-3 leading-relaxed; }
+
+a {
+  @apply text-tertiary font-medium underline;
+  &:hover { @apply opacity-75;}
+}
+
+/**
+/* LISTS */
+
+ul,
+ol { @apply mb-4 pl-10 }
+
+ul { @apply list-disc }
+ol { @apply list-decimal }
+
+ul > li,
+ol > li {
+  @apply mb-2 leading-relaxed;
+}
