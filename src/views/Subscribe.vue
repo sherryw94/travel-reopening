@@ -5,7 +5,7 @@
         <div class="mb-12 sm:mb-0 sm:mr-1">
           <SubscriptionForm/>
         </div>
-        <img class="h-auto w-8/12 md:w-6/12" src="@/assets/images/undraw_traveling.svg">
+        <img class="h-auto w-8/12 md:w-6/12" src="@/assets/images/undraw-traveling.svg">
       </div>
     </div>
   </div>

@@ -15,7 +15,7 @@
             Take me home
           </router-link>
         </div>
-        <img class="h-auto w-8/12 md:w-6/12" src="@/assets/images/undraw_lost.svg">
+        <img class="h-auto w-8/12 md:w-6/12" src="@/assets/images/undraw-lost.svg">
       </div>
     </div>
   </div>
