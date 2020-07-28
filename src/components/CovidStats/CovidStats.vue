@@ -13,7 +13,7 @@
 <script>
 /* eslint-disable @typescript-eslint/camelcase */
 import { csv, timeParse } from 'd3';
-import CovidStatsFigure from '@/components/CovidStatsFigure.vue';
+import CovidStatsFigure from './CovidStatsFigure.vue';
 
 export default {
   name: 'CovidStats',
