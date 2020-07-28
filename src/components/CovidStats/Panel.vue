@@ -7,9 +7,9 @@
         </div>
         <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
           <h3>COVID-19 Statistics</h3>
-          <Graph class="mb-4" :covidData="covidData.newCases">Daily new confirmed cases</Graph>
-          <Graph class="mb-4" :covidData="covidData.totalCases">Total confirmed cases</Graph>
-          <Graph class="mb-6" :covidData="covidData.totalDeaths">Total deaths</Graph>
+          <Graph class="mb-4" :stats="stats.newCases">Daily new confirmed cases</Graph>
+          <Graph class="mb-4" :stats="stats.totalCases">Total confirmed cases</Graph>
+          <Graph class="mb-6" :stats="stats.totalDeaths">Total deaths</Graph>
         </div>
       </div>
       <p class="text-xs">
@@ -17,7 +17,7 @@
         Statistics are published by
         <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">
           European Centre for Disease Prevention and Control
-        </a><LastUpdatedOn :stats="covidData.newCases" /></p>
+        </a><LastUpdatedOn :stats="stats.newCases" /></p>
     </div>
   </div>
 </template>
@@ -38,7 +38,7 @@ export default {
   },
   data() {
     return {
-      covidData: {
+      stats: {
         totalCases: [],
         newCases: [],
         totalDeaths: [],
@@ -57,7 +57,7 @@ export default {
     getData() {
       csv(`data/covid/covid_${this.country.alpha3}.csv`)
         .then((r) => {
-          this.covidData = r.reduce((acc, {
+          this.stats = r.reduce((acc, {
             date, total_cases, total_deaths, new_cases,
           }) => {
             if (!date) { return acc; }
