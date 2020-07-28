@@ -17,13 +17,13 @@ const notAvailable = 'NA';
 export default {
   name: 'CovidStatsFigure',
   props: {
-    data: { type: Array, default() { return []; } },
+    covidData: { type: Array, default() { return []; } },
   },
   created() { window.addEventListener('resize', this.handleSizeChange); },
   computed: {
     latestFigure() {
-      if (!this.data || this.data.length <= 0) { return { value: notAvailable }; }
-      const lastFigure = (this.data.slice(0) || []) // make copy of array to prevent mutation
+      if (!this.covidData || this.covidData.length <= 0) { return { value: notAvailable }; }
+      const lastFigure = (this.covidData.slice(0) || []) // make copy of array to prevent mutation
         .sort((a, b) => b.date - a.date)
         .find(({ value }) => value);
       const formattedValue = lastFigure?.value
@@ -61,7 +61,7 @@ export default {
 
       // Add Y axis
       const y = scaleLinear()
-        .domain([0, max(this.data, ({ value }) => +value)])
+        .domain([0, max(this.covidData, ({ value }) => +value)])
         .range([height, 0]);
 
       svg.append('g')
@@ -70,7 +70,7 @@ export default {
         .select('.tick:first-of-type')
         .remove();
 
-      const nonEmptyData = this.data.filter((d) => !!d.value && +d.value > 0);
+      const nonEmptyData = this.covidData.filter((d) => !!d.value && +d.value > 0);
       svg.append('path')
         .attr('class', 'stats')
         .datum(nonEmptyData)
@@ -81,7 +81,7 @@ export default {
     handleSizeChange() { this.drawData(); },
   },
   watch: {
-    data() { this.drawData(); },
+    covidData() { this.drawData(); },
   },
 };
 </script>
