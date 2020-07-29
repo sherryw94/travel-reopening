@@ -1,18 +1,15 @@
 <template>
-  <div class="panel">
-    <div class="panel__inner">
-      <h3>Sources</h3>
-      <ol v-if="sourcesList.length">
-        <li v-for="source in sourcesList" :key="source">
-          <vue-markdown
-            :source="source"
-            :anchorAttributes='anchorAttributes'></vue-markdown>
-        </li>
-      </ol>
-      <p v-else>
-        Sorry, we don't have any sources yet.
-      </p>
-    </div>
+  <div>
+    <ol v-if="sourcesList.length">
+      <li v-for="source in sourcesList" :key="source">
+        <vue-markdown
+          :source="source"
+          :anchorAttributes='anchorAttributes'></vue-markdown>
+      </li>
+    </ol>
+    <p v-else>
+      Sorry, we don't have any sources yet.
+    </p>
   </div>
 </template>
 

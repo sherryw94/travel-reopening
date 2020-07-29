@@ -1,6 +1,5 @@
 <template>
   <div>
-    <Heading :tag="tag" :title="title" />
     <p>
       We gather our data from hundreds of sources to ensure that our information
       is up-to-date. Our sources include official government websites
@@ -29,16 +28,7 @@
 </template>
 
 <script>
-import Heading from '@/components/Heading.vue';
-
 export default {
   name: 'Disclaimer',
-  components: {
-    Heading,
-  },
-  props: {
-    tag: String,
-    title: String,
-  },
 };
 </script>

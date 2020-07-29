@@ -10,7 +10,7 @@
         <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
           <p v-if="checkedOn" class="font-semibold text-sm">
             <span v-schema="{ prop: 'datePublished', content: '2020-05-01' }" />
-            Last checked on
+              Last checked on
             <span v-schema="{ prop: 'dateModified', content: checkedOniso8601 }">
               {{checkedOn}}
             </span>
@@ -19,11 +19,10 @@
             Want the latest travel updates in your inbox?
           </p>
           <router-link :to="{name: 'Subscribe'}" class="inline-flex font-semibold text-sm"
-            id="country-subscribe">
-            Subscribe here →
+            id="country-subscribe">Subscribe here →
           </router-link>
         </div>
-        <CovidStatsPanel :country="country" />
+        <Panel><CovidStatsPanel :country="country" /></Panel>
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'
           v-schema="{ prop: 'articleBody' }">
           <Panel title="International Travel"
@@ -65,6 +64,7 @@ import CountrySources from '@/components/CountrySources.vue';
 import CountryTravelIdeas from '@/components/CountryTravelIdeas.vue';
 import CovidStatsPanel from '@/components/CovidStats/Panel.vue';
 import Disclaimer from '@/components/Disclaimer.vue';
+import Panel from '@/components/Panel.vue';
 import TitleMapSelect from '@/components/TitleMapSelect.vue';
 import { checkedOn } from '@/constants/travel';
 import { mapActions, mapGetters, mapState } from 'vuex';
@@ -77,6 +77,7 @@ export default {
     CountryTravelIdeas,
     CovidStatsPanel,
     Disclaimer,
+    Panel,
     TitleMapSelect,
   },
   data() {
