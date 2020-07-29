@@ -22,9 +22,9 @@ For the most up-to-date daily briefing of COVID-19 cases in China, refer to the 
 - Until at least July 7, 2020, Hong Kong residents and non-Hong Kong residents arriving from mainland China, Macau, or Taiwan with no travel to any overseas countries and regions in the past two weeks will be subject to a 14-day compulsory quarantine.
 - Incoming travelers who have been in or transited through high-risk areas in the last 14 days must show proof of a negative COVID-19 test before boarding flights into Hong Kong.
 - The wearing of masks is now [mandatory until August 6, 2020](https://www.garda.com/crisis24/news-alerts/362401/hong-kong-authorities-extend-mandatory-wearing-of-face-masks-until-august-6-update-35).
-- Public gatherings are capped at four people.
-- Customers cannot sit in groups larger than four at restaurants.
-- Dine-in services must stop between 6pm to 5am (GMT+8) everyday.
+- The government urges everyone to [stay indoors](https://www.straitstimes.com/asia/east-asia/hong-kong-warns-city-on-verge-of-large-coronavirus-outbreak).
+- Public gatherings are capped at two people.
+- All dine-in restaurants are closed.
 - Gaming centers, bathhouses, gyms, and other public recreational facilities are closed.
 - Exhibitions and public events are canceled or postponed.
 

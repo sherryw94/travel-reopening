@@ -1,7 +1,22 @@
 Individual regions and provinces implement their own measures that may impact interstate travel.
 
-Within Belgium, travelers are allowed to visit another city, town, or village for one or more days.
+[Face masks are mandatory](https://www.politico.eu/article/belgium-coronavirus-restrictions-fear-of-second-wave/) in:
 
-Face masks are mandatory in [crowded public places](https://www.garda.com/crisis24/news-alerts/362606/belgium-face-masks-to-be-compulsory-in-crowded-public-places-from-july-25-update-18) from July 25, 2020. Travelers who use public transport (bus, tram, or train) and are older than 12 years of age are required to wear a face mask or a scarf covering their mouth and nose.
+- Public buildings
+- Bars
+- Restaurants
+- Hotels
+- Outdoor spaces like markets, shopping streets, and other places where many people gather
+
+The number of people Belgians are allowed to have interactions with on a weekly basis is restricted to 15.
+
+COVID-19 restrictions in Antwerp have been [tightened from July 27, 2020](https://www.politico.eu/article/belgium-reduces-social-bubbles-event-sizes-amid-coronavirus-spike/). These include:
+
+- Indoor venues are limited to 100 people
+- Outdoor venues are limited to 200 people
+- Private social gatherings from different households are limited to 5 people
+- Group excursions are limited to 10 people
+- Working from home is compulsory. Only those going to work or the hospital is allowed outside their homes.
+- Curfew is set from 11:30pm to 6am (GMT+2)
 
 For the most up-to-date travel information, refer to the [FAQ for Coronavirus COVID-19 Belgium](https://www.info-coronavirus.be/en/faq/).
