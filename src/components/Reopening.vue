@@ -1,17 +1,12 @@
 <template>
-  <div class="panel">
-    <div class="panel__inner">
-      <h2>Countries Reopening</h2>
-      <ul>
-        <li v-for="reopening in reopeningsList" :key="reopening.content">
-          <span>{{toDate(reopening.date)}}:</span>
-          <vue-markdown
-            :source="'**' + reopening.name + ' Update** &ndash; ' + reopening.content"
-            :anchorAttributes='anchorAttributes'></vue-markdown>
-        </li>
-      </ul>
-    </div>
-  </div>
+  <ul>
+    <li v-for="reopening in reopeningsList" :key="reopening.content">
+      <span>{{toDate(reopening.date)}}:</span>
+      <vue-markdown
+        :source="'**' + reopening.name + ' Update** &ndash; ' + reopening.content"
+        :anchorAttributes='anchorAttributes'></vue-markdown>
+    </li>
+  </ul>
 </template>
 
 <script>

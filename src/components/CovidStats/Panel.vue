@@ -1,24 +1,22 @@
 <template>
-  <div class="panel">
-    <div class="panel__inner">
-      <div class="md:flex">
-        <div class="md:order-1">
-          <TravelState :country="country" />
-        </div>
-        <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
-          <h3>COVID-19 Statistics</h3>
-          <Graph class="mb-4" :stats="stats.newCases">Daily new confirmed cases</Graph>
-          <Graph class="mb-4" :stats="stats.totalCases">Total confirmed cases</Graph>
-          <Graph class="mb-6" :stats="stats.totalDeaths">Total deaths</Graph>
-        </div>
+  <div>
+    <div class="md:flex">
+      <div class="md:order-1">
+        <TravelState :country="country" />
       </div>
-      <p class="text-xs">
-        <sup>*</sup>
-        Statistics are published by
-        <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">
-          European Centre for Disease Prevention and Control
-        </a><LastUpdatedOn :stats="stats.newCases" /></p>
+      <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
+        <h3>COVID-19 Statistics</h3>
+        <Graph class="mb-4" :stats="stats.newCases">Daily new confirmed cases</Graph>
+        <Graph class="mb-4" :stats="stats.totalCases">Total confirmed cases</Graph>
+        <Graph class="mb-6" :stats="stats.totalDeaths">Total deaths</Graph>
+      </div>
     </div>
+    <p class="text-xs">
+      <sup>*</sup>
+      Statistics are published by
+      <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">
+        European Centre for Disease Prevention and Control
+      </a><LastUpdatedOn :stats="stats.newCases" /></p>
   </div>
 </template>
 

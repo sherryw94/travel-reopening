@@ -7,6 +7,7 @@ export default {
   props: {
     tag: {
       type: String,
+      default: 'h3',
       required: true,
     },
     title: {

@@ -26,7 +26,8 @@
         region to <a href="mailto:travel-map@tourhero.com">travel-map@tourhero.com</a>.
       </p>
 
-      <Disclaimer tag="h2" title="About Our Data" class="pt-2" />
+      <h2>About Our Data</h2>
+      <Disclaimer class="mb-3" />
 
       <h2>Legend</h2>
       <div class="inline-grid grid-cols-legend row-gap-2 col-gap-4 items-baseline">

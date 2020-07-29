@@ -34,23 +34,29 @@ h2.country-header { @apply text-xl font-bold; }
 /**
 /* PARAGRAPHS AND LINKS */
 
-p { @apply mb-3 leading-relaxed; }
+p {
+  @apply leading-relaxed;
+  &:not(:last-child) {
+    @apply mb-3
+  }
+}
 
 a {
   @apply text-tertiary font-medium underline;
-  &:hover { @apply opacity-75;}
+  &:hover { @apply opacity-75; }
 }
 
 /**
 /* LISTS */
 
 ul,
-ol { @apply mb-4 pl-10 }
+ol { @apply pl-10 leading-relaxed; }
 
-ul { @apply list-disc }
-ol { @apply list-decimal }
+ul:not(:last-child),
+ol:not(:last-child) { @apply mb-4; }
+
+ul { @apply list-disc; }
+ol { @apply list-decimal; }
 
 ul > li,
-ol > li {
-  @apply mb-2 leading-relaxed;
-}
+ol > li { @apply mb-2; }

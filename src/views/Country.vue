@@ -7,51 +7,47 @@
         <span v-schema="{ prop: 'author', content: 'TourHero' }" />
         <span v-schema="{ prop: 'publisher', content: 'TourHero' }" />
         <span v-schema="{ prop: 'image', content: articleImage }" />
-        <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
-          <p v-if="checkedOn" class="font-semibold text-sm">
+        <div class="px-4 py-5 mb-4 bg-gray-100 text-sm font-semibold rounded-md">
+          <p v-if="checkedOn">
             <span v-schema="{ prop: 'datePublished', content: '2020-05-01' }" />
-            Last checked on
+              Last checked on
             <span v-schema="{ prop: 'dateModified', content: checkedOniso8601 }">
               {{checkedOn}}
             </span>
           </p>
-          <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
-            Want the latest travel updates in your inbox?
+          <p>Want the latest travel updates in your inbox?
+            <router-link :to="{name: 'Subscribe'}" class="ml-1 font-semibold"
+              id="country-subscribe">Subscribe here →
+            </router-link>
           </p>
-          <router-link :to="{name: 'Subscribe'}" class="inline-flex font-semibold text-sm"
-            id="country-subscribe">
-            Subscribe here →
-          </router-link>
         </div>
-        <CovidStatsPanel :country="country" />
+        <Panel><CovidStatsPanel :country="country" /></Panel>
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'
           v-schema="{ prop: 'articleBody' }">
-          <CountryBody :content="internationalContent">
-            <h3 v-schema="{ prop: 'articleSection' }">International Travel</h3>
-          </CountryBody>
-          <CountryBody :content="visaQuarantineContent">
-            <h3 v-schema="{ prop: 'articleSection' }">Visa &amp; Quarantine Measures</h3>
-          </CountryBody>
-          <CountryBody :content="domesticContent">
-            <h3 v-schema="{ prop: 'articleSection' }">Domestic Travel</h3>
-          </CountryBody>
+          <Panel title="International Travel"
+            v-schema="{ prop: 'articleSection' }">
+            <CountryBody :content="internationalContent" />
+          </Panel>
+          <Panel title="Visa &amp; Quarantine Measures"
+            v-schema="{ prop: 'articleSection' }">
+            <CountryBody :content="visaQuarantineContent" />
+          </Panel>
+          <Panel title="Domestic Travel"
+            v-schema="{ prop: 'articleSection' }">
+            <CountryBody :content="domesticContent" />
+          </Panel>
         </div>
-        <CountryTravelIdeas :country="country" />
-        <div class="panel">
-          <div class="panel__inner">
-            <p>
-              Help us improve this data by dropping us
-              <a :href="emailTo">an email</a>.
-              Thank you very much for your help!
-            </p>
-          </div>
-        </div>
-        <CountrySources :countryCode="country.code" />
-        <div class="panel">
-          <div class="panel__inner">
-            <Disclaimer tag="h3" title="About Our Data" />
-          </div>
-        </div>
+        <Panel title="Travel Ideas">
+          <CountryTravelIdeas :country="country" />
+        </Panel>
+        <Panel>
+          <p>
+            Help us improve this data by dropping us <a :href="emailTo">an email</a>.
+            Thank you very much for your help!
+          </p>
+        </Panel>
+        <Panel title="Sources"><CountrySources :countryCode="country.code" /></Panel>
+        <Panel title="About Our Data"><Disclaimer /></Panel>
       </div>
     </div>
   </div>
@@ -67,6 +63,7 @@ import CountrySources from '@/components/CountrySources.vue';
 import CountryTravelIdeas from '@/components/CountryTravelIdeas.vue';
 import CovidStatsPanel from '@/components/CovidStats/Panel.vue';
 import Disclaimer from '@/components/Disclaimer.vue';
+import Panel from '@/components/Panel.vue';
 import TitleMapSelect from '@/components/TitleMapSelect.vue';
 import { checkedOn } from '@/constants/travel';
 import { mapActions, mapGetters, mapState } from 'vuex';
@@ -79,6 +76,7 @@ export default {
     CountryTravelIdeas,
     CovidStatsPanel,
     Disclaimer,
+    Panel,
     TitleMapSelect,
   },
   data() {
