@@ -27,7 +27,7 @@
       </p>
 
       <h2>About Our Data</h2>
-      <Disclaimer />
+      <Disclaimer class="mb-3" />
 
       <h2>Legend</h2>
       <div class="inline-grid grid-cols-legend row-gap-2 col-gap-4 items-baseline">

@@ -7,20 +7,19 @@
         <span v-schema="{ prop: 'author', content: 'TourHero' }" />
         <span v-schema="{ prop: 'publisher', content: 'TourHero' }" />
         <span v-schema="{ prop: 'image', content: articleImage }" />
-        <div class="px-4 py-5 mb-4 bg-gray-100 rounded-md">
-          <p v-if="checkedOn" class="font-semibold text-sm">
+        <div class="px-4 py-5 mb-4 bg-gray-100 text-sm font-semibold rounded-md">
+          <p v-if="checkedOn">
             <span v-schema="{ prop: 'datePublished', content: '2020-05-01' }" />
               Last checked on
             <span v-schema="{ prop: 'dateModified', content: checkedOniso8601 }">
               {{checkedOn}}
             </span>
           </p>
-          <p class="inline-flex mr-1 mb-0 font-semibold text-sm">
-            Want the latest travel updates in your inbox?
+          <p>Want the latest travel updates in your inbox?
+            <router-link :to="{name: 'Subscribe'}" class="ml-1 font-semibold"
+              id="country-subscribe">Subscribe here →
+            </router-link>
           </p>
-          <router-link :to="{name: 'Subscribe'}" class="inline-flex font-semibold text-sm"
-            id="country-subscribe">Subscribe here →
-          </router-link>
         </div>
         <Panel><CovidStatsPanel :country="country" /></Panel>
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'
