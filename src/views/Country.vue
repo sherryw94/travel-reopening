@@ -26,32 +26,30 @@
         <CovidStatsPanel :country="country" />
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'
           v-schema="{ prop: 'articleBody' }">
-          <CountryBody :content="internationalContent">
-            <h3 v-schema="{ prop: 'articleSection' }">International Travel</h3>
-          </CountryBody>
-          <CountryBody :content="visaQuarantineContent">
-            <h3 v-schema="{ prop: 'articleSection' }">Visa &amp; Quarantine Measures</h3>
-          </CountryBody>
-          <CountryBody :content="domesticContent">
-            <h3 v-schema="{ prop: 'articleSection' }">Domestic Travel</h3>
-          </CountryBody>
+          <Panel title="International Travel"
+            v-schema="{ prop: 'articleSection' }">
+            <CountryBody :content="internationalContent" />
+          </Panel>
+          <Panel title="Visa &amp; Quarantine Measures"
+            v-schema="{ prop: 'articleSection' }">
+            <CountryBody :content="visaQuarantineContent" />
+          </Panel>
+          <Panel title="Domestic Travel"
+            v-schema="{ prop: 'articleSection' }">
+            <CountryBody :content="domesticContent" />
+          </Panel>
         </div>
-        <CountryTravelIdeas :country="country" />
-        <div class="panel">
-          <div class="panel__inner">
-            <p>
-              Help us improve this data by dropping us
-              <a :href="emailTo">an email</a>.
-              Thank you very much for your help!
-            </p>
-          </div>
-        </div>
-        <CountrySources :countryCode="country.code" />
-        <div class="panel">
-          <div class="panel__inner">
-            <Disclaimer tag="h3" title="About Our Data" />
-          </div>
-        </div>
+        <Panel title="Travel Ideas">
+          <CountryTravelIdeas :country="country" />
+        </Panel>
+        <Panel>
+          <p>
+            Help us improve this data by dropping us <a :href="emailTo">an email</a>.
+            Thank you very much for your help!
+          </p>
+        </Panel>
+        <Panel title="Sources"><CountrySources :countryCode="country.code" /></Panel>
+        <Panel title="About Our Data"><Disclaimer /></Panel>
       </div>
     </div>
   </div>
