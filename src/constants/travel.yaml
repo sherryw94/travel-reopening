@@ -336,9 +336,9 @@ countries:
         - '[A 50% occupancy condition applies](http://www.mh.government.bg/bg/novini/aktualno/ot-utre-23-yuni-noseneto-na-predpazna-maska-ili-dr/) to the holding of cultural and entertainment events indoors and outdoors.'
       inbound:
         - 'All nationals, permanent residents and their family members of the European Union, United Kingdom, the Schengen Agreement States including San Marino, Andorra, Monaco and Vatican City, Bosnia and Herzegovina, Montenegro, and Serbia, are [allowed into Bulgaria as of June 18, 2020](https://bg.usembassy.gov/novel-coronavirus-covid-19-information/#:~:text=Entry%20ban%3A%20U.S.%20citizens%20are,exceptions%20to%20this%20entry%20ban.&text=As%20of%20June%2018%2C%20permanent,countries%20may%20enter%20%E2%80%8BBulgaria).'
-        - 'Tourists from Serbia, North Macedonia, Albania, Kosovo, Bosnia, Montenegro, Moldova, Israel, and Kuwait will be allowed to visit the country however, they must provide proof of a negative COVID-19 test, [taken no more than 72 hours before arrival](https://www.garda.com/crisis24/news-alerts/363836/bulgaria-travel-bans-to-ease-for-tourists-from-select-countries-from-july-28-update-14).'
+        - 'Tourists from Serbia, North Macedonia, Albania, Kosovo, Bosnia, Montenegro, Moldova, Israel, and Kuwait will be allowed to visit the country. However, they must provide proof of a negative COVID-19 test, [taken no more than 72 hours before arrival](https://www.garda.com/crisis24/news-alerts/363836/bulgaria-travel-bans-to-ease-for-tourists-from-select-countries-from-july-28-update-14).'
       visa_quarantine:
-        - 'All persons (with limited exceptions) arriving in Bulgaria from Sweden, the United Kingdom, Portugal, and from all third countries (outside the European Union), except Serbia, Bosnia and Herzegovina and Montenegro, Iceland, Norway, Switzerland, Lichtenstein, San Marino, Andorra, Monaco, and Vatican City must [quarantine for a period of 14 days at home or at other accommodation](https://bg.usembassy.gov/novel-coronavirus-covid-19-information/#:~:text=Entry%20ban%3A%20U.S.%20citizens%20are,exceptions%20to%20this%20entry%20ban.&text=As%20of%20June%2018%2C%20permanent,countries%20may%20enter%20%E2%80%8BBulgaria).'
+        - 'All persons (with limited exceptions) arriving in Bulgaria from Sweden, the United Kingdom, Portugal, and from all countries outside the European Union [must quarantine for a period of 14 days at home or at other accommodation](https://bg.usembassy.gov/novel-coronavirus-covid-19-information/#:~:text=Entry%20ban%3A%20U.S.%20citizens%20are,exceptions%20to%20this%20entry%20ban.&text=As%20of%20June%2018%2C%20permanent,countries%20may%20enter%20%E2%80%8BBulgaria). This excludes visitors from Serbia, Bosnia and Herzegovina and Montenegro, Iceland, Norway, Switzerland, Lichtenstein, San Marino, Andorra, Monaco, and Vatican City.'
     travel:
       domestic: 'partial'
       inbound: 'partial'
@@ -620,7 +620,7 @@ countries:
       domestic:
         - 'The Republic of Congo has closed its land, air, and maritime borders due to the ongoing pandemic and [domestic and international commercial flights currently remain suspended](https://www.garda.com/crisis24/news-alerts/353951/congo-number-of-confirmed-covid-19-cases-passes-1000-on-june-23-as-state-of-emergency-extended-update-7).'
         - 'Non-essential businesses, schools, and places of worship also [remain closed](https://www.garda.com/crisis24/news-alerts/353951/congo-number-of-confirmed-covid-19-cases-passes-1000-on-june-23-as-state-of-emergency-extended-update-7).'
-        - 'Curfew hours in Brazzaville and Pointe-Noire will be extended, between 8 pm and 5 am (local time) from July 28, 2020](https://www.garda.com/crisis24/news-alerts/363941/congo-authorities-extend-state-of-health-emergency-until-august-19-update-9).'
+        - 'Curfew hours in Brazzaville and Pointe-Noire will be extended, [between 8 pm and 5 am (local time) from July 28, 2020](https://www.garda.com/crisis24/news-alerts/363941/congo-authorities-extend-state-of-health-emergency-until-august-19-update-9).'
         - 'Domestic passenger flights and road travel [have resumed nationwide](https://www.garda.com/crisis24/news-alerts/363941/congo-authorities-extend-state-of-health-emergency-until-august-19-update-9).'
       inbound:
         - 'The Republic of Congo has closed its land, air, and maritime borders due to the ongoing pandemic. Domestic and [international commercial flights currently remain suspended](https://www.garda.com/crisis24/news-alerts/353951/congo-number-of-confirmed-covid-19-cases-passes-1000-on-june-23-as-state-of-emergency-extended-update-7).'
@@ -2033,7 +2033,7 @@ countries:
       partial:
         - 'Movement restrictions apply and tourists may only travel within the designated [Resilient Corridor.](https://www.jtbonline.org/wp-content/uploads/FAQs-for-Re-Opening-July-10.pdf).'
       inbound:
-        - 'All persons travelling to Jamaica require a [Travel Authorization](https://www.visitjamaica.com/travelauthorization/).'
+        - 'All persons traveling to Jamaica require a [Travel Authorization](https://www.visitjamaica.com/travelauthorization/).'
       outbound:
         - 'Travelers are free to [leave Jamaica](https://www.mbjairport.com/departures).'
       visa_quarantine:
@@ -2237,7 +2237,7 @@ countries:
     sources:
       domestic:
         - 'Kenyatta stated that international commercial flights would resume from August 1, 2020, and that [domestic flights have resumed since July 15, 2020](https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25).'
-        - 'The government extended the current curfew in place between 21:00 and 04:00 by another 30 days as of July 27, 2020. Public gatherings also remain banned and [face masks must be worn in public](https://www.garda.com/crisis24/news-alerts/363811/kenya-nightly-curfew-extended-for-additional-30-days-july-27-update-27).'
+        - 'The government extended the current curfew in place between 9 pm and 4 am by another 30 days as of July 27, 2020. Public gatherings also remain banned and [face masks must be worn in public](https://www.garda.com/crisis24/news-alerts/363811/kenya-nightly-curfew-extended-for-additional-30-days-july-27-update-27).'
         - 'A gradual reopening of schools is [planned to take place from September 1, 2020](https://www.garda.com/crisis24/news-alerts/363811/kenya-nightly-curfew-extended-for-additional-30-days-july-27-update-27).'
       inbound:
         - 'Kenyatta stated that [international commercial flights would resume from August 1, 2020](https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25), and that domestic flights have resumed since July 15, 2020.'
@@ -2371,7 +2371,7 @@ countries:
     sources:
       domestic:
         - 'Public gatherings are to remain banned and cultural venues will not reopen and other various measures will be [extended until August 2, 2020](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26).'
-        - 'Essential businesses, including grocery stores, gas stations, banks, and schools will be open on Tuesday and Wednesday only with a [near-total lockdown in place from Thursday until Monday.](https://www.garda.com/crisis24/news-alerts/363841/lebanon-lockdown-reimposed-amid-covid-19-spike-july-27-update-27)'
+        - 'Essential businesses, including grocery stores, gas stations, banks, and schools will be open on Tuesday and Wednesday; with a [near-total lockdown in place from Thursday until Monday.'](https://www.garda.com/crisis24/news-alerts/363841/lebanon-lockdown-reimposed-amid-covid-19-spike-july-27-update-27)'
       inbound:
         - 'The announcement comes as Lebanon [prepares to reopen](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26) Rafic Hariri International Airport (BEY) on Wednesday, July 1, 2020.'
         - 'The airport will operate at 10 percent capacity following its reopening, [permitting for 2000 travelers per day](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26).'
@@ -2905,7 +2905,7 @@ countries:
   MG:
     sources:
       domestic:
-        - 'The full lockdown measures that had previously been imposed in the Analamanga region, including Antananarivo, from Monday, July 6, 2020, and will remain in place until August 10, 2020.](https://www.garda.com/crisis24/news-alerts/363616/madagascar-covid-19-state-of-emergency-extended-until-august-9-update-14)'
+        - 'The full lockdown measures that had previously been imposed in the Analamanga region, including Antananarivo, from July 6, 2020, and will remain in place until August 10, 2020.](https://www.garda.com/crisis24/news-alerts/363616/madagascar-covid-19-state-of-emergency-extended-until-august-9-update-14)'
         - '[Gatherings of up to 50 people are permitted across the country](https://www.garda.com/crisis24/news-alerts/355161/madagascar-authorities-extend-health-state-of-emergency-and-update-covid-19-measures-in-worst-affected-areas-june-27-update-11), though social distancing measures should be adhered to and face masks remain mandatory for all individuals outdoors.'
         - '[Overland travel outside of the region will also be suspended](https://www.garda.com/crisis24/news-alerts/356801/madagascar-lockdown-measures-reimposed-in-analamanga-region-from-july-6-update-12).'
       inbound:
@@ -4092,7 +4092,7 @@ countries:
       inbound: 'no'
   RW:
     reopening:
-      '2020-08-01': 'Kigali International Airport (KGL) will [reopen for commercial flights From August 1, 2020](https://www.garda.com/crisis24/news-alerts/356661/rwanda-authorities-to-reopen-airports-for-commercial-flights-from-august-1-update-10).'
+      '2020-08-01': 'Kigali International Airport (KGL) will [reopen for commercial flights from August 1, 2020](https://www.garda.com/crisis24/news-alerts/356661/rwanda-authorities-to-reopen-airports-for-commercial-flights-from-august-1-update-10).'
     sources:
       domestic:
         - 'On June 25, 2020, the government of Rwanda placed six areas of Kigali [back under lockdown following a rise in cases of COVID-19](https://www.garda.com/crisis24/news-alerts/356661/rwanda-authorities-to-reopen-airports-for-commercial-flights-from-august-1-update-10) until at least July 29, 2020.'
@@ -5053,7 +5053,7 @@ countries:
       outbound:
         - '[International travel is suspended indefinitely](https://www.garda.com/crisis24/news-alerts/354681/south-africa-government-to-ease-covid-19-restrictions-further-from-june-29-update-18).'
       visa_quarantine:
-        - '[South Africa is currently testing an e-visa system for travelers who need to obtain a visa](https://www.southafricavisa.com/).'
+        - 'South Africa is currently testing an [e-visa system for travelers who need to obtain a visa](https://www.southafricavisa.com/).'
     travel:
       domestic: 'partial'
       inbound: 'no'
