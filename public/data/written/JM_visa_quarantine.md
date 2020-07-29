@@ -1,0 +1,2 @@
+- All travelers must undergo a health screening and risk assessment upon entry into Jamaica. This will include temperature checks, symptom checks, and a short interview with a Health Officer.
+- Following health screening protocols, travelers may be required to be tested for COVID-19. Should they test positive, they will be required to undergo quarantine at a facility determined by the health authorities.
