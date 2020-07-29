@@ -1,0 +1,15 @@
+.main-container {
+  @apply max-w-6xl mx-auto px-4 mb-4;
+}
+
+.main-container__inner {
+  @apply max-w-4xl mx-auto;
+}
+
+@screen sm {
+  .main-container { @apply px-6; }
+}
+
+@screen md {
+  .main-container { @apply px-8; }
+}
