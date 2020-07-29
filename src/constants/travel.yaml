@@ -1348,6 +1348,7 @@ countries:
         - '[No exit restrictions. Air travel is possible with flights operating at a limited capacity. Precautions should be taken.](https://www.smartraveller.gov.au/destinations/europe/united-kingdom)'
       visa_quarantine:
         - '[From 8 June, 2020, the UK Government has announced that all passengers arriving in the UK will be required to complete a mandatory 14-day period of self-isolation.](https://www.heathrow.com/customer-support/faq/coronavirus-covid-19)'
+        - 'Travellers from affected countries - including UK nationals - are asked to [provide an address where they will self-isolate for 14 days](https://www.bbc.com/news/explainers-52544307). They can be fined £100 for failing to fill in a form with these details.'
     travel:
       domestic: partial
       inbound: 'yes'
