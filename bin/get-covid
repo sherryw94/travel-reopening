@@ -10,3 +10,5 @@ for file in public/data/covid/covid_*.csv
 do
   echo "${header}$(cat $file)" > $file
 done
+
+find public/data/covid -type f ! -name 'covid_[A-Z][A-Z][A-Z].csv' | grep csv | xargs rm -f
