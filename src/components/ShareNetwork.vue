@@ -13,7 +13,7 @@
       hashtags="tourherotravel"
       twitterUser="tourherotravel"
     >
-      <div class="pr-2 sm:pr-0 sm:pl-3 text-xl cursor-pointer">
+      <div class="pr-5 sm:pr-0 sm:pl-5 text-xl lg:text-2xl cursor-pointer">
         <font-awesome-icon :icon="['fab', network.icon]" />
       </div>
     </ShareNetwork>
