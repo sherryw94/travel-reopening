@@ -4,7 +4,7 @@
       v-for="network in networks"
       :network="network.network"
       :key="network.network"
-      :url='`https://tourhe.ro/${network.network}-share`'
+      :url='`https://tourhe.ro/covid-travel-${network.slug}`'
       title="The Ultimate Guide to COVID-19 Travel Restrictions"
       description="A free and open-source project by TourHero.
         Find the latest information for travel restrictions around
@@ -24,11 +24,11 @@ export default {
   data() {
     return {
       networks: [
-        { network: 'facebook', icon: 'facebook-f' },
-        { network: 'twitter', icon: 'twitter' },
-        { network: 'linkedin', icon: 'linkedin-in' },
-        { network: 'telegram', icon: 'telegram-plane' },
-        { network: 'whatsapp', icon: 'whatsapp' },
+        { network: 'facebook', slug: 'fb', icon: 'facebook-f' },
+        { network: 'twitter', slug: 'tw', icon: 'twitter' },
+        { network: 'linkedin', slug: 'wa', icon: 'linkedin-in' },
+        { network: 'telegram', slug: 'tl', icon: 'telegram-plane' },
+        { network: 'whatsapp', slug: 'li', icon: 'whatsapp' },
       ],
     };
   },
