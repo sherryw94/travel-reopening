@@ -1,0 +1,13 @@
+.badge {
+  @apply
+  py-0.5 px-2.5
+  text-base text-center text-gray-800
+  rounded-md
+  whitespace-no-wrap;
+  &--xs { @apply text-xs; }
+  &--no { @apply bg-secondary text-white; }
+  &--yes { @apply bg-state-open text-white; }
+  &--selected { @apply bg-primary text-white; }
+  &--partial { @apply bg-state-partial; }
+  &--unknown { @apply bg-gray-400; }
+};
