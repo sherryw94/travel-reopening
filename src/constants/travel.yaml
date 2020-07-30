@@ -1,5 +1,5 @@
 ---
-checked_on: 2020-07-29
+checked_on: 2020-07-30
 countries:
   AD:
     sources:
@@ -259,7 +259,7 @@ countries:
         - 'The wearing of face masks and social distancing measures also remain compulsory in public places, while a [ban on rallies, meetings, and mass gatherings remain in place.](https://www.garda.com/crisis24/news-alerts/356071/bangladesh-authorities-extend-covid-19-restrictions-until-august-3-update-17)'
         - 'Government of Bangladesh has announced that the restrictions in place, such as a 10 pm to 5 am curfew, have been [extended until August 3, 2020](https://www.garda.com/crisis24/news-alerts/364291/bangladesh-departing-foreign-nationals-to-present-negative-covid-19-test-result-as-of-july-26-update-19).'
       inbound:
-        - '[Foreign nationals are required to produce a medical certificate (with English translation)](https://bd.usembassy.gov/covid-19-information/) to be obtained within 72 hours of travel, indicating that he/she is COVID-19 negative. This medical certificate needs to be submitted on arrival at the Bangladesh point of entry (airport/seaport/land port).'
+        - '[Foreign nationals are required to produce a medical certificate (with English translation)](https://bd.usembassy.gov/covid-19-information/) to be obtained within 72 hours of travel, indicating a negative result.'
       outbound:
         - '[All non-essential travel remains prohibited.](https://www.garda.com/crisis24/news-alerts/356071/bangladesh-authorities-extend-covid-19-restrictions-until-august-3-update-17)'
         - 'All foreign nationals departing from Bangladesh are required to provide COVID-19 test certificate issued within 72 hours of travel [indicating a negative COVID-19 test result](https://www.garda.com/crisis24/news-alerts/364291/bangladesh-departing-foreign-nationals-to-present-negative-covid-19-test-result-as-of-july-26-update-19).'
@@ -321,6 +321,8 @@ countries:
         - RO
       outbound: 'yes'
   BF:
+    reopening:
+      '2020-08-01': 'Authorities have announced that [international flights will resume on August 1, 2020](https://www.garda.com/crisis24/news-alerts/364081/burkina-faso-international-flights-to-resume-from-august-1-update-9).'
     sources:
       domestic:
         - 'As of June 3, 2020, the Government of Burkina Faso [canceled the curfew](https://www.smartraveller.gov.au/destinations/africa/burkina-faso) which was in effect throughout the country, except for the provinces that are under a state of emergency (the East and Sahel regions, the provinces of Kossi and Sourou in Boucle de Mouhoun, the province of Kenedougou in Hauts Bassins, the province of Louroum in the North, and the province of Koulpelogo in the Center-East region).'
@@ -988,9 +990,11 @@ countries:
       inbound: 'no'
       outbound: 'no'
   DO:
+    reopening:
+      '2020-07-01': 'The Dominican Republic has [reopened for international tourism from July 1, 2020](https://www.garda.com/crisis24/news-alerts/355031/dominican-republic-authorities-to-allow-international-tourism-to-resume-from-july-1-update-12).'
     sources:
       domestic:
-        - 'The government of the Dominican Republic has declared a [state of emergency for 45 days from, July 20, 2020](https://www.garda.com/crisis24/news-alerts/354771/dominican-republic-authorities-lift-curfew-from-june-28-update-11) that provides the government with the ability to apply proportional restrictions on freedom of movement, public assembly, and other powers needed to control the spread of the virus.'
+        - 'The government of the Dominican Republic has declared a [state of emergency for 45 days from July 20, 2020](https://www.garda.com/crisis24/news-alerts/354771/dominican-republic-authorities-lift-curfew-from-june-28-update-11) that provides the government with the ability to apply proportional restrictions on freedom of movement, public assembly, and other powers needed to control the spread of the virus.'
         - 'Many hotels on the island have reopened with [health and safety measures in place](https://www.garda.com/crisis24/news-alerts/361486/dominican-republic-government-declares-state-of-emergency-july-20-update-14).'
         - 'Curfews from 7 pm to 5 am (local time) Monday to Friday, and from 5 pm to 5 am on Saturdays and Sundays will be in place [in certain districts](https://www.garda.com/crisis24/news-alerts/362481/dominican-republic-authorities-impose-nationwide-nighttime-curfews-july-21-update-15).'
       inbound:
@@ -1127,10 +1131,10 @@ countries:
         - '[Galician authorities reimposed a lockdown in La Mariña](https://www.garda.com/crisis24/news-alerts/356816/spain-authorities-reimpose-lockdown-in-la-marina-galicia-region-july-5-update-34) until Friday, July 10, 2020. However, residents will not be required to go on a full quarantine within their confined area. Bars and restaurants will remain open during the lockdown, but limited to a 50 percent capacity.'
         - 'Social gatherings in Catalonia are [limited to ten people](https://www.garda.com/crisis24/news-alerts/361026/spain-authorities-implement-additional-restrictions-in-catalonia-and-aragon-regions-from-july-18-update-38), bars and restaurants are only permitted to operate at 50-percent capacity for indoor areas, and nightclubs, cinemas, theatres, gyms, and children''s indoor playgrounds will be closed.'
         - 'In Aragon, bars and restaurants are only permitted to operate at a 50-percent capacity for indoor areas, and retail stores, night clubs, cinemas, theatres, gyms, and facilities offering cultural activities will be [permitted to operate at 75-percent capacity](https://www.garda.com/crisis24/news-alerts/361026/spain-authorities-implement-additional-restrictions-in-catalonia-and-aragon-regions-from-july-18-update-38).'
-        - 'In Madrid, public gatherings are [limited to ten people and the use of is masks mandatory](https://www.garda.com/crisis24/news-alerts/364016/spain-additional-covid-19-restrictions-to-be-imposed-in-madrid-from-july-30-update-39) in all public spaces, including streets and terraces.'
-        - 'Clubs, bars, and terraces will be allowed to operate until 01:30 (local time) and all customers must fill in a register for [contact-tracing purposes in the event of an outbreak](https://www.garda.com/crisis24/news-alerts/364016/spain-additional-covid-19-restrictions-to-be-imposed-in-madrid-from-july-30-update-39).'
+        - 'In Madrid, public gatherings are [limited to ten people and the use of masks is mandatory](https://www.garda.com/crisis24/news-alerts/364016/spain-additional-covid-19-restrictions-to-be-imposed-in-madrid-from-july-30-update-39) in all public spaces, including streets and terraces.'
+        - 'Clubs, bars, and terraces will be allowed to operate until 1.30 am (local time) and all customers must fill in a register for [contact-tracing purposes in the event of an outbreak](https://www.garda.com/crisis24/news-alerts/364016/spain-additional-covid-19-restrictions-to-be-imposed-in-madrid-from-july-30-update-39).'
       inbound:
-        - '[The Spanish authorities have decided to reopen country’s borders](https://www.schengenvisainfo.com/news/spain-to-reopen-borders-a-week-later-than-commissions-recommended-date/) on 21 June, 2020, for all EU and Schengen countries, except for Portugal with which the borders will reopen in July, 2020.'
+        - '[The Spanish authorities have decided to reopen country’s borders](https://www.schengenvisainfo.com/news/spain-to-reopen-borders-a-week-later-than-commissions-recommended-date/) on June 21, 2020, for all EU and Schengen countries, except for Portugal with which the borders will reopen in July, 2020.'
       outbound:
         - '[Spain’s major airports have reopened for international flights](https://www.thesun.co.uk/travel/11647411/spains-airports-open-flights/) with Ibiza, Tenerife, Malaga and Palma all welcoming planes.'
       visa_quarantine:
@@ -1681,6 +1685,8 @@ countries:
       inbound: 'no'
       outbound: 'no'
   GR:
+    reopening:
+      '2020-07-02': 'Greek authorities announced the [reopening of the country''s borders on July 2, 2020](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25).'
     sources:
       domestic:
         - 'Travel by ferry to and from islands [is permitted.](https://gr.usembassy.gov/covid-19-information/)'
@@ -4839,7 +4845,7 @@ countries:
       visa_quarantine:
         - 'While not enforced, travelers are advised to [stay home for 14 days from the time they return home from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).'
         - 'People traveling to New York, New Jersey, Connecticut, Alaska, Delaware, Indiana, Maryland, Missouri, Montana, North Dakota, Nebraska, Virginia, and Washington from 31 other states, are now [required to self-quarantine for 14 days as of July 21, 2020](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).'
-        - 'As of July 27, 2020, passengers arriving in Washington, DC from a high-risk state (within the prior 14 days) who were traveling for non-essential activities will be required to [self-quarantine for 14 days from their arrival](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).'
+        - 'As of July 27, 2020, passengers arriving in Washington, DC from a high-risk state (within the prior 14 days) who were traveling for non-essential activities will be required to [self-quarantine for 14 days](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).'
         - 'As of August 1, 2020, passengers arriving in Massachusetts will have to [undergo a mandatory 14-day quarantine](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).'
     travel:
       domestic: partial
