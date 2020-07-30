@@ -1,5 +1,8 @@
 module.exports = {
-  purge: false,
+  purge: [
+    './public/**/*.html',
+    './src/**/*.vue',
+  ],
   theme: {
     fontFamily: {
       body: ['Gilroy', 'sans-serif'],
