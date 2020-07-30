@@ -2,7 +2,7 @@ Restrictions apply for inbound and outbound travel. See below for more details.
 
 #### Inbound Travel: Who can travel into Thailand?
 
-As of **July 1, 2020**, the Civil Aviation Authority of Thailand has partially lifted the ban on international flights.
+As of **July 3, 2020**, the Civil Aviation Authority of Thailand has partially lifted the ban on international flights.
 
 Aircraft carrying the following types of travelers may be permitted to enter and exit the country:
 
@@ -11,7 +11,7 @@ Aircraft carrying the following types of travelers may be permitted to enter and
 - Non-Thai nationals with a valid certificate of residence.
 - Non-Thai nationals with a valid work permit.
 - Travelers who have been granted special permission from the Ministry of Foreign Affairs to enter Thailand, such as foreign diplomats and government representatives.
-- Other exceptions and conditions apply. [Click here](https://www.caat.or.th/en/archives/51825) for more information.
+- Other exceptions and conditions apply. [Click here](https://www.caat.or.th/en/archives/51895) for more information.
 
 Until further notice, all other foreign travelers will not be allowed to enter Thailand.
 
