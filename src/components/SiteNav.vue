@@ -3,7 +3,7 @@
     <div class="flex h-12 px-4 sm:px-6 md:px-8">
       <div class="flex-shrink-0 flex items-center">
         <router-link class="pt-1 -ml-2 no-underline hover:opacity-100" :to="{ name: 'Home'}">
-          <img class="block h-8 w-auto" src="../assets/images/site-logo.png">
+          <img class="block h-8 w-auto" alt="TourHero Logo" src="../assets/images/site-logo.png">
         </router-link>
       </div>
       <div class="flex">
