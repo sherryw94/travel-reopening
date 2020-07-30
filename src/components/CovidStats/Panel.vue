@@ -2,7 +2,10 @@
   <div>
     <div class="md:flex">
       <div class="md:order-1">
-        <TravelState :country="country" />
+        <div class="flex flex-col">
+          <TravelState :country="country" />
+          <ReopeningDate :country="country" class="mt-8" />
+        </div>
       </div>
       <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
         <h3>COVID-19 Statistics</h3>
@@ -12,11 +15,11 @@
       </div>
     </div>
     <p class="text-xs">
-      <sup>*</sup>
-      Statistics are published by
+      <sup>*</sup>Statistics are published by
       <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">
         European Centre for Disease Prevention and Control
-      </a><LastUpdatedOn :stats="stats.newCases" /></p>
+      </a><LastUpdatedOn :stats="stats.newCases" />
+    </p>
   </div>
 </template>
 
@@ -25,14 +28,16 @@
 
 import { csv, timeParse } from 'd3';
 import TravelState from '@/components/TravelState.vue';
-import LastUpdatedOn from './LastUpdatedOn.vue';
 import Graph from './Graph.vue';
+import LastUpdatedOn from './LastUpdatedOn.vue';
+import ReopeningDate from './ReopeningDate.vue';
 
 export default {
   components: {
-    LastUpdatedOn,
-    Graph,
     TravelState,
+    Graph,
+    LastUpdatedOn,
+    ReopeningDate,
   },
   data() {
     return {
