@@ -14,4 +14,6 @@ Temporary border control for air travel from Spain will end in both countries on
 
 **Travel restrictions apply.** The Federal Minister of the Interior urges citizens not to travel unless it is absolutely essential.
 
+The government warns against travel to these [regions in Spain](https://www.dw.com/en/germany-advises-against-travel-to-barcelona-costa-brava/a-54349182): Aragon, Navarra, Catalonia, Barcelona, and Costa Brava.
+
 For the most up-to-date travel information, refer to the [Federal Ministry of the Interior, Building and Community](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/coronavirus-faqs.html;jsessionid=6E220CBEC1484CEF34F9618F8E5197FA.2_cid287#doc13797140bodyText3).

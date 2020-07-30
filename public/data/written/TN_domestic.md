@@ -1,4 +1,4 @@
-Domestic travel is partially allowed. Domestic flights for inter-city and inter-governorate have resumed.
+Domestic travel is allowed. Domestic flights for inter-city and inter-governorate have resumed.
 
 Nightly curfew has been lifted.
 

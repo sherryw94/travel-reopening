@@ -16,6 +16,8 @@ Essential movement is only allowed through the land border checkpoints of Kakavi
 
 International sea arrivals permitted beginning July 1, 2020. Travelers are subject to random testing.
 
+These sea ports are [opening on August 1, 2020](https://www.garda.com/crisis24/news-alerts/364221/greece-greece-to-reopen-six-ports-to-cruise-ships-august-1-update-29): Piraeus, Rhodes, Heraklion, Volos, Corfu, and Katakolo.
+
 #### Outbound Travel: Who can travel out of Greece?
 
 All of Greece's airports are expected to open for international flights on July 1, 2020.
