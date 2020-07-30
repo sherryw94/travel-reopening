@@ -63,15 +63,15 @@ function tooltipBody(d) {
           <p class="mb-2 text-xs font-semibold">${country.name}</p>
           <div class="inline-grid grid-cols-legend row-gap-1 col-gap-2 items-baseline">
             <span class="text-xs">Domestic</span>
-            <span class="badge badge--xs badge--${state.domestic || 'unknown'}">
+            <span class="badge badge--xs badge--${state.domestic || OpenStatus.Unknown}">
               ${travelStateLabel(state.domestic)}
             </span>
             <span class="text-xs">Entry</span>
-            <span class="badge badge--xs badge--${state.inbound || 'unknown'}">
+            <span class="badge badge--xs badge--${state.inbound || OpenStatus.Unknown}">
               ${travelStateLabel(state.inbound)}
             </span>
             <span class="text-xs">Exit</span>
-            <span class="badge badge--xs badge--${state.outbound || 'unknown'}">
+            <span class="badge badge--xs badge--${state.outbound || OpenStatus.Unknown}">
               ${travelStateLabel(state.outbound)}
             </span>
           </div>

@@ -19,7 +19,7 @@ export default {
         OpenStatus.Open,
         OpenStatus.Partial,
         OpenStatus.Closed,
-        'unknown',
+        OpenStatus.Unknown,
       ],
     };
   },
