@@ -1,40 +1,35 @@
 <template>
-  <ul>
-    <li v-for="reopening in reopeningsList" :key="reopening.content">
-      <span>{{toDate(reopening.date)}}:</span>
-      <vue-markdown
-        :source="'**' + reopening.name + ' Update** &ndash; ' + reopening.content"
-        :anchorAttributes='anchorAttributes'></vue-markdown>
-    </li>
-  </ul>
+  <table>
+    <tr v-for="(reopening, index) in reopeningsList" :key="index">
+      <td class="p-2 whitespace-no-wrap">{{toDate(reopening.date)}}</td>
+      <td class="p-2 whitespace-no-wrap">
+        <router-link class="no-underline" :to="{name: 'Country',
+          params: {country: reopening.slug}}">{{reopening.name}}
+        </router-link>
+      </td>
+    </tr>
+  </table>
 </template>
 
 <script>
 import { futureReopenings } from '@/constants/travel';
-import VueMarkdown from 'vue-markdown';
 import { mapGetters } from 'vuex';
 import moment from 'moment';
 
 export default {
   name: 'Reopening',
-  components: {
-    'vue-markdown': VueMarkdown,
-  },
   computed: {
     ...mapGetters(['getCountryByCode']),
+
     reopeningsList() {
       return futureReopenings.map((c) => {
-        const countryHash = c;
-        const country = this.getCountryByCode(countryHash.country);
-        countryHash.name = country.name;
-        return countryHash;
+        const country = this.getCountryByCode(c.country);
+        return {
+          name: country.name,
+          date: c.date,
+        };
       });
     },
-  },
-  data() {
-    return {
-      anchorAttributes: { target: '_blank', rel: 'nofollow' },
-    };
   },
   methods: {
     toDate(string) {
