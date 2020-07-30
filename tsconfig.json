@@ -20,9 +20,6 @@
       "@/*": [
         "src/*"
       ],
-      "moment": [
-        "../node_modules/moment/min/moment.min.js"
-      ]
     },
     "lib": [
       "esnext",

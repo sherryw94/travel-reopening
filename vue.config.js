@@ -3,6 +3,7 @@
 const path = require('path');
 const SitemapPlugin = require('sitemap-webpack-plugin').default;
 const PrerenderSPAPlugin = require('prerender-spa-plugin');
+const webpack = require('webpack');
 
 const Renderer = PrerenderSPAPlugin.PuppeteerRenderer;
 
@@ -53,6 +54,7 @@ const productionPlugins = [
     changefreq: 'daily',
     priority: '0.8',
   }),
+  new webpack.IgnorePlugin(/^\.\/locale$/, /moment$/),
 ];
 
 module.exports = {
