@@ -44,3 +44,9 @@ export function findSourcesForCountry(countryCode: string) {
 export function findTravelIdeasForCountry(countryCode: string) {
   return Object.values(countries[countryCode]?.travel_ideas || []);
 }
+
+
+export function findCountryReopeningDate(countryCode: string) {
+  const date = Object.keys(countries[countryCode]?.reopening || []);
+  return (!date.length ? false : Date.parse(date[0]));
+}
