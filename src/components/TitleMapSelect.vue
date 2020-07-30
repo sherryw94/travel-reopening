@@ -34,7 +34,7 @@
         <div class="main-container__inner">
           <WorldMap/>
           <div class="mt-8 md:-mt-24 md:pl-6">
-            <TravelStateLegend/>
+            <Legend/>
           </div>
         </div>
       </div>
@@ -46,8 +46,8 @@
 import CountrySelect from '@/components/CountrySelect.vue';
 import ShareNetwork from '@/components/ShareNetwork.vue';
 import TravelDirectionToggle from '@/components/TravelDirectionToggle.vue';
-import TravelStateLegend from '@/components/TravelStateLegend.vue';
-import WorldMap from '@/components/WorldMap.vue';
+import Legend from '@/components/Map/Legend.vue';
+import WorldMap from '@/components/Map/WorldMap.vue';
 
 export default {
   name: 'TitleMapSelect',
@@ -55,7 +55,7 @@ export default {
     CountrySelect,
     ShareNetwork,
     TravelDirectionToggle,
-    TravelStateLegend,
+    Legend,
     WorldMap,
   },
 };

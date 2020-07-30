@@ -17,7 +17,7 @@
 import TravelStateBadge from '@/components/TravelStateBadge.vue';
 
 export default {
-  name: 'TravelStateLegend',
+  name: 'Legend',
   components: { TravelStateBadge },
 };
 </script>
