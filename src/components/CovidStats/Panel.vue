@@ -16,7 +16,7 @@
     </div>
     <p class="text-xs">
       <sup>*</sup>Statistics are published by
-      <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank">
+      <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank" rel="nofollow">
         European Centre for Disease Prevention and Control
       </a><LastUpdatedOn :stats="stats.newCases" />
     </p>

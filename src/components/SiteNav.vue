@@ -12,7 +12,7 @@
           :to="{ name: 'About'}" id="sitenav-about">About</router-link>
         <a class="ml-3 sm:ml-4 inline-flex items-center px-1 pt-1 text-sm font-medium
           text-gray-700 no-underline hover:text-gray-900"
-          href="https://github.com/tourhero/travel-reopening" id="sitenav-contribute">Contribute</a>
+          href="https://github.com/tourhero/travel-reopening" target="_blank" rel="nofollow" id="sitenav-contribute">Contribute</a>
         <router-link class="ml-3 sm:ml-4 inline-flex items-center px-1 pt-1 text-sm
           font-medium text-gray-700 no-underline hover:text-gray-900" :to="{ name: 'Subscribe'}"
           id="sitenav-subscribe">Subscribe</router-link>
