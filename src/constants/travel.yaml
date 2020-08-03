@@ -1,5 +1,5 @@
 ---
-checked_on: 2020-07-30
+checked_on: 2020-08-03
 countries:
   AD:
     sources:
@@ -198,10 +198,9 @@ countries:
         - '[NSW will ease restrictions on July 1, 2020](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29), with the 50-person cap for indoor venues to be lifted provided guests apply social distancing measures.'
         - 'Border between the Victoria and New South Wales will [close from 11.59 pm (local time) on July 7, 2020, until further notice](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34).'
         - 'The wearing of facemasks in Melbourne will be [mandatory from July 22, 2020](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34).'
-        - 'South Australia closed its border on July 28, 2020, banning anyone, including South Australians, [from entering the state from neighbouring Victoria](https://www.garda.com/crisis24/news-alerts/364636/australia-south-australia-closes-border-with-victoria-july-28-update-38).'
+        - 'South Australia closed its border on July 28, 2020, banning anyone, including South Australians, [from entering the state from neighboring Victoria](https://www.garda.com/crisis24/news-alerts/364636/australia-south-australia-closes-border-with-victoria-july-28-update-38).'
       inbound:
         - 'Nationals of New Zealand usually residing in Australia are [allowed to enter Australia](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
-        - 'South Australia closed its border on July 28, 2020, banning anyone, including South Australians, [from entering the state from neighbouring Victoria](https://www.garda.com/crisis24/news-alerts/364636/australia-south-australia-closes-border-with-victoria-july-28-update-38).'
       outbound:
         - 'There is a [ban on Australians traveling overseas](https://www.smartraveller.gov.au/COVID-19-australian-travellers#departing).'
       visa_quarantine:
@@ -275,7 +274,7 @@ countries:
     sources:
       domestic:
         - '[You are allowed to move around freely](https://www.info-coronavirus.be/en/faq/).'
-        - 'Authorities in Antwerp announced on July 27, 2020, that a [11.30 pm to 6 am (local time) nighttime curfew is now in place](https://www.garda.com/crisis24/news-alerts/364646/belgium-authorities-introduce-nighttime-curfew-in-antwerp-july-27-update-20).'
+        - 'Authorities in Antwerp announced on July 27, 2020, that a [11.30 pm to 6 am (local time) night time curfew is now in place](https://www.garda.com/crisis24/news-alerts/364646/belgium-authorities-introduce-nighttime-curfew-in-antwerp-july-27-update-20).'
         - 'Bars and clubs will reportedly close at 11 pm. Furthermore, everyone over 12 years of age in Antwerp must wear a mask in public.](https://www.garda.com/crisis24/news-alerts/364646/belgium-authorities-introduce-nighttime-curfew-in-antwerp-july-27-update-20)'
       inbound:
         - 'The Government of Belgium has imposed entry and exit controls on [non-essential travel to and from the country.](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx)'
@@ -1230,15 +1229,15 @@ countries:
   FJ:
     sources:
       domestic:
-        - '[A nationwide curfew is currently in place from 11 pm to 4 am (local time)](https://www.garda.com/crisis24/news-alerts/365361/fiji-authorities-confirm-first-covid-19-fatality-july-31-update-10).'
-        - '[Gatherings of up to 100 people are permitted for weddings, funerals, conferences, community gatherings, and in cafes and restaurants](https://www.garda.com/crisis24/news-alerts/365361/fiji-authorities-confirm-first-covid-19-fatality-july-31-update-10).'
+        - 'A nationwide curfew is currently in place from [11 pm to 4 am (local time)](https://www.garda.com/crisis24/news-alerts/365361/fiji-authorities-confirm-first-covid-19-fatality-july-31-update-10).'
+        - '[Gatherings of up to 100 people are permitted](https://www.garda.com/crisis24/news-alerts/365361/fiji-authorities-confirm-first-covid-19-fatality-july-31-update-10) for weddings, funerals, conferences, community gatherings, and in cafes and restaurants.'
       inbound:
         - '[Fiji has closed its border](https://www.garda.com/crisis24/news-alerts/365361/fiji-authorities-confirm-first-covid-19-fatality-july-31-update-10) and only residents and Fijian citizens are allowed to return to Fiji.'
       visa_quarantine:
         - 'Arriving travelers may be required to [self-isolate for 14 days at the discretion of local officials](https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/).'
     travel:
       domestic: partial
-      inbound: partial
+      inbound: no
   FM:
     sources:
       inbound:
@@ -1886,7 +1885,7 @@ countries:
     sources:
       domestic:
         - 'Local authorities in the northern province of Erbil began [easing restrictions in place on July 4, 2020](https://www.garda.com/crisis24/news-alerts/357026/iraq-authorities-ease-covid-19-restrictions-in-erbil-province-on-july-4-update-39).'
-        - ' Authorities announced a total nationwide lockdown until August 9, 2020](https://www.garda.com/crisis24/news-alerts/364696/iraq-passengers-traveling-from-erbil-and-sulaimani-airports-to-undergo-covid-19-tests-prior-to-travel-from-august-1-update-45). However, the measures will not apply in areas administered by the Kurdistan Regional Government (KRG).'
+        - ' Authorities announced a total [nationwide lockdown until August 9, 2020](https://www.garda.com/crisis24/news-alerts/364696/iraq-passengers-traveling-from-erbil-and-sulaimani-airports-to-undergo-covid-19-tests-prior-to-travel-from-august-1-update-45). However, the measures will not apply in areas administered by the Kurdistan Regional Government (KRG).'
         - '[The national 6 pm to 5 am (local time) curfew remains in place](https://www.garda.com/crisis24/news-alerts/355496/iraq-authorities-to-impose-total-lockdown-in-erbil-province-from-june-30-update-37) in Iraq''s other provinces.'
       inbound:
         - 'The airports of Erbil and Sulaymaniyah have [reopened since August 1, 2020](https://www.garda.com/crisis24/news-alerts/364696/iraq-passengers-traveling-from-erbil-and-sulaimani-airports-to-undergo-covid-19-tests-prior-to-travel-from-august-1-update-45).'
@@ -1961,7 +1960,7 @@ countries:
     sources:
       domestic:
         - '[From June 3, 2020, it is possible to travel from one region to the other](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html).'
-        - 'Authorities announced the extension of the state of emergency until [October 15, 2020](https://www.garda.com/crisis24/news-alerts/359941/italy-authorities-extend-restrictions-until-july-31-update-36). Where all individuals must wear face masks on public transport and in public spaces, including in shops, public offices, hospitals and clinics, as well as workplaces where maintaining a social distance of at least 3 feet apart from each other is not possible.'
+        - 'Authorities announced the extension of the state of emergency until [October 15, 2020](https://www.garda.com/crisis24/news-alerts/359941/italy-authorities-extend-restrictions-until-july-31-update-36). All individuals must wear face masks on public transport and in public spaces, including in shops, public offices, hospitals and clinics, as well as workplaces where maintaining a social distance of at least 3 feet apart from each other is not possible.'
       inbound:
         - 'From June 3, 2020, [travelling to and from the following States is allowed](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html): Member States of the European Union, States parties to the Schengen Agreement, the United Kingdom of Great Britain and Northern Ireland, Andorra, Monaco.'
         - 'Flights from Bangladesh have been [suspended from July 7, 2020](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html).'
@@ -2326,7 +2325,7 @@ countries:
       inbound:
         - '[Kuwait has closed its airport and land border with Iraq](https://kw.usembassy.gov/covid-19-information/).'
       outbound:
-        - 'Kuwait will [allow citizens and residents to travel to and from the country](https://www.garda.com/crisis24/news-alerts/364706/kuwait-government-to-allow-citizens-and-residents-to-travel-to-and-from-the-country-from-august-1-update-24) as of August 1, 2020, amid the easing of coronavirus disease (COVID-19) restrictions. The decision excludes residents coming from Bangladesh, Philippines, India, Sri Lanka, Pakistan, Iran, Nepal.'
+        - 'Kuwait will [allow citizens and residents to travel to and from the country](https://www.garda.com/crisis24/news-alerts/364706/kuwait-government-to-allow-citizens-and-residents-to-travel-to-and-from-the-country-from-august-1-update-24) as of August 1, 2020, amid the easing of coronavirus disease (COVID-19) restrictions. The decision excludes residents coming from Bangladesh, Philippines, India, Sri Lanka, Pakistan, Iran and Nepal.'
     travel:
       domestic: 'no'
       inbound: 'no'
@@ -2355,9 +2354,9 @@ countries:
       domestic:
         - 'Public gatherings are to remain banned and cultural venues will not reopen and other various measures will be [extended until August 2, 2020](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26).'
         - 'Essential businesses, including grocery stores, gas stations, banks, and schools will be open on Tuesday and Wednesday, with a [near-total lockdown in place from Thursday until Monday.](https://www.garda.com/crisis24/news-alerts/363841/lebanon-lockdown-reimposed-amid-covid-19-spike-july-27-update-27)'
-        - 'The government has imposed nationwide lockdowns from [6 August until 10 August, 2020](https://www.garda.com/crisis24/news-alerts/363841/lebanon-lockdown-reimposed-amid-covid-19-spike-july-27-update-27). Hotels, food, pharmaceutical, and medical facilities are permitted to remain open, but may operate at reduced hours or choose to shut. Delivery and take away food services will only be available from 6 am to 8 pm (local time).'
+        - 'The government has imposed a nationwide lockdown from [6 August until 10 August, 2020](https://www.garda.com/crisis24/news-alerts/363841/lebanon-lockdown-reimposed-amid-covid-19-spike-july-27-update-27). Hotels, food, pharmaceutical, and medical facilities are permitted to remain open, but may operate at reduced hours or choose to shut. Delivery and take away food services will only be available from 6 am to 8 pm (local time).'
       inbound:
-        - 'The announcement comes as Lebanon [prepares to reopen](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26) Rafic Hariri International Airport (BEY) on July 1, 2020.'
+        - 'Rafic Hariri International Airport [reopened to commercial air traffic on July 1, 2020](https://lb.usembassy.gov/covid-19-information/).'
         - 'The airport will operate at 10 percent capacity following its reopening, [permitting for 2000 travelers per day](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26).'
       visa_quarantine:
         - 'Under new government regulations, arrivals will not be required to undergo a quarantine period but will be asked to undergo a [COVID-19 test 96 hours before arrival, as well as once more in Beirut](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26). A 100USD fee will be payable to the airline for the test.'
@@ -2628,6 +2627,8 @@ countries:
         - ZM
         - ZW
   LK:
+    reopening:
+      '2020-08-01': 'Sri Lanka plans to [reopen its tourism sector on August 1, 2020](https://www.reuters.com/article/us-health-coronavirus-sri-lanka-tourism/sri-lanka-to-reopen-some-tourism-in-august-with-restrictions-official-idUSKBN2370KT), by allowing small groups of visitors into the country.'
     sources:
       domestic:
         - 'From May 26, 2020, a curfew will be in place between [10 pm and 4 am (local time) until further notice.](https://www.garda.com/crisis24/news-alerts/345906/sri-lanka-authorities-ease-curfew-measures-and-domestic-travel-restrictions-from-may-26-update-17)'
@@ -2726,7 +2727,7 @@ countries:
   LY:
     sources:
       domestic:
-        - 'The Tripoli-based Government of National Accord (GNA) [imposed a 24 hour lockdown](https://www.garda.com/crisis24/news-alerts/364881/libya-gna-announces-lockdown-for-ten-days-starting-july-31-update-15) for a period of five days commencing at 4 pm (local time) on July 31, 2020.'
+        - 'The Tripoli-based Government of National Accord (GNA) [imposed a 24-hour lockdown](https://www.garda.com/crisis24/news-alerts/364881/libya-gna-announces-lockdown-for-ten-days-starting-july-31-update-15) for a period of five days commencing at 4 pm (local time) on July 31, 2020.'
         - 'A curfew will be in place [between 9 pm and 6 am](https://www.garda.com/crisis24/news-alerts/364881/libya-gna-announces-lockdown-for-ten-days-starting-july-31-update-15), from August 5 to August 10, 2020.'
       inbound:
         - 'The GNA extended a [ban on civil aviation for a further 15 days as of July 19, 2020](https://www.garda.com/crisis24/news-alerts/361406/libya-gna-extends-nationwide-curfew-july-18-update-13).'
@@ -3357,7 +3358,7 @@ countries:
       outbound:
         - 'Borders [remain closed and international flights suspended](https://www.garda.com/crisis24/news-alerts/365346/namibia-authorities-to-reimpose-some-covid-19-restrictions-july-31-update-8).'
       visa_quarantine:
-        - 'Individuals will be required to present a [negative polymerase chain reaction (PCR) test conducted 3 days before arrival](https://www.garda.com/crisis24/news-alerts/365346/namibia-authorities-to-reimpose-some-covid-19-restrictions-july-31-update-8). They will then have to remain at their initial destination in the country for seven days while a test is conducted, after which people can leave their accommodation if the test is negative.'
+        - 'Individuals will be required to present a [negative polymerase chain reaction (PCR) test conducted 3 days before arrival](https://www.garda.com/crisis24/news-alerts/365346/namibia-authorities-to-reimpose-some-covid-19-restrictions-july-31-update-8). They will have to remain at their initial destination in the country for seven days while a test is conducted, after which they can leave for their final destination if the test is negative.'
     travel:
       domestic: 'partial'
       inbound: no
@@ -3534,7 +3535,7 @@ countries:
         - 'Outbound flights will not be affected by the [travel ban](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).'
       visa_quarantine:
         - 'New Zealand citizens and residents may return to the country but must undergo a [mandatory 14-day managed quarantine or isolation](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).'
-        - 'From August 1, 2020, pre-departure COVID-19 testing will be obligatory for travelers with flights with Emirates and Etihad airlines](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).'
+        - 'From August 1, 2020, pre-departure COVID-19 testing will be obligatory for travelers with flights with [Emirates and Etihad airlines](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).'
 
     travel:
       domestic: 'yes'
@@ -4179,13 +4180,13 @@ countries:
       outbound: 'no'
   SE:
     reopening:
-      '2020-08-31': 'There is a ban on entry of foreign nationals except for those originating from the EEA, which will be [in effect until August 31, 2020](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
+      '2020-08-31': 'Only travelers originating from the EEA are allowed entry. Other foreign nationals are [not allowed entry until August 31, 2020](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
     sources:
       domestic:
         - 'Restaurants and bars resume business as usual, with some [crowd and distancing regulations implemented](https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/covid-19-new-legislation-for-restaurants-bars-etc/).'
-        - 'Gatherings of [more than 50 people are banned](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9), as are visis to care homes for the elderly.'
+        - 'Gatherings of [more than 50 people are banned](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9), as are visits to care homes for the elderly.'
       inbound:
-        - 'There is a ban on entry of foreign nationals except for those originating from the EEA, which will be [in effect until August 31, 2020](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
+        - 'Only travelers originating from the EEA are allowed entry. Other foreign nationals are [not allowed entry until August 31, 2020](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
       outbound:
         - 'The country will no longer advise against non-essential travel to Norway, Denmark, Switzerland, and the Czech Republic as the rates of COVID-19 infection in these countries have [reportedly fallen](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
       visa_quarantine:
@@ -4429,14 +4430,14 @@ countries:
     sources:
       domestic:
         - 'Togolese officials have reopened the country''s airspace since August 1, 2020, and allow the resumption of [international and domestic commercial flight operations](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)'
-        - 'Most businesses, restaurants, and hotels are open, with working hours from 8 am to 4 pm, although the use of face masks remains mandatory in public places](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4).'
+        - 'Most businesses, restaurants, and hotels are open, with working hours from 8 am to 4 pm, although the use of [face masks remains mandatory in public places](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4).'
       inbound:
         - 'Togolese officials have reopened the country''s airspace since August 1, 2020, and allow the resumption of [international and domestic commercial flight operations](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)'
         - 'The resumption of flight operations will be gradual, with [limits on the number of flights per day.](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)'
       outbound:
         - 'Togolese officials have reopened the country''s airspace since August 1, 2020, and allow the resumption of [international and domestic commercial flight operations](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)'
     travel:
-      domestic: 'partial'
+      inbound: 'partial'
       inbound: 'partial'
       outbound: 'partial'
   TH:
