@@ -2628,8 +2628,6 @@ countries:
         - ZM
         - ZW
   LK:
-    reopening:
-      '2020-08-01': 'Sri Lanka plans to [reopen its tourism sector on August 1, 2020](https://www.reuters.com/article/us-health-coronavirus-sri-lanka-tourism/sri-lanka-to-reopen-some-tourism-in-august-with-restrictions-official-idUSKBN2370KT), by allowing small groups of visitors into the country.'
     sources:
       domestic:
         - 'From May 26, 2020, a curfew will be in place between [10 pm and 4 am (local time) until further notice.](https://www.garda.com/crisis24/news-alerts/345906/sri-lanka-authorities-ease-curfew-measures-and-domestic-travel-restrictions-from-may-26-update-17)'
@@ -4438,7 +4436,7 @@ countries:
       outbound:
         - 'Togolese officials have reopened the country''s airspace since August 1, 2020, and allow the resumption of [international and domestic commercial flight operations](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)'
     travel:
-      inbound: 'partial'
+      domestic: 'partial'
       inbound: 'partial'
       outbound: 'partial'
   TH:
