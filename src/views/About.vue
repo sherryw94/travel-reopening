@@ -21,9 +21,11 @@
         up-to-date can be challenging. If you spot any incorrect or outdated
         information, we encourage you to contribute to the project. The source
         code and the data is open-sourced on GitHub:
-        <a href="https://github.com/tourhero/travel-reopening">https://github.com/tourhero/travel-reopening</a>.
+        <a href="https://github.com/tourhero/travel-reopening" target="_blank" rel="nofollow">
+        https://github.com/tourhero/travel-reopening</a>.
         Alternatively, you can submit data or situation reports from your
-        region to <a href="mailto:travel-map@tourhero.com">travel-map@tourhero.com</a>.
+        region to <a href="mailto:travel-map@tourhero.com" target="_blank" rel="nofollow">
+          travel-map@tourhero.com</a>.
       </p>
 
       <h2>About Our Data</h2>
