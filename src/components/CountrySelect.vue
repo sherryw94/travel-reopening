@@ -13,18 +13,29 @@
     @search-change="searchChange"
     @input="updateCountryAction">
     <template v-slot:noResult>No country found. Check the spelling and try again.</template>
+
+    <template v-slot:singleLabel>
+      <CountryFlag :countryCode="country.code" />
+      <span class="ml-2">{{country.name}}</span>
+    </template>
+
+    <template v-slot:option="props">
+      <CountryFlag :countryCode="props.option.code" />
+      <span class="ml-2">{{props.option.name}}</span>
+    </template>
   </multiselect>
 </template>
 
 <script>
 import Multiselect from 'vue-multiselect';
+import CountryFlag from '@/components/CountryFlag.vue';
 import { removeDiacritics } from '@/constants/countries';
 import { TravelDirection } from '@/constants/travel';
 import { mapGetters, mapState, mapActions } from 'vuex';
 
 export default {
   name: 'CountrySelect',
-  components: { Multiselect },
+  components: { Multiselect, CountryFlag },
   data() {
     return {
       filteredOptions: [],
