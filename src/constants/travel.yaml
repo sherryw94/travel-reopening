@@ -194,10 +194,11 @@ countries:
     sources:
       domestic:
         - 'Domestic travel varies from state to state. [Refer to indvidual goverment websites](https://www.interstatequarantine.org.au/state-and-territory-border-closures/).'
-        - 'On June 21, 2020, authorities in Victoria state announced that they were [extending the current state of emergency for four weeks until July 19, 2020](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29).'
+        - 'Various parts of Victoria are [tightening restrictions.](https://www.garda.com/crisis24/news-alerts/365756/australia-nonessential-businesses-in-melbourne-to-close-for-six-weeks-from-august-5-due-to-covid-19-update-40).'
         - '[NSW will ease restrictions on July 1, 2020](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29), with the 50-person cap for indoor venues to be lifted provided guests apply social distancing measures.'
         - 'Border between the Victoria and New South Wales will [close from 11.59 pm (local time) on July 7, 2020, until further notice](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34).'
-        - 'The wearing of facemasks in Melbourne will be [mandatory from July 22, 2020](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34).'
+        - 'The city of Melbourne has tightened movement restrictions and now has a nightly curfew in place from 8 pm to 5 am. [Recreational activity is no longer permitted](https://www.garda.com/crisis24/news-alerts/365756/australia-nonessential-businesses-in-melbourne-to-close-for-six-weeks-from-august-5-due-to-covid-19-update-40).'
+        - 'Authorities have stated that non-essential businesses in Melbourne are to close for at least six weeks from August 5, 2020](https://www.garda.com/crisis24/news-alerts/365756/australia-nonessential-businesses-in-melbourne-to-close-for-six-weeks-from-august-5-due-to-covid-19-update-40).'
         - 'South Australia closed its border on July 28, 2020, banning anyone, including South Australians, [from entering the state from neighboring Victoria](https://www.garda.com/crisis24/news-alerts/364636/australia-south-australia-closes-border-with-victoria-july-28-update-38).'
       inbound:
         - 'Nationals of New Zealand usually residing in Australia are [allowed to enter Australia](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
@@ -473,14 +474,14 @@ countries:
   BR:
     sources:
       domestic:
-        - 'Several state and local governments across Brazil have issued decrees that [restrict the movement of people](https://br.usembassy.gov/covid-19-information/) to combat the spread of COVID-19.'
+        - 'Cities such as Rio de Janeiro and Sao Paulo have lifted restrictions. Gyms, bars, restaurants, and shopping centers are [allowed to reopen.](https://www.aljazeera.com/news/2020/07/brazil-coronavirus-restrictions-lifted-rio-sao-paulo-200707105343195.html)'
         - '[The use of face masks remains mandatory](https://www.garda.com/crisis24/news-alerts/364721/brazil-brazil-records-highest-daily-number-of-covid-19-cases-and-fatalities-july-29-update-30) in São Paulo, Rio de Janeiro, Belo Horizonte, and Brasília in essential commercial establishments, such as supermarkets and pharmacies, as well as on public transport.'
       inbound:
         - 'All air, land, and sea borders are open to [foreign nationals from July 29, 2020](https://www.straitstimes.com/world/americas/brazil-reopens-international-flights-to-tourists-even-as-coronavirus-deaths-spike).'
       outbound:
         - 'The inbound restrictions [do not prevent individuals](https://br.usembassy.gov/brazil-extends-border-closure-to-july-5/) from departing on commercial flights.'
     travel:
-      domestic: 'partial'
+      domestic: 'yes'
       inbound: 'yes'
       outbound: yes
   BS:
@@ -1317,13 +1318,13 @@ countries:
   GB:
     sources:
       domestic:
-        - '[Social distancing measures are in place. Rules can differ across parts of the UK. Refer to updated guidelines.](https://www.gov.uk/government/publications/staying-alert-and-safe-social-distancing/staying-alert-and-safe-social-distancing)'
+        - 'Social distancing measures are in place but rules can differ across parts of the UK. [Refer to updated guidelines.](https://www.gov.uk/government/publications/staying-alert-and-safe-social-distancing/staying-alert-and-safe-social-distancing)'
       inbound:
         - '[No entry restrictions. However, from 8 June, 2020, mandatory 14-day quarantine for all travelers will be in effect.](https://www.gov.uk/uk-border-control)'
       outbound:
-        - '[No exit restrictions. Air travel is possible with flights operating at a limited capacity. Precautions should be taken.](https://www.smartraveller.gov.au/destinations/europe/united-kingdom)'
+        - '[The Foreign and Commonwealth Office (FCO) advises against non-essential international travel.](https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors)'
       visa_quarantine:
-        - '[From 8 June, 2020, the UK Government has announced that all passengers arriving in the UK will be required to complete a mandatory 14-day period of self-isolation.](https://www.heathrow.com/customer-support/faq/coronavirus-covid-19)'
+        - 'From June 8, 2020, the UK Government has announced that all passengers arriving in the UK will be required to complete a [mandatory 14-day period of self-isolation.](https://www.heathrow.com/customer-support/faq/coronavirus-covid-19)'
         - 'Travellers from affected countries - including UK nationals - are asked to [provide an address where they will self-isolate for 14 days](https://www.bbc.com/news/explainers-52544307). They can be fined £100 for failing to fill in a form with these details.'
     travel:
       domestic: partial
@@ -1652,7 +1653,8 @@ countries:
       domestic:
         - 'Travel by ferry to and from islands [is permitted.](https://gr.usembassy.gov/covid-19-information/)'
         - 'Some flights to islands are [operational.](https://gr.usembassy.gov/covid-19-information/)'
-        - 'Face masks will be [mandatory in more indoor public spaces from July 29, 2020](https://www.garda.com/crisis24/news-alerts/364221/greece-greece-to-reopen-six-ports-to-cruise-ships-august-1-update-29).'
+        - 'Face masks will be mandatory in all indoor public spaces and in [outdoor spaces where proper social distancing cannot be carried out](https://www.garda.com/crisis24/news-alerts/365436/greece-greece-extends-mask-wearing-measures-july-31-update-30).'
+        - 'Shops, bars and restaurants [are open](https://www.garda.com/crisis24/news-alerts/365436/greece-greece-extends-mask-wearing-measures-july-31-update-30)'
       inbound:
         - 'Greek authorities announced the [reopening of the country''s borders on July 2, 2020](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25).'
         - 'Travelers entering the country must complete an [Online Passenger Locator Form (PLF) at least 48 hours before arriving](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25).'
@@ -1718,12 +1720,16 @@ countries:
       domestic: 'partial'
       inbound: 'yes'
   GY:
+    reopening:
+      '2020-08-16': '[International flights will resume from August 16, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
     sources:
       domestic:
-        - '[A curfew is currently in place](https://www.garda.com/crisis24/news-alerts/357126/guyana-international-flight-suspension-extended-until-july-31-update-3) between 18:00 (local time) and 06:00.'
-        - '[Essential services are also operating on reduced hours](https://www.garda.com/crisis24/news-alerts/357126/guyana-international-flight-suspension-extended-until-july-31-update-3).'
+        - '[A curfew is currently in place](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4) between 8 pm to 6 am (local time)'
+        - 'Public gatherings will be limited to a [maximum of 10 people](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
       inbound:
-        - '[The GCAA''s four-phased plan for reopening the country to international travelers will be postponed with phase two beginning on August 1, 2020 at the earliest](https://www.garda.com/crisis24/news-alerts/357126/guyana-international-flight-suspension-extended-until-july-31-update-3).'
+        - '[Cheddi Jagan International Airport (GEO) in Timehri and Eugene F. Correia International Airport (OGL) in Georgetown will continue to be closed to international flights until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
+      outbound:
+        - '[Cheddi Jagan International Airport (GEO) in Timehri and Eugene F. Correia International Airport (OGL) in Georgetown will continue to be closed to international flights until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
     travel:
       domestic: 'no'
       inbound: 'no'
@@ -1836,17 +1842,16 @@ countries:
         - 'Face masks will be compulsory on public transport, restaurants, and shops. Barbershops, churches, theatres, cinemas, and gyms will also be allowed to reopen under certain hygiene conditions. People will also be allowed to [resume domestic travel](https://www.garda.com/crisis24/news-alerts/354916/ireland-face-masks-compulsory-on-public-transport-as-government-further-eases-lockdown-restrictions-from-june-29-update-9).'
         - '[Tourist travel to offshore islands may resume](https://www.rte.ie/news/regional/2020/0625/1149682-coronavirus-islands/).'
       inbound:
-        - 'Those arriving from a country in the "green list" will [no longer be subject to the 14-day self-quarantine requirements](https://www.garda.com/crisis24/news-alerts/356771/ireland-authorities-to-ease-quarantine-requirements-from-july-20-update-10). However, quarantine requirements will remain in place for all countries which are not included in the list.'
+        - 'Passengers arriving from overseas are expected to [restrict their movements for 14 days](https://www.gov.ie/en/publication/d06271-easing-the-covid-19-restrictions-on-29-june-phase-3/).'
+        - 'Individuals arriving in Ireland from certain locations will [not be required to restrict their movements on arrival.](https://www.dfa.ie/travel/travel-advice/coronavirus/#COVID19)'
       outbound:
-        - '[Do not travel – Note: Afghanistan, Burundi, Central African Republic, Democratic Republic of Congo, Iraq, Libya, Mali, Somalia, South Sudan, Syria, and Yemen have pre-existing ‘Do Not Travel’ designations which remain in place.](https://www.dfa.ie/travel/travel-advice/coronavirus/)'
-        - 'The Libyan Civil Aviation Authority (CAA) has announced that [flights will resume for departing passengers only](https://www.garda.com/crisis24/news-alerts/363371/libya-authorities-announce-reopening-of-misrata-airport-for-departing-passengers-from-july-26) from July 26, 2020.'
+        - '[All non-essential overseas travel should be avoided](https://www.gov.ie/en/publication/d06271-easing-the-covid-19-restrictions-on-29-june-phase-3/)'
       visa_quarantine:
         - 'Those arriving from higher risk locations will still be required to fill out a [Passenger Locator Form on arrival and self-isolate for two weeks](https://www.garda.com/crisis24/news-alerts/356771/ireland-authorities-to-ease-quarantine-requirements-from-july-20-update-10).'
-        - 'Those arriving from a country in the "green list" will [no longer be subject to the 14-day self-quarantine requirements](https://www.garda.com/crisis24/news-alerts/356771/ireland-authorities-to-ease-quarantine-requirements-from-july-20-update-10). However, quarantine requirements will remain in place for all countries which are not included in the list.'
     travel:
       domestic: partial
-      inbound: 'yes'
-      outbound: no
+      inbound: partial
+      outbound: partial
   IL:
     sources:
       domestic:
@@ -1860,27 +1865,22 @@ countries:
       inbound: 'no'
       outbound: partial
   IN:
+    reopening:
+      '2020-09-01': 'International flights should resume on September 1, 2020](https://www.garda.com/crisis24/news-alerts/365641/india-over-17-million-covid-19-cases-confirmed-as-of-august-2-update-61).'
     sources:
       domestic:
         - 'Domestic flights have resumed with [strict restrictions](https://www.freepressjournal.in/india/ready-to-take-that-domestic-flight-here-is-the-list-of-guidelines-issued-by-dgca-for-airlines).'
         - 'Lockdown restrictions in different cities [differ](https://www.bbc.com/news/world-asia-india-52707371).'
       inbound:
-        - 'Travel of passengers from Afghanistan, Philippines, Malaysia to India is [prohibited with immediate effect](https://boi.gov.in/sites/default/files/u4/faq-covid19.pdf).'
-        - 'Passengers travelling from / having visited Italy or Republic of Korea and desirous of entering India will need [certificate of having tested negative from COVID-19 from the designated laboratories](https://boi.gov.in/content/advisory-travel-and-visa-restrictions-related-covid-19-0#:~:text=15%2C%202020%20shall%20be%20quarantined,minimum%20period%20of%2014%20days.&text=Incoming%20travellers%20including%20Indian%20nationals,on%20their%20arrival%20in%20India) authorized by Health Authority of these countries.'
-        - 'On March 18, 2020, more countries were added to the [list of restricted countries](https://boi.gov.in/sites/default/files/u4/faq-covid19.pdf).'
-        - '[Nepal and Bhutan nationals are allowed. Maldives nationals would require visa](https://boi.gov.in/sites/default/files/u4/faq-covid19.pdf).'
+        - 'The suspension of international flights have been [extended until at least August 31, 2020](https://www.garda.com/crisis24/news-alerts/365641/india-over-17-million-covid-19-cases-confirmed-as-of-august-2-update-61).'
       outbound:
         - '[Indians are strongly advised to avoid non-essential travel](https://boi.gov.in/content/advisory-travel-and-visa-restrictions-related-covid-19-1) to Corona Virus affected countries.'
       visa_quarantine:
         - 'Refer to the [FAQ on New Visa Restrictions for COVID-19.](https://boi.gov.in/sites/default/files/u4/faq-covid19.pdf)'
     travel:
       domestic: partial
-      inbound: partial
-      inbound_allowed:
-        - NP
-        - BT
-        - Mv
-      outbound: 'yes'
+      inbound: no
+      outbound: partial
   IQ:
     sources:
       domestic:
@@ -2229,8 +2229,8 @@ countries:
         - 'Travelers who enter the country are [subject to quarantine at their own expense](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).'
     travel:
       domestic: 'partial'
-      inbound: 'no'
-      outbound: 'no'
+      inbound: yes
+      outbound: yes
   KG:
     sources:
       domestic:
@@ -2323,12 +2323,14 @@ countries:
         - 'Hotels and mosques will reopen, and taxis are [permitted to operate](https://www.garda.com/crisis24/news-alerts/363061/kuwait-authorities-announce-third-phase-of-covid-19-reopening-to-commence-on-july-28-update-23).'
         - 'The partial curfew has been shortened, and is [between 9 pm and 3 am (local time) daily](https://www.argusmedia.com/en/news/2126567-kuwait-to-move-to-phase-three-of-reopening-this-week).'
       inbound:
-        - '[Kuwait has closed its airport and land border with Iraq](https://kw.usembassy.gov/covid-19-information/).'
+        - '[Kuwait has resumed international flights to 20 countries](https://www.garda.com/crisis24/news-alerts/365421/kuwait-international-flights-to-resume-from-august-1-update-25).'
       outbound:
         - 'Kuwait will [allow citizens and residents to travel to and from the country](https://www.garda.com/crisis24/news-alerts/364706/kuwait-government-to-allow-citizens-and-residents-to-travel-to-and-from-the-country-from-august-1-update-24) as of August 1, 2020, amid the easing of coronavirus disease (COVID-19) restrictions. The decision excludes residents coming from Bangladesh, Philippines, India, Sri Lanka, Pakistan, Iran and Nepal.'
+      visa_quarantine:
+        - 'Arriving passengers will be [subject to a 14-day quarantine period](https://www.garda.com/crisis24/news-alerts/365421/kuwait-international-flights-to-resume-from-august-1-update-25) and need to provide travel insurance covering the treatment of COVID-19.'
     travel:
-      domestic: 'no'
-      inbound: 'no'
+      domestic: 'partial'
+      inbound: 'yes'
       outbound: 'yes'
   KZ:
     sources:
@@ -3530,15 +3532,14 @@ countries:
       inbound:
         - '[Borders are closed for all foreign travelers](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).'
       outbound:
-        - 'Outbound flights will not be affected by the [travel ban](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).'
+        - 'The government advises against traveling out of New Zealand](https://covid19.govt.nz/travel-and-the-border/leaving-new-zealand/).'
       visa_quarantine:
         - 'New Zealand citizens and residents may return to the country but must undergo a [mandatory 14-day managed quarantine or isolation](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).'
         - 'From August 1, 2020, pre-departure COVID-19 testing will be obligatory for travelers with flights with [Emirates and Etihad airlines](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).'
-
     travel:
       domestic: 'yes'
       inbound: 'no'
-      outbound: 'yes'
+      outbound: 'partial'
   OM:
     sources:
       domestic:
@@ -3595,6 +3596,7 @@ countries:
         - 'Hair salons, personal services, and pet grooming parlors will also resume operations whilst following [strict health protocols and hygiene measures.](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29)'
         - 'Duterte announced that businesses in areas under the general community quarantine (GCQ), will be allowed to partially reopen from August 1, 2020](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29).'
         - 'Authorities announced that areas under the general community quarantine (GCQ), will have their restrictions extended until August 15, 2020](https://www.garda.com/crisis24/news-alerts/365151/philippines-authorities-extend-restrictions-in-manila-and-other-areas-until-august-15-update-30).'
+        - 'The Batangas Province will have new quarantine passes needed by residents, secondary roads that will be closed, and non-residents that work in the city will be [required to present negative COVID-19 test results upon entry](https://www.garda.com/crisis24/news-alerts/365536/philippines-authorities-tighten-lockdown-measures-in-lipa-from-august-1-update-31).'
       inbound:
         - 'On May 9, 2020, the Civil Aviation Authority of the Philippines (CAAP) announced that Manila''s Ninoy Aquino International Airport (MNL) will resume international flight arrivals from Monday, May 11, 2020, following new entry requirements introduced due to the coronavirus disease (COVID-19) pandemic. As such, the airport will operate on a [limited basis with a cap on passenger arrivals.](https://www.garda.com/crisis24/news-alerts/340496/philippines-manilas-ninoy-aquino-international-airport-mnl-to-resume-international-flight-arrivals-from-may-11-update-18)'
         - 'All travelers are required to submit a negative reverse transcription-polymerase chain reaction (RT-PCR) test, [taken within 48 hours of their departure.](https://www.garda.com/crisis24/news-alerts/360831/philippines-new-measures-to-be-introduced-at-francisco-bangoy-international-airport-from-july-20-amid-covid-19-outbreak-update-28)'
@@ -3929,9 +3931,8 @@ countries:
     sources:
       domestic:
         - 'Wearing a face mask is mandatory and [social distancing rules need to be observed](https://www.visitportugal.com/en/node/421189).'
-        - 'The state of alert has been decreed](https://www.garda.com/crisis24/news-alerts/356491/portugal-government-downgrade-to-state-of-alert-july-1-update-17) amid the easing of some coronavirus disease (COVID-19) restrictions, however, some areas including the Lisbon Metropolitan Area remain under additional restrictions.'
-        - 'Portuguese authorities announced on June 22, 2020, that [some lockdown measures would be restored in Lisbon](https://www.garda.com/crisis24/news-alerts/363546/portugal-over-50000-confirmed-covid-19-cases-as-of-july-26-update-19) until at least July 31, 2020. Gatherings are limited to 20 people, except for religious ceremonies and family events, such as weddings and christenings.'
-        - 'Gatherings in some areas are [restricted to no more than five people](https://www.garda.com/crisis24/news-alerts/359936/portugal-authorities-extend-restrictions-in-lisbon-metropolitan-area-until-july-31-update-18)and are in 19 parishes in Lisbon, Sintra, Amadora, Loures, and Odivelas.'
+        - 'Portuguese authorities announced on June 22, 2020, that [some lockdown measures would be restored in Lisbon](https://www.garda.com/crisis24/news-alerts/363546/portugal-over-50000-confirmed-covid-19-cases-as-of-july-26-update-19). Gatherings are limited to 20 people, except for religious ceremonies and family events, such as weddings and christenings.'
+        - 'Gatherings in some areas are [restricted to no more than 10 people](https://www.garda.com/crisis24/news-alerts/365571/portugal-authorities-in-lisbon-ease-covid-19-restrictions-on-august-1-update-21) and are in 19 parishes in Lisbon, Sintra, Amadora, Loures, and Odivelas.'
       inbound:
         - '[Flights will be permitted from countries](https://www.schengenvisainfo.com/news/portugal-to-open-its-borders-for-tourists-from-certain-countries-only/) in the European Schengen travel zone except Spain and Italy. Flights are also permitted to some countries outside of the EU.'
       outbound:
@@ -3986,7 +3987,7 @@ countries:
         - VE
         - CA
         - ZA
-      outbound: yes
+      outbound: partial
   PW:
     sources:
       inbound:
@@ -4106,10 +4107,12 @@ countries:
   SA:
     sources:
       domestic:
-        - "[Saudi Arabia's nationwide curfew has been lifted but restrictions still apply.](https://www.bbc.com/news/world-middle-east-53123945)"
+        - 'Saudi Arabia''s nationwide curfew has been lifted but [restrictions still apply.](https://www.bbc.com/news/world-middle-east-53123945)'
+        - '[Gatherings must not exceed 50 people](https://www.visitsaudi.com/en/covid-19-information-page). Social distancing measures are in place, and individuals must wear masks while in public.'
       inbound:
-        - '[International flights have been suspended indefinitely.](https://www.visitsaudi.com/en/covid-19-information-page)'
-        - '[Tourists and expatriates legally residing in Saudi Arabia and holding a valid visa, will be able to return home.](https://www.visitsaudi.com/en/covid-19-information-page)'
+        - 'International flights have been [suspended indefinitely.](https://www.visitsaudi.com/en/covid-19-information-page)'
+      outbound:
+        - 'Regular international flights are suspended. However, a return service allows tourists and expatriates [holding valid visas to leave Saudi Arabia and return home.](https://www.visitsaudi.com/en/covid-19-information-page)'
       visa_quarantine:
         - '[Citizens and residents returning will be required to undergo a 14 day quarantine.](https://www.visitsaudi.com/en/covid-19-information-page)'
         - '[Extensions are not required for tourist visas that expired following the suspension of international flights.](https://www.visitsaudi.com/en/covid-19-information-page)'
@@ -4186,10 +4189,10 @@ countries:
       inbound:
         - 'Only travelers originating from the EEA are allowed entry. Other foreign nationals are [not allowed entry until August 31, 2020](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
       outbound:
-        - 'The country will no longer advise against non-essential travel to Norway, Denmark, Switzerland, and the Czech Republic as the rates of COVID-19 infection in these countries have [reportedly fallen](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
+        - 'Sweden does not advise against non-essential travel to Andorra, Belgium, the Czech Republic, Croatia, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Luxembourg, Monaco, Norway, Poland, Portugal, San Marino, Switzerland, Spain and the Vatican.](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
+        - 'The Swedish Ministry for Foreign Affairs advises against non-essential travel to certain countries](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/travel-restrictions).'
       visa_quarantine:
-        - '[The entry ban](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic) does not apply to the following: citizens of EU/EEA countries, UK, Switzerland, Andorra, Monaco, San Marino and the Vatican, or their families, or for travels to Sweden from the EU/EEA area, or if you or a close relative already living in Sweden as a permanent resident or hold a residence permit in Sweden or another EU country, or if you have a national visa to
-          Sweden.'
+        - '[The entry ban](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic) does not apply to the following: citizens of EU/EEA countries, UK, Switzerland, Andorra, Monaco, San Marino and the Vatican, or their families, or for travels to Sweden from the EU/EEA area, or if you or a close relative already living in Sweden as a permanent resident or hold a residence permit in Sweden or another EU country, or if you have a national visa to Sweden.'
         - 'There is [no quarantine obligation for travelers to Sweden.](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic)'
     travel:
       domestic: 'partial'
@@ -4226,7 +4229,7 @@ countries:
         - ES
         - CH
         - BG
-      outbound: 'yes'
+      outbound: 'partial'
   SG:
     sources:
       domestic:
@@ -4289,11 +4292,12 @@ countries:
       inbound:
         - '[Slovakia''s borders are currently open](https://www.schengenvisainfo.com/news/slovakia-reopens-its-borders-for-citizens-of-16-countries/) to travelers from Liechtenstein, Germany, Switzerland, Croatia, Slovenia, Bulgaria, Cyprus, Greece, Malta, Estonia, Lithuania, Finland, Latvia, Denmark, Norway, and Iceland.'
       outbound:
-        - 'Border crossings between Slovakia and the Czech Republic, Austria, Poland, and Hungary have [opened](https://spectator.sme.sk/c/22427760/coronavirus-in-slovakia-how-to-travel-borders-bus-train-air-transport.html).'
+        - 'International airports in [Bratislava and Košice have reopened](https://spectator.sme.sk/c/22427760/coronavirus-in-slovakia-how-to-travel-borders-bus-train-air-transport.html).'
       visa_quarantine:
         - 'Travelers who have visited or have arrived from countries not considered as low-risk during the last 14 days are required to [remain in self-isolation at home for 14 days](https://www.mzv.sk/web/en/covid-19).'
         - 'After the fifth day, the traveler will be required to contact the Regional Public Health Authority to undergo diagnosis for COVID-19. They will be able to stop self-isolating when a [negative PT-PCR test for COVID-19 is produced](https://www.mzv.sk/web/en/covid-19).'
     travel:
+      domestic: 'yes'
       inbound: 'yes'
       inbound_allowed:
         - LI
@@ -4316,6 +4320,7 @@ countries:
         - AT
         - PL
         - HU
+      outbound: yes
   SL:
     reopening:
       '2020-07-22': 'The Lungi International Airport (FNA) is [scheduled to reopen on July 22, 2020](https://www.garda.com/crisis24/news-alerts/358511/sierra-leone-authorities-ease-some-covid-19-restrictions-from-july-10-update-11).'
@@ -4415,15 +4420,17 @@ countries:
   TD:
     sources:
       domestic:
-        - '[There are curfews in place in certain provinces](https://www.garda.com/crisis24/news-alerts/350776/chad-authorities-extend-international-flight-suspension-through-june-22-update-11).'
+        - 'There are curfews in place in certain provinces from 8 pm to 5 am and a [ban on leaving or entering these areas](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
       inbound:
-        - 'All international commercial passenger flights are [suspended until further notice, while land borders remain closed](https://www.garda.com/crisis24/news-alerts/357366/chad-authorities-extend-and-shorten-nightly-curfew-in-ndjamena-and-other-regions-until-july-20-update-12).'
+        - 'All international commercial passenger flights [have resumed](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
       outbound:
-        - 'All international commercial passenger flights are [suspended until further notice, while land borders remain closed](https://www.garda.com/crisis24/news-alerts/357366/chad-authorities-extend-and-shorten-nightly-curfew-in-ndjamena-and-other-regions-until-july-20-update-12).'
+        - 'All international commercial passenger flights [have resumed](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
+      visa_quarantine:
+        - 'Travelers arriving in Chad will be required to present a negative COVID-19 test certificate dated [no more than 3 days prior to arrival.](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
     travel:
       domestic: partial
-      inbound: no
-      outbound: no
+      inbound: yes
+      outbound: yes
   TG:
     sources:
       domestic:
@@ -4875,7 +4882,7 @@ countries:
         - GB
         - IE
         - BR
-      outbound: 'yes'
+      outbound: partial
   UY:
     sources:
       domestic:
@@ -4989,7 +4996,7 @@ countries:
       inbound:
         - 'International commercial flights to Vietnam [are banned](https://www.garda.com/crisis24/news-alerts/363851/vietnam-authorities-restrict-da-nang-movement-following-recent-covid-19-cases-july-27-update-30)'
       outbound:
-        - 'Limited international flights out. Check Vietnam Airlines schedule [here.](https://www.vietnamairlines.com/sg/en/travel-alerts/2020/~/media/2C52390659B14A27BDE026D2B430AB6C.ashx)'
+        - 'Limited international flights are [available](https://www.vietnamairlines.com/sg/en/travel-alerts/2020/~/media/2C52390659B14A27BDE026D2B430AB6C.ashx)'
       visa_quarantine:
         - 'Anyone entering Vietnam must undergo medical checks and [14-day quarantine upon arrival.](https://vietnam.travel/things-to-do/information-travellers-novel-coronavirus-vietnam)'
         - 'All inbound travellers coming to Vietnam will be required to [submit a health declaration.](https://vietnam.travel/things-to-do/covid-19-travel-policies-vietnam)'
