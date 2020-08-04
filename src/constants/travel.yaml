@@ -1,5 +1,5 @@
 ---
-checked_on: 2020-08-03
+checked_on: 2020-08-04
 countries:
   AD:
     sources:
@@ -547,8 +547,8 @@ countries:
     sources:
       domestic:
         - 'On May 20, 2020, Botswana was divided into nine coronavirus zones: Boteti, Chobe, Ghanzi, Greater Francistown, Greater Gaborone, Greater Palapye, Greater Phikwe, Maun, and Kgalagadi. Individuals are permitted to travel within the zones without travel permits; however, [travel between zones requires a travel permit](https://www.garda.com/crisis24/news-alerts/351036/botswana-authorities-lift-lockdown-in-greater-gaborone-covid-19-zone-june-15-update-10).'
-        - 'Health authorities announced that the Greater Gaborone region would be placed under lockdown until August 13, 2020](https://www.garda.com/crisis24/news-alerts/365131/botswana-authorities-reinstate-lockdown-in-gaborone-july-30-update-11).'
-        - 'All gatherings will be banned](https://www.garda.com/crisis24/news-alerts/365131/botswana-authorities-reinstate-lockdown-in-gaborone-july-30-update-11) and hotels, restaurants, gyms, and schools will close.'
+        - 'Health authorities announced that the Greater Gaborone region would be [placed under lockdown until August 13, 2020](https://www.garda.com/crisis24/news-alerts/365131/botswana-authorities-reinstate-lockdown-in-gaborone-july-30-update-11).'
+        - '[All gatherings will be banned](https://www.garda.com/crisis24/news-alerts/365131/botswana-authorities-reinstate-lockdown-in-gaborone-july-30-update-11) and hotels, restaurants, gyms, and schools will close.'
       inbound:
         - 'All international and domestic commercial flights remain [suspended indefinitely](https://www.garda.com/crisis24/news-alerts/351036/botswana-authorities-lift-lockdown-in-greater-gaborone-covid-19-zone-june-15-update-10).'
       outbound:
@@ -780,7 +780,7 @@ countries:
       outbound: partial
   CU:
     reopening:
-      '2020-08-01': 'International flights will be [permitted from August 15, 2020](https://www.garda.com/crisis24/news-alerts/364986/cuba-authorities-suspend-flights-through-august-15-update-10).'
+      '2020-08-15': 'International flights will be [permitted from August 15, 2020](https://www.garda.com/crisis24/news-alerts/364986/cuba-authorities-suspend-flights-through-august-15-update-10).'
     sources:
       domestic:
         - 'The capital, Havana, will enter phase one of a three-phase normalization process. [Residents will be permitted](https://cu.usembassy.gov/covid-19-information/) to travel on public or private transport, go to the beach, visit bars and restaurants, and go to recreation centers.'
@@ -2354,7 +2354,7 @@ countries:
       domestic:
         - 'Public gatherings are to remain banned and cultural venues will not reopen and other various measures will be [extended until August 2, 2020](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26).'
         - 'Essential businesses, including grocery stores, gas stations, banks, and schools will be open on Tuesday and Wednesday, with a [near-total lockdown in place from Thursday until Monday.](https://www.garda.com/crisis24/news-alerts/363841/lebanon-lockdown-reimposed-amid-covid-19-spike-july-27-update-27)'
-        - 'The government has imposed a nationwide lockdown from [6 August until 10 August, 2020](https://www.garda.com/crisis24/news-alerts/363841/lebanon-lockdown-reimposed-amid-covid-19-spike-july-27-update-27). Hotels, food, pharmaceutical, and medical facilities are permitted to remain open, but may operate at reduced hours or choose to shut. Delivery and take away food services will only be available from 6 am to 8 pm (local time).'
+        - 'The government has imposed a nationwide lockdown from [6 August - 10 August, 2020](https://www.garda.com/crisis24/news-alerts/363841/lebanon-lockdown-reimposed-amid-covid-19-spike-july-27-update-27). Hotels, food, pharmaceutical, and medical facilities are permitted to remain open, but may operate at reduced hours or choose to shut. Delivery and take away food services will only be available from 6 am to 8 pm (local time).'
       inbound:
         - 'Rafic Hariri International Airport [reopened to commercial air traffic on July 1, 2020](https://lb.usembassy.gov/covid-19-information/).'
         - 'The airport will operate at 10 percent capacity following its reopening, [permitting for 2000 travelers per day](https://www.garda.com/crisis24/news-alerts/355786/lebanon-authorities-announce-extension-of-covid-19-restrictions-until-august-2-update-26).'
@@ -2627,8 +2627,6 @@ countries:
         - ZM
         - ZW
   LK:
-    reopening:
-      '2020-08-01': 'Sri Lanka plans to [reopen its tourism sector on August 1, 2020](https://www.reuters.com/article/us-health-coronavirus-sri-lanka-tourism/sri-lanka-to-reopen-some-tourism-in-august-with-restrictions-official-idUSKBN2370KT), by allowing small groups of visitors into the country.'
     sources:
       domestic:
         - 'From May 26, 2020, a curfew will be in place between [10 pm and 4 am (local time) until further notice.](https://www.garda.com/crisis24/news-alerts/345906/sri-lanka-authorities-ease-curfew-measures-and-domestic-travel-restrictions-from-may-26-update-17)'
@@ -2938,7 +2936,7 @@ countries:
       outbound: partial
   MM:
     reopening:
-      '2020-08-31': 'Suspension of international flights, will be [extended until August 31, 2020.](https://www.garda.com/crisis24/news-alerts/365106/myanmar-authorities-extend-suspension-of-international-flights-until-august-31-update-17)'
+      '2020-09-01': 'International flights will [resume on September 1, 2020.](https://www.garda.com/crisis24/news-alerts/365106/myanmar-authorities-extend-suspension-of-international-flights-until-august-31-update-17)'
     sources:
       domestic:
         - '[Some restrictions have been eased](https://www.garda.com/crisis24/news-alerts/354981/myanmar-authorities-extend-international-flights-suspension-and-other-covid-19-restrictions-until-july-15-update-15). Bars and restaurants are reopening, with social distancing measures in place.'
@@ -3593,7 +3591,7 @@ countries:
     sources:
       domestic:
         - 'Restrictions slowly easing, but high-risk districts deemed as [''critical zones'' will remain under lockdown](https://www.garda.com/crisis24/news-alerts/346436/philippines-authorities-ease-lockdown-in-metro-manila-from-june-1-update-22). Districts that report two or more cases of COVID-19 per week, will also remain under strict shelter-at-home restrictions.'
-        - 'Gyms, sports facilities, review centers, and internet cafes, will be permitted to [reopen with a 30 percent capacity.](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29)'
+        - 'Gyms, sports facilities, and internet cafes, will be permitted to [reopen with a 30 percent capacity.](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29)'
         - 'Hair salons, personal services, and pet grooming parlors will also resume operations whilst following [strict health protocols and hygiene measures.](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29)'
         - 'Duterte announced that businesses in areas under the general community quarantine (GCQ), will be allowed to partially reopen from August 1, 2020](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29).'
         - 'Authorities announced that areas under the general community quarantine (GCQ), will have their restrictions extended until August 15, 2020](https://www.garda.com/crisis24/news-alerts/365151/philippines-authorities-extend-restrictions-in-manila-and-other-areas-until-august-15-update-30).'
@@ -4121,7 +4119,7 @@ countries:
       outbound: partial
   SB:
     reopening:
-      '2020-10-24': 'Solomon Islands has extended the suspension of [all international passenger flights until October 24, 2020](https://www.garda.com/crisis24/news-alerts/364671/solomon-islands-solomon-airlines-extends-suspension-of-international-flights-until-october-24-update-4).'
+      '2020-10-25': 'International flights will [resume on October 25, 2020](https://www.garda.com/crisis24/news-alerts/364671/solomon-islands-solomon-airlines-extends-suspension-of-international-flights-until-october-24-update-4).'
     sources:
       domestic:
         - '[Domestic flights continue to operate](https://www.garda.com/crisis24/news-alerts/364671/solomon-islands-solomon-airlines-extends-suspension-of-international-flights-until-october-24-update-4) to all 23 destinations.'
@@ -4192,7 +4190,7 @@ countries:
       visa_quarantine:
         - '[The entry ban](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic) does not apply to the following: citizens of EU/EEA countries, UK, Switzerland, Andorra, Monaco, San Marino and the Vatican, or their families, or for travels to Sweden from the EU/EEA area, or if you or a close relative already living in Sweden as a permanent resident or hold a residence permit in Sweden or another EU country, or if you have a national visa to
           Sweden.'
-        - 'There is [no quarantine obligation for travellers to Sweden.](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic)'
+        - 'There is [no quarantine obligation for travelers to Sweden.](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic)'
     travel:
       domestic: 'partial'
       inbound: partial
@@ -4437,7 +4435,7 @@ countries:
       outbound:
         - 'Togolese officials have reopened the country''s airspace since August 1, 2020, and allow the resumption of [international and domestic commercial flight operations](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)'
     travel:
-      inbound: 'partial'
+      domestic: 'partial'
       inbound: 'partial'
       outbound: 'partial'
   TH:
