@@ -4,7 +4,7 @@ Restrictions apply for inbound and outbound travel. See below for more details.
 
 There are no travel restrictions from the following countries:
 
-- All EU Member States (in addition to Italy, the following are EU Member States: Austria, Belgium, Bulgaria, Cyprus, Croatia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, and the Czech Republic);
+- All EU Member States (in addition to Italy, the following are EU Member States: Austria, Belgium, Cyprus, Croatia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Slovakia, Slovenia, Spain, Sweden, and the Czech Republic);
 - Schengen Area Countries (the non-EU States that are members of the Schengen Agreement are: Iceland, Liechtenstein, Norway, Switzerland);
 - United Kingdom of Great Britain and Northern Ireland;
 - Andorra, Principality of Monaco;
@@ -14,7 +14,7 @@ Travelers from these countries are free to visit Italy but will be required to u
 
 - Algeria, Australia, Canada, Georgia, Japan, Montenegro, Morocco, New Zealand, Rwanda, Serbia, South Korea, Thailand, Tunisia, and Uruguay.
 
-As of July 10, 2020, Italy has [banned foreign nationals](https://www.thejakartapost.com/travel/2020/07/10/italy-bans-entry-from-13-countries-due-to-coronavirus-fears.html) arriving from Armenia, Bahrain, Bangladesh, Brazil, Bosnia and Herzegovina, Chile, Kuwait, North Macedonia, Moldova, Oman, Panama, Peru, and Dominican Republic.
+- As of July 10, 2020, Italy has [banned foreign nationals](https://www.thejakartapost.com/travel/2020/07/10/italy-bans-entry-from-13-countries-due-to-coronavirus-fears.html) arriving from Armenia, Bahrein, Bangladesh, Brazil, Bosnia Herzegovina, Chile, Kosovo, Kuwait, North Macedonia, Moldova, Montenegro, Oman, Panama, Peru, Dominican Republic, and Serbia.
 
 As of July 7, 2020, flights arriving from Bangladesh have been [suspended](https://www.garda.com/crisis24/news-alerts/357501/italy-flights-from-bangladesh-suspended-following-imported-covid-19-cases-july-7-update-34).
 

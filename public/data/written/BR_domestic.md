@@ -1,0 +1,1 @@
+Cities such as Rio de Janeiro and Sao Paulo have lifted restrictions. Gyms, bars, restaurants, and shopping centers are [allowed to reopen](https://www.aljazeera.com/news/2020/07/brazil-coronavirus-restrictions-lifted-rio-sao-paulo-200707105343195.html).

@@ -2,11 +2,27 @@ Restrictions apply for inbound and outbound travel. See below for more details.
 
 #### Inbound Travel: Who can travel into Ireland?
 
-The Irish Authorities require travelers coming into Ireland, apart from Northern Ireland, to undergo 14-day self-isolation.
+Travelers arriving from countries with a "green" rating are allowed to enter. These include:
 
-As of July 20, 2020, the Irish government will ease [foreign travel restrictions](https://www.garda.com/crisis24/news-alerts/356771/ireland-authorities-to-ease-quarantine-requirements-from-july-20-update-10) for "low risk" countries.
+- Cyprus
+- Estonia
+- Finland
+- Gibraltar
+- Greece
+- Greenland
+- Hungary
+- Italy
+- Latvia
+- Lithuania
+- Malta
+- Norway
+- Monaco
+- San Marino
+- Slovakia
 
-Travelers, including Irish residents, arriving to Ireland from overseas, will need to complete a mandatory [Public Health Passenger Locator Form](https://www.gov.ie/locatorform). Travelers will need to submit it to relevant authorities at their port of entry. Exemptions are in place for providers of essential supply chain services such as hauliers, pilots, and maritime staff.
+All travelers, including Irish citizens, are required to complete a [Public Health Passenger Locator Form](https://www.gov.ie/locatorform) before arrival.
+
+All other travelers who are arriving from countries not listed above are required to restrict their movement for 14 days. Refer to the movement restriction [here](https://www.gov.ie/en/publication/b4020-travelling-to-ireland-from-a-country-that-is-not-on-the-covid-19-travel-advice-list/).
 
 Check the [Irish Government Advice Page](https://www.gov.ie/en/publication/e885b2-covid-19-coronavirus-travel-advice/) for full information on these requirements.
 

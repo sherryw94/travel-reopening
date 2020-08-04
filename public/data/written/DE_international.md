@@ -2,13 +2,14 @@ Restrictions apply for inbound and outbound travel. See below for more details.
 
 #### Inbound Travel: Who can travel into Germany?
 
-**Travel restrictions apply.** EU citizens and citizens of the United Kingdom, Liechtenstein, Switzerland, Norway, and Iceland, and the family members of these citizens, may return to their place to normal residence in Germany.
+**Travel restrictions apply.** Travelers, including German nationals, arriving from these countries may enter Germany:
+
+- EU member states
+- states associated with Schengen: Iceland, Norway, Switzerland and Liechtenstein
+- the United Kingdom
+- [Other countries based on their epidemiological situation assessment](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/travel-restrictions-border-control/travel-restriction-border-control-list.html#f13919566)
 
 This also applies to third-country nationals with long-term residence permits, including long-stay visas, who are returning to their place of normal residence.
-
-Travelers will no longer be checked at the borders with Austria, France, Switzerland, Italy, and Denmark. Travelers from other EU countries will no longer need a valid reason for entering Germany.
-
-Temporary border control for air travel from Spain will end in both countries on June 21, 2020.
 
 #### Outbound Travel: Who can travel out of Germany?
 
