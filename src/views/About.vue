@@ -24,7 +24,7 @@
         <a href="https://github.com/tourhero/travel-reopening" target="_blank" rel="nofollow noopener">
         https://github.com/tourhero/travel-reopening</a>.
         Alternatively, you can submit data or situation reports from your
-        region to <a href="mailto:travel-map@tourhero.com" target="_blank" rel="nofollow">
+        region to <a href="mailto:travel-map@tourhero.com" target="_blank">
           travel-map@tourhero.com</a>.
       </p>
 
