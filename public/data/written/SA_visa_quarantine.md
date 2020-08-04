@@ -1,0 +1,2 @@
+- Saudi Arabia has **suspended** the issuance of tourist visas and most other types of visas.
+- All travelers arriving from outside Saudi Arabia will need to undergo [mandatory 14-day quarantine upon arrival](https://sa.usembassy.gov/u-s-citizen-services/covid-19-information/).

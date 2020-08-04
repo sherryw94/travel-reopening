@@ -1,6 +1,3 @@
-All residents and visitors entering the UK are required to:
+There are self-isolation protocols in place.
 
-- Provide journey and contact details at the border.
-- Undergo self-isolation for the first 14 days at their place of accommodation.
-
-For more information on COVID-19 regulations and international travel restrictions, refer to the [UK Government](https://www.gov.uk/coronavirus).
+You may not be required to self-isolate if you enter the United Kingdom from a territory or country that is on the 'travel corridor' exemption list. Exemptions differ across [England](https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors), [Northern Ireland](https://www.nidirect.gov.uk/articles/coronavirus-covid-19-countries-and-territories-exemptions), [Wales](https://gov.wales/exemptions-self-isolation-coronavirus-covid-19-html), and [Scotland](https://www.gov.scot/publications/coronavirus-covid-19-public-health-checks-at-borders/pages/exemptions/). These lists are constantly being reviewed.

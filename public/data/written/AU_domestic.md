@@ -35,10 +35,11 @@ Refer to the [South Australia Government website](https://www.covid-19.sa.gov.au
 
 #### Victoria
 
-- Victoria’s state of emergency has been extended until **August 16, 2020** due to a spike in COVID-19 cases.
-- From **July 22, 2020**, wearing of face masks in Melbourne and the Mitchell Shire [is mandatory](https://www.garda.com/crisis24/news-alerts/361011/australia-face-masks-mandatory-in-melbourne-from-july-22-update-37).
+- Victoria has declared a 'State of Disaster' on **August 2, 2020**, in addition to its current 'State of Emergency' following a rise in COVID-19 cases.
+- The city of Melbourne has [tightened movement restrictions](https://www.garda.com/crisis24/news-alerts/365756/australia-nonessential-businesses-in-melbourne-to-close-for-six-weeks-from-august-5-due-to-covid-19-update-40) and now has a nightly curfew in place from 8pm – 5am. Recreational activity is no longer permitted. From August 5, 2020, non-essential businesses will close for at least six weeks.
+- Other parts of Victoria are also tightening restrictions.
+- A face covering must be worn in public.
 - As of **July 7, 2020**, the border between Victoria and New South Wales is closed. This will remain in effect until further notice.
-- As of **July 4, 2020**, lockdown measures have been reintroduced in parts of Melbourne due to a rise in local cases of COVID-19. Movement may be restricted for certain postcodes. [Click here](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34) for more information.
 - As of **June 28, 2020**, COVID-19 testing is compulsory for all returning travelers entering Victoria. Those who refuse testing must quarantine for an additional 10 days on top of the 14-day minimum quarantine period.
 
 Refer to the Victorian [Department of Health and Human Services website](https://www.dhhs.vic.gov.au/victorias-restriction-levels-covid-19) for more information on travel restrictions.
