@@ -3,7 +3,10 @@
     <TitleMapSelect/>
     <div class="main-container">
       <div class="main-container__inner" v-schema:scope="{ type: 'Article' }">
-        <h2 class="country-header px-4" v-schema="{ prop: 'headline' }">{{title}}</h2>
+        <header class="flex items-center px-4">
+          <CountryFlag :countryCode="country.code" />
+          <h2 class="country-header pl-2" v-schema="{ prop: 'headline' }">{{title}}</h2>
+        </header>
         <span v-schema="{ prop: 'author', content: 'TourHero' }" />
         <span v-schema="{ prop: 'publisher', content: 'TourHero' }" />
         <span v-schema="{ prop: 'image', content: articleImage }" />
@@ -59,6 +62,7 @@
 import axios from 'axios';
 import moment from 'moment';
 import CountryBody from '@/components/CountryBody.vue';
+import CountryFlag from '@/components/CountryFlag.vue';
 import CountrySources from '@/components/CountrySources.vue';
 import CountryTravelIdeas from '@/components/CountryTravelIdeas.vue';
 import CovidStatsPanel from '@/components/CovidStats/Panel.vue';
@@ -72,6 +76,7 @@ export default {
   name: 'Country',
   components: {
     CountryBody,
+    CountryFlag,
     CountrySources,
     CountryTravelIdeas,
     CovidStatsPanel,
