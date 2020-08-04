@@ -54,20 +54,26 @@ function travelStateLabel(state) {
 function tooltipBodyGlobal(country) {
   const state = this.getCountryGlobalState(country.code);
   return `
-    <p class="mb-2 text-xs font-semibold">${country.name}</p>
-    <div class="inline-grid grid-cols-legend row-gap-1 col-gap-2 items-baseline">
-      <span class="text-xs">Domestic</span>
-      <span class="badge badge--xs badge--${state.domestic || OpenStatus.Unknown}">
-        ${travelStateLabel(state.domestic)}
-      </span>
-      <span class="text-xs">Entry</span>
-      <span class="badge badge--xs badge--${state.inbound || OpenStatus.Unknown}">
-        ${travelStateLabel(state.inbound)}
-      </span>
-      <span class="text-xs">Exit</span>
-      <span class="badge badge--xs badge--${state.outbound || OpenStatus.Unknown}">
-        ${travelStateLabel(state.outbound)}
-      </span>
+    <div class="bg-white rounded-md shadow">
+      <div class="px-4 py-3">
+        <div class="flex flex-col">
+          <p class="mb-2 text-xs font-semibold">${country.name}</p>
+          <div class="inline-grid grid-cols-legend row-gap-1 col-gap-2 items-baseline">
+            <span class="text-xs">Domestic</span>
+            <span class="badge badge--xs badge--${state.domestic || OpenStatus.Unknown}">
+              ${travelStateLabel(state.domestic)}
+            </span>
+            <span class="text-xs">Entry</span>
+            <span class="badge badge--xs badge--${state.inbound || OpenStatus.Unknown}">
+              ${travelStateLabel(state.inbound)}
+            </span>
+            <span class="text-xs">Exit</span>
+            <span class="badge badge--xs badge--${state.outbound || OpenStatus.Unknown}">
+              ${travelStateLabel(state.outbound)}
+            </span>
+          </div>
+        </div>
+      </div>
     </div>
   `;
 }
@@ -75,11 +81,16 @@ function tooltipBodyGlobal(country) {
 function tooltipBodyForCountry(country) {
   const state = this.getCountryState(country.code, this.travelContext, this.country);
   return `
-    <p class="mb-2 text-xs font-semibold">${country.name}</p>
-    <div class="inline-grid grid-cols-legend row-gap-1 col-gap-2 items-baseline">
-    <span class="badge badge--xs badge--${state || OpenStatus.Unknown}">
-      ${travelStateLabel(state)}
-    </span>
+    <div class="bg-white rounded-md shadow">
+      <div class="p-2">
+        <div class="flex items-baseline">
+          <span class="mr-2 text-xs font-semibold">${country.name}</span>
+          <span class="badge badge--xs badge--${state || OpenStatus.Unknown}">
+             ${travelStateLabel(state)}
+          </span>
+        </div>
+      </div>
+    </div>
   `;
 }
 
@@ -87,19 +98,8 @@ function tooltipBody(d) {
   const country = this.getCountryById(d.id);
   if (!country) { return false; }
 
-  const bodyFunction = this.country
-    ? tooltipBodyForCountry : tooltipBodyGlobal;
-  const bodyStr = bodyFunction.bind(this)(country);
-
-  return `
-    <div class="bg-white rounded-md shadow">
-      <div class="px-4 py-3">
-        <div class="flex flex-col">
-          ${bodyStr}
-        </div>
-      </div>
-    </div>
-  `;
+  const bodyFunction = this.country ? tooltipBodyForCountry : tooltipBodyGlobal;
+  return bodyFunction.bind(this)(country);
 }
 
 export default {
