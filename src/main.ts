@@ -13,6 +13,7 @@ import './registerServiceWorker';
 import router from './router';
 import store from './store';
 import './assets/styles/index.scss';
+import 'flag-icon-css/css/flag-icon.css';
 
 library.add(
   faFacebookF,
