@@ -28,6 +28,7 @@ export enum OpenStatus {
   Open = 'yes',
   Closed = 'no',
   Partial = 'partial',
+  Unknown = 'unknown',
 }
 
 export enum TravelDirection {

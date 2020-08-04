@@ -51,30 +51,51 @@ function travelStateLabel(state) {
   }
 }
 
+function tooltipBodyGlobal(country) {
+  const state = this.getCountryGlobalState(country.code);
+  return `
+    <p class="mb-2 text-xs font-semibold">${country.name}</p>
+    <div class="inline-grid grid-cols-legend row-gap-1 col-gap-2 items-baseline">
+      <span class="text-xs">Domestic</span>
+      <span class="badge badge--xs badge--${state.domestic || OpenStatus.Unknown}">
+        ${travelStateLabel(state.domestic)}
+      </span>
+      <span class="text-xs">Entry</span>
+      <span class="badge badge--xs badge--${state.inbound || OpenStatus.Unknown}">
+        ${travelStateLabel(state.inbound)}
+      </span>
+      <span class="text-xs">Exit</span>
+      <span class="badge badge--xs badge--${state.outbound || OpenStatus.Unknown}">
+        ${travelStateLabel(state.outbound)}
+      </span>
+    </div>
+  `;
+}
+
+function tooltipBodyForCountry(country) {
+  const state = this.getCountryState(country.code, this.travelContext, this.country);
+  return `
+    <p class="mb-2 text-xs font-semibold">${country.name}</p>
+    <div class="inline-grid grid-cols-legend row-gap-1 col-gap-2 items-baseline">
+    <span class="badge badge--xs badge--${state || OpenStatus.Unknown}">
+      ${travelStateLabel(state)}
+    </span>
+  `;
+}
+
 function tooltipBody(d) {
   const country = this.getCountryById(d.id);
   if (!country) { return false; }
-  const state = this.getCountryGlobalState(country.code);
+
+  const bodyFunction = this.country
+    ? tooltipBodyForCountry : tooltipBodyGlobal;
+  const bodyStr = bodyFunction.bind(this)(country);
 
   return `
     <div class="bg-white rounded-md shadow">
       <div class="px-4 py-3">
         <div class="flex flex-col">
-          <p class="mb-2 text-xs font-semibold">${country.name}</p>
-          <div class="inline-grid grid-cols-legend row-gap-1 col-gap-2 items-baseline">
-            <span class="text-xs">Domestic</span>
-            <span class="badge badge--xs badge--${state.domestic || 'unknown'}">
-              ${travelStateLabel(state.domestic)}
-            </span>
-            <span class="text-xs">Entry</span>
-            <span class="badge badge--xs badge--${state.inbound || 'unknown'}">
-              ${travelStateLabel(state.inbound)}
-            </span>
-            <span class="text-xs">Exit</span>
-            <span class="badge badge--xs badge--${state.outbound || 'unknown'}">
-              ${travelStateLabel(state.outbound)}
-            </span>
-          </div>
+          ${bodyStr}
         </div>
       </div>
     </div>
