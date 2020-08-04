@@ -1727,9 +1727,9 @@ countries:
         - '[A curfew is currently in place](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4) between 8 pm to 6 am (local time)'
         - 'Public gatherings will be limited to a [maximum of 10 people](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
       inbound:
-        - '[Cheddi Jagan International Airport (GEO) in Timehri and Eugene F. Correia International Airport (OGL) in Georgetown will continue to be closed to international flights until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
+        - 'Cheddi Jagan International Airport (GEO) in Timehri and Eugene F. Correia International Airport (OGL) in Georgetown will continue to be [closed to international flights until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
       outbound:
-        - '[Cheddi Jagan International Airport (GEO) in Timehri and Eugene F. Correia International Airport (OGL) in Georgetown will continue to be closed to international flights until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
+        - 'Cheddi Jagan International Airport (GEO) in Timehri and Eugene F. Correia International Airport (OGL) in Georgetown will continue to be [closed to international flights until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).'
     travel:
       domestic: 'no'
       inbound: 'no'
@@ -1843,7 +1843,7 @@ countries:
         - '[Tourist travel to offshore islands may resume](https://www.rte.ie/news/regional/2020/0625/1149682-coronavirus-islands/).'
       inbound:
         - 'Passengers arriving from overseas are expected to [restrict their movements for 14 days](https://www.gov.ie/en/publication/d06271-easing-the-covid-19-restrictions-on-29-june-phase-3/).'
-        - 'Individuals arriving in Ireland from certain locations will [not be required to restrict their movements on arrival.](https://www.dfa.ie/travel/travel-advice/coronavirus/#COVID19)'
+        - 'Individuals arriving in Ireland from 15 locations will [not be required to restrict their movements on arrival.](https://www.dfa.ie/travel/travel-advice/coronavirus/#COVID19)'
       outbound:
         - '[All non-essential overseas travel should be avoided](https://www.gov.ie/en/publication/d06271-easing-the-covid-19-restrictions-on-29-june-phase-3/)'
       visa_quarantine:
@@ -1866,7 +1866,7 @@ countries:
       outbound: partial
   IN:
     reopening:
-      '2020-09-01': 'International flights should resume on September 1, 2020](https://www.garda.com/crisis24/news-alerts/365641/india-over-17-million-covid-19-cases-confirmed-as-of-august-2-update-61).'
+      '2020-09-01': 'International flights should [resume on September 1, 2020](https://www.garda.com/crisis24/news-alerts/365641/india-over-17-million-covid-19-cases-confirmed-as-of-august-2-update-61).'
     sources:
       domestic:
         - 'Domestic flights have resumed with [strict restrictions](https://www.freepressjournal.in/india/ready-to-take-that-domestic-flight-here-is-the-list-of-guidelines-issued-by-dgca-for-airlines).'
@@ -4189,8 +4189,8 @@ countries:
       inbound:
         - 'Only travelers originating from the EEA are allowed entry. Other foreign nationals are [not allowed entry until August 31, 2020](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
       outbound:
-        - 'Sweden does not advise against non-essential travel to Andorra, Belgium, the Czech Republic, Croatia, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Luxembourg, Monaco, Norway, Poland, Portugal, San Marino, Switzerland, Spain and the Vatican.](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).'
-        - 'The Swedish Ministry for Foreign Affairs advises against non-essential travel to certain countries](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/travel-restrictions).'
+        - '[Sweden does not advise against non-essential travel](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9) to Andorra, Belgium, the Czech Republic, Croatia, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Luxembourg, Monaco, Norway, Poland, Portugal, San Marino, Switzerland, Spain and the Vatican.'
+        - 'The Swedish Ministry for Foreign Affairs [advises against non-essential travel to certain countries](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/travel-restrictions).'
       visa_quarantine:
         - '[The entry ban](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic) does not apply to the following: citizens of EU/EEA countries, UK, Switzerland, Andorra, Monaco, San Marino and the Vatican, or their families, or for travels to Sweden from the EU/EEA area, or if you or a close relative already living in Sweden as a permanent resident or hold a residence permit in Sweden or another EU country, or if you have a national visa to Sweden.'
         - 'There is [no quarantine obligation for travelers to Sweden.](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic)'
