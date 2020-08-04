@@ -9,7 +9,7 @@
     </p>
     <p>
       We also provide community COVID-19 statistics to help you make an informed
-      travel decision. These statistics come from the <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank" rel="nofollow">European Centre for Disease Prevention and Control</a>,
+      travel decision. These statistics come from the <a href="https://www.ecdc.europa.eu/en/covid-19-pandemic" target="_blank" rel="nofollow noopener">European Centre for Disease Prevention and Control</a>,
       and show daily new confirmed cases, total confirmed cases, and total deaths.
     </p>
     <p>
