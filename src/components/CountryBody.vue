@@ -14,7 +14,7 @@ export default {
   },
   data() {
     return {
-      anchorAttributes: { target: '_blank', rel: 'nofollow' },
+      anchorAttributes: { target: '_blank', rel: 'nofollow noopener' },
     };
   },
   props: {
