@@ -25,8 +25,9 @@ export default {
       return futureReopenings.map((c) => {
         const country = this.getCountryByCode(c.country);
         return {
-          name: country.name,
           date: c.date,
+          name: country.name,
+          slug: country.slug,
         };
       });
     },
