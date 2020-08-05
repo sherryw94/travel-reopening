@@ -689,7 +689,7 @@ countries:
         - GB
       outbound: 'yes'
     travel_ideas:
-      - alt: 'Exploring Switzerland's Hidden Gems'
+      - alt: 'Exploring Switzerland''s Hidden Gems'
         href: 'https://www.tourhero.com/en/magazine/travel/hidden-gems-of-switzerland-3-day-itinerary-from-lausanne-to-gruyeres/'
         src: 'hidden-gems-switzerland-1619x880.jpg'
         title: '3-Day itinerary from Lausanne to Gruyères: Exploring the hidden gems of Switzerland’s southwest'
