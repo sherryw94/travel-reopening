@@ -1,4 +1,4 @@
-Domestic travel in Latvia is open. Health and safety regulations apply.
+Domestic travel in Latvia is partially allowed. Health and safety regulations apply.
 
 - Social distancing measures are in place — keep at least 2 meters from others.
 - Wearing a mask (or alternative face covering that sits over the mouth and nose) is recommended in areas where it is difficult to adhere to social distancing, such as on public transport or within crowded indoor venues.

@@ -1,0 +1,1 @@
+Travelers arriving from countries that meet the Russian government’s benchmarks for containing the spread of COVID-19 [may not be required to undergo quarantine](https://ru.usembassy.gov/covid-19-information/).
