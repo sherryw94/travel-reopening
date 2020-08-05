@@ -1,5 +1,5 @@
 ---
-checked_on: 2020-08-04
+checked_on: 2020-08-05
 countries:
   AD:
     sources:
@@ -214,6 +214,7 @@ countries:
     sources:
       domestic:
         - 'The Government of Azerbaijan has [implemented strict rules requiring people to stay inside](https://az.usembassy.gov/covid-19-information-for-azerbaijan/#:~:text=Entry%20and%20Exit%20Requirements&text=Currently%20all%20arrivals%20to%20Azerbaijan,facilities%2C%20regardless%20of%20travel%20origin), whether in private homes, apartments, or permanent or temporary residences and to monitor citizen movements.'
+        - 'Entry and exit to and from certain areas is restricted, public transport is not operational during weekends, and [many non-essential businesses will remain closed](https://www.garda.com/crisis24/news-alerts/365826/azerbaijan-authorities-extend-quarantine-measures-in-some-areas-until-august-31-update-11).'
       inbound:
         - 'Flights into and out of Azerbaijan are [no longer available.](https://az.usembassy.gov/covid-19-information-for-azerbaijan/#:~:text=Entry%20and%20Exit%20Requirements&text=Currently%20all%20arrivals%20to%20Azerbaijan,facilities%2C%20regardless%20of%20travel%20origin)'
       outbound:
@@ -687,6 +688,11 @@ countries:
         - SE
         - GB
       outbound: 'yes'
+    travel_ideas:
+      - alt: 'Exploring Switzerland''s Hidden Gems'
+        href: 'https://www.tourhero.com/en/magazine/travel/hidden-gems-of-switzerland-3-day-itinerary-from-lausanne-to-gruyeres/'
+        src: 'hidden-gems-switzerland-1619x880.jpg'
+        title: '3-Day itinerary from Lausanne to Gruyères: Exploring the hidden gems of Switzerland’s southwest'
   CI:
     reopening:
       '2020-07-01': 'The government announced that [some international flights will be permitted to resume](https://ci.usembassy.gov/covid-19-information/) as of July 1, 2020.'
@@ -807,14 +813,15 @@ countries:
   CY:
     sources:
       domestic:
-        - '[All movement restrictions are lifted, including night time curfew](https://cy.usembassy.gov/covid-19-information/#:~:text=%E2%80%9CTRNC%E2%80%9D%20citizens%2C%20permanent%20residents,be%20subject%20to%20any%20fee).'
-        - '[Gatherings of up to 25 people are allowed](https://cy.usembassy.gov/covid-19-information/#:~:text=%E2%80%9CTRNC%E2%80%9D%20citizens%2C%20permanent%20residents,be%20subject%20to%20any%20fee).'
+        - 'Wearing face masks is compulsory in [public and commercial spaces](https://www.garda.com/crisis24/news-alerts/365661/cyprus-facemasks-made-compulsory-from-july-31-update-13).'
+        - '[Gatherings of no more than 10 people are allowed](https://www.garda.com/crisis24/news-alerts/365661/cyprus-facemasks-made-compulsory-from-july-31-update-13). While restaurants, cafe, and bars have reduced their capacity to a maximum of 75 people for indoor areas and 150 for outdoor areas.'
       inbound:
         - '[Entry is allowed for certain countries](https://cy.usembassy.gov/covid-19-information/#:~:text=For%20Tourists%3A,14%20days%20prior%20to%20travel).'
-        - 'Cyprian authorities announced on Saturday, July 4, that the country will [no longer accept flights arriving from Lebanon from Monday, July 6, 2020](https://www.garda.com/crisis24/news-alerts/356776/cyprus-authorities-ban-flights-arriving-from-lebanon-from-july-6-update-12).'
+        - 'Cyprian authorities announced on July 4, 2020, that the country will [no longer accept flights arriving from Lebanon from July 6, 2020](https://www.garda.com/crisis24/news-alerts/356776/cyprus-authorities-ban-flights-arriving-from-lebanon-from-july-6-update-12).'
       visa_quarantine:
         - '[The suspension of all visa services](https://www.garda.com/crisis24/news-alerts/356776/cyprus-authorities-ban-flights-arriving-from-lebanon-from-july-6-update-12) will also apply and remain in place indefinitely.'
     travel:
+      domestic: partial
       inbound: partial
       inbound_allowed:
         - AT
@@ -1014,6 +1021,8 @@ countries:
         - 'The Dominican Republic has [reopened for international tourism from July 1, 2020](https://www.garda.com/crisis24/news-alerts/355031/dominican-republic-authorities-to-allow-international-tourism-to-resume-from-july-1-update-12).'
       outbound:
         - 'The Dominican Republic has [reopened for international tourism from July 1, 2020](https://www.garda.com/crisis24/news-alerts/355031/dominican-republic-authorities-to-allow-international-tourism-to-resume-from-july-1-update-12).'
+      visa_quarantine:
+        - 'All travelers arriving into the county have to provide evidence of a negative RT-PCR COVID-19 test, [taken within five days prior to arrival](https://www.garda.com/crisis24/news-alerts/365616/dominican-republic-authorities-announce-new-entry-requirements-as-of-july-30-update-16).'
     travel:
       domestic: 'partial'
       inbound: 'yes'
@@ -1149,8 +1158,6 @@ countries:
         - 'Authorities in Madeira have announced that face masks will be [compulsory in all public places from August 1, 2020](https://www.garda.com/crisis24/news-alerts/365096/portugal-face-masks-to-be-compulsory-in-madeira-in-all-public-places-from-august-1-update-20).'
       inbound:
         - '[The Spanish authorities have decided to reopen country’s borders](https://www.schengenvisainfo.com/news/spain-to-reopen-borders-a-week-later-than-commissions-recommended-date/) on June 21, 2020, for all EU and Schengen countries, except for Portugal with which the borders will reopen in July, 2020.'
-      outbound:
-        - '[Spain’s major airports have reopened for international flights](https://www.thesun.co.uk/travel/11647411/spains-airports-open-flights/) with Ibiza, Tenerife, Malaga and Palma all welcoming planes.'
       visa_quarantine:
         - 'From July 1, 2020, tourists will be able to visit Spain [without having to quarantine for two weeks.](https://news.sky.com/story/coronavirus-spain-to-welcome-tourists-from-1-july-with-no-quarantine-11994664)'
         - 'Upon arrival into Spain, a [Public Health Passenger Locator Form must be presented.](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)'
@@ -1188,7 +1195,7 @@ countries:
         - NO
         - CH
         - LI
-      outbound: 'yes'
+      outbound: 'partial'
     travel_ideas:
       - alt: 'Day trips near Barcelona — Montserrat'
         href: 'https://www.tourhero.com/en/magazine/travel/best-day-trips-near-barcelona-to-inspire-you-montserrat-included/'
@@ -1297,11 +1304,16 @@ countries:
         - IS
         - LI
         - MC
-        - 'NO'
+        - NO
         - CH
         - SM
         - VA
       outbound: 'yes'
+    travel_ideas:
+      - alt: 'Books and films that were inspired by cafes in Paris'
+        href: 'https://www.tourhero.com/en/magazine/gastronomy/8-cafes-in-paris-that-inspired-your-favorite-books-and-films/'
+        src: 'café-in-Paris-food-1891x880.jpg'
+        title: '8 Cafes in Paris that inspired your favorite books and films'
   GA:
     sources:
       domestic:
@@ -1579,7 +1591,7 @@ countries:
         - ZA
         - ZM
         - ZW
-      outbound: 'yes'
+      outbound: 'partial'
   GD:
     reopening:
       '2020-08-01': 'The government of Grenada has announced that it expects its borders to [re-open on August 1, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements).'
@@ -1700,6 +1712,11 @@ countries:
         - RO
         - CY
         - RS
+    travel_ideas:
+      - alt: 'A Guide to Greek Food'
+        href: 'https://www.tourhero.com/en/magazine/travel/greek-food-our-must-read-guide-to-breakfast-lunch-dinner-in-greece/'
+        src: 'must-try-greek-food-for-when-you-visit-greece-1900x880.jpg'
+        title: 'Must-eat Greek food: A guide to breakfast, lunch, dinner, and dessert!'
   GT:
     sources:
       domestic:
@@ -1754,8 +1771,8 @@ countries:
   HN:
     sources:
       domestic:
-        - '[The curfew remains in place](https://www.garda.com/crisis24/news-alerts/361606/honduras-authorities-extend-curfew-orders-until-july-26-update-12) between the hours of 7 pm and 9 am (local time) until August 2, 2020.'
-        - '[Banks, pharmacies, gas stations, supermarkets, hardware stores, fruit and vegetable markets, and other authorized businesses will be open Monday through Friday.](https://www.garda.com/crisis24/news-alerts/361606/honduras-authorities-extend-curfew-orders-until-july-26-update-12)'
+        - '[The curfew remains in place](https://www.garda.com/crisis24/news-alerts/365846/honduras-nationwide-curfew-extended-until-august-9-update-14) between the hours of 5 pm and 7 am (local time) until August 9, 2020.'
+        - 'Face masks are mandatory in [all public spaces](https://www.garda.com/crisis24/news-alerts/365846/honduras-nationwide-curfew-extended-until-august-9-update-14)'
       inbound:
         - 'The Honduran government announced all borders (air, land, and sea) would be closed as of March 15, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)'
       outbound:
@@ -1779,6 +1796,11 @@ countries:
       domestic: open
       inbound: open
       outbound: partial
+    travel_ideas:
+      - alt: '48 Hours in Dubrovnik, Croatia'
+        href: 'https://www.tourhero.com/en/magazine/travel/48-hours-in-dubrovnik-croatia/'
+        src: '48-hours-in-Dubrovnik-Croatia-1900x880.jpg'
+        title: '48 hours in the world of Game of Thrones: Visit Dubrovnik, Croatia'
   HT:
     sources:
       domestic:
@@ -2069,6 +2091,7 @@ countries:
         - 'On June 19, 2020, the Japanese government [lifted domestic travel restrictions](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31).'
         - 'Both Nippon Airways and Japan Airlines announced they would [increase domestic flights in July based on demand](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31); however, these will operate on a reduced schedule.'
         - 'Tokyo has [raised its infection alert level to "red" the highest level in a four-tier system](https://www.garda.com/crisis24/news-alerts/359876/japan-tokyo-raises-covid-19-alert-to-highest-level-july-15-update-32), however, the alert does not mean there will be lockdowns in place.'
+        - 'The governor of Okinawa has asked residents to avoid non-essential outings and [stay home for at least two weeks.](https://www.garda.com/crisis24/news-alerts/365656/japan-state-of-emergency-declared-in-okinawa-region-due-to-covid-19-update-34)'
       inbound:
         - 'Foreign nationals who have stayed in the listed areas are [denied permission to enter Japan.](https://www.japan.travel/en/coronavirus/)'
         - 'Foreign nationals who have [Chinese passports issued in Hubei Province or Zhejiang Province of China](https://www.japan.travel/en/coronavirus/) will be denied entry into Japan.'
@@ -2278,12 +2301,12 @@ countries:
   KN:
     sources:
       domestic:
-        - '[As of June 27, 2020, St Kittis & Nevis will be going through a phased relaxing of social and economic activities.](https://www.stkittstourism.kn/travel-advisory-update)'
-        - '[There is a restriction on domestic travel. No person shall offer for hire or seek to travel on any inter island private commercial sea transport.](https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/st-kitts-tourism-(eblast-only)/media/skb-emergency-powers-covid-19-regulations-v4.docx.docx-5ef109d10fa7f.pdf)'
+        - 'The current nightly nationwide curfew has been [extended through to August 8, 2020](https://www.garda.com/crisis24/news-alerts/365671/st-kitts-and-nevis-authorities-extend-nationwide-curfew-through-august-8-update-4). During the curfew, individuals are only permitted to leave their homes for medical emergencies or essential work.'
+        - 'There is a [restriction on domestic travel.](https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/st-kitts-tourism-(eblast-only)/media/skb-emergency-powers-covid-19-regulations-v4.docx.docx-5ef109d10fa7f.pdf)'
       inbound:
-        - '[As of June 13, 2020, St Kittis & Nevis will remained closed to commercial traffic by aur and sea.](https://www.stkittstourism.kn/travel-advisory-update)'
+        - 'As of June 13, 2020, St Kittis & Nevis will [remained closed to commercial traffic by air and sea.](https://www.stkittstourism.kn/travel-advisory-update)'
       outbound:
-        - '[Outgoing flights or outgoing ships are allowed.](https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/st-kitts-tourism-(eblast-only)/media/skb-emergency-powers-covid-19-regulations-v4.docx.docx-5ef109d10fa7f.pdf)'
+        - 'Outgoing flights or outgoing ships [are allowed.](https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/st-kitts-tourism-(eblast-only)/media/skb-emergency-powers-covid-19-regulations-v4.docx.docx-5ef109d10fa7f.pdf)'
       visa_quarantine:
         - '[Safety protocols are in place.](https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/st-kitts-tourism-(eblast-only)/media/skb-emergency-powers-covid-19-regulations-v4.docx.docx-5ef109d10fa7f.pdf)'
     travel:
@@ -2292,12 +2315,15 @@ countries:
       outbound: 'yes'
   KP:
     sources:
+      domestic:
+        - 'Cities have been quarantined, with [limited entry and exit and extensive checkpoints set up](https://www.garda.com/crisis24/news-alerts/365721/north-korea-authorities-implement-tighter-lockdown-restrictions-on-august-2-update-4).'
+        - 'North Korean authorities placed the southern city of Kaesong (North Hwanghae Province) [under lockdown](https://www.garda.com/crisis24/news-alerts/363441/north-korea-authorities-place-kaesong-north-hwanghae-province-under-lockdown-after-reporting-first-suspected-covid-19-case-on-july-26-update-3)'
       inbound:
         - '[A ban on inbound tourist travel remains in place](https://www.worldaware.com/covid-19-alert-north-korea-continues-enforcing-measures-may-15).'
-        - 'North Korean authorities placed the southern city of Kaesong (North Hwanghae Province) [under lockdown](https://www.garda.com/crisis24/news-alerts/363441/north-korea-authorities-place-kaesong-north-hwanghae-province-under-lockdown-after-reporting-first-suspected-covid-19-case-on-july-26-update-3)'
       visa_quarantine:
         - 'Foreigners who have travelled into North Korea from virus-affected countries are subject to a [30 day period of quarantine and medical supervision](https://www.worldaware.com/covid-19-alert-north-korea-continues-enforcing-measures-may-15).'
     travel:
+      domestic: 'partial'
       inbound: 'no'
   KR:
     sources:
@@ -3597,6 +3623,8 @@ countries:
         - 'Duterte announced that businesses in areas under the general community quarantine (GCQ), will be allowed to partially reopen from August 1, 2020](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29).'
         - 'Authorities announced that areas under the general community quarantine (GCQ), will have their restrictions extended until August 15, 2020](https://www.garda.com/crisis24/news-alerts/365151/philippines-authorities-extend-restrictions-in-manila-and-other-areas-until-august-15-update-30).'
         - 'The Batangas Province will have new quarantine passes needed by residents, secondary roads that will be closed, and non-residents that work in the city will be [required to present negative COVID-19 test results upon entry](https://www.garda.com/crisis24/news-alerts/365536/philippines-authorities-tighten-lockdown-measures-in-lipa-from-august-1-update-31).'
+        - 'Filipino authorities have announced that Metro Manila, inclusive of the nearby provinces of Laguna, Cavite, Rizal, and Bulacan, is to be [placed under a ''Modified Enhanced Community Quarantine'' from August 4, 2020](https://www.garda.com/crisis24/news-alerts/365706/philippines-authorities-to-impose-stricter-lockdown-in-metro-manila-and-surrounding-areas-from-august-4-update-33). Businesses and public transport are to close, and work and quarantine passes are mandatory, as movement will be restricted.'
+        - 'In Lipa, new quarantine passes are needed by residents, secondary roads are closed, and non-residents that work in the city are required to present a [negative COVID-19 test result upon entry](https://www.garda.com/crisis24/news-alerts/365666/philippines-over-100000-covid-19-cases-confirmed-as-of-august-2-update-32).'
       inbound:
         - 'On May 9, 2020, the Civil Aviation Authority of the Philippines (CAAP) announced that Manila''s Ninoy Aquino International Airport (MNL) will resume international flight arrivals from Monday, May 11, 2020, following new entry requirements introduced due to the coronavirus disease (COVID-19) pandemic. As such, the airport will operate on a [limited basis with a cap on passenger arrivals.](https://www.garda.com/crisis24/news-alerts/340496/philippines-manilas-ninoy-aquino-international-airport-mnl-to-resume-international-flight-arrivals-from-may-11-update-18)'
         - 'All travelers are required to submit a negative reverse transcription-polymerase chain reaction (RT-PCR) test, [taken within 48 hours of their departure.](https://www.garda.com/crisis24/news-alerts/360831/philippines-new-measures-to-be-introduced-at-francisco-bangoy-international-airport-from-july-20-amid-covid-19-outbreak-update-28)'
@@ -3608,6 +3636,11 @@ countries:
       domestic: partial
       inbound: partial
       outbound: yes
+    travel_ideas:
+      - alt: 'Island Hopping in the Philippines'
+        href: 'https://www.tourhero.com/en/magazine/travel/island-hopping-in-the-philippines-5-hidden-gems-for-the-perfect-getaway/'
+        src: 'philippines-5-hidden-gems-1900x880.jpg'
+        title: 'The Philippines island hopping guide: 5 Hidden gems for the perfect getaway'
   PK:
     sources:
       domestic:
@@ -3877,6 +3910,7 @@ countries:
     sources:
       domestic:
         - '[Domestic flights have resumed](https://www.gov.pl/web/coronavirus/travel) and public transportation is operational with reduced capacity.'
+        - 'Health Minister Lukasz Szumowski announced that [restrictions may be imposed on weddings](https://www.gov.pl/web/coronavirus/travel). Currently, Poland allows 150 guests at a wedding.'
       inbound:
         - 'As of June 17, 2020, restrictions on international flights for [certain countries will be lifted.](https://www.gov.pl/web/coronavirus/travel)'
       outbound:
@@ -4298,7 +4332,7 @@ countries:
         - 'After the fifth day, the traveler will be required to contact the Regional Public Health Authority to undergo diagnosis for COVID-19. They will be able to stop self-isolating when a [negative PT-PCR test for COVID-19 is produced](https://www.mzv.sk/web/en/covid-19).'
     travel:
       domestic: 'yes'
-      inbound: 'yes'
+      inbound: 'partial'
       inbound_allowed:
         - LI
         - DE
@@ -4320,7 +4354,7 @@ countries:
         - AT
         - PL
         - HU
-      outbound: yes
+      outbound: partial
   SL:
     reopening:
       '2020-07-22': 'The Lungi International Airport (FNA) is [scheduled to reopen on July 22, 2020](https://www.garda.com/crisis24/news-alerts/358511/sierra-leone-authorities-ease-some-covid-19-restrictions-from-july-10-update-11).'
@@ -4420,7 +4454,7 @@ countries:
   TD:
     sources:
       domestic:
-        - 'There are curfews in place in certain provinces from 8 pm to 5 am and a [ban on leaving or entering these areas](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
+        - 'There are curfews in place in certain provinces from 11 pm to 5 am [through to August 17, 2020](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
       inbound:
         - 'All international commercial passenger flights [have resumed](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
       outbound:
@@ -4462,6 +4496,11 @@ countries:
       domestic: partial
       inbound: 'partial'
       outbound: partial
+    travel_ideas:
+      - alt: 'Experience Another Side of Bangkok in 72 Hours'
+        href: 'https://www.tourhero.com/en/magazine/travel/bangkok-road-trip-3-days-exploring-kanchanaburi-ayutthaya-and-more/'
+        src: 'ayutthaya-bangkok-travel-1900x880.jpg'
+        title: 'Road trip out of Bangkok: Experience Kanchanaburi, Ayutthaya & Phetchaburi in 72 hours'
   TJ:
     sources:
       domestic:
@@ -4974,7 +5013,7 @@ countries:
   VE:
     sources:
       domestic:
-        - '[The Venezuelan government has announced an extension of the nationwide lockdown](https://www.garda.com/crisis24/news-alerts/361611/venezuela-authorities-impose-nationwide-seven-day-quarantine-july-20-update-9), in place to limit the spread of the coronavirus disease (COVID-19), until August 10, 2020.'
+        - 'The Venezuelan government has announced an [extension of the nationwide lockdown](https://www.garda.com/crisis24/news-alerts/361611/venezuela-authorities-impose-nationwide-seven-day-quarantine-july-20-update-9), where only essential businesses are permitted to operate August 9, 2020.'
         - '[Local quarantines and bans on interstate movement remain in place](https://www.garda.com/crisis24/news-alerts/358646/venezuela-authorities-extend-state-of-emergency-until-august-10-update-8). Educational institutions and non-essential shops are to remain closed, and public gatherings are prohibited.'
       inbound:
         - '[International and domestic flights has been [suspended indefinitely](https://www.garda.com/crisis24/news-alerts/350706/venezuela-nationwide-lockdown-extended-until-july-12-update-7).'
@@ -5004,6 +5043,11 @@ countries:
       domestic: 'partial'
       inbound: 'no'
       outbound: partial
+    travel_ideas:
+      - alt: 'New Places to Discover in Vietnam'
+        href: 'https://www.tourhero.com/en/magazine/travel/highland-getaways-7-stunning-mountain-towns-in-vietnam-to-discover/'
+        src: 'mountain-towns-in-vietnam-1900x880.jpg'
+        title: 'Highland Getaways: 7 Stunning mountain towns in Vietnam to discover'
   VU:
     sources:
       domestic:
