@@ -2,7 +2,7 @@ Restrictions apply for inbound and outbound travel. See below for more details.
 
 #### Inbound Travel: Who can travel into Slovakia?
 
-Slovakia's borders are [currently open to travelers](https://www.schengenvisainfo.com/news/slovakia-reopens-its-borders-for-citizens-of-16-countries/)from Liechtenstein, Germany, Switzerland, Croatia, Slovenia, Bulgaria, Cyprus, Greece, Malta, Estonia, Lithuania, Finland, Latvia, Denmark, Norway, and Iceland.
+Slovakia's borders are [currently open to travelers](https://www.schengenvisainfo.com/news/slovakia-reopens-its-borders-for-citizens-of-16-countries/) from Liechtenstein, Germany, Switzerland, Croatia, Slovenia, Bulgaria, Cyprus, Greece, Malta, Estonia, Lithuania, Finland, Latvia, Denmark, Norway, and Iceland.
 
 As of July 6, 2020, Slovak nationals who have arrived or have visited countries deemed as **low-risk** will not need to self-isolate at home for 14 days. These countries include:
 
@@ -44,7 +44,9 @@ Foreign nationals who are allowed to enter to Slovakia through the external bord
 
 For the most up-to-date travel information, refer to the [Slovak Spectator](https://spectator.sme.sk/c/22427760/coronavirus-in-slovakia-how-to-travel-borders-bus-train-air-transport.html).
 
-#### Outbound Travel: Who can travel out of the Czech Republic?
+#### Outbound Travel: Who can travel out of the Slovakia?
+
+Travel out of Slovakia is partially allowed.
 
 By plane:
 
