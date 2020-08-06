@@ -15,4 +15,6 @@ The restrictions on non-essential travel to non-Schengen regions apply until Jun
 
 **Travel restrictions apply.** From June 15, 2020, travelers are allowed to visit countries in the European Union, including the United Kingdom, Switzerland, Liechtenstein, Iceland, Norway for holiday.
 
+The government has [banned travel](https://www.garda.com/crisis24/news-alerts/366151/belgium-authorities-ban-travel-to-areas-of-spain-france-and-switzerland-august-1-update-21) to areas of Spain, France, and Switzerland.
+
 For the most up-to-date travel information, refer to the [Immigration of Belgium](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx).
