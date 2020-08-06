@@ -250,8 +250,8 @@ countries:
       outbound:
         - '[Commercial air traffic will resume](https://www.garda.com/crisis24/news-alerts/355026/barbados-curfew-to-be-lifted-from-july-1-update-5) on July 12, 2020. Services operated by Air Canada will be permitted, followed by British Airways, JetBlue and Virgin Atlantic.'
       visa_quarantine:
-        - 'Travelers entering Barbados from high-risk countries are required to take a COVID-19 PCR test and wait at the airport until the test results are received. Those who test negative are [required to undergo a 14-day quarantine period](https://www.garda.com/crisis24/news-alerts/365966/barbados-new-covid-19-travel-restrictions-implemented-as-of-august-3-update-6).'
-        - 'Travelers entering Barbados from moderate-risk countries are required to take a COVID-19 PCR test and wait at the airport until the test results are received. Those who test negative will be [permitted to leave the airport](https://www.garda.com/crisis24/news-alerts/365966/barbados-new-covid-19-travel-restrictions-implemented-as-of-august-3-update-6). However, they will be subject to daily health monitoring for 14-days following their arrival.'
+        - 'Travelers entering Barbados from high-risk countries are required to take a COVID-19 PCR test and are [required to undergo a 14-day quarantine period](https://www.garda.com/crisis24/news-alerts/365966/barbados-new-covid-19-travel-restrictions-implemented-as-of-august-3-update-6).'
+        - 'Travelers entering Barbados from moderate-risk countries are required to take a COVID-19 PCR test, and those who test negative will be [permitted to leave the airport](https://www.garda.com/crisis24/news-alerts/365966/barbados-new-covid-19-travel-restrictions-implemented-as-of-august-3-update-6). However, they will be subject to daily health monitoring for 14-days following their arrival.'
         - 'Travelers entering Barbados from low-risk countries are required to present evidence of a negative PCR test taken within the last 3 days or take a test on arrival. Those with negative results will then be [permitted to leave the airport.](https://www.garda.com/crisis24/news-alerts/365966/barbados-new-covid-19-travel-restrictions-implemented-as-of-august-3-update-6).'
     travel:
       domestic: 'yes'
@@ -1206,7 +1206,7 @@ countries:
   ET:
     sources:
       domestic:
-        - 'Authorities lifted [public transportation restrictions within the state](https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11), and allowed ''small and medium business enterprises'' as well as bars, restaurants, and cafes to open for takeout services.'
+        - 'Authorities lifted [public transportation restrictions within the state](https://www.garda.com/crisis24/news-alerts/335866/ethiopia-tigray-region-relaxes-state-of-emergency-april-24-update-11). ''Small and medium business enterprises'' as well as bars, restaurants, and cafes are allowed to open for takeout services.'
       inbound:
         - 'On March 23, 2020, the Government of Ethiopia announced the [closure of the country''s land borders](https://www.gov.uk/foreign-travel-advice/ethiopia/entry-requirements).'
         - 'Air passengers from international destinations are being asked to [complete a health declaration form](https://et.usembassy.gov/alert-revised-quarantine-requirements-for-arriving-travelers/).'
@@ -1635,7 +1635,7 @@ countries:
     sources:
       domestic:
         - 'Markets have been [permitted to open between 6 am - 6 pm (local time)](https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/).'
-        - 'Gambian authorities [banned public gatherings and closed nonessential public places](https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/).'
+        - 'Gambian authorities [banned public gatherings and closed non-essential public places](https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/).'
       inbound:
         - '[Gambian airspace and land borders remain closed, as of March 23, 2020.](https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/)'
       visa_quarantine:
