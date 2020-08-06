@@ -1,5 +1,6 @@
 <template>
   <div>
+    <div class="mb-16 sm:mb-12 lg:mb-8"><ContentNav/></div>
     <TitleMapSelect/>
     <div class="main-container">
       <div class="main-container__inner" v-schema:scope="{ type: 'Article' }">
@@ -61,6 +62,7 @@
 
 import axios from 'axios';
 import moment from 'moment';
+import ContentNav from '@/components/ContentNav.vue';
 import CountryBody from '@/components/CountryBody.vue';
 import CountryFlag from '@/components/CountryFlag.vue';
 import CountrySources from '@/components/CountrySources.vue';
@@ -75,6 +77,7 @@ import { mapActions, mapGetters, mapState } from 'vuex';
 export default {
   name: 'Country',
   components: {
+    ContentNav,
     CountryBody,
     CountryFlag,
     CountrySources,

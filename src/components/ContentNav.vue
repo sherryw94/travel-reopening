@@ -6,28 +6,28 @@
           <nav class="flex -mb-px">
             <router-link
               :to="{hash: '#map'}" class="py-3 pr-1
-              text-gray-700 border-b-2 border-transparent no-underline
-              hover:opacity-100 hover:border-gray-300
-              focus:text-tertiary focus:border-tertiary focus:font-semibold whitespace-no-wrap">
+              text-gray-700 no-underline border-b-2 border-transparent
+              hover:opacity-100 sm:hover:border-gray-300
+              focus:text-tertiary whitespace-no-wrap sm:focus:border-tertiary">
               Map
             </router-link>
             <router-link
-              :to="{hash: '#international-travel'}" class="py-3 pr-1 ml-4 sm:ml-8
-              text-gray-700 border-b-2 border-transparent no-underline
-              hover:opacity-100 hover:border-gray-300
-              focus:text-tertiary focus:border-tertiary focus:font-semibold whitespace-no-wrap">
+              :to="{hash: '#international-travel'}" class="py-3 px-1 ml-4 sm:ml-8
+              text-gray-700 no-underline border-b-2 border-transparent
+              hover:opacity-100 sm:hover:border-gray-300
+              focus:text-tertiary whitespace-no-wrap sm:focus:border-tertiary">
               International Travel
             </router-link>
             <router-link :to="{hash: '#visa-quarantine-measures'}" class="py-3 px-1 ml-4 sm:ml-8
-              text-gray-700 border-b-2 border-transparent no-underline
-              hover:opacity-100 hover:border-gray-300
-              focus:text-tertiary focus:border-tertiary focus:font-semibold whitespace-no-wrap">
-              Visa & Quarantine Measures
+              text-gray-700 no-underline border-b-2 border-transparent
+              hover:opacity-100 sm:hover:border-gray-300
+              focus:text-tertiary whitespace-no-wrap sm:focus:border-tertiary">
+              Visa &amp; Quarantine Measures
             </router-link>
-            <router-link :to="{hash: '#domestic-travel'}" class="py-3 px-1 ml-4 sm:ml-8
-              text-gray-700 border-b-2 border-transparent no-underline
-              hover:opacity-100 hover:border-gray-300
-              focus:text-tertiary focus:border-tertiary focus:font-semibold whitespace-no-wrap">
+            <router-link :to="{hash: '#domestic-travel'}" class="py-3 pl-1 pr-4 sm:px-1
+              ml-4 sm:ml-8 text-gray-700 no-underline border-b-2 border-transparent
+              hover:opacity-100 sm:hover:border-gray-300
+              focus:text-tertiary whitespace-no-wrap sm:focus:border-tertiary">
               Domestic Travel
             </router-link>
           </nav>
