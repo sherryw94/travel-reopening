@@ -1738,15 +1738,15 @@ countries:
       inbound: 'no'
   GW:
     reopening:
-      '2020-08-01':
+      '2020-08-01': 'As of August 1, 2020, international flights at Osvaldo Vieira International Airport (OXB) have [resumed operations.](https://gw.usmission.gov/covid-19-information/)'
     sources:
       domestic:
         - 'Inter-region travel is prohibited, schools are closed, public transport only operable at 50% capacity and face coverings are mandatory until July 25, 2020](https://gw.usmission.gov/covid-19-information/).'
         - 'Authorities previously lifted the nationwide curfew which [ran between 8 pm and 6 am (local time)](https://www.garda.com/crisis24/news-alerts/366606/guinea-bissau-authorities-extend-state-of-emergency-to-august-24-update-7).'
       inbound:
-        - 'As of August 1, 2020, international flights at Osvaldo Vieira International Airport (OXB) have resumed operations.](https://gw.usmission.gov/covid-19-information/)'
+        - 'As of August 1, 2020, international flights at Osvaldo Vieira International Airport (OXB) have [resumed operations.](https://gw.usmission.gov/covid-19-information/)'
       outbound:
-        - 'As of August 1, 2020, international flights at Osvaldo Vieira International Airport (OXB) have resumed operations.](https://gw.usmission.gov/covid-19-information/)'
+        - 'As of August 1, 2020, international flights at Osvaldo Vieira International Airport (OXB) have [resumed operations.](https://gw.usmission.gov/covid-19-information/)'
       visa_quarantine:
         - 'Individuals arriving into the country will be expected to [self-isolate at one location for 14 days](https://www.garda.com/crisis24/news-alerts/366606/guinea-bissau-authorities-extend-state-of-emergency-to-august-24-update-7).'
     travel:
@@ -3004,7 +3004,7 @@ countries:
       inbound:
         - 'Residents of Macau and travelers from Mainland China, Hong Kong, and Taiwan are allowed entry under certain conditions. [All other foreign travelers are denied entry](https://www.garda.com/crisis24/news-alerts/364586/mongolia-authorities-extend-covid-19-measures-through-august-31-update-12).'
       outbound:
-        - '[Many airlines have [reduced or canceled flights to Macau](https://mn.usembassy.gov/covid-19-information/).'
+        - 'Many airlines have [reduced or canceled flights to Macau](https://mn.usembassy.gov/covid-19-information/).'
     travel:
       domestic: 'yes'
       inbound: 'partial'
@@ -3587,7 +3587,7 @@ countries:
       domestic:
         - 'Authorities announced that the ongoing lockdown in the regions of Masirah and Dhofar will [remain in place until further notice](https://www.garda.com/crisis24/news-alerts/359781/oman-authorities-allow-international-travel-to-resume-july-14-update-17).'
         - 'A nationwide nightly curfew was imposed on July 25, 2020, between 9 pm and 5 am (local time), which includes a ban on all movement and the closure of all public spaces and shops [until at least August 8, 2020](https://www.garda.com/crisis24/news-alerts/364066/oman-authorities-extend-eid-al-adha-holiday-from-july-30-august-6-following-spike-in-covid-19-cases-update-19).'
-        - 'The domestic ban on inter-state movement will be lifted on August 8, 2020](https://www.garda.com/crisis24/news-alerts/364066/oman-authorities-extend-eid-al-adha-holiday-from-july-30-august-6-following-spike-in-covid-19-cases-update-19).'
+        - 'The domestic ban on inter-state movement will be [lifted on August 8, 2020](https://www.garda.com/crisis24/news-alerts/364066/oman-authorities-extend-eid-al-adha-holiday-from-july-30-august-6-following-spike-in-covid-19-cases-update-19).'
       inbound:
         - 'Omani authorities announced on July 14, 2020, that they will [allow international travel to resume, but have not announced a specific date](https://www.garda.com/crisis24/news-alerts/359781/oman-authorities-allow-international-travel-to-resume-july-14-update-17).'
       outbound:
@@ -4913,7 +4913,7 @@ countries:
         - 'People traveling to New York, New Jersey, Connecticut, Alaska, Delaware, Indiana, Maryland, Missouri, Montana, North Dakota, Nebraska, Virginia, and Washington from 31 other states, are now [required to self-quarantine for 14 days as of July 21, 2020](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).'
         - 'As of July 27, 2020, passengers arriving in Washington, DC from a high-risk state (within the prior 14 days) who were traveling for non-essential activities will be required to [self-quarantine for 14 days](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).'
         - 'As of August 1, 2020, passengers arriving in Massachusetts will have to [undergo a mandatory 14-day quarantine](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).'
-        - 'A 14-day quarantine mandate is in place for travelers [arriving from 35 designated states](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).'
+        - 'A 14-day quarantine mandate is in place in New York, for travelers [arriving from 35 designated states](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).'
     travel:
       domestic: partial
       inbound: partial
