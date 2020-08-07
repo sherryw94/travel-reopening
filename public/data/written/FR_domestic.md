@@ -1,6 +1,6 @@
 Travelers may travel freely within France. Please travel responsibly and consider if the trip is necessary.
 
-Long-distance public transport (including air travel) is available within metropolitan France. Travelers must [wear a mask](https://www.garda.com/crisis24/news-alerts/360441/france-face-masks-to-be-compulsory-in-indoor-public-spaces-july-16-update-30) in all indoor public spaces, in stations, airports, and onboard trains and planes. Strict social distancing measures apply.
+Long-distance public transport (including air travel) is available within metropolitan France. Travelers must [wear a mask](https://www.garda.com/crisis24/news-alerts/360441/france-face-masks-to-be-compulsory-in-indoor-public-spaces-july-16-update-30) in all indoor public spaces, in [selected busy outdoor spaces](https://news.sky.com/story/coronavirus-french-cities-make-face-masks-compulsory-in-busy-outdoor-areas-as-cases-climb-again-12043919), in stations, airports, and onboard trains and planes. Strict social distancing measures apply.
 
 Air travel is only allowed for immediate family members or professional reasons in these instances:
 
