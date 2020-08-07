@@ -1,6 +1,8 @@
 Domestic travel is partially allowed. Safety measures such as social distancing and hygiene practices apply.
 
-- **On August 2, 2020**, [a state of emergency was declared in the Okinawa region](https://www.garda.com/crisis24/news-alerts/365656/japan-state-of-emergency-declared-in-okinawa-region-due-to-covid-19-update-34). Residents are to avoid non-essential outings and stay at home for at least two weeks.
-- While domestic travel is allowed throughout most of Japan and [most tourist attractions have resumed operations](https://www.japan.travel/en/coronavirus/), the government may decide to tighten regional COVID-19 restrictions with little to no warning. Always check with local authorities before traveling.
+- **Aichi:** On August 6, 2020, [a state of emergency was declared in the Aichi prefecture (Chūbu region)](https://www.garda.com/crisis24/news-alerts/366526/japan-state-of-emergency-declared-in-aichi-province-as-of-august-6-update-35). Residents are to avoid non-essential outings and stay at home **until August 24, 2020**. This period may be extended.
+- **Okinawa:** On August 2, 2020, [a state of emergency was declared in the Okinawa region](https://www.garda.com/crisis24/news-alerts/365656/japan-state-of-emergency-declared-in-okinawa-region-due-to-covid-19-update-34). Residents are to avoid non-essential outings and stay at home for **at least two weeks**.
+- Case numbers in Tokyo, Nagoya, Fukuoka, Osaka, and other areas have risen — prefectural officials have encouraged the public to refrain from non-essential outings and travel.
+- While domestic travel in many parts of Japan has resumed, public transportation is operational, and [some tourist attractions have reopened](https://www.japan.travel/en/coronavirus/), the government may decide to tighten regional COVID-19 restrictions with little to no warning. Always check with local authorities before traveling.
 
 For inquiries about domestic travel within Japan, the [Japan National Tourism Organization](https://www.japan.travel/en/coronavirus/) operates a 24/7 hotline that provides COVID-19 information and assistance in English, Chinese, and Korean. Call +81 50 3816 2787.
