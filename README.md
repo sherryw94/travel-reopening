@@ -4,7 +4,7 @@
 
 ![The Ultimate Guide to COVID-19 Travel Restrictions](public/img/travel-reopening-cover.jpg)
 
-[Project Travel Reopening](https://www.tourhero.com/en/ultimate-guide-covid19-travel-restrictions-reopening/) is a free and open source project by [TourHero](https://www.tourhero.com/). It provides an up-to-date view of travel restrictions around the world due to the COVID-19 pandemic. We hope this information will be useful to businesses and individuals who require insights into the global situation in planning their travel.
+[Project Travel Reopening](https://www.tourhero.com/en/ultimate-guide-covid19-travel-restrictions-reopening/) is a free and open-source project by [TourHero](https://www.tourhero.com/). It provides an up-to-date view of travel restrictions around the world due to the COVID-19 pandemic. We hope this information will be useful to businesses and individuals who require insights into the global situation in planning their travel.
 
 Our data is pulled from multiple sources including official government websites and news outlets. Selecting a country will display detailed information on domestic travel, international travel, and visa and quarantine regulations current to the destination, as well as relevant links to sources.
 
@@ -33,14 +33,17 @@ in given country.
 **Total deaths:** Reflects the total number of deaths caused by COVID-19
 in given country.
 
-## Project setup
+## Project Setup
 
 Mac Requirements:
 
-- `Xcode` - Install this from [App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
-- [`homebrew`](https://brew.sh/) - sotware package manager: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
-- [`asdf`](https://asdf-vm.com/#/core-manage-asdf-vm?id=install) - multiple runtime versions manager: `brew install asdf`
-- [`yarn`](https://yarnpkg.com/) - Install yarn via asdf: `asdf plugin-add yarn; asdf install yarn latest`
+1. `Xcode` - Install this from [App Store](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+1. [`homebrew`](https://brew.sh/) - Software package manager: `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"`
+1. [`asdf`](https://asdf-vm.com/#/core-manage-asdf-vm?id=install) - Multiple runtime versions manager: `brew install asdf`
+1. Add `. $(brew --prefix asdf)/asdf.sh` to your shell - See [asdf documentation](https://asdf-vm.com/#/core-manage-asdf-vm?id=add-to-your-shell)
+1. [`yarn`](https://yarnpkg.com/) - Install yarn via asdf: `asdf plugin-add yarn; asdf install yarn latest`
+
+**Note:** If you get the following error while trying to install yarn via asdf: `Missing one or more of the following dependencies: tar, gpg`, run `brew install gpg` and `brew link --overwrite gnupg` first, and then run `asdf install yarn latest` again.
 
 Clone this project from GitHub then run:
 
