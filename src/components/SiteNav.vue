@@ -1,5 +1,5 @@
 <template>
-  <nav class="fixed z-30 w-full bg-white shadow">
+  <nav class="fixed z-30 w-full bg-white border-b border-gray-200">
     <div class="flex items-center w-full h-12 px-4 sm:px-6 md:px-8">
       <router-link class="flex-shrink-0 -ml-2 no-underline hover:opacity-100"
         :to="{name: 'Home'}"><img class="block h-8 w-auto" alt="TourHero Logo"
