@@ -40,6 +40,12 @@ const router = new VueRouter({
   base: process.env.BASE_URL,
   routes,
   scrollBehavior(to, from) {
+    if (to.hash) {
+      return {
+        selector: to.hash, offset: { x: 0, y: 110 },
+      };
+    }
+
     if (to.name === from.name) {
       return undefined;
     }
