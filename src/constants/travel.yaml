@@ -571,8 +571,6 @@ countries:
     travel:
       inbound: partial
   BZ:
-    reopening:
-      '2020-08-15': 'The Belize Airport will [reopen on August 15, 2020](https://belizetourismboard.org/belize-covid-19-update-for-travellers/#1584380395464-fa111d6c-5a2b).'
     sources:
       domestic:
         - '[Domestic travel is now permitted](https://belizing.com/coronavirus/).'
@@ -580,6 +578,7 @@ countries:
         - 'Belizean nationals, diplomats residing in Belize, and foreigners with legal residency may [enter Belize](http://health.gov.bz/www/component/content/article/177-general-health/1027--covid-19-alert-regarding-border-closures).'
         - '[All cruise lines have paused operations](http://health.gov.bz/www/component/content/article/177-general-health/1027--covid-19-alert-regarding-border-closures).'
         - 'All passengers travelling to Belize will be required to download the Belize Health App and complete the required information prior to boarding the flight to Belize.  A QR code with a unique ID number will be returned to the passenger, and will be used for [contact tracing while in Belize](https://www.prnewswire.com/news-releases/belize-announces-phased-re-opening-plan-for-tourism-301084517.html).'
+        - 'Belize [postpones tourism reopening](https://belizetourismboard.org/belize-postpones-tourism-reopening/), which was scheduled on August 15, 2020. The new reopening date has yet to be determined.'
       outbound:
         - '[Residents and visitors departing from Belize will also see new enhanced health and safety measures implemented](http://health.gov.bz/www/component/content/article/177-general-health/1027--covid-19-alert-regarding-border-closures).'
     travel:
