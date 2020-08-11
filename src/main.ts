@@ -8,6 +8,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import VueSchemaMicrodata from 'vue-schema-microdata';
+import VueI18n from 'vue-i18n';
 import App from './App.vue';
 import './registerServiceWorker';
 import router from './router';
@@ -28,10 +29,14 @@ Vue.component('font-awesome-icon', FontAwesomeIcon);
 Vue.config.productionTip = false;
 Vue.use(VueSocialSharing);
 Vue.use(VueSchemaMicrodata);
+Vue.use(VueI18n);
+
+const i18n = new VueI18n();
 
 new Vue({
   router,
   store,
+  i18n,
   render: (h) => h(App),
   mounted: () => document.dispatchEvent(new Event('x-app-rendered')),
 }).$mount('#app');
