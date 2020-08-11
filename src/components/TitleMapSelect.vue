@@ -31,10 +31,8 @@
           </div>
         </div>
         <div class="flex flex-col sm:flex-row mb-4 sm:mb-6 lg:mb-8">
-          <div class="mr-0 sm:mr-2">
-            <TravelDirectionToggle/>
-          </div>
-          <CountrySelect class="w-full md:max-w-md mt-4 sm:mt-0"/>
+          <TravelDirectionToggle class="mr-0 sm:mr-2" />
+          <CountrySelect class="w-full md:max-w-md mt-4 sm:mt-0" />
         </div>
       </div>
     </div>
@@ -42,9 +40,7 @@
       <div class="main-container">
         <div class="main-container__inner">
           <WorldMap/>
-          <div class="mt-8 md:-mt-24 md:pl-6">
-            <Legend/>
-          </div>
+          <Legend class="mt-8 md:-mt-24 md:pl-6" />
         </div>
       </div>
     </div>
