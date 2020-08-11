@@ -101,8 +101,8 @@ countries:
     sources:
       domestic:
         - '[Ban on public transport has been lifted.](https://www.gov.am/en/covid-travel-restrictions/)'
-        - '[Public transportation services have resumed and individuals are required to wear face masks in public](https://www.garda.com/crisis24/news-alerts/366991/armenia-authorities-extend-state-of-emergency-through-september-9-update-15)'
-        - '[National state of emergency will be [extended until September 9, 2020](https://www.garda.com/crisis24/news-alerts/366991/armenia-authorities-extend-state-of-emergency-through-september-9-update-15)'
+        - 'Public transportation services have resumed and individuals are [required to wear face masks in public](https://www.garda.com/crisis24/news-alerts/366991/armenia-authorities-extend-state-of-emergency-through-september-9-update-15)'
+        - 'National state of emergency will be [extended until September 9, 2020](https://www.garda.com/crisis24/news-alerts/366991/armenia-authorities-extend-state-of-emergency-through-september-9-update-15)'
       inbound:
         - 'The country''s borders [remain closed](https://www.garda.com/crisis24/news-alerts/366991/armenia-authorities-extend-state-of-emergency-through-september-9-update-15)'
       outbound:
@@ -150,7 +150,7 @@ countries:
         - 'Those arriving in Austria from Bosnia-Herzegovina, Albania, Montenegro, Kosovo, Serbia, and North Macedonia must [present a negative COVID-19 test to enter the country](https://www.garda.com/crisis24/news-alerts/362161/austria-authorities-to-make-face-masks-compulsory-in-shops-from-july-24-update-17).'
       outbound:
         - '[Cross-border travel will be permitted for tourists from neighboring countries that have a comparable decline in the virus.](https://www.austria.info/en/service-and-facts/coronavirus-information)'
-        - 'Certain road borders are closed](https://www.austria.info/en/service-and-facts/coronavirus-information), see domestic cross-border travel section.'
+        - '[Certain road borders are closed](https://www.austria.info/en/service-and-facts/coronavirus-information), see domestic cross-border travel section.'
         - 'Vienna, Salzburg, and Innsbruck airports operate with [limited flight plans.](https://www.austria.info/en/service-and-facts/coronavirus-information)'
         - 'Austria''s foreign ministry warned Austrian nationals [against travel to Spain](https://www.garda.com/crisis24/news-alerts/366721/austria-foreign-ministry-advises-against-travel-to-spain-from-august-10-update-18).'
       visa_quarantine:
@@ -912,7 +912,7 @@ countries:
         - 'The travel warning to non-European countries for German citizens will [remain in place until August 31, 2020](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/coronavirus-faqs.html;jsessionid=6E220CBEC1484CEF34F9618F8E5197FA.2_cid287#doc13797140bodyText3).'
         - 'German authorities advised against all non-essential travel to [Belgium''s Antwerp province on August 5, 2020](https://www.garda.com/crisis24/news-alerts/366451/germany-authorities-advise-against-non-essential-travel-to-antwerp-province-august-5-update-36).'
         - 'German authorities also advised against travel to [Spain''s Aragon, Navarra, and Catalonia regions](https://www.garda.com/crisis24/news-alerts/366451/germany-authorities-advise-against-non-essential-travel-to-antwerp-province-august-5-update-36).'
-        - 'German authorities added regions of Romania and Bulgaria to its list of risk areas on August 6, 2020](https://www.garda.com/crisis24/news-alerts/367391/germany-authorities-add-regions-of-romania-and-bulgaria-to-list-of-covid-19-risk-areas-august-6-update-38).'
+        - 'German authorities added regions of Romania and Bulgaria to its [list of risk areas on August 6, 2020](https://www.garda.com/crisis24/news-alerts/367391/germany-authorities-add-regions-of-romania-and-bulgaria-to-list-of-covid-19-risk-areas-august-6-update-38).'
       visa_quarantine:
         - 'The federal and state governments have agreed that all persons entering Germany from third countries are required to [remain in self-quarantine for two weeks.](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/coronavirus-faqs.html;jsessionid=6E220CBEC1484CEF34F9618F8E5197FA.2_cid287#doc13797140bodyText3) Third countries are countries outside the European Union (EU). Persons traveling from Iceland, Liechtenstein, Norway, Switzerland, and the United Kingdom of Great Britain and Northern Ireland are exempt from this requirement, as are persons traveling from EU countries.'
         - '[The quarantine requirement does not apply to persons entering from a third country](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/coronavirus-faqs.html;jsessionid=6E220CBEC1484CEF34F9618F8E5197FA.2_cid287#doc13797140bodyText3) if it is determined that the infection rate in that country is low. The names of these countries will be published on the website of the Robert-Koch-Institut.'
@@ -3107,7 +3107,7 @@ countries:
       domestic:
         - 'Places of worship, restaurants, and bars [have been closed](https://www.garda.com/crisis24/news-alerts/367331/malawi-face-masks-mandatory-in-public-areas-as-of-august-7-update-7) and public gatherings of greater than ten people prohibited, except for funerals which can have up to 50 people in attendance..'
       inbound:
-        - 'Entry to Malawi is prohibited](https://www.garda.com/crisis24/news-alerts/367331/malawi-face-masks-mandatory-in-public-areas-as-of-august-7-update-7).'
+        - 'Entry to Malawi [is prohibited](https://www.garda.com/crisis24/news-alerts/367331/malawi-face-masks-mandatory-in-public-areas-as-of-august-7-update-7).'
       visa_quarantine:
         - 'Travelers have to self-quarantine and daily check-ups for 14 days if they have [recently been to certain countries with COVID-19](https://mw.usembassy.gov/u-s-citizen-services/covid-19-information/).'
     travel:
@@ -4323,7 +4323,7 @@ countries:
   TL:
     sources:
       domestic:
-        - 'Timor-Leste''s President Francisco Guterres declared a new state of emergency that will last for 30 days until September 4, 2020](https://www.garda.com/crisis24/news-alerts/367001/timor-leste-government-reinstates-state-of-emergency-august-6-update-4). It is indicated that the domestic economy will continue to operate, although bans on gatherings and stricter health protocols may be put in place.'
+        - 'Timor-Leste''s President Francisco Guterres declared a new state of emergency that will [last for 30 days until September 4, 2020](https://www.garda.com/crisis24/news-alerts/367001/timor-leste-government-reinstates-state-of-emergency-august-6-update-4). It is indicated that the domestic economy will continue to operate, although bans on gatherings and stricter health protocols may be put in place.'
       inbound:
         - 'Foreigners are [not authorized to enter Timor-Leste](https://tl.usembassy.gov/covid-19-information/#:~:text=Timor%2DLeste%20will%20temporarily%20close,authorized%20to%20enter%20Timor%2DLeste).'
       outbound:
