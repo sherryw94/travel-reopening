@@ -1,6 +1,7 @@
 <template>
   <div>
-    <TitleMapSelect/>
+    <div class="mb-16 sm:mb-12 lg:mb-8"><ContentNav/></div>
+    <div id="map"><TitleMapSelect/></div>
     <div class="main-container">
       <div class="main-container__inner" v-schema:scope="{ type: 'Article' }">
         <header class="flex items-center px-4">
@@ -27,15 +28,15 @@
         <Panel><CovidStatsPanel :country="country" /></Panel>
         <div v-if='domesticContent || internationalContent || visaQuarantineContent'
           v-schema="{ prop: 'articleBody' }">
-          <Panel title="International Travel"
+          <Panel id="international-travel" title="International Travel"
             v-schema="{ prop: 'articleSection' }">
             <CountryBody :content="internationalContent" />
           </Panel>
-          <Panel title="Visa &amp; Quarantine Measures"
+          <Panel id="visa-quarantine-measures" title="Visa &amp; Quarantine Measures"
             v-schema="{ prop: 'articleSection' }">
             <CountryBody :content="visaQuarantineContent" />
           </Panel>
-          <Panel title="Domestic Travel"
+          <Panel id="domestic-travel" title="Domestic Travel"
             v-schema="{ prop: 'articleSection' }">
             <CountryBody :content="domesticContent" />
           </Panel>
@@ -61,6 +62,7 @@
 
 import axios from 'axios';
 import moment from 'moment';
+import ContentNav from '@/components/ContentNav.vue';
 import CountryBody from '@/components/CountryBody.vue';
 import CountryFlag from '@/components/CountryFlag.vue';
 import CountrySources from '@/components/CountrySources.vue';
@@ -75,6 +77,7 @@ import { mapActions, mapGetters, mapState } from 'vuex';
 export default {
   name: 'Country',
   components: {
+    ContentNav,
     CountryBody,
     CountryFlag,
     CountrySources,

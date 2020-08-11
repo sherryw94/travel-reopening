@@ -19,6 +19,9 @@ module.exports = {
         'tertiary-light': '#bae2df',
         'warm-gray-50': '#f9fafb',
       },
+      inset: {
+        12: '48px',
+      },
       spacing: {
         0.5: '.125rem',
         2.5: '.625rem',
