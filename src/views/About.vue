@@ -32,21 +32,58 @@
       <Disclaimer class="mb-3" />
 
       <h2>Legend</h2>
-      <div class="inline-grid grid-cols-legend row-gap-2 col-gap-4 items-baseline">
-        <TravelStateBadge travelState="selected" />
-        <span>Selected country</span>
-        <TravelStateBadge travelState="yes" />
-        <span>No travel restrictions related to COVID-19 apply</span>
-        <TravelStateBadge travelState="partial" />
-        <span>Some travel restrictions apply depending on traveler’s point of origin,
-          nationality, or other reasons
-        </span>
-        <TravelStateBadge travelState="no" />
-        <span>
-          Non-essential travel is prohibited. Repatriation travel may be possible
-        </span>
-        <TravelStateBadge travelState="unknown" />
-        <span>No information</span>
+      <div class="mb-4">
+        <TravelStateBadge travelState="selected" class="inline-block mb-1" />
+        <p>Selected country</p>
+      </div>
+      <div class="mb-3">
+        <TravelStateBadge travelState="unknown" class="inline-block mb-1" />
+        <p>No information</p>
+      </div>
+
+      <h3>International Travel</h3>
+      <div class="mb-4">
+        <TravelStateBadge travelState="yes" class="inline-block mb-1" />
+        <p>
+          Travelers can enter and exit the country — no travel restrictions
+          related to COVID-19 apply.
+        </p>
+      </div>
+      <div class="mb-4">
+        <TravelStateBadge travelState="partial" class="inline-block mb-1" />
+        <p>
+          Only certain travelers can enter/exit.
+          Governments may advise against non-essential travel.
+        </p>
+      </div>
+      <div class="mb-3">
+        <TravelStateBadge travelState="no" class="inline-block mb-1" />
+        <p>
+          Entry/exit travel is prohibited. Repatriation travel may be possible.
+        </p>
+      </div>
+
+      <h3>Domestic Travel</h3>
+      <div class="mb-4">
+        <TravelStateBadge travelState="yes" class="inline-block mb-1" />
+        <p>
+          Movement is allowed. Public transportation and domestic flights are operational.
+          Hotels and restaurants are open.
+        </p>
+      </div>
+      <div class="mb-4">
+        <TravelStateBadge travelState="partial" class="inline-block mb-1" />
+        <p>
+          Certain movement restrictions apply, such as curfews, social gathering limits,
+          and state border restrictions. Hotels and restaurants may not be open.
+        </p>
+      </div>
+      <div class="mb-3">
+        <TravelStateBadge travelState="no" class="inline-block mb-1" />
+        <p>
+          Strict movement restrictions apply. Domestic flights and trains are not operational.
+          Only essential journeys are allowed.
+        </p>
       </div>
     </div>
   </div>
