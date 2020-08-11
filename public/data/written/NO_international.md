@@ -12,6 +12,6 @@ Some exceptions apply. Refer to the [Norwegian Directorate of Immigration](https
 
 #### Outbound Travel: Who can travel out of Norway?
 
-Until **August 20, 2020**, the government advises against non-essential travel out of Norway. This advisory does not apply if you choose to visit [Nordic regions with low levels of infection](https://www.regjeringen.no/en/topics/foreign-affairs/reiseinformasjon/travel_coronavirus/id2691821/).
+The government advises against non-essential travel out of Norway. This advisory does not apply if you choose to visit [Nordic regions with low levels of infection](https://www.regjeringen.no/en/topics/foreign-affairs/reiseinformasjon/travel_coronavirus/id2691821/).
 
-By **July 20, 2020**, a review will be made regarding travel to other European countries.
+As of August 1, 2020, the government advises against non-essential travel to [Belgium](https://www.regjeringen.no/en/aktuelt/endring-i-reiserad-for-belgia/id2723796/), [the Czech Republic, France, Monaco, Switzerland, and several regions in Sweden](https://www.regjeringen.no/en/aktuelt/changes-in-the-travel-advice-for-the-czech-republic-france-monaco-and-switzerland/id2724098/).

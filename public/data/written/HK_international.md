@@ -12,4 +12,4 @@ All transit and transfer services at Hong Kong International Airport have resume
 
 #### Outbound Travel: Who can travel out of Hong Kong?
 
-**Travel restrictions apply**. Hong Kong's borders are closed.
+**Travel restrictions apply**. Members of the public are strongly urged to [avoid non-essential travel](https://www.coronavirus.gov.hk/eng/travel-advice.html) outside Hong Kong.
