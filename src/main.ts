@@ -9,6 +9,7 @@ import {
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import VueSchemaMicrodata from 'vue-schema-microdata';
 import VueI18n from 'vue-i18n';
+import { messages, defaultLocale } from '@/i18n';
 import App from './App.vue';
 import './registerServiceWorker';
 import router from './router';
@@ -31,7 +32,11 @@ Vue.use(VueSocialSharing);
 Vue.use(VueSchemaMicrodata);
 Vue.use(VueI18n);
 
-const i18n = new VueI18n();
+const i18n = new VueI18n({
+  messages,
+  locale: defaultLocale,
+  fallbackLocale: defaultLocale,
+});
 
 new Vue({
   router,
