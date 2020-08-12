@@ -1,18 +1,15 @@
 <template>
-  <div id="app" class="flex flex-col h-screen font-body text-gray-800">
-    <div class="mb-16 sm:mb-18 lg:mb-24"><SiteNav/></div>
-    <router-view class="flex-grow" />
-    <SiteFooter/>
+  <div id="app" class="font-body text-gray-800">
+    <component :is="layout" />
   </div>
 </template>
 
 <script>
-import SiteNav from '@/components/SiteNav.vue';
-import SiteFooter from '@/components/SiteFooter.vue';
+import DefaultLayout from '@/views/layouts/DefaultLayout.vue';
+import OembedLayout from '@/views/layouts/OembedLayout.vue';
 
 export default {
   name: 'App',
-  components: { SiteNav, SiteFooter },
   metaInfo: {
     title: 'The Ultimate Guide to COVID-19 Travel Restrictions',
     meta: [
@@ -23,6 +20,17 @@ export default {
       { name: 'twitter:image', content: `https://www.tourhero.com${process.env.BASE_URL}img/travel-reopening-cover.jpg` },
       { name: 'og:image', content: `https://www.tourhero.com${process.env.BASE_URL}img/travel-reopening-cover.jpg` },
     ],
+  },
+  components: {
+    DefaultLayout,
+  },
+  computed: {
+    layout() {
+      if (this.$route.name === 'OembedMap') {
+        return OembedLayout;
+      }
+      return DefaultLayout;
+    },
   },
 };
 </script>
