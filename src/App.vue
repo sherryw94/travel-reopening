@@ -21,9 +21,7 @@ export default {
       { name: 'og:image', content: `https://www.tourhero.com${process.env.BASE_URL}img/travel-reopening-cover.jpg` },
     ],
   },
-  components: {
-    DefaultLayout,
-  },
+  components: { DefaultLayout, OembedLayout },
   computed: {
     layout() {
       if (this.$route.name === 'OembedMap') {
