@@ -1,7 +1,7 @@
 <template>
   <div>
     <p class="mt-3 text-base md:text-lg font-medium">{{mapTitle}}</p>
-    <svg :width="svgWidth" :height="svgHeight" viewBox="410 120 700 400"></svg>
+    <svg :width="width" :height="height" />
   </div>
 </template>
 
@@ -108,8 +108,8 @@ export default {
       countries: [],
       isMobile: false,
       svgMaxWidth: 900,
-      svgWidth: undefined,
-      svgHeight: undefined,
+      width: undefined,
+      height: undefined,
       baseUrl: process.env.BASE_URL,
     };
   },
@@ -128,11 +128,15 @@ export default {
     },
   },
   methods: {
-    handleSizeChange() {
+    calculateMapSize() {
       const padding = 12 * 2; // 2 rem
-      this.svgWidth = Math.min(+select('body').style('width').slice(0, -2) - padding, this.svgMaxWidth) - padding;
-      this.svgHeight = Math.round(this.svgWidth / 2);
+      this.width = Math.min(+select('body').style('width').slice(0, -2) - padding, this.svgMaxWidth) - padding;
+      this.height = Math.round(this.width / 2);
       this.isMobile = 'ontouchstart' in document && window.matchMedia('(max-width: 400px)').matches;
+    },
+    handleSizeChange() {
+      // this.calculateMapSize();
+      this.setup();
     },
     handleCountryChange(country) {
       this.drawCurrentCountry(country);
@@ -180,8 +184,12 @@ export default {
     },
     setup() {
       if (!this.countries) { return; }
+      this.calculateMapSize();
       const svg = select(this.$el).select('svg');
-      const projection = geoVanDerGrinten3();
+      svg.selectAll('g').remove();
+      const projection = geoVanDerGrinten3()
+        .translate([this.width / 2, this.height / 1.5])
+        .scale(this.width / 2 / Math.PI);
       const path = geoPath().projection(projection);
 
       const g = svg.append('g');
@@ -198,8 +206,7 @@ export default {
           if (this.$route.params.country === country.slug) return;
           this.$router.push({ name: 'Country', params: { country: country.slug } });
         })
-        .call(renderTooltip(tooltipBody.bind(this)))
-        .attr('transform', 'scale(1.55)');
+        .call(renderTooltip(tooltipBody.bind(this)));
 
       if (this.country) this.handleCountryChange(this.country);
       if (this.travelContext) this.handleContextChange(this.travelContext);
