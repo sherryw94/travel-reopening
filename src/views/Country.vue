@@ -142,6 +142,7 @@ export default {
     return {
       title: this.title,
       meta: [{
+        vmid: 'description',
         name: 'description',
         content: `Find the latest updates on travel restrictions and reopening timelines for ${this.country.name}.`,
       }],

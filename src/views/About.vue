@@ -103,6 +103,7 @@ export default {
     return {
       title: 'About',
       meta: [{
+        vmid: 'description',
         name: 'description',
         content: 'Project Travel Reopening is a free and open-source project by TourHero. It provides an up-to-date global view of travel restrictions due to the COVID-19 pandemic.',
       }],
