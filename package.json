@@ -16,7 +16,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.14.0",
     "@fortawesome/vue-fontawesome": "^0.1.10",
     "@sentry/browser": "^5.21.1",
-    "@sentry/integrations": "^5.20.1",
+    "@sentry/integrations": "^5.21.1",
     "@types/d3": "^5.7.2",
     "@types/d3-geo": "^1.11.1",
     "@types/topojson": "^3.2.2",
