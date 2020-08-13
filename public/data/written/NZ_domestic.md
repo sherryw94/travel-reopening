@@ -1,3 +1,5 @@
+[Lockdown measures have been reimposed](https://www.garda.com/crisis24/news-alerts/367891/new-zealand-lockdown-measure-reimposed-in-auckland-from-august-12-following-confirmation-of-new-covid-19-cases-update-20) in Auckland following new community COVID-19 cases.
+
 Domestic travel is allowed for foreign nationals to reach Christchurch or Auckland airport to take an international flight.
 
 Currently, New Zealand is at [Alert Level 1](https://uniteforrecovery.govt.nz/covid-19/covid-19-alert-system/alert-level-1/#life-at-alert-level-1). Restriction to work, school, sports, and domestic travel has been removed, and people can get together without limitations.

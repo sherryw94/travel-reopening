@@ -2,7 +2,9 @@ Restrictions apply for inbound and outbound travel. See below for more details.
 
 #### Inbound Travel: Who can travel into China?
 
-**Travel restrictions apply.** Mainland China has suspended entry by foreign nationals holding visas or residence permits still valid as of March 28, 2020.
+**Travel restrictions apply.** China has opened its borders to [European resident permit-holders](https://www.garda.com/crisis24/news-alerts/368046/china-authorities-open-borders-to-european-residence-permit-holders-on-august-11-update-77) on August 11, 2020.
+
+Other foreign nationals holding visas or residence permits are still suspended from entering.
 
 According to the [European Chamber of China](https://www.europeanchamber.com.cn/en/national-news/3205/progress_made_regarding_return_of_foreign_nationals_to_china), supporting measures are underway to facilitate the return of foreign nationals to China for urgent/necessary purposes. These include the cities of Beijing, Chongqing, Guangdong, Jiangsu, Shandong, Shanghai, and Tianjin.
 
