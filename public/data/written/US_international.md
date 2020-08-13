@@ -6,14 +6,14 @@ Nationals and permanent residents, as well as their spouses, are allowed to ente
 
 Foreign nationals who have been in any of the following countries within 14 days of their attempted entry are **restricted from entering** the United States:
 
-- China, Iran, European Austria, Belgium, Czechia, Denmark, Estonia, France, Finland, Greece, Germany, Hungary, Italy, Iceland, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Norway, Netherlands, Portugal, Poland, Slovenia, Slovakia, Spain, Switzerland, Sweden, Monaco, San Marino, Vatican City, the United Kingdom, Ireland, and Brazil.
+- China, Iran, Austria, Belgium, Czechia, Denmark, Estonia, France, Finland, Greece, Germany, Hungary, Italy, Iceland, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Norway, Netherlands, Portugal, Poland, Slovenia, Slovakia, Spain, Switzerland, Sweden, Monaco, San Marino, Vatican City, the United Kingdom, Ireland, and Brazil.
 
 On **July 15, 2020**, authorities announced an extension of the mutual border closure with both Mexico and Canada. Non-essential travel is prohibited. This period will last until at least August 21, 2020.
 
 The **No Sail Order and Suspension of Further Embarkation** has been extended for all cruise ships until **September 30, 2020**. [Click here](https://www.cdc.gov/quarantine/cruise/index.html) for more information.
 
-For more information on travel restrictions into the United States of America, refer to the [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html).
+For more information on travel restrictions into the United States of America, refer to the [Centers for Disease Control and Prevention (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html).
 
 #### Outbound Travel: Who can travel out of the United States of America?
 
-The Department of State [strongly advises against all international travel](https://travel.state.gov/content/travel/en/traveladvisories/ea/travel-advisory-alert-global-level-4-health-advisory-issue.html). Should travel be required, travelers are urged to enroll in the [Smart Traveler Enrollment Program](https://step.state.gov/step/) and follow [government guidelines](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+Authorities have [lifted the global health advisory against all non-essential international travel](https://www.garda.com/crisis24/news-alerts/366796/us-authorities-lift-global-covid-19-advisory-against-international-travel-august-6-update-81). Country-specific travel health notices related to COVID-19 are now provided on the CDC website; the list of countries can be found [here](https://wwwnc.cdc.gov/travel/notices). Several countries have been placed under a Level 3 advisory, which recommends non-essential travel should still be avoided. Check the countries list frequently for changes.

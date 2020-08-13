@@ -7,8 +7,8 @@ These restrictions vary across England, Wales, Scotland, and Northern Ireland. B
 - From **July 4, 2020**, pubs, restaurants, and cafes will be allowed to reopen. Hotels, campsites, museums, libraries, theme parks, and cinemas will also be allowed to reopen. [Click here](https://www.theguardian.com/money/2020/jun/24/coronavirus-lockdown-eased-4-july-england-pub-hairdresser-gym) for more details.
 - As of **June 15, 2020**, several businesses and shops have been allowed to open, including some outdoor attractions such as zoos, drive-in cinemas, farms, and safari parks.
 - The general public should comply with social distancing rules and crowd restrictions. Stay at least 2 meters apart from other individuals.
-- Avoid non-essential use of public transport. If public transport must be taken, a [face covering](https://www.gov.uk/government/publications/staying-safe-outside-your-home/staying-safe-outside-your-home#face-coverings) must be worn.
-- Wearing a face covering is encouraged if you choose to visit enclosed public spaces where social distancing is difficult.
+- Avoid non-essential use of public transport.
+- The use of face coverings are mandatory on public transport, in shops, supermarkets, banks, post offices, visitor attractions, entertainment venues, and other public areas. A full list of locations where face coverings are required can be found [here](https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do).
 
 Refer to the [UK Government](https://www.gov.uk/coronavirus) for more information.
 
@@ -25,7 +25,7 @@ Refer to the [Welsh Government](https://gov.wales/coronavirus-regulations-guidan
 #### Scotland
 
 - Avoid non-essential travel where possible, especially on public transport.
-- From **June 22, 2020**, face coverings are mandatory on public transport.
+- The use of face coverings is mandatory when visiting certain indoor public spaces including in shops, on public transport, and at public transport premises such as bus stations.
 - You are advised to stay within your local area when going outside. As a guide, travel no more than five miles from your home.
 - The general public should comply with social distancing rules and crowd restrictions. Stay at least 2 meters apart from other individuals.
 - Public gatherings are not permitted. Some exceptions may apply.
