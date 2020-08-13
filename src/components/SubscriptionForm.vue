@@ -1,7 +1,7 @@
 <template>
   <div id="subscription">
     <div v-if='status === "new"'>
-      <h1>Subscribe</h1>
+      <h1>Subscribe to COVID-19 Travel Restrictions Newsletter</h1>
       <p>Get the latest COVID-19 travel news in your inbox</p>
       <form ref="formElement" @submit.prevent="response" autocomplete="off">
         <input class="appearance-none block w-full sm:max-w-xs py-2 px-3 mb-2
