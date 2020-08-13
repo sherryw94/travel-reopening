@@ -105,6 +105,7 @@ function tooltipBody(d) {
 export default {
   data() {
     return {
+      countries: [],
       isMobile: false,
       svgMaxWidth: 900,
       svgWidth: undefined,
@@ -177,25 +178,16 @@ export default {
           return true;
         });
     },
-  },
-  created() { window.addEventListener('resize', this.handleSizeChange); },
-  destroyed() {
-    select('body').selectAll('div.tooltip').remove();
-    window.removeEventListener('resize', this.handleSizeChange);
-  },
-  mounted() {
-    const svg = select(this.$el).select('svg');
-    const projection = geoVanDerGrinten3();
-    const path = geoPath().projection(projection);
+    setup() {
+      if (!this.countries) { return; }
+      const svg = select(this.$el).select('svg');
+      const projection = geoVanDerGrinten3();
+      const path = geoPath().projection(projection);
 
-    json(`${this.baseUrl}data/countries-110m.json`).then((data) => {
-      const countries = feature(data, data.objects.countries)
-        .features
-        .filter(({ properties: { name } }) => !EXCLUDE_COUNTRIES.includes(name));
       const g = svg.append('g');
       g
         .selectAll('.state')
-        .data(countries)
+        .data(this.countries)
         .enter()
         .append('path')
         .attr('class', 'state')
@@ -211,7 +203,19 @@ export default {
 
       if (this.country) this.handleCountryChange(this.country);
       if (this.travelContext) this.handleContextChange(this.travelContext);
-      this.handleSizeChange();
+    },
+  },
+  created() { window.addEventListener('resize', this.handleSizeChange); },
+  destroyed() {
+    select('body').selectAll('div.tooltip').remove();
+    window.removeEventListener('resize', this.handleSizeChange);
+  },
+  mounted() {
+    json(`${this.baseUrl}data/countries-110m.json`).then((data) => {
+      this.countries = feature(data, data.objects.countries)
+        .features
+        .filter(({ properties: { name } }) => !EXCLUDE_COUNTRIES.includes(name));
+      this.setup();
     });
   },
   watch: {
