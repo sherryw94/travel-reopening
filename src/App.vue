@@ -19,7 +19,6 @@ export default {
   components: { SiteNav, SiteFooter },
   metaInfo: {
     title: 'The Ultimate Guide to COVID-19 Travel Restrictions',
-    titleTemplate: '%s | Project Travel Reopening',
     meta: [
       { charset: 'utf-8' },
       { vmid: 'description', name: 'description', content: 'A free and open-source project by TourHero. Find the latest information for travel restrictions around the world during this COVID-19 pandemic. Travel safe!' },
