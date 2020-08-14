@@ -1,5 +1,5 @@
 ---
-checked_on: 2020-08-13
+checked_on: 2020-08-14
 countries:
   AD:
     sources:
@@ -286,6 +286,7 @@ countries:
         - 'Face masks will be [compulsory in crowded public places from July 25, 2020](https://www.garda.com/crisis24/news-alerts/362606/belgium-face-masks-to-be-compulsory-in-crowded-public-places-from-july-25-update-18)'
         - 'Private social gatherings from different households are limited to 5 people, public events will be limited to 100 people indoors and 200 people outdoors. Individuals will be required to shop alone and have been advised to [work from home where possible](https://www.politico.eu/article/belgium-reduces-social-bubbles-event-sizes-amid-coronavirus-spike/)'
         - 'The number of people Belgians are allowed to have interactions with on a weekly basis is [restricted to 15](https://www.politico.eu/article/belgium-coronavirus-restrictions-fear-of-second-wave/).'
+        - 'Regional authorities in Brussels have announced that face masks will be [mandatory in all public spaces from August 12, 2020](https://www.garda.com/crisis24/news-alerts/368206/belgium-face-masks-become-mandatory-in-all-public-spaces-in-brussels-as-of-august-12-update-22).'
       inbound:
         - 'The Government of Belgium has imposed entry and exit controls on [non-essential travel to and from the country.](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx)'
         - '[Entry is allowed](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx) for nationals of EU Member States and Schengen Member States, for the purposes of returning to their homes; Third-country nationals who are in possession a residence card (or D-visa) delivered by a Schengen Member State, for the purpose of returning to their homes.'
@@ -300,7 +301,6 @@ countries:
       inbound: partial
       inbound_allowed:
         - AT
-        - BE
         - CZ
         - DK
         - EE
@@ -2025,10 +2025,12 @@ countries:
         - 'Flights from Bangladesh have been [suspended from July 7, 2020](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html).'
         - '[Italy bans entry from 13 countries](https://www.thejakartapost.com/travel/2020/07/10/italy-bans-entry-from-13-countries-due-to-coronavirus-fears.html).'
         - 'All international arrivals are required to [fill out and present a form upon request](https://www.garda.com/crisis24/news-alerts/367781/italy-authorities-extend-covid-19-restrictions-until-september-7-update-38).'
+        - 'Those who travel from or through Colombia will [not be allowed to enter the country](https://www.garda.com/crisis24/news-alerts/368531/italy-authorities-make-covid-19-tests-mandatory-for-arrivals-from-spain-croatia-greece-and-malta-august-12-update-39).'
       outbound:
         - 'The Italian government has decided to [permit unrestricted travel between Italy and other Schengen countries and within Italy itself](https://www.schengenvisainfo.com/news/italy-to-permit-unrestricted-travel-starting-june-3/) starting June 3, 2020.'
       visa_quarantine:
         - 'From July 1, 2020, if you are traveling to Italy from any of the above-mentioned countries you will no longer be required to self-isolate for 14 days, under supervision by the competent health authorities, [unless you stayed in another country prior to traveling to Italy](https://www.esteri.it/mae/en/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html).'
+        - 'The Italian government made [COVID-19 tests on arrival mandatory](https://www.garda.com/crisis24/news-alerts/368531/italy-authorities-make-covid-19-tests-mandatory-for-arrivals-from-spain-croatia-greece-and-malta-august-12-update-39) for travelers arriving from Spain, Croatia, Greece, and Malta on August 12, 2020.'
     travel:
       domestic: 'yes'
       inbound: partial
@@ -3231,13 +3233,13 @@ countries:
   NL:
     sources:
       domestic:
-        - '[Certain restrictions in place, but people can move around freely.](https://www.government.nl/topics/coronavirus-covid-19/tourism-in-the-netherlands)'
+        - 'Certain restrictions in place, but [people can move around freely.](https://www.government.nl/topics/coronavirus-covid-19/tourism-in-the-netherlands)'
       inbound:
-        - '[Tourists from EU or Schengen area countries can holiday in the Netherlands. But they must follow Dutch advice and rules to combat COVID-19.](https://www.netherlandsandyou.nl/documents/frequently-asked-questions/qa-holidays-to-the-netherlands)'
+        - 'Tourists from EU, Schengen area countries and the United Kingdom, can holiday in the Netherlands. But they must [follow Dutch advice and rules to combat COVID-19.](https://www.netherlandsandyou.nl/documents/frequently-asked-questions/qa-holidays-to-the-netherlands)'
       outbound:
-        - '[Travel to countries with an orange or red travel advisory is discouraged](https://www.nederlandwereldwijd.nl/).'
+        - 'Travel to countries with an orange or red travel advisory [is discouraged](https://www.nederlandwereldwijd.nl/).'
       visa_quarantine:
-        - '[While not currently indicated as mandatory, everyone arriving in the Netherlands from a high-risk area is strongly advised to self-quarantine for 14 days immediately after arrival.](https://www.government.nl/topics/coronavirus-covid-19/tourism-in-the-netherlands)'
+        - 'While not currently indicated as mandatory, everyone arriving in the Netherlands from a high-risk area is strongly advised to [self-quarantine for 14 days immediately after arrival.](https://www.government.nl/topics/coronavirus-covid-19/tourism-in-the-netherlands)'
     travel:
       domestic: yes
       inbound: partial
@@ -3275,7 +3277,7 @@ countries:
         - SE
         - SI
         - SK
-        - UK
+        - GB
       outbound: 'partial'
   NO:
     sources:
@@ -3929,6 +3931,7 @@ countries:
         - 'As of July 13, 2020 Moscow city authorities [no longer require wearing a mask](https://ru.usembassy.gov/covid-19-information/) while walking on the street.'
       inbound:
         - 'International flights to the UK, Turkey, and Tanzania will be the first to [resume on August 1, 2020](https://www.garda.com/crisis24/news-alerts/363596/russia-authorities-announce-resumption-of-flights-to-certain-destinations-from-august-1-update-43).'
+        - 'Starting from the August 15, 2020, there will be [regular flights between Switzerland and Russia](https://waytorussia.net/russia/coronavirus-travel-updates.html).'
       outbound:
         - 'The government has allowed limited commercial international flights out of Russia to [countries that meet benchmarks](https://ru.usembassy.gov/covid-19-information/).'
       visa_quarantine:
@@ -3936,6 +3939,11 @@ countries:
     travel:
       domestic: partial
       inbound: partial
+      inbound_allowed:
+        - GB
+        - TK
+        - TZ
+        - CH
       outbound: partial
   RW:
     reopening:
@@ -4199,13 +4207,13 @@ countries:
   SN:
     sources:
       domestic:
-        - 'Both the state of emergency and the nightly curfew, which were imposed due to the coronavirus disease (COVID-19) pandemic will be [lifted at 23:00 (local time) on Tuesday, July 30, 2020](https://www.garda.com/crisis24/news-alerts/355466/senegal-state-of-emergency-to-be-lifted-on-june-30-update-11).'
+        - 'There is a [ban on gatherings](https://www.garda.com/crisis24/news-alerts/368256/senegal-authorities-reintroduce-covid-19-measures-following-spike-in-cases-august-8-update-12) at beaches, sports grounds, theatres, and in public spaces, as well as restrictions on demonstrations.'
       inbound:
         - 'The government also stated that Senegal will open its borders to international flights under certain conditions from July 15; however, the [country''s land and sea borders will remain closed.](https://www.garda.com/crisis24/news-alerts/355466/senegal-state-of-emergency-to-be-lifted-on-june-30-update-11)'
       outbound:
         - 'The government also stated that Senegal will open its borders to international flights under certain conditions from July 15; however, the [country''s land and sea borders will remain closed.](https://www.garda.com/crisis24/news-alerts/355466/senegal-state-of-emergency-to-be-lifted-on-june-30-update-11)'
     travel:
-      domestic: no
+      domestic: partial
       inbound: no
       outbound: no
   SO:
