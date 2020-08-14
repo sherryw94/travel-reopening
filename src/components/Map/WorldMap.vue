@@ -6,7 +6,9 @@
 </template>
 
 <script>
-import { select, json, mouse } from 'd3';
+import {
+  event, select, json, mouse, zoom,
+} from 'd3';
 import { geoPath } from 'd3-geo';
 import { geoVanDerGrinten3 } from 'd3-geo-projection';
 import { feature } from 'topojson';
@@ -102,6 +104,11 @@ function tooltipBody(d) {
   return bodyFunction.bind(this)(country);
 }
 
+function zoomHandler() {
+  const g = select(this.$el).select('svg').select('g').selectAll('path');
+  g.attr('transform', event.transform);
+}
+
 export default {
   data() {
     return {
@@ -191,8 +198,10 @@ export default {
         .translate([this.width / 2, this.height / 1.5])
         .scale(this.width / 2 / Math.PI);
       const path = geoPath().projection(projection);
-
       const g = svg.append('g');
+      const zoomer = zoom().scaleExtent([1, 50]).on('zoom', zoomHandler.bind(this));
+      svg.call(zoomer);
+
       g
         .selectAll('.state')
         .data(this.countries)
@@ -241,6 +250,9 @@ export default {
     fill: theme("colors.gray.400");
     stroke: theme("colors.gray.200");
     stroke-width: 0.5;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    vector-effect: non-scaling-stroke;
     transition: fill 100ms ease;
     &.undefined { fill: theme("colors.gray.400"); }
     &.closed    { fill: theme("colors.secondary"); }
