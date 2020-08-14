@@ -1,12 +1,14 @@
 <template>
   <div>
     <p class="mt-3 text-base md:text-lg font-medium">{{mapTitle}}</p>
-    <svg :width="svgWidth" :height="svgHeight" viewBox="410 120 700 400"></svg>
+    <svg :width="width" :height="height" />
   </div>
 </template>
 
 <script>
-import { select, json, mouse } from 'd3';
+import {
+  event, select, json, mouse, zoom,
+} from 'd3';
 import { geoPath } from 'd3-geo';
 import { geoVanDerGrinten3 } from 'd3-geo-projection';
 import { feature } from 'topojson';
@@ -102,13 +104,19 @@ function tooltipBody(d) {
   return bodyFunction.bind(this)(country);
 }
 
+function zoomHandler() {
+  const g = select(this.$el).select('svg').select('g').selectAll('path');
+  g.attr('transform', event.transform);
+}
+
 export default {
   data() {
     return {
+      countries: [],
       isMobile: false,
       svgMaxWidth: 900,
-      svgWidth: undefined,
-      svgHeight: undefined,
+      width: undefined,
+      height: undefined,
       baseUrl: process.env.BASE_URL,
     };
   },
@@ -127,11 +135,15 @@ export default {
     },
   },
   methods: {
-    handleSizeChange() {
+    calculateMapSize() {
       const padding = 12 * 2; // 2 rem
-      this.svgWidth = Math.min(+select('body').style('width').slice(0, -2) - padding, this.svgMaxWidth) - padding;
-      this.svgHeight = Math.round(this.svgWidth / 2);
+      this.width = Math.min(+select('body').style('width').slice(0, -2) - padding, this.svgMaxWidth) - padding;
+      this.height = Math.round(this.width / 2);
       this.isMobile = 'ontouchstart' in document && window.matchMedia('(max-width: 400px)').matches;
+    },
+    handleSizeChange() {
+      // this.calculateMapSize();
+      this.setup();
     },
     handleCountryChange(country) {
       this.drawCurrentCountry(country);
@@ -177,25 +189,22 @@ export default {
           return true;
         });
     },
-  },
-  created() { window.addEventListener('resize', this.handleSizeChange); },
-  destroyed() {
-    select('body').selectAll('div.tooltip').remove();
-    window.removeEventListener('resize', this.handleSizeChange);
-  },
-  mounted() {
-    const svg = select(this.$el).select('svg');
-    const projection = geoVanDerGrinten3();
-    const path = geoPath().projection(projection);
-
-    json(`${this.baseUrl}data/countries-110m.json`).then((data) => {
-      const countries = feature(data, data.objects.countries)
-        .features
-        .filter(({ properties: { name } }) => !EXCLUDE_COUNTRIES.includes(name));
+    setup() {
+      if (!this.countries) { return; }
+      this.calculateMapSize();
+      const svg = select(this.$el).select('svg');
+      svg.selectAll('g').remove();
+      const projection = geoVanDerGrinten3()
+        .translate([this.width / 2, this.height / 1.5])
+        .scale(this.width / 2 / Math.PI);
+      const path = geoPath().projection(projection);
       const g = svg.append('g');
+      const zoomer = zoom().scaleExtent([1, 50]).on('zoom', zoomHandler.bind(this));
+      svg.call(zoomer);
+
       g
         .selectAll('.state')
-        .data(countries)
+        .data(this.countries)
         .enter()
         .append('path')
         .attr('class', 'state')
@@ -206,12 +215,23 @@ export default {
           if (this.$route.params.country === country.slug) return;
           this.$router.push({ name: 'Country', params: { country: country.slug } });
         })
-        .call(renderTooltip(tooltipBody.bind(this)))
-        .attr('transform', 'scale(1.55)');
+        .call(renderTooltip(tooltipBody.bind(this)));
 
       if (this.country) this.handleCountryChange(this.country);
       if (this.travelContext) this.handleContextChange(this.travelContext);
-      this.handleSizeChange();
+    },
+  },
+  created() { window.addEventListener('resize', this.handleSizeChange); },
+  destroyed() {
+    select('body').selectAll('div.tooltip').remove();
+    window.removeEventListener('resize', this.handleSizeChange);
+  },
+  mounted() {
+    json(`${this.baseUrl}data/countries-50m.json`).then((data) => {
+      this.countries = feature(data, data.objects.countries)
+        .features
+        .filter(({ properties: { name } }) => !EXCLUDE_COUNTRIES.includes(name));
+      this.setup();
     });
   },
   watch: {
@@ -230,6 +250,9 @@ export default {
     fill: theme("colors.gray.400");
     stroke: theme("colors.gray.200");
     stroke-width: 0.5;
+    stroke-linejoin: round;
+    stroke-linecap: round;
+    vector-effect: non-scaling-stroke;
     transition: fill 100ms ease;
     &.undefined { fill: theme("colors.gray.400"); }
     &.closed    { fill: theme("colors.secondary"); }
