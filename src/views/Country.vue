@@ -143,8 +143,9 @@ export default {
     return {
       title: this.title,
       meta: [{
+        vmid: 'description',
         name: 'description',
-        content: `Find the latest updates on travel restrictions and reopening timelines for ${this.country.name}.`,
+        content: `Find the latest information for ${this.country.name} travel restrictions and border reopening timelines during COVID-19.`,
       }],
     };
   },
