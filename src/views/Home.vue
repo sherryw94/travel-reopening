@@ -3,7 +3,7 @@
     <TitleMapSelect/>
     <div class="main-container">
       <div class="main-container__inner">
-        <Panel tag="h2" title="Countries Reopening">
+        <Panel tag="h2" title="Countries Reopening" id="countries-reopening">
           <Reopening/>
         </Panel>
       </div>
