@@ -227,7 +227,7 @@ export default {
     window.removeEventListener('resize', this.handleSizeChange);
   },
   mounted() {
-    json(`${this.baseUrl}data/countries-110m.json`).then((data) => {
+    json(`${this.baseUrl}data/countries-50m.json`).then((data) => {
       this.countries = feature(data, data.objects.countries)
         .features
         .filter(({ properties: { name } }) => !EXCLUDE_COUNTRIES.includes(name));
