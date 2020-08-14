@@ -33,7 +33,7 @@
     </div>
     <div class="bg-warm-gray-50 py-1 mb-4 sm:mb-6 lg:mb-8">
       <div class="main-container">
-        <div class="main-container__inner">
+        <div class="main-container__inner" id="map-vis">
           <WorldMap/>
           <div class="mt-8 md:-mt-24 md:pl-6">
             <Legend/>

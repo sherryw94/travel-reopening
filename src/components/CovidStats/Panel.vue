@@ -1,13 +1,13 @@
 <template>
   <div>
     <div class="md:flex">
-      <div class="md:order-1">
+      <div class="md:order-1" id="travel-status">
         <div class="flex flex-col">
           <TravelState :country="country" />
           <ReopeningDate :country="country" class="mt-8" />
         </div>
       </div>
-      <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8">
+      <div class="md:order-0 w-full md:w-1/2 mt-8 md:mt-0 md:mr-8" id="covid-stats">
         <h3>COVID-19 Statistics</h3>
         <Graph class="mb-4" :stats="stats.newCases">Daily new confirmed cases</Graph>
         <Graph class="mb-4" :stats="stats.totalCases">Total confirmed cases</Graph>

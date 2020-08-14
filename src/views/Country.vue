@@ -41,7 +41,7 @@
             <CountryBody :content="domesticContent" />
           </Panel>
         </div>
-        <Panel title="Travel Ideas">
+        <Panel id="travel-ideas" title="Travel Ideas">
           <CountryTravelIdeas :country="country" />
         </Panel>
         <Panel>
@@ -50,8 +50,9 @@
             Thank you very much for your help!
           </p>
         </Panel>
-        <Panel title="Sources"><CountrySources :countryCode="country.code" /></Panel>
-        <Panel title="About Our Data"><Disclaimer /></Panel>
+        <Panel id="sources-country" title="Sources">
+          <CountrySources :countryCode="country.code" /></Panel>
+        <Panel id="about-data-country" title="About Our Data"><Disclaimer /></Panel>
       </div>
     </div>
   </div>

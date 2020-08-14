@@ -1,7 +1,7 @@
 <template>
   <div>
     <TitleMapSelect/>
-    <div class="main-container">
+    <div class="main-container" id="countries-reopening">
       <div class="main-container__inner">
         <Panel tag="h2" title="Countries Reopening">
           <Reopening/>
