@@ -3941,7 +3941,7 @@ countries:
       inbound: partial
       inbound_allowed:
         - GB
-        - TK
+        - TR
         - TZ
         - CH
       outbound: partial
