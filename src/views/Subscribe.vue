@@ -18,5 +18,15 @@ export default {
   name: 'Subscribe',
   components: { SubscriptionForm },
   mounted() { this.$nextTick(() => document.dispatchEvent(new Event('render-completed'))); },
+  metaInfo() {
+    return {
+      title: 'Subscribe to COVID-19 Travel Restrictions Newsletter',
+      meta: [{
+        vmid: 'description',
+        name: 'description',
+        content: 'Get the latest information on travel restrictions and border reopening timelines during COVID-19 right in your inbox.',
+      }],
+    };
+  },
 };
 </script>
