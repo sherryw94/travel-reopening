@@ -25,5 +25,15 @@
 export default {
   name: 'NotFound',
   mounted() { this.$nextTick(() => document.dispatchEvent(new Event('render-completed'))); },
+  metaInfo() {
+    return {
+      title: '404 | Project Travel Reopening',
+      meta: [{
+        vmid: 'description',
+        name: 'description',
+        content: 'Oops... It\'s a 404. It seems like there is a problem with the URL.',
+      }],
+    };
+  },
 };
 </script>
