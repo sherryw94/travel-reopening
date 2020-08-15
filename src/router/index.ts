@@ -24,12 +24,6 @@ const routes: Array<RouteConfig> = [
     component: () => import(/* webpackChunkName: "subscribe" */ '../views/Subscribe.vue'),
   },
   {
-    path: '/404.html',
-    name: 'NotFound',
-    component: () => import(/* webpackChunkName: "not-found" */ '../views/NotFound.vue'),
-    alias: '*',
-  },
-  {
     path: '/:country.html',
     name: 'Country',
     component: () => import('../views/Country.vue'),
@@ -41,6 +35,12 @@ const routes: Array<RouteConfig> = [
     children: [
       { path: ':country.html', component: OembedMap },
     ],
+  },
+  {
+    path: '/404.html',
+    name: 'NotFound',
+    component: () => import(/* webpackChunkName: "not-found" */ '../views/NotFound.vue'),
+    alias: '*',
   },
 ];
 
