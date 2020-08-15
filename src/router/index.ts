@@ -2,6 +2,7 @@ import Vue from 'vue';
 import VueGtm from 'vue-gtm';
 import VueRouter, { RouteConfig } from 'vue-router';
 import VueMeta from 'vue-meta';
+import OembedMap from '../views/OembedMap.vue';
 
 Vue.use(VueRouter);
 Vue.use(VueMeta);
@@ -36,7 +37,10 @@ const routes: Array<RouteConfig> = [
   {
     path: '/oembed-map',
     name: 'OembedMap',
-    component: () => import(/* webpackChunkName: 'oembed-map' */ '../views/OembedMap.vue'),
+    component: OembedMap,
+    children: [
+      { path: ':country.html', component: OembedMap },
+    ],
   },
 ];
 
