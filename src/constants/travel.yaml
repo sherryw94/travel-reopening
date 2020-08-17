@@ -39,7 +39,7 @@ countries:
       - alt: 'How safe is it to travel to Dubai'
         href: 'https://www.tourhero.com/en/magazine/destinations/asia/is-it-safe-to-travel-to-dubai-what-the-country-is-doing-to-be-covid-19-safe/'
         src: 'dubai-camels-1900x880.jpg'
-        title: 'Is it safe to travel: Dubai'
+        title: 'Is it safe to travel to Dubai'
   AF:
     sources:
       domestic:
@@ -122,7 +122,7 @@ countries:
     sources:
       domestic:
         - 'The government of Angola has [implemented measures](https://ao.usembassy.gov/covid-19-information/) to limit the spread of COVID-19.  Schools and universities are closed until further notice, and sporting events, festivals, and gatherings larger than 50 people have been banned.'
-        - 'Under the state of calamity, existing quarantine measures remain in Luanda province and around the Cazengo municipality (Cuanza Norte province). Travel in and out of Luanda and Cazengo remains prohibited and religious activities in these areas are also suspended. Gatherings of more than ten people are prohibited in public spaces, and [no more than 15 people may gather in private spaces](https://www.garda.com/crisis24/news-alerts/369281/angola-authorities-extend-state-of-calamity-measures-through-september-8-update-10)'
+        - 'Under the state of calamity, existing quarantine measures remain in Luanda province and around the Cazengo municipality (Cuanza Norte province). Travel in and out of Luanda and Cazengo remains prohibited and religious activities in these areas are also suspended. Gatherings of more than 10 people are prohibited in public spaces, and [no more than 15 people may gather in private spaces](https://www.garda.com/crisis24/news-alerts/369281/angola-authorities-extend-state-of-calamity-measures-through-september-8-update-10)'
       inbound:
         - 'Angola remains closed to passenger flights, the [borders remain closed](https://ao.usembassy.gov/health-alert-u-s-embassy-luanda-june-1-2020/) through to September 8, 2020.'
     travel:
@@ -602,7 +602,7 @@ countries:
         - 'Nova Scotia [extends the state of emergency until August 23, 2020](https://www.garda.com/crisis24/news-alerts/367371/canada-authorities-extend-state-of-emergency-in-nova-scotia-until-august-23-update-21).'
       inbound:
         - 'Current ban on most international travelers entering the country has been [extended until July 31, 2020](https://www.garda.com/crisis24/news-alerts/355886/canada-authorities-extend-ban-on-most-foreign-travelers-until-july-31-update-18).'
-        - 'Canadian and US authorities announced on July 15, 2020, that the closure of their mutual border has been [extended until at least September 21, 2020](https://www.garda.com/crisis24/news-alerts/360646/canada-authorities-extend-border-closure-with-us-until-august-21-update-20).'
+        - 'Canadian and US authorities announced that the closure of their mutual border has been [extended until at least September 21, 2020](https://www.garda.com/crisis24/news-alerts/360646/canada-authorities-extend-border-closure-with-us-until-august-21-update-20).'
       outbound:
         - '[Avoid all non-essential travel](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html?topic=tilelink#_Travellers_departing_Canada).'
       visa_quarantine:
@@ -620,7 +620,7 @@ countries:
         title: 'Newfoundland Getaway: 48 Hours in Gros Morne National Park'
   CD:
     reopening:
-      '2020-07-30': 'DRC has [suspended all international passenger flights until at least July 30, 2020](https://www.garda.com/crisis24/news-alerts/358551/congo-state-of-health-emergency-extended-until-july-30-update-8).'
+      '2020-07-30': 'DRC has [suspended all international passenger flights until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/358551/congo-state-of-health-emergency-extended-until-july-30-update-8).'
     sources:
       domestic:
         - 'The Congolese government has been easing COVID-19 restrictions across the country since the end of April, with the [reopening of shops and other facilities in major urban centers](https://www.garda.com/crisis24/news-alerts/352646/drc-government-extends-state-of-health-emergency-until-july-5-update-17).'
@@ -809,7 +809,7 @@ countries:
       outbound: partial
   CU:
     reopening:
-      '2020-08-15': 'International flights will be [permitted from September 1, 2020](https://www.garda.com/crisis24/news-alerts/369231/cuba-authorities-suspend-commercial-flights-through-september-1-update-12).'
+      '2020-09-01': 'International flights will be [permitted from September 1, 2020](https://www.garda.com/crisis24/news-alerts/369231/cuba-authorities-suspend-commercial-flights-through-september-1-update-12).'
     sources:
       domestic:
         - 'Havana will have its bars, restaurants, pools, and beaches will be closed, and public transport [suspended](https://www.garda.com/crisis24/news-alerts/367381/cuba-authorities-reimpose-lockdown-in-havana-august-8-update-11), under new lockdown measures.'
@@ -1163,7 +1163,7 @@ countries:
       - alt: 'How safe is it to travel to Egypt'
         href: 'https://www.tourhero.com/en/magazine/travel/is-it-safe-to-travel-to-egypt-what-the-country-is-doing-to-be-covid-19-safe/'
         src: 'is-it-safe-to-travel-to-egypt-pyramids-870x600.jpg'
-        title: 'Is it safe to travel: Egypt'
+        title: 'Is it safe to travel to Egypt'
   ER:
     sources:
       domestic:
@@ -1187,7 +1187,7 @@ countries:
         - 'Social gatherings in Catalonia are [limited to ten people](https://www.garda.com/crisis24/news-alerts/361026/spain-authorities-implement-additional-restrictions-in-catalonia-and-aragon-regions-from-july-18-update-38), bars and restaurants are only permitted to operate at 50-percent capacity for indoor areas, and nightclubs, cinemas, theatres, gyms, and children''s indoor playgrounds will be closed.'
         - 'In Aragon, bars and restaurants are only permitted to operate at a 50-percent capacity for indoor areas, and retail stores, night clubs, cinemas, theatres, gyms, and facilities offering cultural activities will be [permitted to operate at 75-percent capacity](https://www.garda.com/crisis24/news-alerts/361026/spain-authorities-implement-additional-restrictions-in-catalonia-and-aragon-regions-from-july-18-update-38).'
         - 'In Madrid, public gatherings are [limited to ten people and the use of masks is mandatory](https://www.garda.com/crisis24/news-alerts/364016/spain-additional-covid-19-restrictions-to-be-imposed-in-madrid-from-july-30-update-39) in all public spaces, including streets and terraces.'
-        - 'Spanish authorities [ordered nightclubs to close](https://www.garda.com/crisis24/news-alerts/369116/spain-authorities-order-nightclubs-to-close-august-14-update-40).'
+        - 'Spanish authorities [ordered night clubs to close](https://www.garda.com/crisis24/news-alerts/369116/spain-authorities-order-nightclubs-to-close-august-14-update-40).'
         - 'Authorities in Madeira have announced that face masks will be [compulsory in all public places from August 1, 2020](https://www.garda.com/crisis24/news-alerts/365096/portugal-face-masks-to-be-compulsory-in-madeira-in-all-public-places-from-august-1-update-20).'
       inbound:
         - '[The Spanish authorities have decided to reopen country’s borders](https://www.schengenvisainfo.com/news/spain-to-reopen-borders-a-week-later-than-commissions-recommended-date/) on June 21, 2020, for all EU and Schengen countries, except for Portugal with which the borders will reopen in July, 2020.'
@@ -2388,7 +2388,7 @@ countries:
         - 'Under the [fourth stage of the ease of restrictions](https://www.garda.com/crisis24/news-alerts/368866/kuwait-authorities-announce-next-stage-of-easing-of-restrictions-from-august-18-update-26), restaurants and cafes are permitted to reopen with social distancing measures in place, public transport can resume with social distancing rules in force, and both government and private sectors can operate with 50 percent capacity of their workforce. Football matches can also resume, without the presence of spectators.'
       inbound:
         - '[Kuwait has resumed international flights to 20 countries](https://www.garda.com/crisis24/news-alerts/365421/kuwait-international-flights-to-resume-from-august-1-update-25).'
-        - '[Destinations revealed](https://www.arabianbusiness.com/transport/450283-kuwait-to-resume-flights-to-20-destinations-from-august-1#:~:text=Destinations%20revealed%20by%20the%20Directorate,Azerbaijan%2C%20the%20Philippines%20and%20India) by the Directorate General of Civil Aviation (DGCA) include the UAE, Bahrain, Oman, Lebanon, Qatar, Jordan, Egypt, Bosnia and Herzegovina, Sri Lanka, Pakistan, Ethiopia, the United Kingdom, Turkey, Iran, Nepal, Switzerland, Germany, Azerbaijan, the Philippines and India.'
+        - '[Flights resumption for 20 countries include:](https://www.arabianbusiness.com/transport/450283-kuwait-to-resume-flights-to-20-destinations-from-august-1#:~:text=Destinations%20revealed%20by%20the%20Directorate,Azerbaijan%2C%20the%20Philippines%20and%20India) the UAE, Bahrain, Oman, Lebanon, Qatar, Jordan, Egypt, Bosnia and Herzegovina, Sri Lanka, Pakistan, Ethiopia, the United Kingdom, Turkey, Iran, Nepal, Switzerland, Germany, Azerbaijan, the Philippines and India.'
       outbound:
         - 'Kuwait will [allow citizens and residents to travel to and from the country](https://www.garda.com/crisis24/news-alerts/364706/kuwait-government-to-allow-citizens-and-residents-to-travel-to-and-from-the-country-from-august-1-update-24) as of August 1, 2020, amid the easing of coronavirus disease (COVID-19) restrictions. The decision excludes residents coming from Bangladesh, Philippines, India, Sri Lanka, Pakistan, Iran and Nepal.'
       visa_quarantine:
@@ -3190,7 +3190,7 @@ countries:
         - 'Mexican and US authorities announced that the closure of their mutual border has been [extended until at least August 21](https://mx.usembassy.gov/travel-restrictions-fact-sheet/).'
       outbound:
         - 'Land border restrictions with the US, which were introduced due to COVID-19, will be [extended through September 21, 2020](https://www.garda.com/crisis24/news-alerts/355486/mexico-authorities-further-ease-covid-19-restrictions-in-mexico-city-june-29-update-17)'
-        - 'All nonessential travel including [recreation and tourism remains prohibited](https://www.garda.com/crisis24/news-alerts/368936/mexico-health-authorities-confirm-over-500000-covid-19-cases-august-14-update-22).'
+        - 'All non-essential travel including [recreation and tourism remains prohibited](https://www.garda.com/crisis24/news-alerts/368936/mexico-health-authorities-confirm-over-500000-covid-19-cases-august-14-update-22).'
       visa_quarantine:
         - 'Travelers entering Mexico via land may be subject to [health screen including temperature checks](https://mx.usembassy.gov/u-s-citizen-services/covid-19-information/). Travelers may experience significant delays and face the possibility of being returned to the United States or quarantined in Mexico.'
         - '[There is a questionnaire form to be completed and signed by each crew member and passenger](https://www.universalweather.com/blog/mexico-coronavirus-covid-19-impact-on-business-aviation/) arriving at any airport, on a domestic or international flight. Temperature checks are conducted. If someone is at 38 degrees celsius or above, they will be quarantined and the rest of the Pax and Crew may not be able to enter the country.'
@@ -3238,7 +3238,7 @@ countries:
     sources:
       domestic:
         - 'Walvis Bay (Erongo region), remains under strict movement restrictions where gatherings of more than ten people are prohibited, and [permits will be required to travel to other areas in Namibia](https://www.garda.com/crisis24/news-alerts/353431/namibia-authorities-announce-further-easing-of-some-covid-19-restrictions-june-22-update-7)'
-        - 'Under increased restrictions, mandatory wearing of face masks in public, a limit on public gatherings of ten people, the closure of nightclubs, gambling houses, and casinos, and limitations on the sale of alcohol [will be imposed](https://www.garda.com/crisis24/news-alerts/369286/namibia-authorities-tighten-covid-19-restrictions-from-august-12-28-update-9).'
+        - 'Under increased restrictions, mandatory wearing of face masks in public, a limit on public gatherings of 10 people, the closure of night clubs, gambling houses, and casinos, and limitations on the sale of alcohol [will be imposed](https://www.garda.com/crisis24/news-alerts/369286/namibia-authorities-tighten-covid-19-restrictions-from-august-12-28-update-9).'
         - 'Namibian schools will be suspended for 28 days as of August 4, 2020](https://www.garda.com/crisis24/news-alerts/353431/namibia-authorities-announce-further-easing-of-some-covid-19-restrictions-june-22-update-7).'
       inbound:
         - 'Borders [remain closed and international flights suspended](https://www.garda.com/crisis24/news-alerts/365346/namibia-authorities-to-reimpose-some-covid-19-restrictions-july-31-update-8).'
