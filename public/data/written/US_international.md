@@ -8,7 +8,7 @@ Foreign nationals who have been in any of the following countries within 14 days
 
 - China, Iran, Austria, Belgium, Czechia, Denmark, Estonia, France, Finland, Greece, Germany, Hungary, Italy, Iceland, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Norway, Netherlands, Portugal, Poland, Slovenia, Slovakia, Spain, Switzerland, Sweden, Monaco, San Marino, Vatican City, the United Kingdom, Ireland, and Brazil.
 
-On **July 15, 2020**, authorities announced an extension of the mutual border closure with both Mexico and Canada. Non-essential travel is prohibited. This period will last until at least August 21, 2020.
+On **August 14, 2020**, authorities announced an [extension of the land border closure with Canada and Mexico](https://www.garda.com/crisis24/news-alerts/369166/us-authorities-to-extend-land-border-closure-with-canada-and-mexico-until-september-21-update-82). Non-essential travel is prohibited. This period will last until at least September 21, 2020.
 
 The **No Sail Order and Suspension of Further Embarkation** has been extended for all cruise ships until **September 30, 2020**. [Click here](https://www.cdc.gov/quarantine/cruise/index.html) for more information.
 

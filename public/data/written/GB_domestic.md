@@ -4,8 +4,9 @@ These restrictions vary across England, Wales, Scotland, and Northern Ireland. B
 
 #### England
 
-- From **July 4, 2020**, pubs, restaurants, and cafes will be allowed to reopen. Hotels, campsites, museums, libraries, theme parks, and cinemas will also be allowed to reopen. [Click here](https://www.theguardian.com/money/2020/jun/24/coronavirus-lockdown-eased-4-july-england-pub-hairdresser-gym) for more details.
-- As of **June 15, 2020**, several businesses and shops have been allowed to open, including some outdoor attractions such as zoos, drive-in cinemas, farms, and safari parks.
+- As of **August 14, 2020**, indoor performances, music, and theater events are [allowed to resume](https://www.garda.com/crisis24/news-alerts/369141/uk-authorities-further-ease-lockdown-restrictions-in-england-august-14-update-39). Casinos, bowling alleys, and skating rinks are also allowed to reopen.
+- As of **July 4, 2020**, pubs, restaurants, and cafes have reopened. Hotels, campsites, museums, libraries, theme parks, and cinemas are also allowed to reopen. [Click here](https://www.theguardian.com/money/2020/jun/24/coronavirus-lockdown-eased-4-july-england-pub-hairdresser-gym) for more details.
+- As of **June 15, 2020**, outdoor attractions such as zoos, drive-in cinemas, farms, and safari parks are allowed to reopen.
 - The general public should comply with social distancing rules and crowd restrictions. Stay at least 2 meters apart from other individuals.
 - Avoid non-essential use of public transport.
 - The use of face coverings are mandatory on public transport, in shops, supermarkets, banks, post offices, visitor attractions, entertainment venues, and other public areas. A full list of locations where face coverings are required can be found [here](https://www.gov.uk/government/publications/coronavirus-outbreak-faqs-what-you-can-and-cant-do/coronavirus-outbreak-faqs-what-you-can-and-cant-do).
