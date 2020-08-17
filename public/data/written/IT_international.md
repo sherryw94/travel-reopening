@@ -14,7 +14,9 @@ Travelers from these countries are free to visit Italy but will be required to u
 
 - Algeria, Australia, Canada, Georgia, Japan, Montenegro, Morocco, New Zealand, Rwanda, Serbia, South Korea, Thailand, Tunisia, and Uruguay.
 
-- As of July 10, 2020, Italy has [banned foreign nationals](https://www.thejakartapost.com/travel/2020/07/10/italy-bans-entry-from-13-countries-due-to-coronavirus-fears.html) arriving from Armenia, Bahrein, Bangladesh, Brazil, Bosnia Herzegovina, Chile, Kosovo, Kuwait, North Macedonia, Moldova, Montenegro, Oman, Panama, Peru, Dominican Republic, and Serbia.
+[Mandatory COVID-19](https://www.garda.com/crisis24/news-alerts/368531/italy-authorities-make-covid-19-tests-mandatory-for-arrivals-from-spain-croatia-greece-and-malta-august-12-update-39) tests are required for travelers arriving from Spain, Croatia, Greece, and Malta, from August 12, 2020.
+
+As of July 10, 2020, Italy has [banned foreign nationals](https://www.thejakartapost.com/travel/2020/07/10/italy-bans-entry-from-13-countries-due-to-coronavirus-fears.html) arriving from Armenia, Bahrein, Bangladesh, Brazil, Bosnia Herzegovina, Chile, Kosovo, Kuwait, North Macedonia, Moldova, Montenegro, Oman, Panama, Peru, Dominican Republic, and Serbia.
 
 As of July 7, 2020, flights arriving from Bangladesh have been [suspended](https://www.garda.com/crisis24/news-alerts/357501/italy-flights-from-bangladesh-suspended-following-imported-covid-19-cases-july-7-update-34).
 

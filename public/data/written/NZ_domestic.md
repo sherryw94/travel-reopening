@@ -1,4 +1,4 @@
-[Lockdown measures have been reimposed](https://www.garda.com/crisis24/news-alerts/367891/new-zealand-lockdown-measure-reimposed-in-auckland-from-august-12-following-confirmation-of-new-covid-19-cases-update-20) in Auckland following new community COVID-19 cases.
+[Lockdown measures have been reimposed](https://www.garda.com/crisis24/news-alerts/367891/new-zealand-lockdown-measure-reimposed-in-auckland-from-august-12-following-confirmation-of-new-covid-19-cases-update-20) in Auckland following new community COVID-19 cases from August 18, 2020.
 
 Domestic travel is allowed for foreign nationals to reach Christchurch or Auckland airport to take an international flight.
 
