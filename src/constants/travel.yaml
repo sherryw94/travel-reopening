@@ -1,5 +1,5 @@
 ---
-checked_on: 2020-08-17
+checked_on: 2020-08-18
 countries:
   AD:
     sources:
@@ -137,6 +137,7 @@ countries:
         - '[Local shops can re-open](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21), whereas food and drink establishments can also re-open, but only for takeaways.'
         - 'Restrictions will remain in place on what day citizens can leave their homes, [depending on their national identity card numbers](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21).'
         - 'Argentina will extend its COVID-19 lockdown [through August 16, 2020](https://www.garda.com/crisis24/news-alerts/365366/argentina-authorities-extend-lockdown-through-august-16-update-23), dictating that a face mask or other garment must be used in public at all times, to cover the nose and mouth.'
+        - 'Restrictions will remain in place on what day citizens can leave their homes, [depending on their national identity card numbers](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21).'
       inbound:
         - 'All commercial flights have been [suspended until September 1, 2020](https://www.worldnomads.com/travel-safety/south-america/argentina/travel-alert).'
       outbound:
@@ -1071,7 +1072,7 @@ countries:
   EC:
     sources:
       domestic:
-        - '[All public gatherings (including sporting events and entertainment centers), all inter-provincial travel remain prohibited and schools also remain closed nationwide. The state of emergency will remain in force until August 15, 2020](https://www.gov.uk/foreign-travel-advice/ecuador/staying-during-coronavirus).'
+        - '[All public gatherings (including sporting events and entertainment centers), all inter-provincial travel remain prohibited and schools also remain closed nationwide. The state of emergency will remain in force until September 15, 2020](https://www.gov.uk/foreign-travel-advice/ecuador/staying-during-coronavirus).'
         - 'Measures in place under the state of emergency include the mandatory use of face masks in public spaces, the closures of schools, bars, nightclubs, and playgrounds, and the [prohibition of public gatherings](https://www.garda.com/crisis24/news-alerts/367221/ecuador-authorities-relax-vehicular-restrictions-during-holiday-period-august-7-10-update-14).'
         - '[Certain municipalities are not on a lockdown](https://www.gov.uk/foreign-travel-advice/ecuador/staying-during-coronavirus)'
       inbound:
@@ -1643,13 +1644,15 @@ countries:
       inbound: 'no'
   GE:
     reopening:
-      '2020-07-31': 'Commercial air travel to Georgia is [suspended until July 31, 2020, at least](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
+      '2020-10-01': 'Commercial air travel to Georgia is [suspended until October 1, 2020, at least](https://www.garda.com/crisis24/news-alerts/370046/georgia-international-flight-restrictions-extended-until-october-1-update-16).'
     sources:
       domestic:
         - 'All public transport—including the metro—has resumed service, though passengers are required to wear face masks. [Intercity trains have also resumed service](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
         - 'Assembly of persons in one location up to a maximum of 10 people is now permitted. Restaurants are now able to operate both indoor and outdoor seating. Customers in restaurants are required to wear masks and maintain social distancing measures, and a maximum of six people are allowed at one table. All retail and wholesale shops, including malls and currency exchanges, are now open. Hotels may resume operations after [inspection and permission from the Ministry of Health](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
+        - 'Hotels and non-essential shops [have reopened](https://www.garda.com/crisis24/news-alerts/370046/georgia-international-flight-restrictions-extended-until-october-1-update-16).'
       inbound:
-        - 'Commercial air travel to Georgia is [suspended until July 31, 2020, at least](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).'
+        - 'Commercial air travel to Georgia is [suspended until October 1, 2020, at least](https://www.garda.com/crisis24/news-alerts/370046/georgia-international-flight-restrictions-extended-until-october-1-update-16).'
+        - 'The restrictions on regular international flights [do not apply to direct international flights](https://www.garda.com/crisis24/news-alerts/370046/georgia-international-flight-restrictions-extended-until-october-1-update-16) between Tbilisi International Airport (TBS) and the Airport of Munich (MUC), Charles de Gaulle Airport (CDG), and Riga International Airport (RIX).'
     travel:
       domestic: 'partial'
       inbound: 'no'
@@ -2035,7 +2038,7 @@ countries:
     sources:
       domestic:
         - '[From June 3, 2020, it is possible to travel from one region to the other](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html).'
-        - 'Authorities announced the extension of the state of emergency until [September 7, 2020](https://www.garda.com/crisis24/news-alerts/359941/italy-authorities-extend-restrictions-until-july-31-update-36). All individuals must wear face masks on public transport and in public spaces, including in shops, public offices, hospitals and clinics, as well as workplaces where maintaining a social distance of at least 3 feet apart from each other is not possible.'
+        - 'Authorities announced the extension of the state of emergency until [September 7, 2020](https://www.garda.com/crisis24/news-alerts/359941/italy-authorities-extend-restrictions-until-july-31-update-36). All individuals must wear face masks on public transport and in public spaces, including in shops, public offices, hospitals and clinics. Night clubs will also be closed.'
       inbound:
         - 'From June 3, 2020, [travelling to and from the following States is allowed](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html): Member States of the European Union, States parties to the Schengen Agreement, the United Kingdom of Great Britain and Northern Ireland, Andorra, Monaco.'
         - 'Flights from Bangladesh have been [suspended from July 7, 2020](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html).'
@@ -3471,6 +3474,7 @@ countries:
         - 'Some COVID-19 restrictions eased, including the reopening of bars and entertainment venues on specific days and the lifting of bans on sporting activities and [inter-provincial travel](https://www.garda.com/crisis24/news-alerts/352821/papua-new-guinea-first-covid-19-case-since-april-identified-june-21-update-12).'
         - 'Face masks, which are due to be issued to all the city''s residents, [must be worn in all public places](https://www.garda.com/crisis24/news-alerts/362061/papua-new-guinea-government-makes-face-masks-compulsory-in-port-moresby-on-july-21-due-to-covid-19-cluster-update-13).'
         - 'Papua New Guinea announced that domestic flights between provinces have been [suspended as of August 7, 2020](https://www.garda.com/crisis24/news-alerts/367191/papua-new-guinea-authorities-suspend-domestic-flights-from-august-7-update-15).'
+        - 'Under the state of emergency through to September 21, 2020, there are [limits on movement and travel and requirements for social distancing](https://www.garda.com/crisis24/news-alerts/369806/papua-new-guinea-bougainville-government-extends-state-of-emergency-through-september-1-update-17).'
       inbound:
         - 'All international flights [remain severely restricted](https://www.garda.com/crisis24/news-alerts/362061/papua-new-guinea-government-makes-face-masks-compulsory-in-port-moresby-on-july-21-due-to-covid-19-cluster-update-13), with only limited services operating from Port Moresby to Brisbane and Cairns.'
         - 'The country''s maritime and land borders have been [closed as of July 27, 2020](https://www.garda.com/crisis24/news-alerts/362061/papua-new-guinea-government-makes-face-masks-compulsory-in-port-moresby-on-july-21-due-to-covid-19-cluster-update-13)'
@@ -3930,10 +3934,11 @@ countries:
         - '[The Romanian Government permitted the reopening of shopping centers, fitness clubs, private indoor events of no more than 20 people, and outdoor events of no more than 50 people](https://www.garda.com/crisis24/news-alerts/355876/romania-authorities-postpone-relaxing-of-some-covid-19-restrictions-june-30-update-9).'
         - '[Limitations on public gatherings and movement](https://www.garda.com/crisis24/news-alerts/360996/romania-authorities-extend-state-of-alert-through-august-16-update-10) are in place, and it is forbidden to organize and hold rallies, demonstrations, and other types of large gatherings in open spaces.'
         - '[A decree has been approved](https://www.garda.com/crisis24/news-alerts/360996/romania-authorities-extend-state-of-alert-through-august-16-update-10), allowing authorities to enforce the wearing of masks in certain outdoor spaces from July 29, 2020. In addition, authorities will be able to reduce activity for bars and restaurants by restricting opening hours.'
+        - 'More stringent restrictions may also be implemented by local authorities in some areas, with the counties of Arges and Dambovita placing further limits on [public gatherings and restricting bar and restaurant opening hours](https://www.garda.com/crisis24/news-alerts/369931/romania-authorities-extend-covid-19-state-of-alert-until-september-15-update-12).'
       inbound:
         - 'The Government has [eased commercial flight and travel restrictions to 22 countries](https://ro.usembassy.gov/covid-19-information/) with documented COVID-19 case reduction as of June 22, 2020.'
       outbound:
-        - 'Currently, 20 European states have prohibited or imposed restrictions on the entry of Romanians](https://business-review.eu/news/coronavirus-travel-update-20-countries-to-restrict-romania-for-traveling-211738).'
+        - 'Currently, 20 European states have prohibited or imposed restrictions on the [entry of Romanians](https://business-review.eu/news/coronavirus-travel-update-20-countries-to-restrict-romania-for-traveling-211738).'
       visa_quarantine:
         - 'The state of alert requires [home-quarantine for all people arriving in Romania](https://ro.usembassy.gov/covid-19-information/) except for certain professionals and people entering the country after spending at least 14 days in certain countries with low COVID-19 case growth, as determined by the National Institute of Public Health on a weekly basis'
     travel:
@@ -3972,7 +3977,7 @@ countries:
         inbound:
           - 'All COVID-19 related entry restrictions are [lifted for both Serbian and foreign citizens](https://www.gov.uk/foreign-travel-advice/san-marino/entry-requirements).'
         visa_quarantine:
-          - 'It is no longer necessary to have a negative PCR test or special permit to [enter Serbia.](https://www.gov.uk/foreign-travel-advice/san-marino/entry-requirements).'
+          - 'All foreign nationals seeking to enter the country from North Macedonia, Croatia, Bulgaria, or Romania, will need to provide a negative COVID-19 PCR test, taken within [2 days prior to their departure to the country](https://www.garda.com/crisis24/news-alerts/369936/serbia-authorities-introduce-new-covid-19-related-entry-restrictions-august-14-update-16).'
           - 'The government of Serbia has [abolished self-isolation requirements upon entry.](https://www.gov.uk/foreign-travel-advice/san-marino/entry-requirements).'
       travel:
         domestic: partial
@@ -4338,7 +4343,8 @@ countries:
   TD:
     sources:
       domestic:
-        - 'There are curfews in place in certain provinces from 11 pm to 5 am [through to August 17, 2020](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
+        - 'There are curfews in place in certain provinces from 11 pm to 5 am [through to August 17, 2020](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13). The nightly curfew applies in N''Djamena, Logone Occidental, Logone Oriental, Mayo-Kebbi Ouest, Guera, Kanem, and Mayo-Kebbi Est regions, Mandelia and Lougoun sub-prefectures in Chari Baguirmi region, and N''Djamena Fara sub-prefecture in Hadjer-Lamis region.'
+        - 'There are [restrictions on movement and public gatherings](https://www.garda.com/crisis24/news-alerts/370001/chad-authorities-extend-nightly-curfew-in-ndjamena-and-other-regions-through-august-31-update-15).'
       inbound:
         - 'All international commercial passenger flights [have resumed](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).'
       outbound:
