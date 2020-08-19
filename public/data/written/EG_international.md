@@ -8,6 +8,8 @@ Travelers from these countries are banned from entering Egypt:
 
 - Saudi Arabia, Jordan, Oman, Kuwait
 
+As of August 15, 2020, travelers to Egypt must have a negative COVID-19 test, taken 72 hours before arriving on Egyptian territory. Egyptian citizens, and tourists traveling to coastal tourist governorates (Red Sea, South Sinai, and Matrouh) are exempt.
+
 #### Outbound Travel: Who can travel out of Egypt?
 
 The border between Egypt and Jordan remains closed. Ferries between Egypt and Jordan are also suspended.
