@@ -33,7 +33,7 @@ const routes: Array<RouteConfig> = [
     name: 'OembedMap',
     component: OembedMap,
     children: [
-      { path: ':country.html', component: OembedMap },
+      { path: ':country.html', name: 'CountryOembedMap', component: OembedMap },
     ],
   },
   {
