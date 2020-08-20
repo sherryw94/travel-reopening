@@ -8,7 +8,7 @@ const webpack = require('webpack');
 const Renderer = PrerenderSPAPlugin.PuppeteerRenderer;
 
 const basePath = process.env.NODE_ENV === 'production'
-  ? '/en/ultimate-guide-covid19-travel-restrictions-reopening/' : '';
+  ? '/en/ultimate-guide-covid19-travel-restrictions-reopening/' : '/';
 const buildDir = 'dist';
 
 const sitemapPaths = require('./src/utils/sitemapPaths');
