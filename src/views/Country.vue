@@ -107,7 +107,7 @@ export default {
       return moment(checkedOn).toISOString();
     },
     articleImage() {
-      return `https://www.tourhero.com${process.env.BASE_URL}img/travel-reopening-cover.jpg`;
+      return `https://www.tourhero.com${this.baseUrl}img/travel-reopening-cover.jpg`;
     },
     emailTo() {
       const subject = encodeURI(`Travel Map Update for ${this.country.name}`);
