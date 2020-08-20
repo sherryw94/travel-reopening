@@ -113,7 +113,6 @@ export default {
   data() {
     return {
       countries: [],
-      isMobile: false,
       svgMaxWidth: 900,
       width: undefined,
       height: undefined,
@@ -142,7 +141,6 @@ export default {
       const padding = 12 * 2; // 2 rem
       this.width = Math.min(+select('body').style('width').slice(0, -2) - padding, this.svgMaxWidth) - padding;
       this.height = Math.round(this.width / 2);
-      this.isMobile = 'ontouchstart' in document && window.matchMedia('(max-width: 400px)').matches;
     },
     handleSizeChange() {
       // this.calculateMapSize();
@@ -213,8 +211,6 @@ export default {
         .attr('class', 'state')
         .attr('d', path)
         .on('click', (d) => {
-          if (this.isMobile) { return; }
-
           const country = this.getCountryById(d.id);
 
           if (this.$route.params.country === country.slug) return;
@@ -253,10 +249,7 @@ export default {
 
 <style lang="scss">
   .state {
-    @media (min-width: 400px), (hover: hover) {
-      cursor: pointer;
-      &:hover { opacity: 0.85; }
-    }
+    cursor: pointer;
     fill: theme("colors.gray.400");
     stroke: theme("colors.gray.200");
     stroke-width: 0.5;
@@ -266,8 +259,9 @@ export default {
     transition: fill 100ms ease;
     &.undefined { fill: theme("colors.gray.400"); }
     &.closed    { fill: theme("colors.secondary"); }
-    &.open      { fill: theme("colors.state-open") }
-    &.partial   { fill: theme("colors.state-partial") }
+    &.open      { fill: theme("colors.state-open"); }
+    &.partial   { fill: theme("colors.state-partial"); }
+    &:hover { opacity: 0.85; }
     &.current   {
       fill: theme("colors.primary");
       &:hover {
