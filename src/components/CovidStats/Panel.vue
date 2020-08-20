@@ -41,6 +41,7 @@ export default {
   },
   data() {
     return {
+      baseUrl: process.env.BASE_URL,
       stats: {
         totalCases: [],
         newCases: [],
@@ -58,7 +59,7 @@ export default {
   created() { this.getData(); },
   methods: {
     getData() {
-      csv(`data/covid/covid_${this.country.alpha3}.csv`)
+      csv(`${this.baseUrl}data/covid/covid_${this.country.alpha3}.csv`)
         .then((r) => {
           this.stats = r.reduce((acc, {
             date, total_cases, total_deaths, new_cases,
