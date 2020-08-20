@@ -1,0 +1,27 @@
+---
+sources:
+  domestic:
+  - From May 26, 2020, a curfew will be in place between [10 pm and 4 am (local time)
+    until further notice.](https://www.garda.com/crisis24/news-alerts/345906/sri-lanka-authorities-ease-curfew-measures-and-domestic-travel-restrictions-from-may-26-update-17)
+  - "[Inter-provincial and inter-district travel permitted](https://www.garda.com/crisis24/news-alerts/345906/sri-lanka-authorities-ease-curfew-measures-and-domestic-travel-restrictions-from-may-26-update-17),
+    except in Colombo and Gampaha, where travel will still be restricted."
+  - Individuals must continue to [socially distance and wear face masks in public](https://www.garda.com/crisis24/news-alerts/345906/sri-lanka-authorities-ease-curfew-measures-and-domestic-travel-restrictions-from-may-26-update-17).
+    Those who violate the guidelines will face fines or arrest.
+  inbound:
+  - Passengers holding any visa type are not permitted for inbound travel to Sri Lanka
+    unless they have [specific approval from the Government of Sri Lanka.](https://www.srilankan.com/en_uk/coporate/emergency-news-detail/517)
+  outbound:
+  - Sri Lankan Airlines announced an extension to the suspension of passenger flights
+    through May 15, 2020, due to COVID-19 restrictions and the [indefinite closure
+    of all international airports nationwide.](https://www.garda.com/crisis24/news-alerts/340666/sri-lanka-lockdown-restrictions-to-be-eased-may-11-update-15
+    )
+  visa_quarantine:
+  - As of March 12, 2020, Sri Lanka has [indefinitely suspended the issuance of on-arrival
+    visas for all visitors.](https://srilanka.travel/covid19/)
+  - Electronic Travel Authorizations (ETA), Landing endorsements, Resident Visas,
+    Entry Visas, and Multiple Entry Visas granted to foreigners who have not entered
+    Sri Lanka yet are [temporarily suspended.](https://www.srilankan.com/en_uk/coporate/emergency-news-detail/513)
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'yes'

@@ -1,0 +1,14 @@
+---
+sources:
+  domestic:
+  - "[A lockdown across Eritrea is in place](https://www.gov.uk/foreign-travel-advice/eritrea/entry-requirements)."
+  inbound:
+  - "[Asmara International Airport is currently closed](https://www.gov.uk/foreign-travel-advice/eritrea/entry-requirements)"
+  outbound:
+  - "[Asmara International Airport is currently closed](https://www.gov.uk/foreign-travel-advice/eritrea/entry-requirements)"
+  visa_quarantine:
+  - "[All entry visas to Eritrea have been suspended](https://www.gov.uk/foreign-travel-advice/eritrea/entry-requirements)."
+travel:
+  domestic: 'no'
+  inbound: 'no'
+  outbound: 'no'

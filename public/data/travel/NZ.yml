@@ -1,0 +1,24 @@
+---
+sources:
+  domestic:
+  - "[Travelers can travel around the country](https://covid19.govt.nz/alert-system/alert-level-2/#travel-and-transport),
+    if they follow good personal health measures."
+  - The State of National Emergency [has now been lifted](https://www.garda.com/crisis24/news-alerts/364626/new-zealand-pre-departure-covid-19-testing-to-be-compulsory-for-certain-flights-from-august-1-update-19).
+  - Level 3 lockdown restrictions have been placed on Auckland, where there are limits
+    to non-essential travel to other regions and public gatherings are limited to
+    10 people](https://www.garda.com/crisis24/news-alerts/368891/new-zealand-lockdown-measures-extended-in-auckland-through-august-26-update-21).
+    In addition, public venues, restaurants, bars, and cafes are also expected to
+    close.
+  inbound:
+  - "[Borders are closed for all foreign travelers](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18)."
+  outbound:
+  - The government advises against traveling out of New Zealand](https://covid19.govt.nz/travel-and-the-border/leaving-new-zealand/).
+  visa_quarantine:
+  - New Zealand citizens and residents may return to the country but must undergo
+    a [mandatory 14-day managed quarantine or isolation](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).
+  - From August 1, 2020, pre-departure COVID-19 testing will be obligatory for travelers
+    with flights with [Emirates and Etihad airlines](https://www.garda.com/crisis24/news-alerts/357296/new-zealand-air-new-zealand-suspend-incoming-flight-bookings-july-7-update-18).
+travel:
+  domestic: 'yes'
+  inbound: 'no'
+  outbound: partial

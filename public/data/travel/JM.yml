@@ -1,0 +1,20 @@
+---
+sources:
+  domestic:
+  - Movement restrictions apply and tourists may only travel within the designated
+    [Resilient Corridor.](https://www.jtbonline.org/wp-content/uploads/FAQs-for-Re-Opening-July-10.pdf).
+  - Prime Minister Andrew Holness announced that the 11 pm to 5 am (local time) nationwide
+    curfew and other COVID-19 restrictions will be [extended through September 30,
+    2020](https://www.garda.com/crisis24/news-alerts/364991/jamaica-authorities-extend-nationwide-nighttime-curfew-through-september-30-update-8).
+  inbound:
+  - All persons traveling to Jamaica require a [Travel Authorization](https://www.visitjamaica.com/travelauthorization/).
+  outbound:
+  - Travelers are free to [leave Jamaica](https://www.mbjairport.com/departures).
+  visa_quarantine:
+  - Visitors should expect to complete a COVID-19 test upon arrival. If the test is
+    positive, or if visitors develop COVID-19 symptoms during quarantine, they should
+    [expect to be placed in mandatory isolation](https://jm.usembassy.gov/covid-19-information-jamaica/).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

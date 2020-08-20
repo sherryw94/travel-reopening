@@ -1,0 +1,18 @@
+---
+reopening:
+  '2020-07-31': Until July 31, 2020, [foreign nationals are prohibited from entering
+    Moldova](https://www.trip.com/travel-restrictions-covid-19/).
+sources:
+  inbound:
+  - Until July 31, 2020, [foreign nationals are prohibited from entering Moldova](https://www.trip.com/travel-restrictions-covid-19/).
+  outbound:
+  - All international passenger flights to and from Chisinau International Airport
+    (KIV) [remain suspended](https://www.garda.com/crisis24/news-alerts/329291/moldova-over-500-confirmed-covid-19-cases-reported-as-of-april-4-update-3).
+  visa_quarantine:
+  - "[Moldova requires a 14-day home stay (quarantine) for new arrivals](https://md.usembassy.gov/u-s-citizen-services/covid-19-information/),
+    with certain exceptions including asymptomatic individuals delivering goods, crew
+    members, students, people traveling for health care, work related travelers with
+    visas, diplomatic corps accredited in Moldova, and passengers in transit."
+travel:
+  inbound: false
+  outbound: false

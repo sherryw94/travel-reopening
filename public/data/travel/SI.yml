@@ -1,0 +1,39 @@
+---
+sources:
+  domestic:
+  - "[Public gatherings are limited to 10 persons](https://si.usembassy.gov/covid-19-information/)."
+  - In public, people must [maintain a safe distance (1.5 meters) from other people.](https://si.usembassy.gov/covid-19-information/).
+  inbound:
+  - Ljubljana Airport is open, but with a [reduced number of flights](https://si.usembassy.gov/covid-19-information/).
+  visa_quarantine:
+  - Travelers entering from EU member states or Schengen Areas will be allowed to
+    enter [without quarantine if they are able to prove a negative COVID-19 test](https://www.gov.si/en/news/2020-06-18-mandatory-14-day-quarantine-for-persons-arriving-from-countries-with-a-worsening-epidemiological-situation/).
+  - Travelers arriving from epidemiologically unsafe countries will be [subject to
+    a 14 day quarantine](https://www.gov.si/en/news/2020-06-18-mandatory-14-day-quarantine-for-persons-arriving-from-countries-with-a-worsening-epidemiological-situation/).
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - HR
+  - AT
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IE
+  - LV
+  - LI
+  - LT
+  - LU
+  - MT
+  - ME
+  - false
+  - SK
+  - ES
+  - CH

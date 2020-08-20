@@ -1,0 +1,13 @@
+---
+sources:
+  inbound:
+  - "[The Micronesian states of Chuuk and Yap joined Pohnpei this week in banning
+    inbound arrivals by air, effectively shutting the country to visitors or returning
+    residents in response to the rapidly spreading global Covid-19 pandemic.](https://www.rnz.co.nz/international/pacific-news/412761/covid-19-micronesia-shuts-border-to-inbound-travellers)"
+  outbound:
+  - "[The FSM government is maintaining a prohibition on outbound travel by FSM citizens
+    unless they obtain approval from the government for special circumstances, including
+    returning to work abroad, their school, or for a family funeral.](https://www.rnz.co.nz/international/pacific-news/412761/covid-19-micronesia-shuts-border-to-inbound-travellers)"
+travel:
+  inbound: 'no'
+  outbound: partial

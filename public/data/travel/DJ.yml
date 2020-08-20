@@ -1,0 +1,18 @@
+---
+sources:
+  domestic:
+  - There is a [ban on gatherings of more than ten people.](https://www.garda.com/crisis24/news-alerts/360816/djibouti-authorities-to-allow-international-flights-to-resume-from-july-18-update-4)
+  inbound:
+  - International flights [have resumed](https://www.garda.com/crisis24/news-alerts/360816/djibouti-authorities-to-allow-international-flights-to-resume-from-july-18-update-4).
+  - Land and sea borders [have reopened](https://www.garda.com/crisis24/news-alerts/361331/djibouti-authorities-re-open-land-and-sea-borders-as-of-july-17-update-5).
+  outbound:
+  - International flights [have resumed](https://www.garda.com/crisis24/news-alerts/360816/djibouti-authorities-to-allow-international-flights-to-resume-from-july-18-update-4).
+  - Land and sea borders [have reopened](https://www.garda.com/crisis24/news-alerts/361331/djibouti-authorities-re-open-land-and-sea-borders-as-of-july-17-update-5).
+  visa_quarantine:
+  - Passengers at border entry points will be subject to screening at the travelers
+    expense; any travelers that test positive for the virus will immediately be [taken
+    to a treatment centre.](https://www.garda.com/crisis24/news-alerts/361331/djibouti-authorities-re-open-land-and-sea-borders-as-of-july-17-update-5).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

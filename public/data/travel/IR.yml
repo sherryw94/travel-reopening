@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - Gyms, swimming pools, and mosques have been closed, and school tests and exams
+    [have been postponed](https://www.garda.com/crisis24/news-alerts/360346/iran-authorities-reintroduce-lockdown-measures-in-tehran-on-july-15-update-35).
+  - "[Wearing of face masks in public places](https://www.garda.com/crisis24/news-alerts/355401/iran-wearing-of-facemasks-mandatory-in-certain-public-spaces-from-july-5-update-32)
+    will become mandatory from July 5, 2020 due to the ongoing coronavirus disease
+    (COVID-19) pandemic. The measures will remain in place until July 22, 2020, however,
+    they may be extended further."
+  - President Hassan Rouhani announced on July 11, 2020, that large gatherings including
+    weddings and funerals have been [banned until further notice](https://www.garda.com/crisis24/news-alerts/351296/iran-covid-19-death-toll-rises-amid-fears-of-second-wave-on-june-15-update-31).
+  inbound:
+  - "[Flights remain suspended until further notice](https://www.garda.com/crisis24/news-alerts/320716/iran-over-6500-confirmed-covid-19-cases-reported-as-further-flight-restrictions-are-implemented-march-8-update-11)."
+  outbound:
+  - "[Flights remain suspended until further notice](https://www.garda.com/crisis24/news-alerts/320716/iran-over-6500-confirmed-covid-19-cases-reported-as-further-flight-restrictions-are-implemented-march-8-update-11)."
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

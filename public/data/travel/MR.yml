@@ -1,0 +1,14 @@
+---
+sources:
+  domestic:
+  - On July 8, the Mauritanian Government decided to [lift the curfew](https://mr.usembassy.gov/covid-19-information-2/),
+    open the traffic between cities and open airports for domestic traffic.
+  inbound:
+  - On March 22, 2020, according to press sources, the Mauritanian government closed
+    all land and sea borders, and air space](https://mr.usembassy.gov/covid-19-information-2/).
+  visa_quarantine:
+  - "[Due to the constantly evolving situation, we cannot confirm the quarantine procedures
+    upon entry into neighboring countries or upon entry into Mauritania](https://mr.usembassy.gov/covid-19-information-2/)."
+travel:
+  domestic: years
+  inbound: 'no'

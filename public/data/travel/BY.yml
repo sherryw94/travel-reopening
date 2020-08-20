@@ -1,0 +1,6 @@
+---
+sources:
+  inbound:
+  - "[Belavia Airlines is resuming flights to Rome](https://by.usembassy.gov/health-alert-u-s-embassy-minsk-belarus-june-8-2020/)."
+travel:
+  inbound: partial

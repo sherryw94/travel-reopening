@@ -1,0 +1,18 @@
+---
+sources:
+  domestic:
+  - The full lockdown measures that had previously been imposed in the Analamanga
+    region, including Antananarivo, from July 6, 2020, and will remain in place until
+    August 10, 2020.](https://www.garda.com/crisis24/news-alerts/363616/madagascar-covid-19-state-of-emergency-extended-until-august-9-update-14)
+  - "[Gatherings of up to 50 people are permitted across the country](https://www.garda.com/crisis24/news-alerts/355161/madagascar-authorities-extend-health-state-of-emergency-and-update-covid-19-measures-in-worst-affected-areas-june-27-update-11),
+    though social distancing measures should be adhered to and face masks remain mandatory
+    for all individuals outdoors."
+  - "[Overland travel outside of the region will also be suspended](https://www.garda.com/crisis24/news-alerts/356801/madagascar-lockdown-measures-reimposed-in-analamanga-region-from-july-6-update-12)."
+  inbound:
+  - "[All land, sea, and air borders remain closed](https://www.worldaware.com/covid-19-alert-madagascar-lifts-some-restrictions-while-other-measures-place-through-june-30)."
+  outbound:
+  - "[All land, sea, and air borders remain closed](https://www.worldaware.com/covid-19-alert-madagascar-lifts-some-restrictions-while-other-measures-place-through-june-30)."
+travel:
+  domestic: 'no'
+  inbound: 'no'
+  outbound: 'no'

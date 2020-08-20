@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - Officials intend to allow cinemas and swimming pools to [restart operations from
+    July 6, 2020 with safeguards](https://www.worldaware.com/covid-19-alert-brunei-further-ease-domestic-controls-july-4),
+    such as limiting the facilities to 30 percent of the capacity and banning children
+    below 15 years of age.
+  - Restrictions on schools, markets, restaurants, sports facilities, and places of
+    worship eased, with these being [allowed to operate at full capacity from July
+    27, 2020](https://www.garda.com/crisis24/news-alerts/362551/brunei-government-announces-further-easing-of-covid-19-restrictions-from-july-27-update-8).
+  inbound:
+  - The Bruneian government has imposed an entry ban on all foreign travelers, including
+    transit passengers, from March 24, 2020 [until further notice](https://www.mfa.gov.sg/countries-regions/b/brunei-darussalam/travel-page).
+  outbound:
+  - From March 16, 2020, all citizens and residents of Brunei Darussalam are [not
+    permitted to leave the country](https://bn.usembassy.gov/coronavirus-covid-19-health-alert-30/).
+travel:
+  inbound: 'no'
+  outbound: false

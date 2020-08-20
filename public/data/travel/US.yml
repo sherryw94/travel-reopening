@@ -1,0 +1,75 @@
+---
+sources:
+  domestic:
+  - "[Majority of states are easing restrictions](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/).
+    Regulations differ from state to state. Refer to updated guidelines."
+  - Philadelphia Mayor Jim Kenney announced on July 14, 2020, that [most large public
+    events will be prohibited until February 28, 2021](https://www.usatoday.com/storytelling/coronavirus-reopening-america-map/).
+  - The no sail order for all cruise ships has been [extended until September 30,
+    2020](https://www.garda.com/crisis24/news-alerts/360901/us-cruise-lines-prohibited-from-sailing-until-september-30-update-75).
+  - The Mayor of Chicago announced that establishments which do not serve food will
+    only be [permitted to serve customers outdoors](https://www.garda.com/crisis24/news-alerts/361496/us-chicago-authorities-to-reinstate-precautionary-restrictions-on-certain-establishments-from-july-24-update-76).
+  inbound:
+  - There are restrictions on the entry of certain travelers into the United States.
+    Refer to the CDC website for [full details.](https://www.cdc.gov/coronavirus/2019-ncov/travelers/from-other-countries.html)
+  - Land border restrictions with Mexico will be [extended through September 21, 2020](https://mx.usembassy.gov/travel-restrictions-fact-sheet/).
+  - Canadian and US authorities announced on July 15, 2020, that the closure of their
+    mutual border has been [extended until at least September 21, 2020](https://www.garda.com/crisis24/news-alerts/360646/canada-authorities-extend-border-closure-with-us-until-august-21-update-20).
+  outbound:
+  - The U.S. Department of State has issued lifted the Global Level 4 Health Advisory,
+    but still [advising against international travel to some countries](https://www.garda.com/crisis24/news-alerts/366796/us-authorities-lift-global-covid-19-advisory-against-international-travel-august-6-update-81)
+  - Air travel is possible with [flights operating at a limited capacity](https://www.flylax.com/travelsafely).
+    Precautions should be taken.
+  visa_quarantine:
+  - While not enforced, travelers are advised to [stay home for 14 days from the time
+    they return home from international travel](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).
+  - People traveling to New York, New Jersey, Connecticut, Alaska, Delaware, Indiana,
+    Maryland, Missouri, Montana, North Dakota, Nebraska, Virginia, and Washington
+    from 31 other states, are now [required to self-quarantine for 14 days as of July
+    21, 2020](https://www.cdc.gov/coronavirus/2019-ncov/travelers/after-travel-precautions.html).
+  - As of July 27, 2020, passengers arriving in Washington, DC from a high-risk state
+    (within the prior 14 days) who were traveling for non-essential activities will
+    be required to [self-quarantine for 14 days](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).
+  - As of August 1, 2020, passengers arriving in Massachusetts will have to [undergo
+    a mandatory 14-day quarantine](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).
+  - A 14-day quarantine mandate is in place in New York, for travelers [arriving from
+    35 designated states](https://www.garda.com/crisis24/news-alerts/364271/us-arriving-passengers-in-massachusetts-and-washington-dc-to-undergo-14-day-quarantine-as-of-july-27-update-79).
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_restricted:
+  - CN
+  - IR
+  - AT
+  - BE
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IT
+  - LV
+  - LI
+  - LT
+  - LU
+  - MT
+  - NL
+  - false
+  - PL
+  - PT
+  - SK
+  - SI
+  - ES
+  - SE
+  - CH
+  - MC
+  - SM
+  - VA
+  - GB
+  - IE
+  - BR
+  outbound: partial

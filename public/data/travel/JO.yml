@@ -1,0 +1,23 @@
+---
+sources:
+  domestic:
+  - Jordanian authorities have [granted approval](https://jo.usembassy.gov/covid-19-information/)
+    for entertainment and recreation activities within tourist resorts to resume.
+  - A curfew remains in effect in Jordan between the hours of [12 am to 6 am (local
+    time).](https://www.garda.com/crisis24/news-alerts/366081/jordan-authorities-delay-resumption-of-international-flights-august-4-update-28)
+  - Public transportation is [operational at 50 percent capacity.](https://www.garda.com/crisis24/news-alerts/366081/jordan-authorities-delay-resumption-of-international-flights-august-4-update-28)
+  - Hotels, restaurants, bars, gyms, and nurseries are [operating at a limited capacity.](https://www.garda.com/crisis24/news-alerts/366081/jordan-authorities-delay-resumption-of-international-flights-august-4-update-28)
+  - Individuals are prohibited from [entering and leaving Ramtha](https://www.garda.com/crisis24/news-alerts/369526/jordan-authorities-impose-restrictions-and-increase-curfew-hours-in-ramtha-august-17-update-30)
+  inbound:
+  - Jordanian authorities have announced that resumption of international flight services
+    are [suspended indefinitely](https://www.garda.com/crisis24/news-alerts/366081/jordan-authorities-delay-resumption-of-international-flights-august-4-update-28)
+  outbound:
+  - Jordanian authorities have announced that resumption of international flight services
+    are [suspended indefinitely](https://www.garda.com/crisis24/news-alerts/366081/jordan-authorities-delay-resumption-of-international-flights-august-4-update-28)
+  visa_quarantine:
+  - All passengers arriving or departing from Jordan will be [required to undergo
+    a COVID-19 test.](https://www.garda.com/crisis24/news-alerts/362156/jordan-authorities-announce-on-july-21-that-some-international-flights-will-resume-in-august-update-26)
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

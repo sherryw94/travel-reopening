@@ -1,0 +1,14 @@
+---
+sources:
+  inbound:
+  - Government of the Marshall Islands [extended a ban on inbound travel to the country
+    through August 5, 2020](https://www.garda.com/crisis24/news-alerts/356961/marshall-islands-authorities-extend-ban-on-international-arrivals-to-august-5-update-5).
+  outbound:
+  - "[There remains a ban on government outbound travel](https://www.garda.com/crisis24/news-alerts/356961/marshall-islands-authorities-extend-ban-on-international-arrivals-to-august-5-update-5)
+    and all Marshall Islands residents remain strongly advised against travel abroad."
+  visa_quarantine:
+  - Individuals arriving into the country, will now be required to undergo a [21-day
+    quarantine](https://www.garda.com/crisis24/news-alerts/356961/marshall-islands-authorities-extend-ban-on-international-arrivals-to-august-5-update-5).
+travel:
+  inbound: 'no'
+  outbound: 'no'

@@ -1,0 +1,279 @@
+---
+sources:
+  domestic:
+  - Shopping malls, markets, warehouses, auto-repair shops, and hair salons will be
+    [allowed to remain open](https://www.garda.com/crisis24/news-alerts/356556/pakistan-authorities-extend-lockdown-in-balochistan-province-until-july-15-update-32)
+    from 9 am to 7 pm (local time) on Thursdays and Saturdays, all businesses will
+    remain closed on Fridays.
+  - Educational facilities throughout the Balochistan province will [remain closed
+    until the end of the lockdown](https://www.garda.com/crisis24/news-alerts/356556/pakistan-authorities-extend-lockdown-in-balochistan-province-until-july-15-update-32),
+    while cinemas, wedding halls, and farmhouses will remain closed indefinitely.
+    Additionally, public gatherings of more than ten people remain prohibited, as
+    well as political rallies and social and religious events.
+  - "[Pakistan has resumed of domestic flight operations](https://www.garda.com/crisis24/news-alerts/366661/pakistan-authorities-announce-resumption-of-domestic-flights-at-several-airports-august-6-update-33)
+    at all airports."
+  inbound:
+  - "[Entry is allowed](https://www.garda.com/crisis24/news-alerts/367186/pakistan-authorities-to-allow-international-flights-to-resume-from-all-airports-from-august-9-update-34)
+    but all travelers must fill out a health declaration form prior to boarding, and
+    travelers will also be subject to thermal scanning at the time of departure and
+    arrival."
+  outbound:
+  - Travelers departing Pakistan are subject to local health screening that may include
+    a questionnaire, temperature monitoring. [Passengers may be denied boarding.](https://pk.usembassy.gov/covid-19-information/)
+  visa_quarantine:
+  - Travelers arriving in Pakistan are subject to local health requirements to include
+    COVID-19 testing on arrival and could include [isolation or quarantine.](https://pk.usembassy.gov/covid-19-information/)
+travel:
+  domestic: partial
+  inbound: 'yes'
+  inbound_allowed:
+  - AD
+  - AE
+  - AF
+  - AG
+  - AI
+  - AL
+  - AM
+  - AO
+  - AQ
+  - AR
+  - AS
+  - AT
+  - AU
+  - AW
+  - AX
+  - AZ
+  - BA
+  - BB
+  - BD
+  - BE
+  - BF
+  - BG
+  - BH
+  - BI
+  - BJ
+  - BL
+  - BM
+  - BN
+  - BO
+  - BQ
+  - BR
+  - BS
+  - BT
+  - BV
+  - BW
+  - BY
+  - BZ
+  - CA
+  - CC
+  - CD
+  - CF
+  - CG
+  - CH
+  - CI
+  - CK
+  - CL
+  - CM
+  - CN
+  - CO
+  - CR
+  - CU
+  - CV
+  - CW
+  - CX
+  - CY
+  - CZ
+  - DE
+  - DJ
+  - DK
+  - DM
+  - DO
+  - DZ
+  - EC
+  - EE
+  - EG
+  - EH
+  - ER
+  - ES
+  - ET
+  - FI
+  - FJ
+  - FK
+  - FM
+  - FO
+  - FR
+  - GA
+  - GB
+  - GD
+  - GE
+  - GF
+  - GG
+  - GH
+  - GI
+  - GL
+  - GM
+  - GN
+  - GP
+  - GQ
+  - GR
+  - GS
+  - GT
+  - GU
+  - GW
+  - GY
+  - HK
+  - HM
+  - HN
+  - HR
+  - HT
+  - HU
+  - ID
+  - IE
+  - IL
+  - IM
+  - IN
+  - IO
+  - IQ
+  - IR
+  - IS
+  - IT
+  - JE
+  - JM
+  - JO
+  - JP
+  - KE
+  - KG
+  - KH
+  - KI
+  - KM
+  - KN
+  - KP
+  - KR
+  - KW
+  - KY
+  - KZ
+  - LA
+  - LB
+  - LC
+  - LI
+  - LK
+  - LR
+  - LS
+  - LT
+  - LU
+  - LV
+  - LY
+  - MA
+  - MC
+  - MD
+  - ME
+  - MF
+  - MG
+  - MH
+  - MK
+  - ML
+  - MM
+  - MN
+  - MO
+  - MP
+  - MQ
+  - MR
+  - MS
+  - MT
+  - MU
+  - MV
+  - MW
+  - MX
+  - MY
+  - MZ
+  - NA
+  - NC
+  - NE
+  - NF
+  - NG
+  - NI
+  - NL
+  - false
+  - NP
+  - NR
+  - NU
+  - NZ
+  - OM
+  - PA
+  - PE
+  - PF
+  - PG
+  - PH
+  - PK
+  - PL
+  - PM
+  - PN
+  - PR
+  - PS
+  - PT
+  - PW
+  - PY
+  - QA
+  - RE
+  - RO
+  - RS
+  - RU
+  - RW
+  - SA
+  - SB
+  - SC
+  - SD
+  - SE
+  - SG
+  - SH
+  - SI
+  - SJ
+  - SK
+  - SL
+  - SM
+  - SN
+  - SO
+  - SR
+  - SS
+  - ST
+  - SV
+  - SX
+  - SY
+  - SZ
+  - TC
+  - TD
+  - TF
+  - TG
+  - TH
+  - TJ
+  - TK
+  - TL
+  - TM
+  - TN
+  - TO
+  - TR
+  - TT
+  - TV
+  - TW
+  - TZ
+  - UA
+  - UG
+  - UM
+  - US
+  - UY
+  - UZ
+  - VA
+  - VC
+  - VE
+  - VG
+  - VI
+  - VN
+  - VU
+  - WF
+  - WS
+  - YE
+  - YT
+  - ZA
+  - ZM
+  - ZW
+  outbound: partial

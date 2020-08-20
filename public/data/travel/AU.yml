@@ -1,0 +1,33 @@
+---
+sources:
+  domestic:
+  - Victoria's state of emergency through September 13, 2020](https://www.garda.com/crisis24/news-alerts/369566/australia-victoria-authorities-extend-state-of-emergency-through-september-13-update-43).
+    People in these areas may not leave their home between 8 pm and 5 am (local time),
+    unless for work, medical care, or care giving, along with one exercise session
+    per day.
+  - "[NSW will ease restrictions on July 1, 2020](https://www.garda.com/crisis24/news-alerts/352701/australia-authorities-in-victoria-state-reimpose-restrictions-and-extend-state-of-emergency-until-july-19-update-29),
+    with the 50-person cap for indoor venues to be lifted provided guests apply social
+    distancing measures."
+  - Border between the Victoria and New South Wales will [close from 11.59 pm (local
+    time) on July 7, 2020, until further notice](https://www.garda.com/crisis24/news-alerts/356941/australia-victoria-new-south-wales-border-to-close-on-july-7-update-34).
+  - The city of Melbourne has tightened movement restrictions and now has a nightly
+    curfew in place from 8 pm to 5 am. [Recreational activity is no longer permitted](https://www.garda.com/crisis24/news-alerts/365756/australia-nonessential-businesses-in-melbourne-to-close-for-six-weeks-from-august-5-due-to-covid-19-update-40).
+  - Authorities have stated that non-essential businesses in Melbourne are to close
+    for at least six weeks from August 5, 2020](https://www.garda.com/crisis24/news-alerts/365756/australia-nonessential-businesses-in-melbourne-to-close-for-six-weeks-from-august-5-due-to-covid-19-update-40).
+  - South Australia closed its border on July 28, 2020, banning anyone, including
+    South Australians, [from entering the state from neighboring Victoria](https://www.garda.com/crisis24/news-alerts/364636/australia-south-australia-closes-border-with-victoria-july-28-update-38).
+  - Queensland authorities announce border closures with New South Wales and Australian
+    Capital Territory [from August 8, 2020](https://www.garda.com/crisis24/news-alerts/366126/australia-queensland-authorities-announce-border-closures-with-nsw-and-act-from-august-8-update-42).
+  - Tasmania's borders will remain [closed until at least December 1, 2020](https://www.garda.com/crisis24/news-alerts/370381/australia-tasmanian-borders-to-remain-closed-until-december-1-update-44).
+  inbound:
+  - Nationals of New Zealand usually residing in Australia are [allowed to enter Australia](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).
+  outbound:
+  - There is a [ban on Australians traveling overseas](https://www.smartraveller.gov.au/COVID-19-australian-travellers#departing).
+  visa_quarantine:
+  - When you arrive in Australia from overseas, you must complete [14 days of mandatory
+    quarantine in designated facilities](https://www.smartraveller.gov.au/) in the
+    city you arrive in.
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

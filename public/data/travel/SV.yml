@@ -1,0 +1,6 @@
+---
+sources:
+  inbound:
+  - "[There are no commercial flights entering or departing El Salvador at this time.](https://sv.usembassy.gov/covid-19-information/)"
+travel:
+  inbound: 'no'

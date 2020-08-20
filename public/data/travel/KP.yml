@@ -1,0 +1,15 @@
+---
+sources:
+  domestic:
+  - Cities have been quarantined, with [limited entry and exit and extensive checkpoints
+    set up](https://www.garda.com/crisis24/news-alerts/365721/north-korea-authorities-implement-tighter-lockdown-restrictions-on-august-2-update-4).
+  - North Korean authorities have lifted the lockdown [placed on the southern city
+    of Kaesong](https://www.garda.com/crisis24/news-alerts/369066/north-korea-authorities-lift-lockdown-restrictions-in-kaesong-north-hwanghae-province-august-14-update-5).
+  inbound:
+  - "[A ban on inbound tourist travel remains in place](https://www.worldaware.com/covid-19-alert-north-korea-continues-enforcing-measures-may-15)."
+  visa_quarantine:
+  - Foreigners who have travelled into North Korea from virus-affected countries are
+    subject to a [30 day period of quarantine and medical supervision](https://www.worldaware.com/covid-19-alert-north-korea-continues-enforcing-measures-may-15).
+travel:
+  domestic: partial
+  inbound: 'no'

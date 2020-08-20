@@ -1,0 +1,11 @@
+---
+sources:
+  inbound:
+  - "[Updated 22 April, 2020: Only Tongan citizens and permanent residents can enter
+    Tonga at this time.](https://www.smartraveller.gov.au/destinations/pacific/tonga)"
+  outbound:
+  - "[Most international flights have been cancelled, and options to leave are extremely
+    limited.](https://www.smartraveller.gov.au/destinations/pacific/tonga)"
+travel:
+  inbound: 'no'
+  outbound: 'no'

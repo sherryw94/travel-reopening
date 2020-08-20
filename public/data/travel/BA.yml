@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - Wearing masks and social distancing (a minimum of 2 metres) are [mandatory in
+    all public places](https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-Bosnia-and-Herzegovina.pdf).
+  inbound:
+  - The BiH Council of Ministers has announced that it will allow entry to the citizens
+    of Croatia, Serbia, and Montenegro as of June 1, 2020. There is [still a ban to
+    entry for non-resident foreign nationals.](https://ba.usembassy.gov/covid-19-information/)
+  visa_quarantine:
+  - Both the Republika Srpska and the Federation have [abolished self-isolation measures
+    for people entering BiH.](https://ba.usembassy.gov/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - HR
+  - RS
+  - ME

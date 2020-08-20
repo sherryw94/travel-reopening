@@ -1,0 +1,18 @@
+---
+sources:
+  domestic:
+  - As of April 29, 2020, restrictions on the movement of people and public gatherings,
+    and a curfew [have been lifted](https://www.garda.com/crisis24/news-alerts/326596/anguilla-all-ports-of-entry-closed-from-march-20-april-3).
+  inbound:
+  - Authorities announced that the current [border closure restrictions will be extended
+    until at least July 30, 2020](https://www.garda.com/crisis24/news-alerts/359751/anguilla-authorities-extend-border-closure-until-july-30-update-3).
+  outbound:
+  - Authorities announced that the current [border closure restrictions will be extended
+    until at least July 30, 2020](https://www.garda.com/crisis24/news-alerts/359751/anguilla-authorities-extend-border-closure-until-july-30-update-3).
+  visa_quarantine:
+  - All individuals who have traveled outside of the Caribbean region within 14 days
+    of entering Anguilla will be [quarantined for two weeks upon arrival](https://www.garda.com/crisis24/news-alerts/326596/anguilla-all-ports-of-entry-closed-from-march-20-april-3).
+travel:
+  domestic: 'yes'
+  inbound: 'no'
+  outbound: 'no'

@@ -1,0 +1,25 @@
+---
+sources:
+  domestic:
+  - Local authorities in the northern province of Erbil began [easing restrictions
+    in place on July 4, 2020](https://www.garda.com/crisis24/news-alerts/357026/iraq-authorities-ease-covid-19-restrictions-in-erbil-province-on-july-4-update-39).
+  - "[The national 7 pm to 6 am (local time) curfew remains in place](https://www.garda.com/crisis24/news-alerts/367431/iraq-covid-19-curfew-extended-nationwide-until-august-15-update-47)
+    in Iraq's other provinces, except for the Kurdistan region"
+  - Authorities in the KRG imposed tighter travel restrictions between the region
+    and the rest of Iraq, with no travel permitted between the two through August
+    11, 2020 [without an electronic permit](https://www.garda.com/crisis24/news-alerts/365991/iraq-kurdish-authorities-close-border-with-turkey-on-august-4-due-to-covid-19-update-46).
+    Public gatherings and events are banned, with tourist areas, parks and restaurants
+    closed indefinitely.
+  inbound:
+  - The airports of Erbil and Sulaymaniyah have [reopened since August 1, 2020](https://www.garda.com/crisis24/news-alerts/364696/iraq-passengers-traveling-from-erbil-and-sulaimani-airports-to-undergo-covid-19-tests-prior-to-travel-from-august-1-update-45).
+  - The government announced that airports have reopened for [limited international
+    commercial flights](https://www.garda.com/crisis24/news-alerts/363481/iraq-authorities-announce-total-lockdown-for-eid-al-adha-holiday-until-august-9-update-44).
+  - Iraq's border crossing with Turkey will be [closed until August 11, 2020](https://www.garda.com/crisis24/news-alerts/365991/iraq-kurdish-authorities-close-border-with-turkey-on-august-4-due-to-covid-19-update-46).
+  outbound:
+  - The government announced that airports have reopened for [limited international
+    commercial flights](https://www.garda.com/crisis24/news-alerts/363481/iraq-authorities-announce-total-lockdown-for-eid-al-adha-holiday-until-august-9-update-44).
+  - The airports of Erbil and Sulaymaniyah have [reopened since August 1, 2020](https://www.garda.com/crisis24/news-alerts/364696/iraq-passengers-traveling-from-erbil-and-sulaimani-airports-to-undergo-covid-19-tests-prior-to-travel-from-august-1-update-45).
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial

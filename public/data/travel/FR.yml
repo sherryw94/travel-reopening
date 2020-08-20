@@ -1,0 +1,73 @@
+---
+sources:
+  domestic:
+  - France announced the long-awaited nationwide reopening of bars, restaurants and
+    cafes from June 2, 2020, albeit with restrictions, and [lifted limitations on
+    domestic travel in time for the summer holidays.](https://www.businesstimes.com.sg/government-economy/france-to-reopen-cafes-end-domestic-travel-limit)
+  - The wearing of face masks in indoor and outdoor public spaces will be [compulsory
+    throughout the country from August 10, 2020](https://www.garda.com/crisis24/news-alerts/361151/france-face-masks-to-be-compulsory-in-indoor-public-spaces-from-july-20-update-31).
+  inbound:
+  - "[Entry is not allowed](https://www.diplomatie.gouv.fr/en/coming-to-france/coronavirus-advice-for-foreign-nationals-in-france/coronavirus-statements/article/travel-restrictions-and-implementation-of-public-health-measures-at-borders)
+    for travelers arriving from outside the European area (all countries of the world
+    except European Union member States, the United Kingdom, Andorra, Iceland, Lichtenstein,
+    Monaco, Norway, San Marino, Switzerland, Vatican City)."
+  outbound:
+  - Avoid non-essential travel, especially [beyond EU member states and Schengen Associated
+    States](https://ec.europa.eu/transparency/regdoc/rep/1/2020/EN/COM-2020-115-F1-EN-MAIN-PART-1.PDF).
+  visa_quarantine:
+  - 'For French nationals and foreign nationals living in France with a national permit:
+    if you travel to a French Overseas Territory, or if you present symptoms of COVID-19
+    when you arrive in French territory, [you will be required to quarantine](https://www.gouvernement.fr/en/coronavirus-covid-19).'
+  - Travelers arriving from outside the European space are given, upon arrival, information
+    on the conditions for a [voluntary quarantine in the residence of their choice](https://www.gouvernement.fr/en/coronavirus-covid-19),
+    or where appropriate, in an appropriate accommodation structure.
+  - "[There will be no quarantine requirements](https://www.gouvernement.fr/en/coronavirus-covid-19)
+    for travelers arriving from inside the European space (European Union Member States,
+    the United Kingdom, Andorra, Iceland, Liechtenstein, Monaco, Norway, San Marino,
+    Switzerland, Holy See)."
+travel:
+  domestic: 'yes'
+  inbound: partial
+  inbound_allowed:
+  - BE
+  - BG
+  - CZ
+  - DK
+  - DE
+  - EE
+  - IE
+  - EL
+  - ES
+  - FR
+  - HR
+  - IT
+  - CY
+  - LV
+  - LT
+  - LU
+  - HU
+  - MT
+  - NL
+  - AT
+  - PL
+  - PT
+  - RO
+  - SI
+  - SK
+  - FI
+  - SE
+  - GB
+  - AD
+  - IS
+  - LI
+  - MC
+  - false
+  - CH
+  - SM
+  - VA
+  outbound: partial
+travel_ideas:
+- alt: Books and films that were inspired by cafes in Paris
+  href: https://www.tourhero.com/en/magazine/gastronomy/8-cafes-in-paris-that-inspired-your-favorite-books-and-films/
+  src: café-in-Paris-food-1891x880.jpg
+  title: 8 Cafes in Paris that inspired your favorite books and films

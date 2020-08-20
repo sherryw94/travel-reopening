@@ -1,0 +1,25 @@
+---
+reopening:
+  '2020-09-01': International flights will be [permitted from September 1, 2020](https://www.garda.com/crisis24/news-alerts/369231/cuba-authorities-suspend-commercial-flights-through-september-1-update-12).
+sources:
+  domestic:
+  - Havana will have its bars, restaurants, pools, and beaches will be closed, and
+    public transport [suspended](https://www.garda.com/crisis24/news-alerts/367381/cuba-authorities-reimpose-lockdown-in-havana-august-8-update-11),
+    under new lockdown measures.
+  inbound:
+  - The Cuban government [suspended the arrival and departure of all international
+    flights](https://www.garda.com/crisis24/news-alerts/369231/cuba-authorities-suspend-commercial-flights-through-september-1-update-12)
+    through September 1, 2020.
+  outbound:
+  - The Cuban government [suspended the arrival and departure of all international
+    flights](https://www.garda.com/crisis24/news-alerts/369231/cuba-authorities-suspend-commercial-flights-through-september-1-update-12)
+    through September 1, 2020.
+  visa_quarantine:
+  - "[Authorities may isolate individuals](https://cu.usembassy.gov/covid-19-information/)
+    arriving from COVID-19 high risk countries, or those exhibiting symptoms similar
+    to COVID-19, as well as require screening and evaluation at a local hospital or
+    clinic."
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

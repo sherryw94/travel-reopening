@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - "[Malls are permitted to reopen](https://www.garda.com/crisis24/news-alerts/347446/trinidad-and-tobago-further-easing-of-covid-19-restrictions-from-june-1-update-5)
+    on the condition that members of the public observe social distancing and wear
+    face masks."
+  - Caribbean Airlines also stated that as of June 1, 2020, it would be increasing
+    domestic services between the islands of Trinidad and Tobago following the [lifting
+    of restrictions on domestic flights](https://www.garda.com/crisis24/news-alerts/347446/trinidad-and-tobago-further-easing-of-covid-19-restrictions-from-june-1-update-5).
+  - Authorities introduced measures that will [last until September 2, 2020,](https://www.garda.com/crisis24/news-alerts/369586/trinidad-and-tobago-authorities-announce-reintroduction-of-restrictions-as-of-august-17-update-6)
+    and include the suspension of in-house dining, with only take-away services permitted.
+    Places of worship will also be closed, together with beaches, gyms, and parks.
+    Taxis will be limited to 50 percent capacity.
+  inbound:
+  - As of April 3, 2020, [borders remain closed until further notice](https://www.garda.com/crisis24/news-alerts/329131/trinidad-and-tobago-travel-restrictions-continue-amid-covid-19-pandemic-april-3-update-2).
+    All airports and seaports are currently closed to inbound traffic. Entry ban applies
+    to all travelers, including Trinidad and Tobago citizens.
+travel:
+  inbound: 'no'

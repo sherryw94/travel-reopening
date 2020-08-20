@@ -1,0 +1,14 @@
+---
+sources:
+  domestic:
+  - Authorities have extended nationwide state of calamity [until August 15, 2020.](https://www.garda.com/crisis24/news-alerts/365276/sao-tome-and-principe-authorities-extend-state-of-calamity-until-august-15-update-4)
+  inbound:
+  - "[International arrivals are permitted](https://www.garda.com/crisis24/news-alerts/347546/sao-tome-and-principe-authorities-extend-nationwide-state-of-emergency-until-june-15-update-3)
+    after COVID-19 measures were eased."
+  visa_quarantine:
+  - International arrivals are required to present a negative COVID-19 test from within
+    72 hours prior to travel to the country, and those without evidence may be subject
+    to a test and may also be required to [undertake a quarantine period.](https://www.garda.com/crisis24/news-alerts/365276/sao-tome-and-principe-authorities-extend-state-of-calamity-until-august-15-update-4)
+travel:
+  domestic: partial
+  inbound: true

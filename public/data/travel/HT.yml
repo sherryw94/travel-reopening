@@ -1,0 +1,22 @@
+---
+sources:
+  domestic:
+  - Schools, universities, vocational centers, and factories are closed until further
+    notice; gatherings larger than 10 people have been banned. Mask wearing is required
+    in public and in instances where social distancing cannot be maintained. [A curfew
+    is in place from 12 am to 4 am](https://ht.usembassy.gov/covid-19-information/).
+  inbound:
+  - "[Commercial airlines resumed regular flight services](https://ht.usembassy.gov/covid-19-information/)
+    to and from Haiti beginning on July 1, 2020. The land border with the Dominican
+    Republic is open to pedestrian and vehicular traffic as of July 1, 2020."
+  outbound:
+  - "[Commercial airlines resumed regular flight services](https://ht.usembassy.gov/covid-19-information/)
+    to and from Haiti beginning on July 1, 2020. The land border with the Dominican
+    Republic is open to pedestrian and vehicular traffic as of July 1, 2020."
+  visa_quarantine:
+  - The Government of Haiti has stated it will impose a requirement that [all arriving
+    passengers self-quarantine for 14 days](https://ht.usembassy.gov/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

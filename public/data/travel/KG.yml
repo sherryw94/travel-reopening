@@ -1,0 +1,14 @@
+---
+sources:
+  domestic:
+  - Authorities also temporarily [suspended public transport in Bishkek and interprovincial
+    travel](https://www.garda.com/crisis24/news-alerts/352531/kyrgyzstan-renewed-covid-19-restrictions-introduced-until-june-22-update-13).
+    Shopping malls, markets, and parks in major cities will also be closed.
+  inbound:
+  - "[Foreign nationals are banned from entering the country](https://kg.usembassy.gov/covid-19-information/)."
+  visa_quarantine:
+  - "[All travelers who enter Kyrgyzstan may undergo mandatory COVID-19 testing and/or
+    be [quarantined up to 14 days in a government facility](https://kg.usembassy.gov/covid-19-information/)."
+travel:
+  domestic: partial
+  inbound: false

@@ -1,0 +1,17 @@
+---
+sources:
+  domestic:
+  - "[Domestic travel is allowed](https://www.macaotourism.gov.mo/en/announcement)."
+  - Wearing a mask is mandatory when traveling on public transport, including buses,
+    taxis, the Light Rapid Transit (LRT) trains, and ferries. You will [not be allowed
+    to board if you do not wear a mask](https://www.macaotourism.gov.mo/en/announcement).
+  inbound:
+  - Residents of Macau and travelers from Mainland China, Hong Kong, and Taiwan are
+    allowed entry under certain conditions. [All other foreign travelers are denied
+    entry](https://www.garda.com/crisis24/news-alerts/364586/mongolia-authorities-extend-covid-19-measures-through-august-31-update-12).
+  outbound:
+  - Many airlines have [reduced or canceled flights to Macau](https://mn.usembassy.gov/covid-19-information/).
+travel:
+  domestic: 'yes'
+  inbound: partial
+  outbound: partial

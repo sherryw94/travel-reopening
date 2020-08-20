@@ -1,0 +1,19 @@
+---
+reopening:
+  '2020-09-01': International flights should [resume on September 1, 2020](https://www.garda.com/crisis24/news-alerts/365641/india-over-17-million-covid-19-cases-confirmed-as-of-august-2-update-61).
+sources:
+  domestic:
+  - Domestic flights have resumed with [strict restrictions](https://www.freepressjournal.in/india/ready-to-take-that-domestic-flight-here-is-the-list-of-guidelines-issued-by-dgca-for-airlines).
+  - Lockdown restrictions in different cities [differ](https://www.bbc.com/news/world-asia-india-52707371).
+  inbound:
+  - The suspension of international flights have been [extended until at least August
+    31, 2020](https://www.garda.com/crisis24/news-alerts/365641/india-over-17-million-covid-19-cases-confirmed-as-of-august-2-update-61).
+  outbound:
+  - "[Indians are strongly advised to avoid non-essential travel](https://boi.gov.in/content/advisory-travel-and-visa-restrictions-related-covid-19-1)
+    to Corona Virus affected countries."
+  visa_quarantine:
+  - Refer to the [FAQ on New Visa Restrictions for COVID-19.](https://boi.gov.in/sites/default/files/u4/faq-covid19.pdf)
+travel:
+  domestic: partial
+  inbound: false
+  outbound: partial

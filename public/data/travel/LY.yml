@@ -1,0 +1,16 @@
+---
+sources:
+  domestic:
+  - All mosques, schools, restaurants, wedding halls, parks, and shops [remain closed](https://www.garda.com/crisis24/news-alerts/366916/libya-gna-impose-24-hour-curfew-august-7-8-update-17).
+  - Tripoli government imposes a curfew and a ban on inter-city travel, until 17 August,
+    2020, and [masks are mandatory](https://www.meed.com/covid-19-infections-grow-in-libya-and-syria).
+  inbound:
+  - The GNA extended a [ban on civil aviation for a further 15 days as of July 19,
+    2020](https://www.garda.com/crisis24/news-alerts/361406/libya-gna-extends-nationwide-curfew-july-18-update-13).
+  outbound:
+  - The GNA extended a [ban on civil aviation for a further 15 days as of July 19,
+    2020](https://www.garda.com/crisis24/news-alerts/361406/libya-gna-extends-nationwide-curfew-july-18-update-13).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

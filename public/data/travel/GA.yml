@@ -1,0 +1,15 @@
+---
+sources:
+  domestic:
+  - Travel by air, boat, and train within Gabon is also [allowed.](https://www.garda.com/crisis24/news-alerts/355856/gabon-authorities-further-ease-covid-19-restrictions-as-of-july-1-update-9)
+  inbound:
+  - "[Commercial air travel may resume](https://www.garda.com/crisis24/news-alerts/355856/gabon-authorities-further-ease-covid-19-restrictions-as-of-july-1-update-9),
+    with two international flights per airline per week."
+  - Gabon's land and sea borders, however, will [remain closed to travelers,](https://www.garda.com/crisis24/news-alerts/355856/gabon-authorities-further-ease-covid-19-restrictions-as-of-july-1-update-9).
+  outbound:
+  - "[Commercial air travel may resume](https://www.garda.com/crisis24/news-alerts/355856/gabon-authorities-further-ease-covid-19-restrictions-as-of-july-1-update-9),
+    with two international flights per airline per week."
+travel:
+  domestic: 'yes'
+  inbound: partial
+  outbound: 'no'

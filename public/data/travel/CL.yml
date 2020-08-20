@@ -1,0 +1,25 @@
+---
+sources:
+  domestic:
+  - On Friday, June 26, 2020, Chilean authorities [imposed total quarantine orders](https://www.natlawreview.com/article/summer-2020-travel-advisory-us-embassyconsular-services-and-covid-19-restrictions)
+    for another five communes due to the coronavirus disease (COVID-19) pandemic,
+    adding to a total of 63 communes under quarantine.
+  - "[Under the quarantine measures](https://www.natlawreview.com/article/summer-2020-travel-advisory-us-embassyconsular-services-and-covid-19-restrictions),
+    members of the public may only leave their homes to access basic or essential
+    services, including medical, or to access public services."
+  - On July 12, 2020, public health authorities announced that the city of Rengo and
+    the urban areas of Arica will be [placed under quarantine as of 22:00 (local time)
+    on July 14, 2020](https://www.garda.com/crisis24/news-alerts/359016/chile-rengo-and-parts-of-arica-commune-to-be-quarantined-as-of-july-14-update-22).
+  - Authorities announced on July 27, 2020 that the communes of Coquimbo, La Serena,
+    and Puerto Montt will be [placed under quarantine as of 10 pm (local time) on
+    July 29, 2020](https://www.garda.com/crisis24/news-alerts/364006/chile-quarantine-measures-to-be-imposed-in-coquimbo-la-serena-and-puerto-montt-communes-from-july-29-update-23).
+  - Businesses will be allowed to gradually reopen and small groups will be able to
+    gather [from August 17, 2020](https://www.https://www.garda.com/crisis24/news-alerts/368666/chile-authorities-to-gradually-lift-lockdown-restrictions-in-central-santiago-from-august-17-update-24).
+  inbound:
+  - Chile’s borders have been [closed to foreigners since March 18, 2020.](https://www.natlawreview.com/article/summer-2020-travel-advisory-us-embassyconsular-services-and-covid-19-restrictions)
+  outbound:
+  - Chile’s borders have been [closed to foreigners since March 18, 2020.](https://www.natlawreview.com/article/summer-2020-travel-advisory-us-embassyconsular-services-and-covid-19-restrictions)
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

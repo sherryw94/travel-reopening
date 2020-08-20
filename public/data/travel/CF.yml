@@ -1,0 +1,10 @@
+---
+sources:
+  inbound:
+  - "[Anyone coming from a country with local-transmission of COVID-19 is banned from
+    entering, airport is also closed.](https://cf.usembassy.gov/covid-19-information/)"
+  visa_quarantine:
+  - Persons entering CAR from locations with local-transmission of COVID-19 are required
+    to [self-isolate for 21 days](https://cf.usembassy.gov/covid-19-information/).
+travel:
+  inbound: 'no'

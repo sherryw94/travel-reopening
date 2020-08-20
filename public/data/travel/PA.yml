@@ -1,0 +1,14 @@
+---
+reopening:
+  '2020-08-22': International passenger flights will [resume on August 22, 2020](https://www.garda.com/crisis24/news-alerts/360931/panama-suspension-of-international-flights-extended-until-august-22-update-16).
+sources:
+  domestic:
+  - Effective July 17, 2020, [MINSA established new quarantine hours](https://www.garda.com/crisis24/news-alerts/345786/panama-government-announces-second-stage-of-reopening-as-of-june-1-update-13)
+    for the Panama and Panama Oeste provinces. Total quarantine begins on Friday at
+    7 pm and ends on Monday at 5 am. Movements remain restricted based on gender and
+    ID number.
+  inbound:
+  - International passenger flights will [resume on August 22, 2020](https://www.garda.com/crisis24/news-alerts/360931/panama-suspension-of-international-flights-extended-until-august-22-update-16).
+travel:
+  domestic: partial
+  inbound: 'no'

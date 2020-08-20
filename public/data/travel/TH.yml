@@ -1,0 +1,33 @@
+---
+sources:
+  domestic:
+  - 'Domestic flights resume with extra safety protocols: Nok Air, AirAsia, Thai Lion
+    Air and Thai Vietjet Air were [allowed to reinstate flights](https://www.bangkokpost.com/business/1911300/domestic-flights-resume-with-extra-safety-protocols)
+    between 14 provinces after a month-long suspension now that the number of COVID-19
+    infections was falling.'
+  - For the period of 1-30 June, 2020, Bangkok has allowed [several types of businesses
+    and activities to reopen.](https://www.tatnews.org/2020/06/bangkoks-third-phase-of-easing-lockdown-what-reopens-what-remains-closed/)
+  - "[The state of emergency has been extended](https://www.garda.com/crisis24/news-alerts/364441/thailand-authorities-extend-state-of-emergency-until-august-31-update-43)
+    until August 31, 2020."
+  inbound:
+  - The temporary travel ban on some international passenger flights arriving in Thailand
+    has been [extended until further notice.](https://www.thaiembassy.com/travel/covid-19-guide-for-travelers-in-thailand.php)
+  outbound:
+  - Certain airports are still operating, including Suvarnabhumi Airport in Bangkok.
+    [Limited outbound flights available.](https://www.bangkokairportonline.com/flight-status-arrivals-departures/)
+  visa_quarantine:
+  - "[Passengers will be subject to the measures under communicable disease law](https://thaiembdc.org/wp-content/uploads/2020/05/CAAT-News-8-Extension-of-temporary-ban-on-all-international-flights-until-30-June-2020-1.pdf),
+    such as a 14-day state quarantine and the regulations under the Emergency Decree
+    on State Emergency."
+  - All diplomats and family members, who were previously allowed to self-isolate
+    in their residences, must now [undergo quarantine under government supervision](https://www.garda.com/crisis24/news-alerts/360136/thailand-authorities-re-introduce-covid-19-entry-restrictions-as-of-july-14-update-42).
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial
+travel_ideas:
+- alt: Experience Another Side of Bangkok in 72 Hours
+  href: https://www.tourhero.com/en/magazine/travel/bangkok-road-trip-3-days-exploring-kanchanaburi-ayutthaya-and-more/
+  src: ayutthaya-bangkok-travel-1900x880.jpg
+  title: 'Road trip out of Bangkok: Experience Kanchanaburi, Ayutthaya & Phetchaburi
+    in 72 hours'

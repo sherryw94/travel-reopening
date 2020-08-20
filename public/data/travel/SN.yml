@@ -1,0 +1,18 @@
+---
+sources:
+  domestic:
+  - There is a [ban on gatherings](https://www.garda.com/crisis24/news-alerts/368256/senegal-authorities-reintroduce-covid-19-measures-following-spike-in-cases-august-8-update-12)
+    at beaches, sports grounds, theatres, and in public spaces, as well as restrictions
+    on demonstrations.
+  inbound:
+  - The government also stated that Senegal will open its borders to international
+    flights under certain conditions from July 15; however, the [country's land and
+    sea borders will remain closed.](https://www.garda.com/crisis24/news-alerts/355466/senegal-state-of-emergency-to-be-lifted-on-june-30-update-11)
+  outbound:
+  - The government also stated that Senegal will open its borders to international
+    flights under certain conditions from July 15; however, the [country's land and
+    sea borders will remain closed.](https://www.garda.com/crisis24/news-alerts/355466/senegal-state-of-emergency-to-be-lifted-on-june-30-update-11)
+travel:
+  domestic: partial
+  inbound: false
+  outbound: false

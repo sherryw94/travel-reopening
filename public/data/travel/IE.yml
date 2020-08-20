@@ -1,0 +1,26 @@
+---
+sources:
+  domestic:
+  - Face masks will be compulsory on public transport, restaurants, and shops. Barbershops,
+    churches, theatres, cinemas, and gyms will also be allowed to reopen under certain
+    hygiene conditions. People will also be allowed to [resume domestic travel](https://www.garda.com/crisis24/news-alerts/354916/ireland-face-masks-compulsory-on-public-transport-as-government-further-eases-lockdown-restrictions-from-june-29-update-9).
+  - "[Tourist travel to offshore islands may resume](https://www.rte.ie/news/regional/2020/0625/1149682-coronavirus-islands/)."
+  - Pubs and hotel bars are to remain closed, and a [limit on the size of gatherings
+    remains in place](https://www.garda.com/crisis24/news-alerts/366166/ireland-authorities-postpone-phase-4-reopening-on-august-4-update-11).
+  - Under the tightening of restrictions until September 13, 2020, the number of visitors
+    permitted in a home has been reduced to six, while outdoor gatherings of more
+    than 15 people [have been prohibited](https://www.garda.com/crisis24/news-alerts/370426/ireland-authorities-tighten-covid-19-restrictions-until-september-13-update-13).
+  inbound:
+  - Passengers arriving from overseas are expected to [restrict their movements for
+    14 days](https://www.gov.ie/en/publication/d06271-easing-the-covid-19-restrictions-on-29-june-phase-3/).
+  - Individuals arriving in Ireland from 15 locations will [not be required to restrict
+    their movements on arrival.](https://www.dfa.ie/travel/travel-advice/coronavirus/#COVID19)
+  outbound:
+  - "[All non-essential overseas travel should be avoided](https://www.gov.ie/en/publication/d06271-easing-the-covid-19-restrictions-on-29-june-phase-3/)"
+  visa_quarantine:
+  - Those arriving from higher risk locations will still be required to fill out a
+    [Passenger Locator Form on arrival and self-isolate for two weeks](https://www.garda.com/crisis24/news-alerts/356771/ireland-authorities-to-ease-quarantine-requirements-from-july-20-update-10).
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial

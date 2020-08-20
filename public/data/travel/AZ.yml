@@ -1,0 +1,22 @@
+---
+sources:
+  domestic:
+  - The Government of Azerbaijan has [implemented strict rules requiring people to
+    stay inside](https://az.usembassy.gov/covid-19-information-for-azerbaijan/#:~:text=Entry%20and%20Exit%20Requirements&text=Currently%20all%20arrivals%20to%20Azerbaijan,facilities%2C%20regardless%20of%20travel%20origin),
+    whether in private homes, apartments, or permanent or temporary residences and
+    to monitor citizen movements.
+  - Entry and exit to and from certain areas is restricted, public transport is not
+    operational during weekends, and [many non-essential businesses will remain closed](https://www.garda.com/crisis24/news-alerts/365826/azerbaijan-authorities-extend-quarantine-measures-in-some-areas-until-august-31-update-11).
+  inbound:
+  - Flights into and out of Azerbaijan are [no longer available.](https://az.usembassy.gov/covid-19-information-for-azerbaijan/#:~:text=Entry%20and%20Exit%20Requirements&text=Currently%20all%20arrivals%20to%20Azerbaijan,facilities%2C%20regardless%20of%20travel%20origin)
+  outbound:
+  - Flights into and out of Azerbaijan are [no longer available.](https://az.usembassy.gov/covid-19-information-for-azerbaijan/#:~:text=Entry%20and%20Exit%20Requirements&text=Currently%20all%20arrivals%20to%20Azerbaijan,facilities%2C%20regardless%20of%20travel%20origin)
+  visa_quarantine:
+  - Currently all arrivals to Azerbaijan, including U.S. citizens, are being placed
+    in a [mandatory 14-day quarantine](https://az.usembassy.gov/covid-19-information-for-azerbaijan/#:~:text=Entry%20and%20Exit%20Requirements&text=Currently%20all%20arrivals%20to%20Azerbaijan,facilities%2C%20regardless%20of%20travel%20origin)
+    in government-provided facilities, regardless of travel origin.
+  - Azerbaijan has [temporarily suspended the issuance of e-visas.](https://az.usembassy.gov/covid-19-information-for-azerbaijan/#:~:text=Entry%20and%20Exit%20Requirements&text=Currently%20all%20arrivals%20to%20Azerbaijan,facilities%2C%20regardless%20of%20travel%20origin)
+travel:
+  domestic: 'no'
+  inbound: 'no'
+  outbound: 'no'

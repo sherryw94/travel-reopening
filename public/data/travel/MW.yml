@@ -1,0 +1,14 @@
+---
+sources:
+  domestic:
+  - Places of worship, restaurants, and bars [have been closed](https://www.garda.com/crisis24/news-alerts/367331/malawi-face-masks-mandatory-in-public-areas-as-of-august-7-update-7)
+    and public gatherings of greater than ten people prohibited, except for funerals
+    which can have up to 50 people in attendance..
+  inbound:
+  - Entry to Malawi [is prohibited](https://www.garda.com/crisis24/news-alerts/367331/malawi-face-masks-mandatory-in-public-areas-as-of-august-7-update-7).
+  visa_quarantine:
+  - Travelers have to self-quarantine and daily check-ups for 14 days if they have
+    [recently been to certain countries with COVID-19](https://mw.usembassy.gov/u-s-citizen-services/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: 'no'

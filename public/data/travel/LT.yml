@@ -1,0 +1,21 @@
+---
+sources:
+  domestic:
+  - Shops and malls resumed operations, and businesses such as hairdressers, museums,
+    libraries, and golf courses [reopened on April 27, 2020](https://www.garda.com/crisis24/news-alerts/339501/lithuania-baltic-states-to-reopen-borders-may-15-update-7).
+  inbound:
+  - Opened its borders to Baltic neighbors Estonia and Latvia on May 15, 2020, [allowing
+    entry to citizens of Poland for business and studies](https://www.garda.com/crisis24/news-alerts/339501/lithuania-baltic-states-to-reopen-borders-may-15-update-7).
+  outbound:
+  - Opened its borders to Baltic neighbors Estonia and Latvia on May 15, 2020, [allowing
+    entry to citizens of Poland for business and studies](https://www.garda.com/crisis24/news-alerts/339501/lithuania-baltic-states-to-reopen-borders-may-15-update-7).
+  visa_quarantine:
+  - Citizens arriving from other countries must [obey a 14-day self isolation period](https://www.garda.com/crisis24/news-alerts/339501/lithuania-baltic-states-to-reopen-borders-may-15-update-7)
+travel:
+  domestic: true
+  inbound: partial
+  inbound_allowed:
+  - EE
+  - LV
+  - PL
+  outbound: partial

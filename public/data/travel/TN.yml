@@ -1,0 +1,27 @@
+---
+sources:
+  domestic:
+  - Domestic travel between cities and regions resumed on June 4, 2020, the [nationwide
+    curfew was lifted on June 15, 2020](https://www.garda.com/crisis24/news-alerts/355241/tunisia-air-sea-and-land-borders-reopen-june-27-update-13).
+  - Mosques, restaurants, and cafes [have reopened.](https://www.aa.com.tr/en/africa/tunisia-to-reopen-mosques-cafes-after-nearly-3-months/1849404)
+  inbound:
+  - On June 27, 2020, Tunisian authorities [reopened the country's air, sea, and land
+    borders](https://www.garda.com/crisis24/news-alerts/355241/tunisia-air-sea-and-land-borders-reopen-june-27-update-13).
+  - Countries listed as 'green' [may enter Tunisia without a COVID-19 test](https://tn.usembassy.gov/message-for-us-citizens-62620/),
+    while countries listed as 'orange' must provide a negative COVID-19 lab test and
+    must be submitted to the Tunisian government within 72 hours. Those not on either
+    list, will be listed as 'red', where only Tunisians with permanent residency may
+    enter from red countries.
+  outbound:
+  - On June 27, 2020, Tunisian authorities [reopened the country's air, sea, and land
+    borders](https://www.garda.com/crisis24/news-alerts/355241/tunisia-air-sea-and-land-borders-reopen-june-27-update-13).
+  visa_quarantine:
+  - Travelers coming from "red," "orange," and "green" countries are required to [undergo
+    different quarantine restrictions](https://tn.usembassy.gov/message-for-us-citizens-62620/).
+  - Travelers arriving from France, Belgium, and Iceland will have to present a negative
+    polymerase chain reaction (PCR) test, carried out no more than [3 days prior to
+    arrival.](https://tn.usembassy.gov/message-for-us-citizens-62620/)
+travel:
+  domestic: 'yes'
+  inbound: partial
+  outbound: partial

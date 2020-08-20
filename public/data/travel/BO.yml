@@ -1,0 +1,21 @@
+---
+sources:
+  domestic:
+  - The Bolivian government announced an [extension of national quarantine measures
+    through July 31, 2020](https://bo.usembassy.gov/covid-19-information/)
+  - 'Monday to Friday: Persons and vehicles are prohibited from commuting between
+    the night time hours of 18:00 and 5:00 but may commute during the day with limits
+    on the number of people in vehicles. Saturday and Sunday: Vehicles are prohibited
+    from commuting. People may travel on foot within 500 meters of their home. These
+    curfews are in effect [until July 31, 2020](https://bo.usembassy.gov/covid-19-information/).'
+  inbound:
+  - "[International flights remain suspended and all borders remain closed.](https://bo.usembassy.gov/covid-19-information/)"
+  outbound:
+  - "[International flights remain suspended and all borders remain closed.](https://bo.usembassy.gov/covid-19-information/)"
+  visa_quarantine:
+  - Patients presenting symptoms of COVID-19 or who may have been exposed to the virus
+    are [isolated and tested](https://bo.usembassy.gov/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

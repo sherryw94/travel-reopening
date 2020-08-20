@@ -1,0 +1,52 @@
+---
+sources:
+  domestic:
+  - Certain restrictions in place, but [people can move around freely.](https://www.government.nl/topics/coronavirus-covid-19/tourism-in-the-netherlands)
+  inbound:
+  - Tourists from EU, Schengen area countries and the United Kingdom, can holiday
+    in the Netherlands. But they must [follow Dutch advice and rules to combat COVID-19.](https://www.netherlandsandyou.nl/documents/frequently-asked-questions/qa-holidays-to-the-netherlands)
+  outbound:
+  - Travel to countries with an orange or red travel advisory [is discouraged](https://www.nederlandwereldwijd.nl/).
+  visa_quarantine:
+  - While not currently indicated as mandatory, everyone arriving in the Netherlands
+    from a high-risk area is strongly advised to [self-quarantine for 14 days immediately
+    after arrival.](https://www.government.nl/topics/coronavirus-covid-19/tourism-in-the-netherlands)
+travel:
+  domestic: true
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - BG
+  - CH
+  - CY
+  - CZ
+  - DE
+  - DK
+  - EE
+  - EL
+  - ES
+  - FI
+  - FR
+  - FR
+  - HR
+  - HU
+  - IE
+  - IS
+  - IT
+  - LI
+  - LT
+  - LU
+  - LV
+  - MA
+  - MT
+  - NL
+  - false
+  - PL
+  - PT
+  - PO
+  - SE
+  - SI
+  - SK
+  - GB
+  outbound: partial

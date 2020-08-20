@@ -1,0 +1,20 @@
+---
+reopening:
+  '2020-08-14': Suriname's borders are closed [until at least August 14, 2020](https://www.garda.com/crisis24/news-alerts/367866/suriname-authorities-extend-curfew-and-other-covid-19-measures-until-august-23-update-5)
+sources:
+  domestic:
+  - There is a nationwide curfew from [8 pm to 5 am until August 23, 2020, at least.](https://www.garda.com/crisis24/news-alerts/367866/suriname-authorities-extend-curfew-and-other-covid-19-measures-until-august-23-update-5)
+  - Gatherings of more than five people are prohibited unless related to work or educational
+    purposes, funerals, or religious events, where the limit will be [50 people in
+    attendance.](https://www.garda.com/crisis24/news-alerts/367866/suriname-authorities-extend-curfew-and-other-covid-19-measures-until-august-23-update-5)
+  inbound:
+  - Suriname has closed its international borders, including ferry services to Guyana,
+    [until at least August 14, 2020](https://www.garda.com/crisis24/news-alerts/367866/suriname-authorities-extend-curfew-and-other-covid-19-measures-until-august-23-update-5)
+  visa_quarantine:
+  - "[All SR citizen returning from abroad to the territory of the SR is ordered to
+    stay in quarantine (isolation) in facilities specified by the Ministry of Interior
+    of the SR for a period necessary for performance of laboratory diagnostics of
+    COVID-19.](https://korona.gov.sk/en/adopted-measures/)"
+travel:
+  domestic: partial
+  inbound: 'no'

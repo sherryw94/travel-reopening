@@ -1,0 +1,18 @@
+---
+sources:
+  domestic:
+  - "[All public gatherings (including sporting events and entertainment centers),
+    all inter-provincial travel remain prohibited and schools also remain closed nationwide.
+    The state of emergency will remain in force until September 15, 2020](https://www.gov.uk/foreign-travel-advice/ecuador/staying-during-coronavirus)."
+  - Measures in place under the state of emergency include the mandatory use of face
+    masks in public spaces, the closures of schools, bars, nightclubs, and playgrounds,
+    and the [prohibition of public gatherings](https://www.garda.com/crisis24/news-alerts/367221/ecuador-authorities-relax-vehicular-restrictions-during-holiday-period-august-7-10-update-14).
+  - "[Certain municipalities are not on a lockdown](https://www.gov.uk/foreign-travel-advice/ecuador/staying-during-coronavirus)"
+  inbound:
+  - Ecuador approved resumption of commercial flight operations beginning June 1,
+    2020, with [limited flight capacity](https://www.gov.uk/foreign-travel-advice/ecuador/entry-requirements).
+  visa_quarantine:
+  - All passengers will be subject to [mandatory self-isolation for 14 days](https://www.gov.uk/foreign-travel-advice/ecuador/entry-requirements).
+travel:
+  domestic: partial
+  inbound: partial

@@ -1,0 +1,29 @@
+---
+reopening:
+  '2020-08-01': Travelers from specific countries will be [allowed into Qatar from
+    August 1, 2020](https://www.garda.com/crisis24/news-alerts/362166/qatar-international-travel-restrictions-to-be-eased-from-august-1-update-24).
+sources:
+  domestic:
+  - "[Restrictions are easing](https://www.garda.com/crisis24/news-alerts/355431/qatar-government-to-further-ease-covid-19-restrictions-from-july-1-update-22),
+    so restaurants will be able to resume operations at a limited capacity and public
+    parks and beaches will reopen. Offices will also be allowed to reopen at a maximum
+    of 50 percent capacity. Private and public gatherings should not exceed a five-person
+    limit."
+  - On July 1, 2020, Qatar entered Phase 2 of its 4-phased Lifting of Restrictions
+    Plan](https://covid19.moph.gov.qa/EN/Documents/PDFs/ENG%20PHASE%20II.pdf).
+  inbound:
+  - The Qatari government has announced that the country's international travel restrictions
+    will be eased from Saturday, August 1, 2020, and travelers from specific countries
+    will be allowed into Qatar](https://www.garda.com/crisis24/news-alerts/362166/qatar-international-travel-restrictions-to-be-eased-from-august-1-update-24).
+  outbound:
+  - "[Flights are able to depart](https://www.garda.com/crisis24/news-alerts/355431/qatar-government-to-further-ease-covid-19-restrictions-from-july-1-update-22),
+    although arrivals remain suspended."
+  visa_quarantine:
+  - Foreign travelers from forty government-designated 'low-risk' countries, including
+    China, Thailand, Malaysia, the United Kingdom, France, Germany, Greece, Algeria,
+    and Turkey, will be required to take a [COVID-19 test on arrival in the country
+    and self-quarantine for one week.](https://www.garda.com/crisis24/news-alerts/362166/qatar-international-travel-restrictions-to-be-eased-from-august-1-update-24).
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: 'yes'

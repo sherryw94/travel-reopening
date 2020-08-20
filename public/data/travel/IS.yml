@@ -1,0 +1,54 @@
+---
+sources:
+  domestic:
+  - "[Domestic travel is allowed](https://www.covid.is/english) with social distancing
+    measures."
+  inbound:
+  - "[Iceland’s borders are currently closed to tourists from countries outside of
+    the EEA and EFTA. Travellers from outside these areas will not be allowed to enter
+    Iceland unless they can demonstrate that they are coming on “urgent business.”
+    Borders are expected to be opened for non-Schengen residents from 1 July, 2020.](https://www.icelandreview.com/ask-ir/whats-the-status-of-covid-19-in-iceland/)"
+  - "[Iceland opening on 15 June, 2020 to Schengen residents.](https://www.icelandreview.com/ask-ir/whats-the-status-of-covid-19-in-iceland/)"
+  outbound:
+  - All other countries, with the exception of Greenland and the Faroe Islands, still
+    remain as high-risk areas for COVID-19. Icelanders are [advised against traveling
+    to such countries.](https://www.icelandreview.com/travel/icelanders-no-longer-advised-against-travel-to-europe/)
+  visa_quarantine:
+  - "[Passengers are required to fill out a pre-registration form www.covid.is/english
+    before departure to Iceland, which requires passengers to provide their personal
+    details and contact information, flight information, travel dates and address(es)
+    during their stay in Iceland.](https://www.covid.is/english)"
+travel:
+  domestic: true
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - HU
+  - false
+  - BE
+  - PL
+  - CZ
+  - IT
+  - PT
+  - DK
+  - LV
+  - SK
+  - EE
+  - LI
+  - SI
+  - FI
+  - LT
+  - ES
+  - FR
+  - LU
+  - SE
+  - DE
+  - MT
+  - CH
+  - GR
+  - NL
+  outbound: partial
+travel_ideas:
+- href: https://www.tourhero.com/en/magazine/travel/iceland-travel-5-hidden-towns-that-you-need-to-add-to-your-bucket-list-now/
+  src: iceland-travel-plans-to-five-hidden-towns-1536x1024.jpg
+  title: 5 Hidden towns to add to your Iceland travel plans right now

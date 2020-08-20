@@ -1,0 +1,22 @@
+---
+sources:
+  domestic:
+  - "[Social distancing measures remain in place, including a ban on public gatherings,
+    the closure of schools, and the suspension of sporting events. The majority of
+    bars, restaurants, and hotels have closed voluntarily, although many restaurants
+    are offering takeaway services.](https://www.garda.com/crisis24/news-alerts/348886/tanzania-zanzibar-eases-travel-restrictions-june-7-update-6)"
+  inbound:
+  - "[Commercial flights are operating to and from Tanzania](https://www.garda.com/crisis24/news-alerts/366236/tanzania-authorities-announce-restrictions-for-all-travelers-entering-the-country-august-1-update-7)
+    and individuals are no longer required to quarantine for 14-days on arrival."
+  outbound:
+  - "[Commercial flights are operating to and from Tanzania](https://www.garda.com/crisis24/news-alerts/366236/tanzania-authorities-announce-restrictions-for-all-travelers-entering-the-country-august-1-update-7)
+    and individuals are no longer required to quarantine for 14-days on arrival."
+  visa_quarantine:
+  - All travelers entering the country are required to provide proof of a negative
+    COVID-19 test which has been [performed up to 3 days prior to boarding](https://www.garda.com/crisis24/news-alerts/366236/tanzania-authorities-announce-restrictions-for-all-travelers-entering-the-country-august-1-update-7).
+    Passengers will also be subjected to temperature screnings on arrival and will
+    be required to complete a health form.
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

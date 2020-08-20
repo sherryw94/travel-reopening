@@ -1,0 +1,28 @@
+---
+sources:
+  domestic:
+  - "[Circuit Breaker measures will be gradually eased from 2 June, 2020, and businesses
+    will be allowed to resume activities in a phased manner.](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html)"
+  - From July 1, 2020, [tourist attractions](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html)
+    such as the Singapore Zoo, Universal Studios Singapore, and ArtScience Museum
+    will be allowed to reopen, subject to capacity allowances. Advance bookings may
+    be required.
+  inbound:
+  - "[Short-term visitors are not allowed entry into Singapore. Singapore has also
+    ceased port calls for all cruise vessels.](https://www.caas.gov.sg/who-we-are/newsroom/Detail/travelers-to-be-allowed-to-transit-through-changi-airport/)"
+  - "[Travelers may transit through Changi Airport.](https://www.caas.gov.sg/who-we-are/newsroom/Detail/travelers-to-be-allowed-to-transit-through-changi-airport/)"
+  outbound:
+  - "[Singapore residents have been advised to defer all non-essential travel abroad.](https://www.straitstimes.com/singapore/travel-firm-continues-to-engage-customers-with-eye-on-recovery)"
+  visa_quarantine:
+  - "[All Singapore Citizens, Permanent Residents and Long Term Pass holders entering
+    Singapore are required to serve a 14-day self-isolation at dedicated Stay-Home
+    Notice (SHN) facilities.](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html)"
+  - "[Returnees are required to submit a health declaration via the SG Arrival Card
+    (SGAC) e-Service, before proceeding with immigration clearance.](https://www.stb.gov.sg/content/stb/en/home-pages/advisory-on-covid-19.html)"
+  - "[All arriving, transit and departing passengers at Changi Airport are subject
+    to temperature screening. All passengers, air crew and airport staff must wear
+    a mask at all times at Changi Airport.](https://www.changiairport.com/en/airport-guide/Covid-19/Covid-19-measures.html)"
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: partial

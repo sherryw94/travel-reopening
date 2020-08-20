@@ -1,0 +1,11 @@
+---
+sources:
+  inbound:
+  - "[LIAT is extending the suspension of its passenger services until June 30, 2020](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/)."
+  visa_quarantine:
+  - Quarantine of non-residents will be at the [cost of the traveler](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/).
+  - Upon entry, [all persons will be issued a card](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    containing a COVID-19 hotline number and are required by law to report any symptoms
+    of the virus that may develop after entry and during their stay.
+travel:
+  inbound: 'no'

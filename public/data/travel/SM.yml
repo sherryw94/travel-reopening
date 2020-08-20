@@ -1,0 +1,11 @@
+---
+sources:
+  inbound:
+  - "[Entry and exit into San Marino is currently prohibited except for reasons of
+    healthcare, cross-border working or essential need.](https://www.gov.uk/foreign-travel-advice/san-marino/entry-requirements)"
+  outbound:
+  - "[Entry and exit into San Marino is currently prohibited except for reasons of
+    healthcare, cross-border working or essential need.](https://www.gov.uk/foreign-travel-advice/san-marino/entry-requirements)"
+travel:
+  domestic: 'no'
+  inbound: 'no'

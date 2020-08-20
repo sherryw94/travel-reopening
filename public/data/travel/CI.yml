@@ -1,0 +1,33 @@
+---
+reopening:
+  '2020-07-01': The government announced that [some international flights will be
+    permitted to resume](https://ci.usembassy.gov/covid-19-information/) as of July
+    1, 2020.
+sources:
+  domestic:
+  - Authorities in Côte d'Ivoire lifted quarantine measures in the Greater Abidjan
+    region, [permitting movement between Abidjan and the rest of the country](https://www.garda.com/crisis24/news-alerts/360216/cote-divoire-quarantine-measures-in-abidjan-lifted-july-15-update-14).
+  - Authorities in Côte d'Ivoire [extended the state of emergency until August 31,
+    2020](https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-extend-covid-19-state-of-emergency-until-august-31-update-15).
+  - Authorities allowed bars and entertainment venues already open from July 31, 2020,
+    with social distancing measures in place. Large-scale gatherings are also [permitted
+    at the discretion of local authorities](https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-extend-covid-19-state-of-emergency-until-august-31-update-15).
+  - "[Domestic flights have resumed](https://www.garda.com/crisis24/news-alerts/365271/cote-divoire-authorities-extend-covid-19-state-of-emergency-until-august-31-update-15)."
+  inbound:
+  - The government announced that [some international flights will be permitted to
+    resume](https://ci.usembassy.gov/covid-19-information/) as of July 1, 2020. Additional
+    clarification is still expected from the Ministry of Transport further detailing
+    these plans and when intercontinental flights may begin.
+  outbound:
+  - The government announced that [some international flights will be permitted to
+    resume](https://ci.usembassy.gov/covid-19-information/) as of July 1, 2020. Additional
+    clarification is still expected from the Ministry of Transport further detailing
+    these plans and when intercontinental flights may begin.
+  visa_quarantine:
+  - Arriving passengers are registered and sent home for a [two-week period of quarantine,
+    receiving regular calls and follow-up for 14 days](https://ci.usembassy.gov/covid-19-information/)
+    to monitor for any symptoms of COVID-19.
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial

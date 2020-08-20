@@ -1,0 +1,15 @@
+---
+sources:
+  domestic:
+  - A nationwide curfew is currently in place from [11 pm to 4 am (local time)](https://www.garda.com/crisis24/news-alerts/365361/fiji-authorities-confirm-first-covid-19-fatality-july-31-update-10).
+  - "[Gatherings of up to 100 people are permitted](https://www.garda.com/crisis24/news-alerts/365361/fiji-authorities-confirm-first-covid-19-fatality-july-31-update-10)
+    for weddings, funerals, conferences, community gatherings, and in cafes and restaurants."
+  inbound:
+  - "[Fiji has closed its border](https://www.garda.com/crisis24/news-alerts/365361/fiji-authorities-confirm-first-covid-19-fatality-july-31-update-10)
+    and only residents and Fijian citizens are allowed to return to Fiji."
+  visa_quarantine:
+  - Arriving travelers may be required to [self-isolate for 14 days at the discretion
+    of local officials](https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: false

@@ -1,0 +1,16 @@
+---
+sources:
+  domestic:
+  - From June 5, 2020, schools will reopen for final year students, and conferences,
+    weddings, burials, non-contact sport, and political activities, all with less
+    than 100 participants, will be [permitted to resume](https://www.garda.com/crisis24/news-alerts/347306/ghana-authorities-announce-easing-of-covid-19-restrictions-may-31-update-11).
+  - Festivals, sporting events, nightclubs, cinemas, and political rallies will [remain
+    banned](https://www.garda.com/crisis24/news-alerts/347306/ghana-authorities-announce-easing-of-covid-19-restrictions-may-31-update-11).
+  - There will be an easing of limitations on the number of passengers on public transport
+    and domestic flights, while tourist centers and open-air drinking spots will be
+    [allowed to reopen](https://www.garda.com/crisis24/news-alerts/363651/ghana-authorities-announce-further-easing-of-covid-19-restrictions-from-august-1-update-12).
+  inbound:
+  - "[Ghana closed its borders indefinitely](https://www.garda.com/crisis24/news-alerts/347306/ghana-authorities-announce-easing-of-covid-19-restrictions-may-31-update-11)."
+travel:
+  domestic: partial
+  inbound: 'no'

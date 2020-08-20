@@ -1,0 +1,18 @@
+---
+sources:
+  domestic:
+  - "[Ban on public transport has been lifted.](https://www.gov.am/en/covid-travel-restrictions/)"
+  - Public transportation services have resumed and individuals are [required to wear
+    face masks in public](https://www.garda.com/crisis24/news-alerts/366991/armenia-authorities-extend-state-of-emergency-through-september-9-update-15)
+  - National state of emergency will be [extended until September 11, 2020](https://www.garda.com/crisis24/news-alerts/366991/armenia-authorities-extend-state-of-emergency-through-september-9-update-15)
+  inbound:
+  - Entry to Armenia is permitted to anyone who does not originate from any highly-impacted
+    COVID-19 countries, and has not been in one for the past 14 days.](https://covid19.gov.am/en/travel_and_coronavirus)
+  visa_quarantine:
+  - Travelers who are permitted to enter Armenia are required to [self-isolate for
+    14 days, although if a negative test result is received within the 14 days then
+    this period may be reduced.](https://www.garda.com/crisis24/news-alerts/368686/armenia-authorities-extend-state-of-emergency-through-september-11-and-ease-other-restrictions-as-of-august-12-update-16)
+  - Most visa services are [suspended until further notice.](https://am.usembassy.gov/u-s-citizen-services/covid-19-information/)
+travel:
+  domestic: 'yes'
+  inbound: partial

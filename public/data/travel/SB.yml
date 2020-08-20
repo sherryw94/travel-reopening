@@ -1,0 +1,18 @@
+---
+reopening:
+  '2020-10-25': International flights will [resume on October 25, 2020](https://www.garda.com/crisis24/news-alerts/364671/solomon-islands-solomon-airlines-extends-suspension-of-international-flights-until-october-24-update-4).
+sources:
+  domestic:
+  - "[Domestic flights continue to operate](https://www.garda.com/crisis24/news-alerts/364671/solomon-islands-solomon-airlines-extends-suspension-of-international-flights-until-october-24-update-4)
+    to all 23 destinations."
+  - Solomon Islands authorities extended the country's state of public emergency [until
+    November 25, 2020](https://www.garda.com/crisis24/news-alerts/365161/solomon-islands-authorities-extend-state-of-public-emergency-until-november-25-update-5).
+  inbound:
+  - Solomon Islands has extended the suspension of [all international passenger flights
+    until October 24, 2020](https://www.garda.com/crisis24/news-alerts/364671/solomon-islands-solomon-airlines-extends-suspension-of-international-flights-until-october-24-update-4).
+  visa_quarantine:
+  - Individuals may be [required to undergo a mandatory 14-day quarantine](https://www.garda.com/crisis24/news-alerts/364671/solomon-islands-solomon-airlines-extends-suspension-of-international-flights-until-october-24-update-4)
+    in a government facility, dependent on the country they have arrived from.
+travel:
+  domestic: 'yes'
+  inbound: 'no'

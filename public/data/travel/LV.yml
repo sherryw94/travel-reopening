@@ -1,0 +1,56 @@
+---
+sources:
+  domestic:
+  - "[From July 1 to July 31, 2020, no more than 100 people will gather indoors with
+    a total public space of less than 1000 square meters](https://www.latvia.travel/en/article/covid-19-and-travelling-latvia)."
+  - "[Dining places can be open from 6 am until midnight](https://www.latvia.travel/en/article/covid-19-and-travelling-latvia).
+    Indoors can have no more than four non-household visitors at the same table, while
+    no more than eight visitors can be at the same table outdoors."
+  inbound:
+  - "[Borders are only open](https://lv.usembassy.gov/covid-19-information/) to residents
+    of Latvia, other EU Member States, countries in the European Economic Area and
+    Switzerland that hold proper residency documentation."
+  outbound:
+  - It is not recommended to go to countries with a 14-day cumulative number of COVID-19
+    cases [higher than 25 per 100,000 inhabitants](https://covid19.gov.lv/en).
+  visa_quarantine:
+  - All travelers, including citizens and permanent residents of Latvia, who have
+    arrived from countries in which the 14-day cumulative number of COVID-19 cases
+    has exceeded 16 individuals per 100,000, must [self-isolate for a 14-day period
+    upon arrival in Latvia](https://www.mfa.gov.lv/en/consular-information/news/66019-emergency-situation-in-latvia-to-restrict-the-spread-of-covid-19#:~:text=All%20travellers%2C%20including%20citizens%20and,period%20upon%20arrival%20in%20Latvia).
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - IT
+  - BE
+  - LV
+  - BG
+  - LT
+  - HR
+  - LU
+  - CY
+  - MT
+  - CZ
+  - NL
+  - DK
+  - PL
+  - EE
+  - PT
+  - FI
+  - RO
+  - FR
+  - SK
+  - DE
+  - SI
+  - GR
+  - ES
+  - HU
+  - SE
+  - IE
+  - CH
+  - IS
+  - LI
+  - false
+  outbound: partial

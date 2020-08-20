@@ -1,0 +1,11 @@
+---
+sources:
+  inbound:
+  - "[All commercial passenger flights to and from Palau have been suspended until
+    further notice](https://www.smartraveller.gov.au/destinations/pacific/palau)."
+  visa_quarantine:
+  - "[Mandatory 14 day self-quarantine](https://pw.usembassy.gov/covid-19-information/#:~:text=Palau%20has%20not%20confirmed%20cases%20of%20COVID%2D19%20within%20its%20borders.&text=Any%20employee%20who%20has%20traveled,or%20her%20relevant%20management%20official)
+    for all travelers with a travel history from or through COVID-19 affected geographical
+    areas."
+travel:
+  inbound: 'no'

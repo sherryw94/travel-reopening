@@ -1,0 +1,15 @@
+---
+sources:
+  domestic:
+  - Timor-Leste's President Francisco Guterres declared a new state of emergency that
+    will [last for 30 days until September 4, 2020](https://www.garda.com/crisis24/news-alerts/367001/timor-leste-government-reinstates-state-of-emergency-august-6-update-4).
+    It is indicated that the domestic economy will continue to operate, although bans
+    on gatherings and stricter health protocols may be put in place.
+  inbound:
+  - Foreigners are [not authorized to enter Timor-Leste](https://tl.usembassy.gov/covid-19-information/#:~:text=Timor%2DLeste%20will%20temporarily%20close,authorized%20to%20enter%20Timor%2DLeste).
+  outbound:
+  - Regular international passenger flights [remain suspended](https://www.garda.com/crisis24/news-alerts/367001/timor-leste-government-reinstates-state-of-emergency-august-6-update-4).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: false

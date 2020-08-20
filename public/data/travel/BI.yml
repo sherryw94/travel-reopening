@@ -1,0 +1,20 @@
+---
+sources:
+  inbound:
+  - "[The Burundi international airport in Bujumbura is closed indefinitely except
+    for cargo flights. Visas will only be renewed for people already in Burundi.](https://www.smartraveller.gov.au/destinations/africa/burundi?)"
+  - "[Tight restrictions are in place at Burundi’s land borders: entry and exit is
+    subject to additional screening and crossing the border may not be possible.](https://www.smartraveller.gov.au/destinations/africa/burundi?)"
+  outbound:
+  - "[Tight restrictions are in place at Burundi’s land borders: entry and exit is
+    subject to additional screening and crossing the border may not be possible.](https://www.smartraveller.gov.au/destinations/africa/burundi?)"
+  visa_quarantine:
+  - "[The Ministry of Health has expanded quarantine measures](https://bi.usembassy.gov/covid-19-information/)
+    related to COVID-19 for all travelers arriving in Burundi from multiple countries
+    – China, France, Germany, Iran, Italy, Japan, South Korea, Spain, the United Kingdom,
+    Australia, all member states of the Schengen zone, and the United States. The
+    travelers will be quarantined in a hotel facility in Bujumbura designated by the
+    Government of Burundi (Hotel Source du Nil) for 14 days."
+travel:
+  inbound: partial
+  outbound: partial

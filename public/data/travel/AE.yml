@@ -1,0 +1,36 @@
+---
+sources:
+  domestic:
+  - Residents of Abu Dhabi city, Al Ain and Al Dhafra can [travel within their cities
+    but not enter or leave them and cannot go to other emirates](https://www.thenational.ae/uae/health/coronavirus-everything-you-need-to-know-about-covid-19-in-the-uae-1.990131).
+  - From June 24, 2020, cinemas, auction houses, entertainment centers, valet services,
+    and fitness facilities are [permitted to open](https://www.garda.com/crisis24/news-alerts/353051/uae-authorities-in-emirate-of-sharjah-announce-easing-of-covid-19-restrictions-from-june-24-update-46),
+    provided they do not exceed 50 percent capacity and respect social distancing
+    measures.
+  inbound:
+  - Authorities in the UAE eased travel restrictions for international tourists, [permitting
+    their arrival](https://www.emirates.com/sg/english/help/flying-to-and-from-dubai/tourists-travelling-to-dubai/)
+    in Dubai only.
+  - All passengers are expected to [produce a negative COVID-19 test](https://www.garda.com/crisis24/news-alerts/357706/uae-authorities-in-dubai-ease-travel-restrictions-on-july-7-update-48)
+    prior to boarding flights to Dubai that is less than 4 days old.
+  - UAE authorities [suspended all flights arriving from Pakistan](https://www.garda.com/crisis24/news-alerts/353051/uae-authorities-in-emirate-of-sharjah-announce-easing-of-covid-19-restrictions-from-june-24-update-46)
+    from June 29, 2020.
+  outbound:
+  - Officials in Abu Dhabi eased travel restrictions for residents on July 4, 2020
+    [permitting short trips outside of the emirate, provided they take a coronavirus
+    disease (COVID-19) test](https://www.garda.com/crisis24/news-alerts/358091/uae-travel-restrictions-eased-for-residents-of-abu-dhabi-july-4-update-49).
+  visa_quarantine:
+  - On July 11, 2020, authorities in the UAE [canceled visa extension granted to expatriates](https://www.garda.com/crisis24/news-alerts/358546/uae-authorities-cancel-visa-extension-for-expatriates-july-11-update-50).
+  - Authorities require negative PCR tests to be dated within the prior 4 days of
+    arrival in the country and to be [carried out by a recognized laboratory](https://www.garda.com/crisis24/news-alerts/362591/uae-authorities-make-covid-19-pcr-tests-compulsory-for-arriving-passengers-august-1-update-51).
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_restricted:
+  - PK
+  outbound: partial
+travel_ideas:
+- alt: How safe is it to travel to Dubai
+  href: https://www.tourhero.com/en/magazine/destinations/asia/is-it-safe-to-travel-to-dubai-what-the-country-is-doing-to-be-covid-19-safe/
+  src: dubai-camels-1900x880.jpg
+  title: Is it safe to travel to Dubai

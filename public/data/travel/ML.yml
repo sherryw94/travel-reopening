@@ -1,0 +1,15 @@
+---
+sources:
+  domestic:
+  - The nationwide curfew has been [lifted](https://www.garda.com/crisis24/news-alerts/346821/mali-first-un-peacekeeper-covid-19-deaths-confirmed-update-5).
+  - Gatherings of over 50 people are [prohibited](https://www.garda.com/crisis24/news-alerts/346821/mali-first-un-peacekeeper-covid-19-deaths-confirmed-update-5).
+  inbound:
+  - Authorities stated that [air borders will reopen on July 25, 2020, and land borders
+    on July 31, 2020](https://www.garda.com/crisis24/news-alerts/363201/mali-authorities-announce-reopening-of-air-and-land-borders-july-24-update-6).
+  outbound:
+  - Authorities stated that [air borders will reopen on July 25, 2020, and land borders
+    on July 31, 2020](https://www.garda.com/crisis24/news-alerts/363201/mali-authorities-announce-reopening-of-air-and-land-borders-july-24-update-6).
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial

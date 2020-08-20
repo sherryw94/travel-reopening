@@ -1,0 +1,11 @@
+---
+sources:
+  inbound:
+  - While the Nicaraguan government has not officially imposed any restrictions as
+    a result of the worldwide outbreak, [borders and airports are effectively closed](https://ni.usembassy.gov/covid-19-information-2-2/).
+  outbound:
+  - While the Nicaraguan government has not officially imposed any restrictions as
+    a result of the worldwide outbreak, [borders and airports are effectively closed](https://ni.usembassy.gov/covid-19-information-2-2/).
+travel:
+  inbound: 'no'
+  outbound: 'no'

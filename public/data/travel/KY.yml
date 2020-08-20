@@ -1,0 +1,21 @@
+---
+reopening:
+  '2020-10-01': The Cayman Islands government will reopen [borders on October 1, 2020.](https://www.garda.com/crisis24/news-alerts/367386/cayman-islands-government-postpones-reopening-of-border-until-october-1-update-5)
+sources:
+  domestic:
+  - A ban on public gatherings of over 50 people remains in place while restaurants
+    and bars have been allowed to reopen, [with social distancing measures](https://www.garda.com/crisis24/news-alerts/367386/cayman-islands-government-postpones-reopening-of-border-until-october-1-update-5).
+    Bus services have also resumed on a 50 percent capacity, and taxis are limited
+    to carrying two passengers at a time.
+  inbound:
+  - The Cayman Islands government has announced that the [reopening of the border
+    to occur on October 1, 2020.](https://www.garda.com/crisis24/news-alerts/367386/cayman-islands-government-postpones-reopening-of-border-until-october-1-update-5)
+  outbound:
+  - The Cayman Islands government has announced that the [reopening of the border
+    to occur on October 1, 2020.](https://www.garda.com/crisis24/news-alerts/367386/cayman-islands-government-postpones-reopening-of-border-until-october-1-update-5)
+  visa_quarantine:
+  - "[Visa-free travel suspended until November 2020](https://kz.usembassy.gov/covid-19-information/)."
+travel:
+  domestic: partial
+  inbound: false
+  outbound: false

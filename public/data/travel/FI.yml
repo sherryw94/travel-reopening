@@ -1,0 +1,29 @@
+---
+sources:
+  domestic:
+  - "[Domestic travel allowed](https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/muutoksia-koronavirusepidemian-vuoksi-asetettuihin-rajoituksiin-1-kesakuuta)
+    as long as health and safety guidelines are observed."
+  inbound:
+  - Air traffic and regular ferry services have resumed between Finland and Norway,
+    Denmark, Iceland, Estonia, Latvia and Lithuania [as of June 15, 2020](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions).
+  - Effective July 13, 2020, Finland's new border restrictions are in effect, expanding
+    the list of countries from which [unrestricted travel is permitted](https://fi.usembassy.gov/covid-19-information/).
+  outbound:
+  - "[Avoid all non-essential travel](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions)."
+  visa_quarantine:
+  - Starting on June 15, 2020, [self-isolation is recommended for all those arriving
+    in Finland](https://thl.fi/fi/web/infektiotaudit-ja-rokotukset/ajankohtaista/ajankohtaista-koronaviruksesta-covid-19/matkustaminen-ja-koronaviruspandemia)
+    who come from countries that are still subject to internal or external border
+    control. Such countries include Sweden, Germany, and Russia. Self-isolation is
+    not required if the person arrives from Estonia, Latvia, Lithuania, Norway, Denmark,
+    or Iceland.
+travel:
+  domestic: 'yes'
+  inbound: partial
+  inbound_allowed:
+  - CY
+  - IE
+  - AD
+  - SM
+  - VA
+  outbound: partial

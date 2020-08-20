@@ -1,0 +1,23 @@
+---
+reopening:
+  '2020-08-01': As of August 1, 2020, international flights at Osvaldo Vieira International
+    Airport (OXB) have [resumed operations.](https://gw.usmission.gov/covid-19-information/)
+sources:
+  domestic:
+  - Inter-region travel is prohibited, schools are closed, public transport only operable
+    at 50% capacity and face coverings are mandatory until July 25, 2020](https://gw.usmission.gov/covid-19-information/).
+  - Authorities previously lifted the nationwide curfew which [ran between 8 pm and
+    6 am (local time)](https://www.garda.com/crisis24/news-alerts/366606/guinea-bissau-authorities-extend-state-of-emergency-to-august-24-update-7).
+  inbound:
+  - As of August 1, 2020, international flights at Osvaldo Vieira International Airport
+    (OXB) have [resumed operations.](https://gw.usmission.gov/covid-19-information/)
+  outbound:
+  - As of August 1, 2020, international flights at Osvaldo Vieira International Airport
+    (OXB) have [resumed operations.](https://gw.usmission.gov/covid-19-information/)
+  visa_quarantine:
+  - Individuals arriving into the country will be expected to [self-isolate at one
+    location for 14 days](https://www.garda.com/crisis24/news-alerts/366606/guinea-bissau-authorities-extend-state-of-emergency-to-august-24-update-7).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: true

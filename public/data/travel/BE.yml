@@ -1,0 +1,72 @@
+---
+sources:
+  domestic:
+  - "[You are allowed to move around freely](https://www.info-coronavirus.be/en/faq/)."
+  - Authorities in Antwerp announced on July 27, 2020, that a [11.30 pm to 6 am (local
+    time) night time curfew is now in place](https://www.garda.com/crisis24/news-alerts/364646/belgium-authorities-introduce-nighttime-curfew-in-antwerp-july-27-update-20).
+  - Bars and clubs will reportedly close at 11 pm. Furthermore, everyone over 12 years
+    of age in Antwerp must wear a mask in public.](https://www.garda.com/crisis24/news-alerts/364646/belgium-authorities-introduce-nighttime-curfew-in-antwerp-july-27-update-20)
+  - Face masks will be [compulsory in crowded public places from July 25, 2020](https://www.garda.com/crisis24/news-alerts/362606/belgium-face-masks-to-be-compulsory-in-crowded-public-places-from-july-25-update-18)
+  - Private social gatherings from different households are limited to 5 people, public
+    events will be limited to 100 people indoors and 200 people outdoors. Individuals
+    will be required to shop alone and have been advised to [work from home where
+    possible](https://www.politico.eu/article/belgium-reduces-social-bubbles-event-sizes-amid-coronavirus-spike/)
+  - The number of people Belgians are allowed to have interactions with on a weekly
+    basis is [restricted to 15](https://www.politico.eu/article/belgium-coronavirus-restrictions-fear-of-second-wave/).
+  - Regional authorities in Brussels have announced that face masks will be [mandatory
+    in all public spaces from August 12, 2020](https://www.garda.com/crisis24/news-alerts/368206/belgium-face-masks-become-mandatory-in-all-public-spaces-in-brussels-as-of-august-12-update-22).
+  inbound:
+  - The Government of Belgium has imposed entry and exit controls on [non-essential
+    travel to and from the country.](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx)
+  - "[Entry is allowed](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx)
+    for nationals of EU Member States and Schengen Member States, for the purposes
+    of returning to their homes; Third-country nationals who are in possession a residence
+    card (or D-visa) delivered by a Schengen Member State, for the purpose of returning
+    to their homes."
+  outbound:
+  - "[From June 15, 2020, you are allowed to go on holiday](https://www.info-coronavirus.be/en/faq/).
+    You may only visit countries in the European Union, including the United Kingdom,
+    Switzerland, Liechtenstein, Iceland, Norway."
+  - The Belgian government has banned trips to certain locations in Spain, Switzerland,
+    France, Bulgaria, Romania and the United Kingdom](https://www.politico.eu/article/belgium-coronavirus-restrictions-fear-of-second-wave/).
+  visa_quarantine:
+  - The examination of visa applications already submitted continues. However, in
+    the event of an approved visa application, it will not be issued immediately,
+    [except for essential travel](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx).
+  - People with a valid visa are strongly advised to postpone any non-essential travel
+    and to travel [when the situation is normalized](https://dofi.ibz.be/sites/dvzoe/EN/Pages/Travel-to-Belgium.aspx).
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IT
+  - LV
+  - LI
+  - LT
+  - LU
+  - MT
+  - NL
+  - false
+  - PL
+  - PT
+  - SK
+  - SI
+  - ES
+  - SE
+  - CH
+  - BG
+  - HR
+  - CY
+  - IE
+  - RO
+  outbound: partial

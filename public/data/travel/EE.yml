@@ -1,0 +1,67 @@
+---
+sources:
+  domestic:
+  - "[Border control personnel have legal rights to deny entering for persons who
+    show symptoms of COVID-19, i.e. to deport them back to the country of arrival.](https://www.visitestonia.com/en/why-estonia/coronavirus-and-travelling-to-estonia)"
+  inbound:
+  - From June 1, 2020, Estonia [admits people](https://vm.ee/en/information-countries-and-quarantine-requirements-passengers)
+    with no COVID-19 symptoms arriving from the European Union, the members of the
+    Schengen area or the United Kingdom of Great Britain and Northern Ireland - but
+    quarantine requirements may apply.
+  - Estonia reopened its borders to [14 countries outside the European Union](https://www.garda.com/crisis24/news-alerts/357576/estonia-authorities-reopen-borders-to-further-countries-from-july-6-update-4)
+  outbound:
+  - "[No restrictions for exiting the country](https://www.visitestonia.com/en/why-estonia/coronavirus-and-travelling-to-estonia)."
+  visa_quarantine:
+  - Those arriving from countries with a COVID-19 infection rate of over 16 per 100,000
+    inhabitants in the past [14 days being required to self-isolate for 14 days upon
+    arrival in Estonia](https://www.garda.com/crisis24/news-alerts/357576/estonia-authorities-reopen-borders-to-further-countries-from-july-6-update-4).
+travel:
+  domestic: 'no'
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - BG
+  - HR
+  - CZ
+  - CY
+  - DK
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IE
+  - IT
+  - LV
+  - LI
+  - LT
+  - LU
+  - MT
+  - NL
+  - false
+  - PL
+  - PT
+  - RO
+  - SK
+  - SI
+  - ES
+  - SE
+  - CH
+  - GB
+  - DZ
+  - AU
+  - CA
+  - GE
+  - JP
+  - ME
+  - MA
+  - NZ
+  - RW
+  - RS
+  - KR
+  - TH
+  - TN
+  - UY
+  outbound: 'yes'

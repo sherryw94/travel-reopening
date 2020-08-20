@@ -1,0 +1,30 @@
+---
+sources:
+  domestic:
+  - "[Interprovincial travel allowed](https://globalnews.ca/news/7106284/coronavirus-provincial-travel/)
+    for Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador
+    without self-isolation."
+  - Ontario extends the [state of emergency until July 15, 2020](https://www.garda.com/crisis24/news-alerts/354086/canada-authorities-extend-state-of-emergency-in-ontario-until-july-15-update-17).
+  - British Columbia [extends the state of emergency until July 21, 2020](https://www.garda.com/crisis24/news-alerts/354061/canada-authorities-extend-state-of-emergency-in-british-columbia-until-july-7-update-16).
+  - Nova Scotia [extends the state of emergency until August 23, 2020](https://www.garda.com/crisis24/news-alerts/367371/canada-authorities-extend-state-of-emergency-in-nova-scotia-until-august-23-update-21).
+  inbound:
+  - Current ban on most international travelers entering the country has been [extended
+    until July 31, 2020](https://www.garda.com/crisis24/news-alerts/355886/canada-authorities-extend-ban-on-most-foreign-travelers-until-july-31-update-18).
+  - Canadian and US authorities announced that the closure of their mutual border
+    has been [extended until at least September 21, 2020](https://www.garda.com/crisis24/news-alerts/360646/canada-authorities-extend-border-closure-with-us-until-august-21-update-20).
+  outbound:
+  - "[Avoid all non-essential travel](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html?topic=tilelink#_Travellers_departing_Canada)."
+  visa_quarantine:
+  - If you have symptoms, [you must isolate for 14 days](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html?topic=tilelink#domestic).
+  - If you have recently returned to Canada and you have no symptoms, [you must quarantine
+    (self-isolate) for 14 days](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html?topic=tilelink#domestic).
+  - All passengers flying into Canada will be [subject to health screenings](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection/latest-travel-health-advice.html?topic=tilelink#domestic).
+travel:
+  domestic: partial
+  inbound: false
+  outbound: partial
+travel_ideas:
+- alt: Tablelands at Gros Morne National Park
+  href: https://www.tourhero.com/en/magazine/travel/newfoundland-getaway-48-hours-in-gros-morne-national-park/
+  src: gros-morne-national-park-tablelands-1024x705.jpg
+  title: 'Newfoundland Getaway: 48 Hours in Gros Morne National Park'

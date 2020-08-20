@@ -1,0 +1,16 @@
+---
+sources:
+  domestic:
+  - Places of worship, bars, clubs, beaches, and places of celebration are closed.
+    All cultural and sport events have been [canceled](https://bj.usembassy.gov/info-covid19/).
+  inbound:
+  - Land borders with Benin’s four neighboring countries are [closed to all](https://bj.usembassy.gov/info-covid19/).
+  - Cotonou Cadjehoun Airport remains open, though [flight options are limited](https://bj.usembassy.gov/info-covid19/).
+  outbound:
+  - Commercial flight options to depart Benin are [extremely limited](https://bj.usembassy.gov/info-covid19/).
+  visa_quarantine:
+  - "[The Government of Benin has [restricted the issuance of entry visas](https://bj.usembassy.gov/info-covid19/)."
+travel:
+  domestic: false
+  inbound: partial
+  outbound: partial

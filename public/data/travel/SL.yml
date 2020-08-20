@@ -1,0 +1,26 @@
+---
+reopening:
+  '2020-07-22': The Lungi International Airport (FNA) is [scheduled to reopen on July
+    22, 2020](https://www.garda.com/crisis24/news-alerts/358511/sierra-leone-authorities-ease-some-covid-19-restrictions-from-july-10-update-11).
+sources:
+  domestic:
+  - "[Restrictions on inter-district travel have been lifted in the country](https://www.garda.com/crisis24/news-alerts/358511/sierra-leone-authorities-ease-some-covid-19-restrictions-from-july-10-update-11).
+    Also, the nationwide curfew hours have been reduced; now in effect from 23:00
+    - 05:00 (local time)."
+  inbound:
+  - "[Travelers who enter will be monitored for COVID-19](http://dhse.gov.sl/wp-content/uploads/2020/06/GoSL_COVID-19_Message-Guide_Volume-3_2020JUN15.pdf)."
+  - The Lungi International Airport (FNA) is [scheduled to reopen on July 22, 2020](https://www.garda.com/crisis24/news-alerts/358511/sierra-leone-authorities-ease-some-covid-19-restrictions-from-july-10-update-11).
+  outbound:
+  - "[Sierra Leone advises against travel to countries](http://dhse.gov.sl/wp-content/uploads/2020/06/GoSL_COVID-19_Message-Guide_Volume-3_2020JUN15.pdf)
+    with COVID-19 spreading in the community."
+  visa_quarantine:
+  - If travelers have traveled or transitted through countries with more than 50 confirmed
+    COVID-19 cases in the last 14 days, they will be [required to enter a facility
+    quarantine for 16 days](http://dhse.gov.sl/wp-content/uploads/2020/06/GoSL_COVID-19_Message-Guide_Volume-3_2020JUN15.pdf).
+  - If travelers have traveled or transitted through countries with less than 50 confirmed
+    COVID-19 cases in the last 14 days, they will be [required to home quarantine
+    for 16 days](http://dhse.gov.sl/wp-content/uploads/2020/06/GoSL_COVID-19_Message-Guide_Volume-3_2020JUN15.pdf).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

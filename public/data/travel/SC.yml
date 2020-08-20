@@ -1,0 +1,33 @@
+---
+sources:
+  inbound:
+  - "[Travelers from 'low risk' countries are allowed.](https://www.seychellestourismboard.travel/news-media/press-releases/429-seychelles-lifts-covid-19-travel-restrictions-gradually-as-from-1st-june)"
+  - "[ The resumption of passenger flights from August 1, 2020, will be open to visitors
+    from approved countries only](https://www.garda.com/crisis24/news-alerts/356546/seychelles-authorities-announce-the-resumption-of-commercial-passenger-flights-from-august-1-update-5)."
+  outbound:
+  - "[Travelers exiting will be screened.](https://www.seychellestourismboard.travel/news-media/press-releases/429-seychelles-lifts-covid-19-travel-restrictions-gradually-as-from-1st-june)"
+  visa_quarantine:
+  - "[Travelers are required to take a COVID-19 PCR test before boarding their flight.](https://www.seychellestourismboard.travel/news-media/press-releases/429-seychelles-lifts-covid-19-travel-restrictions-gradually-as-from-1st-june)"
+travel:
+  inbound: partial
+  inbound_allowed:
+  - AU
+  - AT
+  - BW
+  - CN
+  - HR
+  - GR
+  - HU
+  - IL
+  - JP
+  - LU
+  - MU
+  - MC
+  - NA
+  - NZ
+  - false
+  - SK
+  - SI
+  - CH
+  - TH
+  outbound: 'yes'

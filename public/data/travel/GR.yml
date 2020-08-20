@@ -1,0 +1,69 @@
+---
+reopening:
+  '2020-07-02': Greek authorities announced the [reopening of the country's borders
+    on July 2, 2020](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25).
+sources:
+  domestic:
+  - Travel by ferry to and from islands [is permitted.](https://gr.usembassy.gov/covid-19-information/)
+  - Some flights to islands are [operational.](https://gr.usembassy.gov/covid-19-information/)
+  - Face masks will be mandatory in all indoor public spaces and in [outdoor spaces
+    where proper social distancing cannot be carried out](https://www.garda.com/crisis24/news-alerts/365436/greece-greece-extends-mask-wearing-measures-july-31-update-30).
+  - Shops, bars and restaurants [are open](https://www.garda.com/crisis24/news-alerts/365436/greece-greece-extends-mask-wearing-measures-july-31-update-30)
+  inbound:
+  - Greek authorities announced the [reopening of the country's borders on July 2,
+    2020](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25).
+  - Travelers entering the country must complete an [Online Passenger Locator Form
+    (PLF) at least 48 hours before arriving](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25).
+  - The Greek government has introduced [stricter border controls at its land borders](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25)
+    for at least two weeks from July 21, 2020.
+  - Greece will [reopen six ports to cruise ships on August 1, 2020](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25).
+  outbound:
+  - Travel to Albania, North Macedonia and Turkey are only [allowed for essential
+    travel.](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25)
+  visa_quarantine:
+  - Travelers may also be subject to [additional health screening and a 14-day quarantine
+    period.](https://www.garda.com/crisis24/news-alerts/356251/greece-authorities-reopen-borders-on-july-2-update-25)
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - BE
+  - BG
+  - CZ
+  - DK
+  - DE
+  - EE
+  - IE
+  - EL
+  - ES
+  - FR
+  - HR
+  - IT
+  - CY
+  - LV
+  - LT
+  - LU
+  - HU
+  - MT
+  - NL
+  - AT
+  - PL
+  - PT
+  - RO
+  - SI
+  - SK
+  - FI
+  - SE
+  - CH
+  - GB
+  - LI
+  - false
+  - RO
+  - CY
+  - RS
+  outbound: partial
+travel_ideas:
+- alt: A Guide to Greek Food
+  href: https://www.tourhero.com/en/magazine/travel/greek-food-our-must-read-guide-to-breakfast-lunch-dinner-in-greece/
+  src: must-try-greek-food-for-when-you-visit-greece-1900x880.jpg
+  title: 'Must-eat Greek food: A guide to breakfast, lunch, dinner, and dessert!'

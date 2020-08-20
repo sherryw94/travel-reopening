@@ -1,0 +1,13 @@
+---
+sources:
+  domestic:
+  - "[Phase 4 allows for social gatherings of no more than ten people](https://www.garda.com/crisis24/news-alerts/366226/paraguay-authorities-reimpose-business-and-movement-restrictions-in-alto-parana-department-through-august-16-update-7)."
+  inbound:
+  - Borders will remain [closed for non-resident foreigners until further notice](https://www.gov.uk/foreign-travel-advice/paraguay).
+  visa_quarantine:
+  - Paraguay requires all persons arriving to Paraguay to remain in isolation at a
+    government facility or designated hotel for 14 days, [regardless of whether symptoms
+    are present](https://py.usembassy.gov/covid-19-information-2/).
+travel:
+  domestic: partial
+  inbound: 'no'

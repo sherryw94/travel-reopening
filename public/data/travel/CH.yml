@@ -1,0 +1,59 @@
+---
+sources:
+  domestic:
+  - Rules on hygiene and social distancing [apply on all trips and excursions within
+    Switzerland](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/empfehlungen-fuer-reisende.html#1707070180).
+  - Events of more than 1000 people remain banned until [at least August 31, 2020](https://www.bag.admin.ch/bag/en/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/massnahmen-des-bundes.html).
+  inbound:
+  - As of June 15, 2020, Switzerland has lifted all COVID-19 related entry restrictions
+    for travelers from [other Schengen countries](https://ch.usembassy.gov/covid-19-info/#:~:text=As%20of%20June%2015%2C%20Switzerland,agreement%20with%20the%20other%20country).
+  - "[Switzerland only allows travelers](https://www.garda.com/crisis24/news-alerts/366781/switzerland-authorities-amend-list-of-covid-19-risk-countries-august-6-update-13)
+    from countries in the Schengen Zone, as well as Australia, New Zealand, Ireland,
+    Canada and South Korea."
+  outbound:
+  - Avoid non-essential travel outside Switzerland [until further notice](https://travel.gc.ca/destinations/switzerland).
+  visa_quarantine:
+  - "[Visa services are still suspended](https://ch.usembassy.gov/covid-19-info/)."
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - BG
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IE
+  - IT
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - PL
+  - RO
+  - SK
+  - SI
+  - ES
+  - SE
+  - GB
+  - AU
+  - CA
+  - NZ
+  - IE
+  - KR
+  outbound: partial
+travel_ideas:
+- alt: Exploring Switzerland's Hidden Gems
+  href: https://www.tourhero.com/en/magazine/travel/hidden-gems-of-switzerland-3-day-itinerary-from-lausanne-to-gruyeres/
+  src: hidden-gems-switzerland-1619x880.jpg
+  title: '3-Day itinerary from Lausanne to Gruyères: Exploring the hidden gems of
+    Switzerland’s southwest'
