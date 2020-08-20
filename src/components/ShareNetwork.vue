@@ -1,6 +1,7 @@
 <template>
   <div class="flex items-start">
     <ShareNetwork
+      class="pr-5 sm:pr-0 sm:pl-5 text-xl lg:text-2xl cursor-pointer"
       v-for="network in networks"
       :network="network.network"
       :key="network.network"
@@ -13,9 +14,7 @@
       hashtags="tourherotravel"
       twitterUser="tourherotravel"
     >
-      <div class="pr-5 sm:pr-0 sm:pl-5 text-xl lg:text-2xl cursor-pointer">
-        <font-awesome-icon :icon="['fab', network.icon]" />
-      </div>
+      <font-awesome-icon :icon="['fab', network.icon]" />
     </ShareNetwork>
   </div>
 </template>
