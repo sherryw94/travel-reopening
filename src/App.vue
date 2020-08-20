@@ -24,7 +24,7 @@ export default {
   components: { DefaultLayout, OembedLayout },
   computed: {
     layout() {
-      if (this.$route.name === 'OembedMap') {
+      if (this.$route.name === 'OembedMap' || this.$route.name === 'CountryOembedMap') {
         return OembedLayout;
       }
       return DefaultLayout;

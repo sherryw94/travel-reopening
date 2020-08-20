@@ -25,12 +25,28 @@
 <script>
 import Legend from '@/components/Map/Legend.vue';
 import WorldMap from '@/components/Map/WorldMap.vue';
+import { mapActions, mapGetters } from 'vuex';
 
 export default {
   name: 'OembedMap',
   components: {
     Legend,
     WorldMap,
+  },
+  computed: {
+    ...mapGetters(['getCountryBySlug']),
+  },
+  methods: {
+    ...mapActions(['updateCountryAction']),
+    fetchData() {
+      if (!this.$route.params.country) { return; }
+      const country = this.getCountryBySlug(this.$route.params.country);
+      if (!country) { this.$router.push({ name: 'NotFound' }); return; }
+      this.updateCountryAction(country);
+    },
+  },
+  created() {
+    this.fetchData();
   },
   mounted() {
     this.$nextTick(() => document.dispatchEvent(new Event('render-completed')));
