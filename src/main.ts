@@ -6,6 +6,7 @@ import { library } from '@fortawesome/fontawesome-svg-core';
 import {
   faFacebookF, faTwitter, faLinkedinIn, faTelegramPlane, faWhatsapp,
 } from '@fortawesome/free-brands-svg-icons';
+import { faCode } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
 import VueSchemaMicrodata from 'vue-schema-microdata';
 import VueI18n from 'vue-i18n';
@@ -21,6 +22,7 @@ library.add(
   faFacebookF,
   faTwitter,
   faLinkedinIn,
+  faCode,
   faTelegramPlane,
   faWhatsapp,
 );
