@@ -8,6 +8,7 @@ import {
 } from '@fortawesome/free-brands-svg-icons';
 import { faCode } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
+import VueClipBoard from 'vue-clipboard2';
 import VueSchemaMicrodata from 'vue-schema-microdata';
 import VueI18n from 'vue-i18n';
 import { messages, defaultLocale } from '@/i18n';
@@ -30,6 +31,7 @@ library.add(
 Vue.component('font-awesome-icon', FontAwesomeIcon);
 
 Vue.config.productionTip = false;
+Vue.use(VueClipBoard);
 Vue.use(VueSocialSharing);
 Vue.use(VueSchemaMicrodata);
 Vue.use(VueI18n);
