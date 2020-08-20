@@ -1,0 +1,26 @@
+---
+sources:
+  domestic:
+  - "[Domestic commercial passenger flights resumed on a limited scale.](https://bd.usembassy.gov/covid-19-information/)"
+  - The wearing of face masks and social distancing measures also remain compulsory
+    in public places, while a [ban on rallies, meetings, and mass gatherings remain
+    in place.](https://www.garda.com/crisis24/news-alerts/356071/bangladesh-authorities-extend-covid-19-restrictions-until-august-3-update-17)
+  - Government of Bangladesh has announced that the restrictions in place, such as
+    a 10 pm to 5 am curfew, have been [extended until August 3, 2020](https://www.garda.com/crisis24/news-alerts/364291/bangladesh-departing-foreign-nationals-to-present-negative-covid-19-test-result-as-of-july-26-update-19).
+  inbound:
+  - "[Foreign nationals are required to produce a medical certificate (with English
+    translation)](https://bd.usembassy.gov/covid-19-information/) to be obtained within
+    72 hours of travel, indicating a negative result."
+  outbound:
+  - "[All non-essential travel remains prohibited.](https://www.garda.com/crisis24/news-alerts/356071/bangladesh-authorities-extend-covid-19-restrictions-until-august-3-update-17)"
+  - All foreign nationals departing from Bangladesh are required to provide COVID-19
+    test certificate issued within 72 hours of travel [indicating a negative COVID-19
+    test result](https://www.garda.com/crisis24/news-alerts/364291/bangladesh-departing-foreign-nationals-to-present-negative-covid-19-test-result-as-of-july-26-update-19).
+  visa_quarantine:
+  - The Government of Bangladesh has announced it has begun distributing health information
+    cards and [conducting temperature screening of all passengers arriving in Bangladesh
+    at all points of entry](https://bd.usembassy.gov/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: false

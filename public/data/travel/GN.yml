@@ -1,0 +1,28 @@
+---
+sources:
+  domestic:
+  - "[A curfew has been imposed](https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    between 12 am and 4 am in the greater Conakry (Conakry, Coyah and Dubreka) area.
+    Markets must also close at 6 pm."
+  - The state of emergency has been [extended by 30 days, from July 15, 2020,](https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    and gives the government the power to implement necessary measures to limit the
+    spread of the disease.
+  inbound:
+  - "[Air travel to or from Guinea was suspended](https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    effective 11:59 p.m. on March 21, 2020."
+  - "[The Government of Guinea has closed all land borders.](https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/)"
+  outbound:
+  - "[Air travel to or from Guinea was suspended](https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    effective 11:59 p.m. on March 21, 2020."
+  - "[The Government of Guinea has closed all land borders.](https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/)"
+  visa_quarantine:
+  - All travelers, including Guinean citizens, must submit to a [new COVID-19 test
+    upon arrival in Guinea](https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/).
+  - Travelers who test negative and are asymptomatic will be required to complete
+    a mandatory 14 day quarantine at the Onomo hotel in Conakry. After 14 days of
+    quarantine and two negative COVID-19 tests the travelers would be [allowed to
+    depart the hotel](https://gn.usembassy.gov/u-s-citizen-services/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

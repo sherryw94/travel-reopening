@@ -1,0 +1,18 @@
+---
+sources:
+  inbound:
+  - "[Nauru has announced entry restrictions](https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    for any travelers who have traveled from or through China, Hong Kong, Macau, South
+    Korea, Italy, or Iran in the 21 days prior to traveling to Nauru."
+  visa_quarantine:
+  - Travelers suspected of having flu-like symptoms will be [quarantined for further
+    assessment](https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    until cleared by the Nauru Health Department.
+travel:
+  inbound: partial
+  inbound_restricted:
+  - CN
+  - HK
+  - KR
+  - IT
+  - IR

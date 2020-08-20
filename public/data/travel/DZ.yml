@@ -1,0 +1,17 @@
+---
+sources:
+  domestic:
+  - The Algerian government announced that the intra-provincial ban between 29 provinces
+    [has been lifted](https://www.garda.com/crisis24/news-alerts/367306/algeria-covid-19-movement-restrictions-and-curfew-to-be-eased-as-of-august-9-update-25),
+    while the curfew in these areas are shortened from 11 pm to 6 am.
+  - A ban on traffic, public and private, [is in place in these provinces during weekends](https://www.garda.com/crisis24/news-alerts/367306/algeria-covid-19-movement-restrictions-and-curfew-to-be-eased-as-of-august-9-update-25)
+  inbound:
+  - Non-cargo international air and maritime travel, as well as domestic flights,
+    are [suspended](https://www.garda.com/crisis24/news-alerts/355311/algeria-president-announces-borders-to-remain-closed-until-end-of-covid-19-pandemic-update-20).
+  outbound:
+  - Non-cargo international air and maritime travel, as well as domestic flights,
+    are [suspended](https://www.garda.com/crisis24/news-alerts/355311/algeria-president-announces-borders-to-remain-closed-until-end-of-covid-19-pandemic-update-20).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

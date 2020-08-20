@@ -1,0 +1,32 @@
+---
+sources:
+  domestic:
+  - Mozambique's state of emergency in response to the coronavirus disease (COVID-19)
+    pandemic has been [extended by 30 days until July 30, 2020](https://www.garda.com/crisis24/news-alerts/355281/mozambique-government-extends-covid-19-state-of-emergency-until-july-30-update-7).
+  - Lockdown measures on key economic sectors such as tourism, culture, and business
+    services will also be eased, allowing some businesses, resorts, and restaurants
+    to [reopen](https://www.garda.com/crisis24/news-alerts/355281/mozambique-government-extends-covid-19-state-of-emergency-until-july-30-update-7).
+  - Mozambique has a three-phase plan that will begin on August 18, 2020, when activities
+    deemed low risk can resume](https://www.garda.com/crisis24/news-alerts/366521/mozambique-authorities-announce-new-state-of-emergency-and-plans-to-ease-restrictions-august-5-update-8).
+  inbound:
+  - "[The Ministry of Health (MISAU) has implemented screening at airports and other
+    points of entry scanning the temperatures of all travelers.](https://mz.usembassy.gov/covid-19-information-2/)"
+  - "[In order to support international business and tourism, the suspension of international
+    flights to and from Mozambique has also been lifted, allowing business travellers,
+    tourists, and essential personnel to enter the country from a number of designated
+    'safe' countries.](https://mz.usembassy.gov/covid-19-information-2/)"
+  outbound:
+  - "[The Ministry of Health (MISAU) has implemented screening at airports and other
+    points of entry scanning the temperatures of all travelers.](https://mz.usembassy.gov/covid-19-information-2/)"
+  - "[In order to support international business and tourism, the suspension of international
+    flights to and from Mozambique has also been lifted, allowing business travellers,
+    tourists, and essential personnel to enter the country from a number of designated
+    'safe' countries](https://mz.usembassy.gov/covid-19-information-2/)."
+  visa_quarantine:
+  - "[No visas (including border visas) are being issued at this time.](https://mz.usembassy.gov/covid-19-information-2/)"
+  - "[All arrivals to Mozambique, regardless of citizenship, will be on a mandated
+    14-day self-quarantine.](https://www.mfa.gov.sg/countries-regions/m/mozambique/travel-page)"
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial

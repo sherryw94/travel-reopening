@@ -1,0 +1,17 @@
+---
+sources:
+  domestic:
+  - Peruvian airports are open for [domestic travel only](https://pe.usembassy.gov/covid-19-information/)
+    except to and from Áncash, Arequipa, Huánuco, Ica, Junín, Madre de Dios, and San
+    Martín.
+  - Stores can open at up to 50% of customer capacity. Restaurants and similar institutions
+    (excluding bars) can open at up to 40% of customer capacity. Hotels and travel
+    agencies are [authorized to reopen](https://pe.usembassy.gov/covid-19-information/).
+  inbound:
+  - "[International flights remain suspended](https://www.garda.com/crisis24/news-alerts/357961/peru-government-permits-resumption-of-domestic-flights-from-july-15-update-21)."
+  outbound:
+  - "[International flights remain suspended](https://www.garda.com/crisis24/news-alerts/357961/peru-government-permits-resumption-of-domestic-flights-from-july-15-update-21)."
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: false

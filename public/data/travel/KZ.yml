@@ -1,0 +1,36 @@
+---
+sources:
+  domestic:
+  - Media sources indicate that shopping centers, retail chains, indoor markets, beauty
+    and hair salons, spa centers, facilities providing cosmetic services, fitness
+    centers without swimming pools, baths and saunas without swimming pools, and education
+    institutions will be able to [resume operations on weekdays only](https://www.garda.com/crisis24/news-alerts/368861/kazakhstan-authorities-to-begin-easing-covid-19-restrictions-from-august-17-update-23).
+  - Additional restrictions will be in place at educational centers for both children
+    and adults; groups of no more than five people will be permitted by appointment
+    only and at preschool institutions, [no more than 15 people will be permitted.](https://www.garda.com/crisis24/news-alerts/368861/kazakhstan-authorities-to-begin-easing-covid-19-restrictions-from-august-17-update-23)
+  inbound:
+  - "[International flights](https://www.garda.com/crisis24/news-alerts/368861/kazakhstan-authorities-to-begin-easing-covid-19-restrictions-from-august-17-update-23)
+    to Belarus, Egypt, Germany, Russia, the Netherlands, the United Arab Emirates,
+    and Ukraine will begin operations from August 17, 2020, after authorities previously
+    allowed flights to resume with China, Japan, Georgia, Korea, Thailand, and Turkey."
+  visa_quarantine:
+  - Visa-free travel [suspended until November 2020](https://kz.usembassy.gov/covid-19-information/).
+  - Additional screening measures and PCR testing will be imposed, social distancing
+    measures should be observed, and [face-masks worn by passengers](https://www.garda.com/crisis24/news-alerts/368861/kazakhstan-authorities-to-begin-easing-covid-19-restrictions-from-august-17-update-23).
+travel:
+  domestic: false
+  inbound: 'no'
+  inbound_allowed:
+  - BY
+  - EG
+  - DE
+  - RU
+  - NL
+  - AE
+  - UA
+  - CN
+  - JP
+  - GE
+  - KR
+  - TH
+  - TR

@@ -1,0 +1,20 @@
+---
+sources:
+  domestic:
+  - 'On May 20, 2020, Botswana was divided into nine coronavirus zones: Boteti, Chobe,
+    Ghanzi, Greater Francistown, Greater Gaborone, Greater Palapye, Greater Phikwe,
+    Maun, and Kgalagadi. Individuals are permitted to travel within the zones without
+    travel permits; however, [travel between zones requires a travel permit](https://www.garda.com/crisis24/news-alerts/351036/botswana-authorities-lift-lockdown-in-greater-gaborone-covid-19-zone-june-15-update-10).'
+  - "[All gatherings will be banned](https://www.garda.com/crisis24/news-alerts/365131/botswana-authorities-reinstate-lockdown-in-gaborone-july-30-update-11)
+    and hotels, restaurants, gyms, and schools will close."
+  inbound:
+  - All international and domestic commercial flights remain [suspended indefinitely](https://www.garda.com/crisis24/news-alerts/351036/botswana-authorities-lift-lockdown-in-greater-gaborone-covid-19-zone-june-15-update-10).
+  outbound:
+  - All international and domestic commercial flights remain [suspended indefinitely](https://www.garda.com/crisis24/news-alerts/351036/botswana-authorities-lift-lockdown-in-greater-gaborone-covid-19-zone-june-15-update-10).
+  visa_quarantine:
+  - All returning residents or citizens will be subject to a [14-day mandatory quarantine
+    period in government facilities](https://www.garda.com/crisis24/news-alerts/351036/botswana-authorities-lift-lockdown-in-greater-gaborone-covid-19-zone-june-15-update-10).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

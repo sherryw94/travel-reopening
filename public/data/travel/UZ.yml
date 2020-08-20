@@ -1,0 +1,74 @@
+---
+sources:
+  domestic:
+  - Authorities in Uzbekistan have [extended the nationwide lockdown measures until
+    August 15, 2020](https://www.garda.com/crisis24/news-alerts/363601/uzbekistan-authorities-extend-covid-19-lockdown-measures-until-august-15-update-17).
+  - "[Travel between regions will be restricted](https://www.garda.com/crisis24/news-alerts/357721/uzbekistan-authorities-to-introduce-second-lockdown-from-july-10-update-16),
+    the movement of vehicles will be limited and large gatherings, including weddings,
+    banned, while funerals will be limited to 15 guests."
+  inbound:
+  - "[Flights shall be restored](https://uz.usembassy.gov/covid-19-information/) with
+    countries where there is a stable sanitary and epidemiological situation."
+  - Uzbekistan government has classified flights to and from these countries as Green,
+    Yellow and Red flights, indicating which countries [travellers are allowed to
+    come from and travel to](https://uz.usembassy.gov/covid-19-information/)
+  outbound:
+  - "[Rail and air links between Tashkent and remote regions have been allowed to
+    partially resume.](https://www.garda.com/crisis24/news-alerts/346901/uzbekistan-authorities-announce-changes-in-covid-19-related-restrictions-may-30-update-12)"
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IT
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - false
+  - PL
+  - PT
+  - SK
+  - SI
+  - ES
+  - SE
+  - BG
+  - HR
+  - CY
+  - IE
+  - RO
+  - SG
+  - MY
+  - TH
+  - JP
+  - KR
+  - CN
+  - IL
+  - AE
+  - TR
+  - AG
+  - IR
+  - RU
+  - AM
+  - AZ
+  - BY
+  - GE
+  - KZ
+  - KG
+  - MD
+  - TJ
+  - TM
+  - UA
+  - UZ
+  outbound: partial

@@ -1,0 +1,15 @@
+---
+sources:
+  domestic:
+  - "[Authorities in Yemen have closed schools, mosques, and markets in an attempt
+    to limit the spread of COVID-19, with large gatherings also banned. Short-term
+    curfews have previously been imposed in Yemeni cities, although their implementation
+    and other regulations can vary at short notice](https://www.garda.com/crisis24/news-alerts/351316/yemen-highest-daily-rise-in-covid-19-cases-as-un-warns-of-high-death-rate-on-june-15-update-9)"
+  inbound:
+  - "[Yemen has banned flights in and out of the country.](https://www.garda.com/crisis24/news-alerts/351316/yemen-highest-daily-rise-in-covid-19-cases-as-un-warns-of-high-death-rate-on-june-15-update-9)"
+  outbound:
+  - "[Yemen has banned flights in and out of the country.](https://www.garda.com/crisis24/news-alerts/351316/yemen-highest-daily-rise-in-covid-19-cases-as-un-warns-of-high-death-rate-on-june-15-update-9)"
+travel:
+  domestic: 'no'
+  inbound: 'no'
+  outbound: 'no'

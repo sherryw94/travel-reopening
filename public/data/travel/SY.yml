@@ -1,0 +1,10 @@
+---
+sources:
+  inbound:
+  - "[25 May, 2020: No passenger flights into and out of the country. Repatriation
+    flights into Syria have also been halted.](https://covid19.mohw.gov.tw/en/cp-4784-53773-206.html)"
+  outbound:
+  - "[Passenger flights into and out of the country have been halted.](https://covid19.mohw.gov.tw/en/cp-4784-53773-206.html)"
+travel:
+  inbound: 'no'
+  outbound: 'no'

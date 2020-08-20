@@ -1,0 +1,19 @@
+---
+reopening:
+  '2020-08-16': "[International flights will resume from August 16, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4)."
+sources:
+  domestic:
+  - "[A curfew is currently in place](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4)
+    between 8 pm to 6 am (local time)"
+  - Public gatherings will be limited to a [maximum of 10 people](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).
+  inbound:
+  - Cheddi Jagan International Airport (GEO) in Timehri and Eugene F. Correia International
+    Airport (OGL) in Georgetown will continue to be [closed to international flights
+    until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).
+  outbound:
+  - Cheddi Jagan International Airport (GEO) in Timehri and Eugene F. Correia International
+    Airport (OGL) in Georgetown will continue to be [closed to international flights
+    until at least August 15, 2020](https://www.garda.com/crisis24/news-alerts/365566/guyana-authorities-to-implement-phase-4-of-covid-19-exit-plan-from-august-1-update-4).
+travel:
+  domestic: 'no'
+  inbound: 'no'

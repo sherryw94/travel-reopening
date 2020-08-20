@@ -1,0 +1,21 @@
+---
+reopening:
+  '2020-09-13': International and domestic flights are expected to [gradually resume
+    from September 13, 2020.](https://www.garda.com/crisis24/news-alerts/369381/venezuela-international-flights-to-gradually-resume-from-september-13-update-11)
+sources:
+  domestic:
+  - The Venezuelan government has announced an [extension of the nationwide lockdown](https://www.garda.com/crisis24/news-alerts/361611/venezuela-authorities-impose-nationwide-seven-day-quarantine-july-20-update-9),
+    where only essential businesses are permitted to operate August 9, 2020.
+  - "[Local quarantines and bans on interstate movement remain in place](https://www.garda.com/crisis24/news-alerts/358646/venezuela-authorities-extend-state-of-emergency-until-august-10-update-8).
+    Educational institutions and non-essential shops are to remain closed, and public
+    gatherings are prohibited."
+  inbound:
+  - International and domestic flights are expected to [gradually resume from September
+    13.](https://www.garda.com/crisis24/news-alerts/369381/venezuela-international-flights-to-gradually-resume-from-september-13-update-11)
+  outbound:
+  - International and domestic flights are expected to [gradually resume from September
+    13.](https://www.garda.com/crisis24/news-alerts/369381/venezuela-international-flights-to-gradually-resume-from-september-13-update-11)
+travel:
+  domestic: 'no'
+  inbound: 'no'
+  outbound: 'no'

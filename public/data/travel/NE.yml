@@ -1,0 +1,15 @@
+---
+reopening:
+  '2020-08-01': Commercial international flights will [resume on August 1, 2020](https://www.garda.com/crisis24/news-alerts/361281/niger-authorities-to-allow-international-flights-as-of-august-1-update-7).
+sources:
+  inbound:
+  - Commercial international flights will [resume on August 1, 2020](https://www.garda.com/crisis24/news-alerts/361281/niger-authorities-to-allow-international-flights-as-of-august-1-update-7).
+  - Land borders will remain closed until further notice.](https://www.garda.com/crisis24/news-alerts/361281/niger-authorities-to-allow-international-flights-as-of-august-1-update-7)
+  outbound:
+  - Commercial international flights will [resume on August 1, 2020](https://www.garda.com/crisis24/news-alerts/361281/niger-authorities-to-allow-international-flights-as-of-august-1-update-7).
+  visa_quarantine:
+  - All travelers entering Niger from countries suffering from the COVID-19 must [self-quarantine
+    in their homes or in another adequate location for a period of 14 days](https://ne.usembassy.gov/u-s-citizen-services/covid-19-information/).
+travel:
+  inbound: 'no'
+  outbound: false

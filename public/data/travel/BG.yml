@@ -1,0 +1,78 @@
+---
+sources:
+  domestic:
+  - "[The emergency epidemic situation has been extended to July 31, 2020](http://www.mh.government.bg/bg/novini/aktualno/ot-utre-23-yuni-noseneto-na-predpazna-maska-ili-dr/).
+    Wearing a disposable or reusable protective mask or other means covering the nose
+    and mouth, including towels, scarfs, helmets, etc., is mandatory in all indoor
+    public places."
+  - "[A 50% occupancy condition applies](http://www.mh.government.bg/bg/novini/aktualno/ot-utre-23-yuni-noseneto-na-predpazna-maska-ili-dr/)
+    to the holding of cultural and entertainment events indoors and outdoors."
+  - "[The Bulgarian government has extended the state of Epidemic Emergency until
+    August 31, 2020](https://www.garda.com/crisis24/news-alerts/365156/bulgaria-epidemic-emergency-extended-until-august-31-update-15)."
+  inbound:
+  - All nationals, permanent residents and their family members of the European Union,
+    United Kingdom, the Schengen Agreement States including San Marino, Andorra, Monaco
+    and Vatican City, Bosnia and Herzegovina, Montenegro, and Serbia, are [allowed
+    into Bulgaria as of June 18, 2020](https://bg.usembassy.gov/novel-coronavirus-covid-19-information/#:~:text=Entry%20ban%3A%20U.S.%20citizens%20are,exceptions%20to%20this%20entry%20ban.&text=As%20of%20June%2018%2C%20permanent,countries%20may%20enter%20%E2%80%8BBulgaria).
+  - Tourists from Serbia, North Macedonia, Albania, Kosovo, Bosnia, Montenegro, Moldova,
+    Israel, and Kuwait will be allowed to visit the country. However, they must provide
+    proof of a negative COVID-19 test, [taken no more than 72 hours before arrival](https://www.garda.com/crisis24/news-alerts/363836/bulgaria-travel-bans-to-ease-for-tourists-from-select-countries-from-july-28-update-14).
+  visa_quarantine:
+  - All persons (with limited exceptions) arriving in Bulgaria from Sweden, the United
+    Kingdom, Portugal, and from all countries outside the European Union [must quarantine
+    for a period of 14 days at home or at other accommodation](https://bg.usembassy.gov/novel-coronavirus-covid-19-information/#:~:text=Entry%20ban%3A%20U.S.%20citizens%20are,exceptions%20to%20this%20entry%20ban.&text=As%20of%20June%2018%2C%20permanent,countries%20may%20enter%20%E2%80%8BBulgaria).
+    This excludes visitors from Serbia, Bosnia and Herzegovina and Montenegro, Iceland,
+    Norway, Switzerland, Lichtenstein, San Marino, Andorra, Monaco, and Vatican City.
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - SM
+  - AD
+  - MC
+  - VA
+  - BA
+  - ME
+  - RS
+  - GB
+  - AT
+  - BE
+  - BG
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IE
+  - IT
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - PL
+  - PT
+  - RO
+  - SK
+  - SI
+  - ES
+  - SE
+  - IS
+  - LI
+  - false
+  - CH
+  - RS
+  - MK
+  - AL
+  - KV
+  - BA
+  - ME
+  - MD
+  - IL
+  - KW
+  outbound: true

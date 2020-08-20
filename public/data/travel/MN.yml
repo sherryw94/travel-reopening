@@ -1,0 +1,21 @@
+---
+sources:
+  domestic:
+  - Schools, universities, and higher educational facilities have been [closed until
+    September 1, 2020](https://www.garda.com/crisis24/news-alerts/355611/mongolia-authorities-extend-suspension-of-international-air-and-rail-services-until-at-least-july-15-update-10).
+  - Restrictive measures have been introduced to curb the spread of the COVID-19 will
+    be [extended through August 31, 2020](https://www.garda.com/crisis24/news-alerts/364586/mongolia-authorities-extend-covid-19-measures-through-august-31-update-12).
+  inbound:
+  - "[Foreign nationals remain banned from entering Mongolia](https://www.garda.com/crisis24/news-alerts/364586/mongolia-authorities-extend-covid-19-measures-through-august-31-update-12)
+    and the government continues to ban international commercial flights and rail
+    passenger transport."
+  visa_quarantine:
+  - "[All travelers to Mongolia are subject to quarantine for 21 days upon arrival](https://mn.usembassy.gov/covid-19-information/).
+    Mongolian public health authorities request that individuals arriving in Mongolia
+    from any foreign country, i.e., every traveler arriving in Mongolia from overseas,
+    will be quarantined under observation at NCCD for 21 days then self-quarantine
+    at home for another 14 days after dismissed from hospital."
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

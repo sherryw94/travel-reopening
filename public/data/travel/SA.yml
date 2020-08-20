@@ -1,0 +1,22 @@
+---
+sources:
+  domestic:
+  - Saudi Arabia's nationwide curfew has been lifted but [restrictions still apply.](https://www.bbc.com/news/world-middle-east-53123945)
+  - "[Gatherings must not exceed 50 people](https://www.visitsaudi.com/en/covid-19-information-page).
+    Social distancing measures are in place, and individuals must wear masks while
+    in public."
+  - Saudi Arabia's nationwide curfew has been lifted but [restrictions still apply.](https://www.bbc.com/news/world-middle-east-53123945)
+  inbound:
+  - International flights have been [suspended indefinitely.](https://www.visitsaudi.com/en/covid-19-information-page)
+  outbound:
+  - Regular international flights are suspended. However, a return service allows
+    tourists and expatriates [holding valid visas to leave Saudi Arabia and return
+    home.](https://www.visitsaudi.com/en/covid-19-information-page)
+  visa_quarantine:
+  - "[Citizens and residents returning will be required to undergo a 14 day quarantine.](https://www.visitsaudi.com/en/covid-19-information-page)"
+  - "[Extensions are not required for tourist visas that expired following the suspension
+    of international flights.](https://www.visitsaudi.com/en/covid-19-information-page)"
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: partial

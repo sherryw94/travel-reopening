@@ -1,0 +1,15 @@
+---
+sources:
+  inbound:
+  - "[The Government of Tuvalu announced restrictions prohibiting entry to Tuvalu
+    of anyone who has been in China within 30 days of arrival in Tuvalu. This restriction
+    includes entry to seafarers from foreign vessels that have been in China or “a
+    high-risk country” (understood to be countries where coronavirus is present) in
+    the last 30 days.](https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/)"
+  outbound:
+  - "[20 March, 2020, Tuvalu passed emergency regulations which saw borders closed
+    to all flights and vessels, except where exempted for essential supplies of food,
+    medicine, fuel, cargo, or humanitarian assistance.](https://tr.usembassy.gov/covid-19-information-2/)"
+travel:
+  inbound: partial
+  outbound: 'no'

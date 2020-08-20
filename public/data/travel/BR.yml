@@ -1,0 +1,17 @@
+---
+sources:
+  domestic:
+  - Cities such as Rio de Janeiro and Sao Paulo have lifted restrictions. Gyms, bars,
+    restaurants, and shopping centers are [allowed to reopen.](https://www.aljazeera.com/news/2020/07/brazil-coronavirus-restrictions-lifted-rio-sao-paulo-200707105343195.html)
+  - "[The use of face masks remains mandatory](https://www.garda.com/crisis24/news-alerts/364721/brazil-brazil-records-highest-daily-number-of-covid-19-cases-and-fatalities-july-29-update-30)
+    in São Paulo, Rio de Janeiro, Belo Horizonte, and Brasília in essential commercial
+    establishments, such as supermarkets and pharmacies, as well as on public transport."
+  inbound:
+  - All land, and sea borders are closed until August 28, 2020](https://www.straitstimes.com/world/americas/brazil-reopens-international-flights-to-tourists-even-as-coronavirus-deaths-spike).
+  outbound:
+  - The inbound restrictions [do not prevent individuals](https://br.usembassy.gov/brazil-extends-border-closure-to-july-5/)
+    from departing on commercial flights.
+travel:
+  domestic: 'yes'
+  inbound: partial
+  outbound: true

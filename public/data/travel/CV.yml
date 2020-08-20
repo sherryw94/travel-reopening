@@ -1,0 +1,10 @@
+---
+sources:
+  domestic:
+  - "[Maritime transport for inter-island travel has resumed](https://cv.usembassy.gov/health-alert-u-s-embassy-praia-cabo-verde-june-4-2020/)."
+  inbound:
+  - Media reports have indicated commercial international flights will [resume sometime
+    in July](https://cv.usembassy.gov/health-alert-u-s-embassy-praia-cabo-verde-june-4-2020/).
+travel:
+  domestic: true
+  inbound: partial

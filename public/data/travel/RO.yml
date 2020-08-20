@@ -1,0 +1,76 @@
+---
+sources:
+  domestic:
+  - "[The Romanian Government permitted the reopening of shopping centers, fitness
+    clubs, private indoor events of no more than 20 people, and outdoor events of
+    no more than 50 people](https://www.garda.com/crisis24/news-alerts/355876/romania-authorities-postpone-relaxing-of-some-covid-19-restrictions-june-30-update-9)."
+  - "[Limitations on public gatherings and movement](https://www.garda.com/crisis24/news-alerts/360996/romania-authorities-extend-state-of-alert-through-august-16-update-10)
+    are in place, and it is forbidden to organize and hold rallies, demonstrations,
+    and other types of large gatherings in open spaces."
+  - "[A decree has been approved](https://www.garda.com/crisis24/news-alerts/360996/romania-authorities-extend-state-of-alert-through-august-16-update-10),
+    allowing authorities to enforce the wearing of masks in certain outdoor spaces
+    from July 29, 2020. In addition, authorities will be able to reduce activity for
+    bars and restaurants by restricting opening hours."
+  - More stringent restrictions may also be implemented by local authorities in some
+    areas, with the counties of Arges and Dambovita placing further limits on [public
+    gatherings and restricting bar and restaurant opening hours](https://www.garda.com/crisis24/news-alerts/369931/romania-authorities-extend-covid-19-state-of-alert-until-september-15-update-12).
+  inbound:
+  - The Government has [eased commercial flight and travel restrictions to 22 countries](https://ro.usembassy.gov/covid-19-information/)
+    with documented COVID-19 case reduction as of June 22, 2020.
+  outbound:
+  - Currently, 20 European states have prohibited or imposed restrictions on the [entry
+    of Romanians](https://business-review.eu/news/coronavirus-travel-update-20-countries-to-restrict-romania-for-traveling-211738).
+  visa_quarantine:
+  - The state of alert requires [home-quarantine for all people arriving in Romania](https://ro.usembassy.gov/covid-19-information/)
+    except for certain professionals and people entering the country after spending
+    at least 14 days in certain countries with low COVID-19 case growth, as determined
+    by the National Institute of Public Health on a weekly basis
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BG
+  - CZ
+  - CY
+  - HR
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IE
+  - IT
+  - LV
+  - LI
+  - LT
+  - MT
+  - false
+  - SK
+  - SI
+  - CH
+  outbound: partial
+RS:
+  sources:
+    domestic:
+    - "[The wearing of face masks is compulsory](https://www.garda.com/crisis24/news-alerts/358536/serbia-authorities-introduce-new-covid-19-measures-july-10-update-15)
+      on public transport, individuals are not permitted to visit others in hospitals,
+      and visits to care homes are limited to 15 minutes."
+    - There is a ban on gatherings of more than 200 people, while schools and universities
+      will remain closed [until further notice.](https://www.garda.com/crisis24/news-alerts/355606/serbia-authorities-announce-compulsory-use-of-face-masks-in-some-serbian-states-june-30-update-12)
+    - "[Belgrade has imposed](https://www.garda.com/crisis24/news-alerts/355606/serbia-authorities-announce-compulsory-use-of-face-masks-in-some-serbian-states-june-30-update-12)
+      the compulsory use of face masks in indoor public spaces and on public transport,
+      and a ban on gatherings of more than five people indoors or outdoors."
+    inbound:
+    - All COVID-19 related entry restrictions are [lifted for both Serbian and foreign
+      citizens](https://www.gov.uk/foreign-travel-advice/san-marino/entry-requirements).
+    visa_quarantine:
+    - All foreign nationals seeking to enter the country from North Macedonia, Croatia,
+      Bulgaria, or Romania, will need to provide a negative COVID-19 PCR test, taken
+      within [2 days prior to their departure to the country](https://www.garda.com/crisis24/news-alerts/369936/serbia-authorities-introduce-new-covid-19-related-entry-restrictions-august-14-update-16).
+    - The government of Serbia has [abolished self-isolation requirements upon entry.](https://www.gov.uk/foreign-travel-advice/san-marino/entry-requirements).
+  travel:
+    domestic: partial
+    inbound: true

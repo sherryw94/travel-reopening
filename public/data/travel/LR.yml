@@ -1,0 +1,14 @@
+---
+sources:
+  domestic:
+  - Face masks are mandatory and are [expected to be worn in all public places](https://www.garda.com/crisis24/news-alerts/362206/liberia-military-ends-covid-19-policing-deployment-as-state-of-emergency-expires-july-22-update-12).
+  inbound:
+  - Roberts International Airport (ROB) in Monrovia resumed operations at the end
+    of June. However, [international commercial flights have been limited](https://www.garda.com/crisis24/news-alerts/362206/liberia-military-ends-covid-19-policing-deployment-as-state-of-emergency-expires-july-22-update-12)
+    and the borders with Sierra Leone, Guinea and Côte d'Ivoire remain closed.
+travel:
+  inbound: partial
+  inbound_restricted:
+  - SL
+  - GN
+  - CI

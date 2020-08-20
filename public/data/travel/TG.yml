@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - Togolese officials have reopened the country's airspace since August 1, 2020,
+    and allow the resumption of [international and domestic commercial flight operations](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)
+  - Most businesses, restaurants, and hotels are open, with working hours from 8 am
+    to 4 pm, although the use of [face masks remains mandatory in public places](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4).
+  inbound:
+  - Togolese officials have reopened the country's airspace since August 1, 2020,
+    and allow the resumption of [international and domestic commercial flight operations](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)
+  - The resumption of flight operations will be gradual, with [limits on the number
+    of flights per day.](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)
+  outbound:
+  - Togolese officials have reopened the country's airspace since August 1, 2020,
+    and allow the resumption of [international and domestic commercial flight operations](https://www.garda.com/crisis24/news-alerts/365231/togo-flight-operations-to-resume-august-1-update-4)
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial

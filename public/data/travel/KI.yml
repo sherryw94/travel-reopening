@@ -1,0 +1,12 @@
+---
+sources:
+  inbound:
+  - Kiribati medical officials issued a travel advisory requiring travelers “from
+    countries with ongoing local transmission of COVID-19” – which includes the United
+    States — to [spend at least 14 days in a country free of the virus](https://fj.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    before traveling to Kiribati, and to provide a medical clearance to confirm that
+    they are virus-free.
+travel:
+  inbound: partial
+  inbound_restricted:
+  - US

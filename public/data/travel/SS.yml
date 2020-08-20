@@ -1,0 +1,8 @@
+---
+sources:
+  inbound:
+  - "[The South Sudan Civil Aviation Authority (SSCAA) also announced the resumption
+    of a limited number of international flights on Tuesday, May 12, although these
+    have continued to be canceled at short notice. ](https://www.garda.com/crisis24/news-alerts/344781/south-sudan-number-of-confirmed-covid-19-cases-passes-500-may-22-update-5)"
+travel:
+  inbound: partial

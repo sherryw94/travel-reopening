@@ -1,0 +1,11 @@
+---
+sources:
+  inbound:
+  - "[All international flights to and from Turkmenistan have been cancelled and land
+    borders are closed to passenger traffic.](https://tm.usembassy.gov/covid-19-information/)"
+  outbound:
+  - "[All international flights to and from Turkmenistan have been cancelled and land
+    borders are closed to passenger traffic.](https://tm.usembassy.gov/covid-19-information/)"
+travel:
+  inbound: 'no'
+  outbound: 'no'

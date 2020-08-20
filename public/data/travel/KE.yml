@@ -1,0 +1,25 @@
+---
+reopening:
+  '2020-08-01': Kenyatta stated that [international commercial flights would resume
+    from August 1, 2020](https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25).
+sources:
+  domestic:
+  - Kenyatta stated that international commercial flights would resume from August
+    1, 2020, and that [domestic flights have resumed since July 15, 2020](https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25).
+  - The government extended the current curfew in place between 9 pm and 4 am by another
+    30 days as of July 27, 2020. Public gatherings also remain banned and [face masks
+    must be worn in public](https://www.garda.com/crisis24/news-alerts/363811/kenya-nightly-curfew-extended-for-additional-30-days-july-27-update-27).
+  - A gradual reopening of schools is [planned to take place from September 1, 2020](https://www.garda.com/crisis24/news-alerts/363811/kenya-nightly-curfew-extended-for-additional-30-days-july-27-update-27).
+  inbound:
+  - Kenyatta stated that [international commercial flights would resume from August
+    1, 2020](https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25),
+    and that domestic flights have resumed since July 15, 2020.
+  outbound:
+  - Kenyatta stated that international commercial flights would resume from August
+    1, 2020, and that [domestic flights will commence from July 15, 2020](https://www.garda.com/crisis24/news-alerts/357071/kenya-movement-restrictions-to-be-lifted-in-nairobi-mombasa-and-mandera-counties-july-7-update-25).
+  visa_quarantine:
+  - Travelers who enter the country are [subject to quarantine at their own expense](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).
+travel:
+  domestic: partial
+  inbound: true
+  outbound: true

@@ -1,0 +1,16 @@
+---
+sources:
+  domestic:
+  - "[Tajik authorities announced on Monday, June 15, that malls, bazaars, restaurants,
+    and hotels are permitted to reopen amid the easing of selected coronavirus disease
+    (COVID-19) restrictions. Mosques, transit facilities, and state borders will however
+    remain closed until further notice](https://www.garda.com/crisis24/news-alerts/350886/tajikistan-authorities-announce-easing-of-covid-19-restrictions-june-15-update-6)"
+  inbound:
+  - "[The entry and exit of all foreign nationals is prohibited. Land borders remain
+    closed; flights to and from the country are suspended.](https://www.garda.com/crisis24/news-alerts/350886/tajikistan-authorities-announce-easing-of-covid-19-restrictions-june-15-update-6)"
+  outbound:
+  - "[The entry and exit of all foreign nationals is prohibited. Land borders remain
+    closed; flights to and from the country are suspended.](https://www.garda.com/crisis24/news-alerts/337866/tajikistan-health-authorities-confirm-first-covid-19-cases-april-30-update-5)"
+travel:
+  inbound: 'no'
+  outbound: 'no'

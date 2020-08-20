@@ -1,0 +1,128 @@
+---
+sources:
+  domestic:
+  - Internal maritime transport is reinstated for people and goods, with appropriate
+    prevention measures, including the wearing of masks. [Recreational maritime transport
+    is also allowed](https://me.usembassy.gov/covid-19-information/)
+  - Political rallies, spectating at sporting events, religious gatherings and private
+    gatherings like weddings and birthdays are [prohibited](http://www.gov.me/en/homepage/measures_and_recommendations/).
+  inbound:
+  - "[Entry will be allowed](https://www.ijzcg.me/me/novosti/covid-19-popustanje-mjera-u-medunarodnom-saobracaju)
+    for travelers from countries who have less than 25 cases per 100,000 citizens.
+    While travelers from these countries are currently not subject to quarantine,
+    the final decision rests with local officials."
+  - Montenegro's borders reopened on June 1, 2020, but [only for countries that meet
+    certain criteria.](https://www.garda.com/crisis24/news-alerts/352796/montenegro-montenegro-to-open-borders-to-certain-countries-from-june-1-update-10)
+  outbound:
+  - Montenegrin Airlines has announced that [commercial flights will resume](https://me.usembassy.gov/covid-19-information/)
+    with limited destinations on or about June 15, 2020.
+  visa_quarantine:
+  - Extension of the validity of expired permanent and temporary residence permits
+    and tourist visas until [July 1, 2020.](https://me.usembassy.gov/covid-19-information/)
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AL
+  - DZ
+  - AO
+  - AG
+  - AU
+  - AT
+  - BS
+  - BB
+  - BZ
+  - BJ
+  - BW
+  - BA
+  - BN
+  - BG
+  - BF
+  - BI
+  - BT
+  - TD
+  - CZ
+  - DK
+  - DM
+  - SV
+  - ER
+  - EE
+  - ET
+  - FJ
+  - PH
+  - FI
+  - GM
+  - GH
+  - GR
+  - GD
+  - GL
+  - GE
+  - GY
+  - GN
+  - HR
+  - IN
+  - ID
+  - IE
+  - IS
+  - TP
+  - JM
+  - JP
+  - YE
+  - JO
+  - KR
+  - SD
+  - KH
+  - CM
+  - KE
+  - CN
+  - CY
+  - KG
+  - KM
+  - CG
+  - KV
+  - CR
+  - CU
+  - LA
+  - LS
+  - LV
+  - LB
+  - LR
+  - LY
+  - LT
+  - LU
+  - MG
+  - HU
+  - MW
+  - MT
+  - MY
+  - ML
+  - MA
+  - MU
+  - MR
+  - MX
+  - MM
+  - MC
+  - MN
+  - MZ
+  - NA
+  - NP
+  - NE
+  - NG
+  - NI
+  - DE
+  - false
+  - NZ
+  - PS
+  - PG
+  - PY
+  - SK
+  - RW
+  - SC
+  - SN
+  - SL
+  - SI
+  - SO
+  - CD
+  - SY
+  - CI
+  outbound: 'yes'

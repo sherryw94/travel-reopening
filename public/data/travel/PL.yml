@@ -1,0 +1,51 @@
+---
+sources:
+  domestic:
+  - "[Domestic flights have resumed](https://www.gov.pl/web/coronavirus/travel) and
+    public transportation is operational with reduced capacity."
+  - Health Minister Lukasz Szumowski announced that [restrictions may be imposed on
+    weddings](https://www.gov.pl/web/coronavirus/travel). Currently, Poland allows
+    150 guests at a wedding.
+  inbound:
+  - As of June 17, 2020, restrictions on international flights for [certain countries
+    will be lifted.](https://www.gov.pl/web/coronavirus/travel)
+  outbound:
+  - As Poland has restored full border traffic with members of the European Union,
+    [travelers may move freely.](https://www.gov.pl/web/coronavirus/travel)
+  visa_quarantine:
+  - The obligation to undergo [a 14-day quarantine](https://www.gov.pl/web/coronavirus/travel)
+    is imposed on persons crossing the borders of the Republic of Poland that are
+    also the external borders of the EU, when traveling to their place of residence
+    or stay.
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - BG
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IE
+  - IT
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - PL
+  - PT
+  - RO
+  - SK
+  - SI
+  - ES
+  - SE
+  outbound: partial

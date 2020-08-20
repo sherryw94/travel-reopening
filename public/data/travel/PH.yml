@@ -1,0 +1,55 @@
+---
+sources:
+  domestic:
+  - Restrictions slowly easing, but high-risk districts deemed as ['critical zones'
+    will remain under lockdown](https://www.garda.com/crisis24/news-alerts/346436/philippines-authorities-ease-lockdown-in-metro-manila-from-june-1-update-22).
+    Districts that report two or more cases of COVID-19 per week, will also remain
+    under strict shelter-at-home restrictions.
+  - Gyms, sports facilities, and internet cafes, will be permitted to [reopen with
+    a 30 percent capacity.](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29)
+  - Hair salons, personal services, and pet grooming parlors will also resume operations
+    whilst following [strict health protocols and hygiene measures.](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29)
+  - Duterte announced that businesses in areas under the general community quarantine
+    (GCQ), will be allowed to partially reopen from August 1, 2020](https://www.garda.com/crisis24/news-alerts/364916/philippines-partial-reopening-of-certain-businesses-as-of-august-1-update-29).
+  - Authorities announced that areas under the general community quarantine (GCQ),
+    will have their restrictions extended until August 15, 2020](https://www.garda.com/crisis24/news-alerts/365151/philippines-authorities-extend-restrictions-in-manila-and-other-areas-until-august-15-update-30).
+  - The Batangas Province will have new quarantine passes needed by residents, secondary
+    roads that will be closed, and non-residents that work in the city will be [required
+    to present negative COVID-19 test results upon entry](https://www.garda.com/crisis24/news-alerts/365536/philippines-authorities-tighten-lockdown-measures-in-lipa-from-august-1-update-31).
+  - Filipino authorities have announced that Metro Manila, inclusive of the nearby
+    provinces of Laguna, Cavite, Rizal, and Bulacan, is to be [placed under a 'Modified
+    Enhanced Community Quarantine' from August 4, 2020](https://www.garda.com/crisis24/news-alerts/365706/philippines-authorities-to-impose-stricter-lockdown-in-metro-manila-and-surrounding-areas-from-august-4-update-33).
+    Businesses and public transport are to close, and work and quarantine passes are
+    mandatory, as movement will be restricted.
+  - In Lipa, new quarantine passes are needed by residents, secondary roads are closed,
+    and non-residents that work in the city are required to present a [negative COVID-19
+    test result upon entry](https://www.garda.com/crisis24/news-alerts/365666/philippines-over-100000-covid-19-cases-confirmed-as-of-august-2-update-32).
+  inbound:
+  - On May 9, 2020, the Civil Aviation Authority of the Philippines (CAAP) announced
+    that Manila's Ninoy Aquino International Airport (MNL) will resume international
+    flight arrivals from Monday, May 11, 2020, following new entry requirements introduced
+    due to the coronavirus disease (COVID-19) pandemic. As such, the airport will
+    operate on a [limited basis with a cap on passenger arrivals.](https://www.garda.com/crisis24/news-alerts/340496/philippines-manilas-ninoy-aquino-international-airport-mnl-to-resume-international-flight-arrivals-from-may-11-update-18)
+  - All travelers are required to submit a negative reverse transcription-polymerase
+    chain reaction (RT-PCR) test, [taken within 48 hours of their departure.](https://www.garda.com/crisis24/news-alerts/360831/philippines-new-measures-to-be-introduced-at-francisco-bangoy-international-airport-from-july-20-amid-covid-19-outbreak-update-28)
+  outbound:
+  - Non-essential travel abroad can [resume with immediate effect](https://www.philippineairlines.com/en/ph/home/covid-19/travelrules).
+    Those traveling abroad must observe any restrictions in place at their final destination
+    and will have to undergo a COVID-19 test and a mandatory quarantine period on
+    return to the Philippines. They will also be required to submit confirmation of
+    tickets, visas, and health insurance prior to travel, as well as signing a declaration
+    form.
+  visa_quarantine:
+  - All issuance of [entry visas for visa-required foreign nationals are suspended](https://www.dfa.gov.ph/covid-19-advisories/26402-travel-advisory-inbound-travel-restrictions-by-the-philippine-government-on-foreign-travelers)
+    while all previously-issued visas are cancelled, except those issued to Foreign
+    Government and International Organization officials accredited to the Philippines,
+    or foreign spouse and children of Filipino nationals.
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: true
+travel_ideas:
+- alt: Island Hopping in the Philippines
+  href: https://www.tourhero.com/en/magazine/travel/island-hopping-in-the-philippines-5-hidden-gems-for-the-perfect-getaway/
+  src: philippines-5-hidden-gems-1900x880.jpg
+  title: 'The Philippines island hopping guide: 5 Hidden gems for the perfect getaway'

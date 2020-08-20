@@ -1,0 +1,63 @@
+---
+sources:
+  domestic:
+  - The gastronomy sector and museums have [opened](https://www.austria.info/en/service-and-facts/coronavirus-information)
+    on May 15, 2020, accommodation facilities and recreational operations on May 29,
+    2020.
+  - "[Face masks will be made compulsory in shops, banks, and post offices nationwide
+    from July 24, 2020](https://www.austria.info/en/service-and-facts/coronavirus-information)."
+  inbound:
+  - "[Austria opened its borders](https://www.schengenvisainfo.com/news/austria-abolishes-entry-restrictions-for-essential-travel-from-32-european-countries-opens-border-with-italy/)
+    to 32 countries, inclusive of Italy."
+  - Those arriving in Austria from Bosnia-Herzegovina, Albania, Montenegro, Kosovo,
+    Serbia, and North Macedonia must [present a negative COVID-19 test to enter the
+    country](https://www.garda.com/crisis24/news-alerts/362161/austria-authorities-to-make-face-masks-compulsory-in-shops-from-july-24-update-17).
+  outbound:
+  - "[Cross-border travel will be permitted for tourists from neighboring countries
+    that have a comparable decline in the virus.](https://www.austria.info/en/service-and-facts/coronavirus-information)"
+  - "[Certain road borders are closed](https://www.austria.info/en/service-and-facts/coronavirus-information),
+    see domestic cross-border travel section."
+  - Vienna, Salzburg, and Innsbruck airports operate with [limited flight plans.](https://www.austria.info/en/service-and-facts/coronavirus-information)
+  - Austria's foreign ministry warned Austrian nationals [against travel to Spain](https://www.garda.com/crisis24/news-alerts/366721/austria-foreign-ministry-advises-against-travel-to-spain-from-august-10-update-18).
+  visa_quarantine:
+  - Austrian citizens, EU/EEA/CH/UK citizens, and third-country nationals traveling
+    from within the Schengen area can [enter without any quarantine.](https://www.garda.com/crisis24/news-alerts/355336/austria-authorities-announce-new-border-measures-for-germans-arriving-from-areas-with-high-covid-19-infections-june-28-update-16)
+  - Vienna Airport now offers [molecular-biological COVID-19 tests (PCR test) directly
+    on-site](https://www.viennaairport.com/pcrtest) at the airport.
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AD
+  - BE
+  - BG
+  - DK
+  - DE
+  - EE
+  - FI
+  - FR
+  - GR
+  - IE
+  - IS
+  - IT
+  - HR
+  - LV
+  - LI
+  - LT
+  - LU
+  - MT
+  - MC
+  - NL
+  - false
+  - PL
+  - RO
+  - SM
+  - CH
+  - SK
+  - SI
+  - ES
+  - CZ
+  - HU
+  - VA
+  - CY
+  outbound: partial

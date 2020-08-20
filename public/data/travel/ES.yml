@@ -1,0 +1,75 @@
+---
+reopening:
+sources:
+  domestic:
+  - Authorities reimposed a lockdown that only includes a [ban on movement in and
+    out of the area](https://newseu.cgtn.com/news/2020-05-25/Spain-s-lockdown-eased-UK-schools-to-reopen-COVID-19-daily-bulletin-QMAjS8xApG/index.html)
+    in Segrià municipality (Catalonia region), including the city of Lleida, due to
+    a rise in coronavirus disease (COVID-19) cases in the area on Saturday, July 4,
+    2020.
+  - "[Galician authorities reimposed a lockdown in La Mariña](https://www.garda.com/crisis24/news-alerts/356816/spain-authorities-reimpose-lockdown-in-la-marina-galicia-region-july-5-update-34)
+    until Friday, July 10, 2020. However, residents will not be required to go on
+    a full quarantine within their confined area. Bars and restaurants will remain
+    open during the lockdown, but limited to a 50 percent capacity."
+  - Social gatherings in Catalonia are [limited to ten people](https://www.garda.com/crisis24/news-alerts/361026/spain-authorities-implement-additional-restrictions-in-catalonia-and-aragon-regions-from-july-18-update-38),
+    bars and restaurants are only permitted to operate at 50-percent capacity for
+    indoor areas, and nightclubs, cinemas, theatres, gyms, and children's indoor playgrounds
+    will be closed.
+  - In Aragon, bars and restaurants are only permitted to operate at a 50-percent
+    capacity for indoor areas, and retail stores, night clubs, cinemas, theatres,
+    gyms, and facilities offering cultural activities will be [permitted to operate
+    at 75-percent capacity](https://www.garda.com/crisis24/news-alerts/361026/spain-authorities-implement-additional-restrictions-in-catalonia-and-aragon-regions-from-july-18-update-38).
+  - In Madrid, public gatherings are [limited to ten people and the use of masks is
+    mandatory](https://www.garda.com/crisis24/news-alerts/364016/spain-additional-covid-19-restrictions-to-be-imposed-in-madrid-from-july-30-update-39)
+    in all public spaces, including streets and terraces.
+  - Spanish authorities [ordered night clubs to close](https://www.garda.com/crisis24/news-alerts/369116/spain-authorities-order-nightclubs-to-close-august-14-update-40).
+  - Authorities in Madeira have announced that face masks will be [compulsory in all
+    public places from August 1, 2020](https://www.garda.com/crisis24/news-alerts/365096/portugal-face-masks-to-be-compulsory-in-madeira-in-all-public-places-from-august-1-update-20).
+  inbound:
+  - "[The Spanish authorities have decided to reopen country’s borders](https://www.schengenvisainfo.com/news/spain-to-reopen-borders-a-week-later-than-commissions-recommended-date/)
+    on June 21, 2020, for all EU and Schengen countries, except for Portugal with
+    which the borders will reopen in July, 2020."
+  visa_quarantine:
+  - From July 1, 2020, tourists will be able to visit Spain [without having to quarantine
+    for two weeks.](https://news.sky.com/story/coronavirus-spain-to-welcome-tourists-from-1-july-with-no-quarantine-11994664)
+  - Upon arrival into Spain, a [Public Health Passenger Locator Form must be presented.](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - BG
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IE
+  - IT
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - PL
+  - RO
+  - SK
+  - SI
+  - ES
+  - SE
+  - IS
+  - false
+  - CH
+  - LI
+  outbound: partial
+travel_ideas:
+- alt: Day trips near Barcelona — Montserrat
+  href: https://www.tourhero.com/en/magazine/travel/best-day-trips-near-barcelona-to-inspire-you-montserrat-included/
+  src: day-trips-near-barcelona-1-1800x880.jpg
+  title: 'Spain Travel Guide: Best day trips near Barcelona for every type of traveler'

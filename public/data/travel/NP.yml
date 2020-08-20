@@ -1,0 +1,18 @@
+---
+reopening:
+  '2020-08-17': International flights will resume from [August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).
+sources:
+  domestic:
+  - Domestic flights will resume from [August 5, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).
+  - Long-route buses will resume operations from August 17. Restaurants will be [allowed
+    to reopen from July 30, 2020, and hotels from July 31, 2020.](https://www.garda.com/crisis24/news-alerts/362021/nepal-authorities-lift-covid-19-restrictions-july-21-update-19)
+  inbound:
+  - The Ministry of Culture, Tourism and Civil Aviation announced that it [plans to
+    resume international flights from August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).
+  outbound:
+  - The Ministry of Culture, Tourism and Civil Aviation announced that it [plans to
+    resume international flights from August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

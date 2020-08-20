@@ -1,0 +1,24 @@
+---
+reopening:
+  '2020-08-03': Somali government announced that international flights have [resumed
+    as of August 3, 2020](https://www.garda.com/crisis24/news-alerts/365406/somalia-international-flights-to-resume-august-3-update-4).
+sources:
+  domestic:
+  - Mogadishu, the capital of Somalia, has [a night time curfew](https://so.usembassy.gov/covid-19-information/)
+    between 8 pm and 5 am.
+  - The government also announced that [schools and universities would resume on August
+    15, 2020](https://www.garda.com/crisis24/news-alerts/365406/somalia-international-flights-to-resume-august-3-update-4).
+  inbound:
+  - Somali government announced that international flights have [resumed as of August
+    3, 2020](https://www.garda.com/crisis24/news-alerts/365406/somalia-international-flights-to-resume-august-3-update-4).
+  outbound:
+  - Somali government announced that international flights have [resumed as of August
+    3, 2020](https://www.garda.com/crisis24/news-alerts/365406/somalia-international-flights-to-resume-august-3-update-4).
+  visa_quarantine:
+  - Somali authorities have established a quarantine unit at Aden Adde International
+    Airport (AAIA) in Mogadishu to [isolate passengers who demonstrate symptoms of
+    COVID-19](https://so.usembassy.gov/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

@@ -1,0 +1,30 @@
+---
+sources:
+  domestic:
+  - The government announced that the [nationwide curfew will be lifted](https://www.garda.com/crisis24/news-alerts/355026/barbados-curfew-to-be-lifted-from-july-1-update-5),
+    as well as the reduction of social distancing to 1m (3ft), and that outdoor and
+    social events will be allowed to have as many as 500 attendees based on capacity.
+  inbound:
+  - "[Commercial air traffic will resume](https://www.garda.com/crisis24/news-alerts/355026/barbados-curfew-to-be-lifted-from-july-1-update-5)
+    on July 12, 2020. Services operated by Air Canada will be permitted, followed
+    by British Airways, JetBlue and Virgin Atlantic."
+  outbound:
+  - "[Commercial air traffic will resume](https://www.garda.com/crisis24/news-alerts/355026/barbados-curfew-to-be-lifted-from-july-1-update-5)
+    on July 12, 2020. Services operated by Air Canada will be permitted, followed
+    by British Airways, JetBlue and Virgin Atlantic."
+  visa_quarantine:
+  - Travelers entering Barbados from high-risk countries are required to take a COVID-19
+    PCR test and wait at the airport until the test results are received. Those who
+    test negative are [required to undergo a 14-day quarantine period](https://www.garda.com/crisis24/news-alerts/365966/barbados-new-covid-19-travel-restrictions-implemented-as-of-august-3-update-6).
+  - Travelers entering Barbados from moderate-risk countries are required to take
+    a COVID-19 PCR test and wait at the airport until the test results are received.
+    Those who test negative will be [permitted to leave the airport](https://www.garda.com/crisis24/news-alerts/365966/barbados-new-covid-19-travel-restrictions-implemented-as-of-august-3-update-6).
+    However, they will be subject to daily health monitoring for 14-days following
+    their arrival.
+  - Travelers entering Barbados from low-risk countries are required to present evidence
+    of a negative PCR test taken within the last 3 days or take a test on arrival.
+    Those with negative results will then be [permitted to leave the airport.](https://www.garda.com/crisis24/news-alerts/365966/barbados-new-covid-19-travel-restrictions-implemented-as-of-august-3-update-6).
+travel:
+  domestic: 'yes'
+  inbound: 'yes'
+  outbound: 'yes'

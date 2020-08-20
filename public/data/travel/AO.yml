@@ -1,0 +1,20 @@
+---
+reopening:
+  '2020-09-08': Borders remain closed [through to September 8, 2020](https://ao.usembassy.gov/health-alert-u-s-embassy-luanda-june-1-2020/).
+sources:
+  domestic:
+  - The government of Angola has [implemented measures](https://ao.usembassy.gov/covid-19-information/)
+    to limit the spread of COVID-19.  Schools and universities are closed until further
+    notice, and sporting events, festivals, and gatherings larger than 50 people have
+    been banned.
+  - Under the state of calamity, existing quarantine measures remain in Luanda province
+    and around the Cazengo municipality (Cuanza Norte province). Travel in and out
+    of Luanda and Cazengo remains prohibited and religious activities in these areas
+    are also suspended. Gatherings of more than 10 people are prohibited in public
+    spaces, and [no more than 15 people may gather in private spaces](https://www.garda.com/crisis24/news-alerts/369281/angola-authorities-extend-state-of-calamity-measures-through-september-8-update-10)
+  inbound:
+  - Angola remains closed to passenger flights, the [borders remain closed](https://ao.usembassy.gov/health-alert-u-s-embassy-luanda-june-1-2020/)
+    through to September 8, 2020.
+travel:
+  domestic: partial
+  inbound: 'no'

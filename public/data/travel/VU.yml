@@ -1,0 +1,21 @@
+---
+sources:
+  domestic:
+  - "[Inter-island travel by air is possible, but may be changed or suspended at short
+    notice.](https://www.smartraveller.gov.au/destinations/pacific/vanuatu)"
+  - Despite the state of emergency being extended to December 31, 2020, most bars,
+    restaurants, and supermarkets in the country are operating normally and [no restrictions
+    are in place for social gatherings](https://www.smartraveller.gov.au/destinations/pacific/vanuatu).
+  inbound:
+  - "[In response to the COVID-19 pandemic, all Vanuatu's ports of entry are currently
+    closed.](https://www.smartraveller.gov.au/destinations/pacific/vanuatu)"
+  outbound:
+  - "[In response to the COVID-19 pandemic, all Vanuatu's ports of entry are currently
+    closed.](https://www.smartraveller.gov.au/destinations/pacific/vanuatu)"
+  visa_quarantine:
+  - All entrants into Vanuatu will be reqired to undergo a [14-day quarantine period
+    upon arrival](https://www.smartraveller.gov.au/destinations/pacific/vanuatu).
+travel:
+  domestic: true
+  inbound: 'no'
+  outbound: 'no'

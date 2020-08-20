@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - "[The ban on travel](https://www.garda.com/crisis24/news-alerts/354886/sudan-khartoum-international-airport-closure-extended-until-july-12-update-13)
+    between Khartoum and other parts of the country has also been extended."
+  - "[The curfew in Khartoum](https://www.garda.com/crisis24/news-alerts/354886/sudan-khartoum-international-airport-closure-extended-until-july-12-update-13)
+    will now be in place from 18:00 - 06:00 (local time). Between the hours of 06:00
+    - 18:00 individuals will be permitted to move freely."
+  inbound:
+  - Khartoum International Airport (KRT) has [reopened for passenger flights from
+    Egypt, Turkey, and the United Arab Emirates](https://www.garda.com/crisis24/news-alerts/358236/sudan-flights-resumed-from-egypt-turkey-and-the-uae-july-9-update-16).
+  outbound:
+  - Sudan Civil Aviation Authority has [further extended the closure](https://www.garda.com/crisis24/news-alerts/354886/sudan-khartoum-international-airport-closure-extended-until-july-12-update-13)
+    of Khartoum's International Airport (KRT) until at least 2 pm (local time) on
+    July 12, 2020.
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: 'no'

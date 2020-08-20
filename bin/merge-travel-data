@@ -1,0 +1,11 @@
+#!/bin/sh
+
+file=src/constants/travel.yaml
+echo '---\ncountries:' > $file
+
+for country_file in public/data/travel/*.yml
+do
+  country=$(echo $country_file | sed -E 's/.*([A-Z]{2})\.yml$/\1/')
+  echo "  ${country}:" >> $file
+  tail -qn +2 public/data/travel/${country}.yml | sed 's/^/    /' >> $file
+done

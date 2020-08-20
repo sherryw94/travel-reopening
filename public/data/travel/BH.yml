@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - Schools and universities are closed, while [gatherings of more than five people
+    are banned](https://www.garda.com/crisis24/news-alerts/363126/bahrain-authorities-extend-all-visas-by-three-months-until-october-21-update-15)
+  inbound:
+  - "[Inbound air travel is restricted](https://www.evisa.gov.bh/VISA/visaInput?nav=A0S&A0S=a)
+    and Bahrain has implemented several measures at the airport to reduce the spread
+    of COVID-19."
+  - "[Neither commuters nor tourists will be permitted](https://bh.usembassy.gov/covid-19-information/)
+    to use the causeway to travel between Bahrain and Saudi Arabia until further notice."
+  visa_quarantine:
+  - All visas upon arrival have been suspended, anyone attempting to enter Bahrain
+    must have a Bahrain residence permit or [secure a visa in advance](https://bh.usembassy.gov/covid-19-information/).
+  - "[All arriving passengers will be quarantined for 14 days](https://bh.usembassy.gov/covid-19-information/),
+    regardless of the outcome of the COVID-19 test."
+travel:
+  domestic: 'no'
+  inbound: partial

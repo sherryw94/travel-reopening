@@ -1,0 +1,21 @@
+---
+sources:
+  domestic:
+  - Gatherings of 50 people of more are restricted. Following the President’s announcement
+    on May 8, 2020, restaurants, gyms and casinos are allowed to re-open, but bars
+    and taverns remain closed. The Zambian authorities have asked people to [avoid
+    all non-essential travel](https://www.gov.uk/foreign-travel-advice/zambia/staying-during-coronavirus).
+  - "[Domestic carriers are now able to operate](https://www.garda.com/crisis24/news-alerts/354746/zambia-international-airports-reopen-june-25-update-7)."
+  inbound:
+  - President Edgar Lungu announced the [immediate reopening of all international
+    airports](https://www.garda.com/crisis24/news-alerts/354746/zambia-international-airports-reopen-june-25-update-7).
+  outbound:
+  - President Edgar Lungu announced the [immediate reopening of all international
+    airports](https://www.garda.com/crisis24/news-alerts/354746/zambia-international-airports-reopen-june-25-update-7).
+  visa_quarantine:
+  - All travelers will be required to present a negative PCR test, [acquired no more
+    than 14 days prior to travel](https://www.garda.com/crisis24/news-alerts/366641/zambia-authorities-announce-entry-requirements-for-travelers-july-29-update-8).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

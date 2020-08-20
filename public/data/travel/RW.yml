@@ -1,0 +1,24 @@
+---
+reopening:
+  '2020-08-01': Kigali International Airport (KGL) will [reopen for commercial flights
+    from August 1, 2020](https://www.garda.com/crisis24/news-alerts/356661/rwanda-authorities-to-reopen-airports-for-commercial-flights-from-august-1-update-10).
+sources:
+  domestic:
+  - On June 25, 2020, the government of Rwanda placed six areas of Kigali [back under
+    lockdown following a rise in cases of COVID-19](https://www.garda.com/crisis24/news-alerts/356661/rwanda-authorities-to-reopen-airports-for-commercial-flights-from-august-1-update-10)
+    until at least July 29, 2020.
+  - The use of face masks in public places, a ban on large gatherings and events,
+    and a nationwide 9 am to 5 am curfew [are in effect.](https://www.garda.com/crisis24/news-alerts/363946/rwanda-international-commercial-flights-to-resume-from-august-1-update-12)
+  inbound:
+  - Flights to Kigali International Airport (KGL) are suspended and will [reopen for
+    commercial flights From August 1, 2020](https://www.garda.com/crisis24/news-alerts/356661/rwanda-authorities-to-reopen-airports-for-commercial-flights-from-august-1-update-10).
+  visa_quarantine:
+  - Nationals and residents of Rwanda will be subject to a [mandatory 14-day quarantine
+    at designated locations](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).
+  - All passengers, including those in transit, will be required to show proof of
+    a negative COVID-19 test result taken within 72 hours of arrival in Rwanda, and
+    those staying in Rwanda will have to take a second test upon arrival and stay
+    in designated hotels at their own cost until the [result is confirmed](https://www.garda.com/crisis24/news-alerts/356661/rwanda-authorities-to-reopen-airports-for-commercial-flights-from-august-1-update-10)
+travel:
+  domestic: partial
+  inbound: 'no'

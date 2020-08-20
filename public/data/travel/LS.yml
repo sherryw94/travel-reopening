@@ -1,0 +1,7 @@
+---
+sources:
+  inbound:
+  - "[Lesotho’s borders remain closed and movement of persons in or out of Lesotho
+    is prohibited.](https://www.gov.uk/foreign-travel-advice/lesotho)"
+travel:
+  inbound: 'no'

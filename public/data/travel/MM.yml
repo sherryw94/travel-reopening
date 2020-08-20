@@ -1,0 +1,21 @@
+---
+reopening:
+  '2020-09-01': International flights will [resume on September 1, 2020.](https://www.garda.com/crisis24/news-alerts/365106/myanmar-authorities-extend-suspension-of-international-flights-until-august-31-update-17)
+sources:
+  domestic:
+  - "[Some restrictions have been eased](https://www.garda.com/crisis24/news-alerts/354981/myanmar-authorities-extend-international-flights-suspension-and-other-covid-19-restrictions-until-july-15-update-15).
+    Bars and restaurants are reopening, with social distancing measures in place."
+  - "[Domestic travel has resumed](https://www.garda.com/crisis24/news-alerts/365106/myanmar-authorities-extend-suspension-of-international-flights-until-august-31-update-17)."
+  - COVID-19 restrictions have been extended until August 15, 2020, including the
+    compulsory wearing of face masks in public and a [ban on public gatherings.](https://www.garda.com/crisis24/news-alerts/365106/myanmar-authorities-extend-suspension-of-international-flights-until-august-31-update-17).
+  inbound:
+  - Suspension of international flights, will be [extended until August 31, 2020.](https://www.garda.com/crisis24/news-alerts/365106/myanmar-authorities-extend-suspension-of-international-flights-until-august-31-update-17)
+  outbound:
+  - Suspension of international flights, will be [extended until August 31, 2020.](https://www.garda.com/crisis24/news-alerts/365106/myanmar-authorities-extend-suspension-of-international-flights-until-august-31-update-17)
+  visa_quarantine:
+  - There is a [visa ban as well as a mandatory three-week quarantine period](https://www.garda.com/crisis24/news-alerts/354981/myanmar-authorities-extend-international-flights-suspension-and-other-covid-19-restrictions-until-july-15-update-15)
+    for returning Myanmar nationals.
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

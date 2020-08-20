@@ -1,0 +1,64 @@
+---
+reopening:
+  '2020-08-31': Only travelers originating from the EEA are allowed entry. Other foreign
+    nationals are [not allowed entry until August 31, 2020](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).
+sources:
+  domestic:
+  - Restaurants and bars resume business as usual, with some [crowd and distancing
+    regulations implemented](https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/covid-19-new-legislation-for-restaurants-bars-etc/).
+  - Gatherings of [more than 50 people are banned](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9),
+    as are visits to care homes for the elderly.
+  inbound:
+  - Only travelers originating from the EEA are allowed entry. Other foreign nationals
+    are [not allowed entry until August 31, 2020](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9).
+  outbound:
+  - "[Sweden does not advise against non-essential travel](https://www.garda.com/crisis24/news-alerts/364526/sweden-authorities-to-lift-recommendations-against-travel-to-four-european-countries-from-july-30-update-9)
+    to Andorra, Belgium, the Czech Republic, Croatia, Denmark, France, Germany, Greece,
+    Hungary, Iceland, Italy, Luxembourg, Monaco, Norway, Poland, Portugal, San Marino,
+    Switzerland, Spain and the Vatican."
+  - The Swedish Ministry for Foreign Affairs [advises against non-essential travel
+    to certain countries](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/travel-restrictions).
+  visa_quarantine:
+  - "[The entry ban](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic)
+    does not apply to the following: citizens of EU/EEA countries, UK, Switzerland,
+    Andorra, Monaco, San Marino and the Vatican, or their families, or for travels
+    to Sweden from the EU/EEA area, or if you or a close relative already living in
+    Sweden as a permanent resident or hold a residence permit in Sweden or another
+    EU country, or if you have a national visa to Sweden."
+  - There is [no quarantine obligation for travelers to Sweden.](https://www.krisinformation.se/en/hazards-and-risks/disasters-and-incidents/2020/official-information-on-the-new-coronavirus/visiting-sweden-during-the-covid-19-pandemic)
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - BG
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IE
+  - IT
+  - LV
+  - LI
+  - LT
+  - LU
+  - MT
+  - NL
+  - false
+  - PL
+  - PT
+  - RO
+  - SK
+  - SI
+  - ES
+  - CH
+  - BG
+  outbound: partial

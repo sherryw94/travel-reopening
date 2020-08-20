@@ -1,0 +1,23 @@
+---
+reopening:
+  '2020-09-01': Commercial flights may [reopen on September 1, 2020](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21).
+sources:
+  domestic:
+  - Domestic flights, long-haul buses and trains [remain suspended](https://www.worldnomads.com/travel-safety/south-america/argentina/travel-alert).
+  - "[Local shops can re-open](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21),
+    whereas food and drink establishments can also re-open, but only for takeaways."
+  - Restrictions will remain in place on what day citizens can leave their homes,
+    [depending on their national identity card numbers](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21).
+  - Argentina will extend its COVID-19 lockdown [through August 16, 2020](https://www.garda.com/crisis24/news-alerts/365366/argentina-authorities-extend-lockdown-through-august-16-update-23),
+    dictating that a face mask or other garment must be used in public at all times,
+    to cover the nose and mouth.
+  - Restrictions will remain in place on what day citizens can leave their homes,
+    [depending on their national identity card numbers](https://www.garda.com/crisis24/news-alerts/361251/argentina-authorities-ease-covid-19-restrictions-in-buenos-aires-metropolitan-area-from-july-20-update-21).
+  inbound:
+  - All commercial flights have been [suspended until September 1, 2020](https://www.worldnomads.com/travel-safety/south-america/argentina/travel-alert).
+  outbound:
+  - All commercial flights have been [suspended until September 1, 2020](https://www.worldnomads.com/travel-safety/south-america/argentina/travel-alert).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: false

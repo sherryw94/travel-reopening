@@ -1,0 +1,24 @@
+---
+sources:
+  domestic:
+  - Domestic flights currently [operating on a very limited basis](https://www.gov.uk/foreign-travel-advice/afghanistan/staying-during-coronavirus).
+  - All hotels, schools, universities, parks, sports facilities, entertainment and
+    social venues, and other non-essential businesses are to [remain closed until
+    September](https://www.garda.com/crisis24/news-alerts/348711/afghanistan-authorities-introduce-new-covid-19-restrictions-june-7-update-6).
+  inbound:
+  - "[Entry and exit procedures](https://af.usembassy.gov/covid-19-information/) are
+    pending guidance from the Government of Afghanistan once airports re-open and
+    land borders resume normal operations."
+  - The Government of Afghanistan has [re-opened its border with Iran](https://af.usembassy.gov/covid-19-information/)
+  outbound:
+  - Commercial airlines have [suspended flights in and out of Afghanistan](https://www.thenational.ae/lifestyle/travel/the-full-list-of-countries-where-commercial-passenger-flights-are-grounded-due-to-the-coronavirus-1.996215)
+    and the length of these suspensions is undefined.
+  visa_quarantine:
+  - People arriving from other countries and who do not show symptoms of COVID-19
+    are advised to [self-quarantine at home for 14 days](https://af.usembassy.gov/covid-19-information/)
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - IR
+  outbound: partial

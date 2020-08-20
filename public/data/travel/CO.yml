@@ -1,0 +1,21 @@
+---
+sources:
+  domestic:
+  - "[Some non-essential businesses and public facilities, including barbershops,
+    museums, and libraries have since begun to reopen](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19)."
+  - Domestic commercial flights have [resumed from July 21, 2020](https://www.garda.com/crisis24/news-alerts/360941/colombia-highest-single-day-increase-of-covid-19-cases-recorded-july-17-update-22).
+  - Colombian authorities announced on July 28, 2020 that the [ongoing nationwide
+    quarantine orders will be extended until August 30, 2020](https://www.garda.com/crisis24/news-alerts/364316/colombia-authorities-extend-nationwide-quarantine-until-august-30-update-23).
+  - Colombian authorities reimposed lockdown measures for the neighborhoods of Antonio
+    Narino, Chapinero, La Candelaria, Puente Aranda, Santa Fe, Teusaquillo, and Usaquen.
+    A mandatory stay-at-home order will be in place, with only one person per household
+    permitted to go shopping for essentials each day based on their personal ID number
+    and a [curfew will be in place between 8 pm and 5 am (local time).](https://www.garda.com/crisis24/news-alerts/369256/colombia-authorities-to-reimpose-lockdown-measures-in-some-areas-of-bogota-from-august-16-update-25)
+  inbound:
+  - All overland, water and air borders are [closed until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).
+  outbound:
+  - All overland, water and air borders are [closed until August 1, 2020](https://www.garda.com/crisis24/news-alerts/357646/colombia-covid-19-lockdown-extended-until-august-1-update-19).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

@@ -1,0 +1,31 @@
+---
+sources:
+  domestic:
+  - Hotels in Egypt have now resumed operation, and have been able to operate at 50%
+    capacity since June 1, 2020. Casinos are also allowed to open if they [do not
+    exceed 50% of their total capacity.](https://www.garda.com/crisis24/news-alerts/355906/egypt-national-carrier-announces-resumption-of-flights-from-july-1-update-30).
+  - The government has extended the hours that certain parts of the retail sector
+    are [permitted to open from July 26, 2020](https://www.garda.com/crisis24/news-alerts/362471/egypt-authorities-extend-retail-operating-hours-from-july-26-update-32).
+  - Egyptian authorities [reopened the Rafah border crossing with the Gaza Strip](https://www.garda.com/crisis24/news-alerts/368001/israelpalestinian-terr-egypt-reopens-rafah-crossing-with-gaza-on-august-11).
+  inbound:
+  - EgyptAir officials have announced that [international commercial flights have
+    resumed](https://www.garda.com/crisis24/news-alerts/355906/egypt-national-carrier-announces-resumption-of-flights-from-july-1-update-30).
+  - A limited number of services to Egypt are now [operating from a variety of international
+    destinations](https://www.egyptonlinevisa.com/travel-restrictions/).
+  - Foreign visitors must have a negative PCR COVID-19 test, [3 days prior to their
+    arrival](https://www.egyptonlinevisa.com/travel-restrictions/).
+  outbound:
+  - Border between Egypt and Jordan [remains closed](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm).
+  visa_quarantine:
+  - All passengers arriving in Egypt by air, including returning Egyptian residents,
+    are still required to have their [temperature taken and self-quarantine for 7
+    days.](https://www.egyptonlinevisa.com/travel-restrictions/)
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial
+travel_ideas:
+- alt: How safe is it to travel to Egypt
+  href: https://www.tourhero.com/en/magazine/travel/is-it-safe-to-travel-to-egypt-what-the-country-is-doing-to-be-covid-19-safe/
+  src: is-it-safe-to-travel-to-egypt-pyramids-870x600.jpg
+  title: Is it safe to travel to Egypt

@@ -1,0 +1,158 @@
+---
+sources:
+  domestic:
+  - On June 19, 2020, the Japanese government [lifted domestic travel restrictions](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31).
+  - Both Nippon Airways and Japan Airlines announced they would [increase domestic
+    flights in July based on demand](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31);
+    however, these will operate on a reduced schedule.
+  - Tokyo has [raised its infection alert level to "red" the highest level in a four-tier
+    system](https://www.garda.com/crisis24/news-alerts/359876/japan-tokyo-raises-covid-19-alert-to-highest-level-july-15-update-32),
+    however, the alert does not mean there will be lockdowns in place.
+  - Authorities in Okinawa extended the state of emergency through August 29, 2020](https://www.garda.com/crisis24/news-alerts/369626/japan-state-of-emergency-extended-in-okinawa-through-august-29-update-36)
+  inbound:
+  - Foreign nationals who have stayed in the listed areas are [denied permission to
+    enter Japan.](https://www.japan.travel/en/coronavirus/)
+  - Foreign nationals who have [Chinese passports issued in Hubei Province or Zhejiang
+    Province of China](https://www.japan.travel/en/coronavirus/) will be denied entry
+    into Japan.
+  - The Japanese government [added passengers from 18 countries to an entry ban](https://www.garda.com/crisis24/news-alerts/355956/japan-authorities-add-multiple-countries-to-entry-ban-on-july-1-update-31)
+    in place to limit the spread of the coronavirus disease (COVID-19).
+  outbound:
+  - Japanese nationals are encouraged to [defer all travel](https://www.mofa.go.jp/announce/announce/2002/4/0425.html)
+  visa_quarantine:
+  - Suspension of visa validity applies to [various visa types.](https://www.japan.travel/en/coronavirus/)
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_restricted:
+  - BD
+  - BN
+  - CN
+  - HK
+  - IN
+  - ID
+  - MO
+  - MY
+  - MV
+  - PK
+  - PH
+  - KR
+  - SG
+  - TW
+  - TH
+  - VN
+  - AU
+  - NZ
+  - CA
+  - US
+  - AG
+  - AR
+  - BB
+  - BS
+  - BO
+  - BR
+  - CL
+  - CO
+  - DM
+  - DO
+  - EC
+  - SV
+  - HN
+  - MX
+  - PA
+  - PE
+  - KN
+  - UY
+  - AL
+  - AD
+  - AM
+  - AT
+  - AZ
+  - BY
+  - BE
+  - BA
+  - BG
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IE
+  - IT
+  - KZ
+  - XK
+  - KG
+  - LV
+  - LI
+  - LT
+  - LU
+  - MT
+  - MD
+  - MC
+  - ME
+  - NL
+  - MK
+  - false
+  - PL
+  - PT
+  - RO
+  - RU
+  - SM
+  - RS
+  - SK
+  - SI
+  - ES
+  - SE
+  - TJ
+  - UA
+  - UK
+  - VA
+  - AF
+  - BH
+  - IR
+  - IL
+  - KW
+  - OM
+  - QA
+  - SA
+  - TR
+  - AE
+  - CV
+  - CI
+  - CD
+  - DJ
+  - EG
+  - GQ
+  - GA
+  - GH
+  - GN
+  - GW
+  - MU
+  - MA
+  - ZA
+  - ST
+  - DZ
+  - CM
+  - CF
+  - CR
+  - CU
+  - SZ
+  - GE
+  - GD
+  - GT
+  - GY
+  - HT
+  - IQ
+  - JM
+  - LB
+  - MR
+  - NI
+  - VC
+  - SN
+  outbound: partial

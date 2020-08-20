@@ -1,0 +1,12 @@
+---
+sources:
+  domestic:
+  - President Assoumani previously signed a decree implementing a [curfew between
+    the hours of 20:00 and 05:00 (local time) on Friday, April 24, 2020](https://travel.gc.ca/destinations/comoros)
+    and this curfew remains in place.
+  inbound:
+  - Comorian authorities have announced the [suspension of all commercial flights
+    in and out of the country and the closure of borders until further notice](https://travel.gc.ca/destinations/comoros).
+travel:
+  domestic: partial
+  inbound: 'no'

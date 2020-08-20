@@ -1,0 +1,21 @@
+---
+sources:
+  domestic:
+  - Malaysia has relaxed restrictions and has [allowed interstate travel.](https://www.garda.com/crisis24/news-alerts/348781/malaysia-authorities-announce-easing-of-covid-19-measures-from-june-10-update-22)
+  - As of August 1, 2020, the use of face masks will be [required while in public
+    areas](https://www.garda.com/crisis24/news-alerts/362936/malaysia-face-masks-to-be-compulsory-in-public-places-from-august-1-update-24).
+  inbound:
+  - "[International borders are to remain closed indefinitely](https://www.garda.com/crisis24/news-alerts/348781/malaysia-authorities-announce-easing-of-covid-19-measures-from-june-10-update-22),
+    with some exceptions, and Malaysian immigration services have resumed operations
+    by appointment only."
+  outbound:
+  - Malaysian citizens and PRs are [not allowed to travel abroad for holidays during
+    this period.](http://www.klia.com.my/passenger-guide/faq-covid-19-conditional-movement-control-order-cmco)
+  visa_quarantine:
+  - Incoming travelers, including Malaysian citizens and Permanent Residents, from
+    overseas who are permitted to enter the country, will be required to [undergo
+    quarantine for 14-days at quarantine centers](https://www.garda.com/crisis24/news-alerts/362466/malaysia-mandatory-quarantine-in-centers-for-incoming-travelers-from-july-24-update-23)
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: partial

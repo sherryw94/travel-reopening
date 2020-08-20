@@ -1,0 +1,24 @@
+---
+reopening:
+  '2020-08-01': The government of Grenada has announced that it expects its borders
+    to [re-open on August 1, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements).
+sources:
+  domestic:
+  - Grenada's Maurice Bishop International airport will reopen to [regional commercial
+    flights from July 15, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements),
+    and commercial flights from UK, Europe and Canada from August 1, 2020.
+  inbound:
+  - Grenada's Maurice Bishop International airport will reopen to regional commercial
+    flights from July 15, 2020, and [commercial flights from UK, Europe and Canada
+    from August 1, 2020](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements).
+  visa_quarantine:
+  - Grenada government announced July 10, 2020 that travelers will be categorised
+    as [Low, Medium or High risk](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements)
+    depending on their point of embarkation or travel history and must follow the
+    new rules to be allowed entry to Grenada, including testing before departure in
+    some cases.
+  - All arriving passengers will need to comply with requirements of [14 days of quarantine
+    in designated places at their own cost](https://www.gov.uk/foreign-travel-advice/grenada/entry-requirements).
+travel:
+  domestic: 'yes'
+  inbound: 'no'

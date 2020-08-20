@@ -1,0 +1,13 @@
+---
+sources:
+  domestic:
+  - "[The Ministries of Health and Interior are encouraging the public to self-quarantine.
+    Those age 65 and older must observe mandatory self-quarantine.](https://uy.usembassy.gov/covid-19-information/)"
+  inbound:
+  - "[Uruguay has closed its borders until an undetermined date.](https://uy.usembassy.gov/covid-19-information/)"
+  outbound:
+  - "[Uruguay has closed its borders until an undetermined date.](https://uy.usembassy.gov/covid-19-information/)"
+travel:
+  domestic: 'no'
+  inbound: 'no'
+  outbound: 'no'

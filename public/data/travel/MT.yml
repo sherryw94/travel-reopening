@@ -1,0 +1,17 @@
+---
+reopening:
+  '2020-07-15': Restrictions on all other flight destinations will be [lifted on July
+    15, 2020](https://www.mta.com.mt/en/news-details/263).
+sources:
+  domestic:
+  - Museums and tourist sites, shops, gyms, hairdressers, swimming pools, restaurants
+    and bars have re-opened but with [restrictions on the number of customers allowed
+    entry](https://www.gov.uk/foreign-travel-advice/malta/coronavirus).
+  - Authorities have banned mass gatherings and also made it compulsory for individuals
+    to [wear masks in all public spaces](https://www.garda.com/crisis24/news-alerts/367061/malta-authorities-reimpose-restrictions-following-spike-in-covid-19-cases-august-7-update-9).
+  inbound:
+  - "[Malta is open to all countries](https://www.visitmalta.com/en/covid-19)."
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: true

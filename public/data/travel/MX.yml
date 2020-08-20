@@ -1,0 +1,41 @@
+---
+sources:
+  domestic:
+  - "[Businesses have been given permission to reopen](https://www.garda.com/crisis24/news-alerts/355486/mexico-authorities-further-ease-covid-19-restrictions-in-mexico-city-june-29-update-17)
+    and the city's metro service will resume."
+  - "[Mexico City's historic center has reopened](https://www.garda.com/crisis24/news-alerts/359996/mexico-restrictions-to-be-tightened-in-parts-of-mexico-city-from-july-15-update-20),
+    while hotels can only operate at 25 percent capacity and restaurants can only
+    provide takeaway services."
+  - Authorities have announced that [34 neighborhoods in Mexico City will be subjected
+    to tightened restrictions](https://www.garda.com/crisis24/news-alerts/359996/mexico-restrictions-to-be-tightened-in-parts-of-mexico-city-from-july-15-update-20)
+    on July 15, 2020.
+  - The government has categorized states using a national "spotlight" system that
+    [denotes the risk of COVID-19 in each state by colour](https://www.garda.com/crisis24/news-alerts/359996/mexico-restrictions-to-be-tightened-in-parts-of-mexico-city-from-july-15-update-20),
+    hence restricting activities in each state in accordance to the designated colour
+    of the state.
+  inbound:
+  - Land border restrictions with the US, which were introduced due to COVID-19, will
+    be [extended through September 21, 2020](https://www.garda.com/crisis24/news-alerts/355486/mexico-authorities-further-ease-covid-19-restrictions-in-mexico-city-june-29-update-17)
+  - All airports of entry are operating, [possibly on a reduced schedule](https://www.universalweather.com/blog/mexico-coronavirus-covid-19-impact-on-business-aviation/).
+  - Mexican and US authorities announced that the closure of their mutual border has
+    been [extended until at least August 21](https://mx.usembassy.gov/travel-restrictions-fact-sheet/).
+  outbound:
+  - Land border restrictions with the US, which were introduced due to COVID-19, will
+    be [extended through September 21, 2020](https://www.garda.com/crisis24/news-alerts/355486/mexico-authorities-further-ease-covid-19-restrictions-in-mexico-city-june-29-update-17)
+  - All non-essential travel including [recreation and tourism remains prohibited](https://www.garda.com/crisis24/news-alerts/368936/mexico-health-authorities-confirm-over-500000-covid-19-cases-august-14-update-22).
+  visa_quarantine:
+  - Travelers entering Mexico via land may be subject to [health screen including
+    temperature checks](https://mx.usembassy.gov/u-s-citizen-services/covid-19-information/).
+    Travelers may experience significant delays and face the possibility of being
+    returned to the United States or quarantined in Mexico.
+  - "[There is a questionnaire form to be completed and signed by each crew member
+    and passenger](https://www.universalweather.com/blog/mexico-coronavirus-covid-19-impact-on-business-aviation/)
+    arriving at any airport, on a domestic or international flight. Temperature checks
+    are conducted. If someone is at 38 degrees celsius or above, they will be quarantined
+    and the rest of the Pax and Crew may not be able to enter the country."
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_restricted:
+  - US
+  outbound: partial

@@ -1,0 +1,20 @@
+---
+sources:
+  domestic:
+  - Curfew hours are [11 pm to 5 am nightly until July 31, 2020](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/).
+  inbound:
+  - "[Antigua & Barbuda borders reopened on June 1, 2020.](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/)"
+  outbound:
+  - "[Antigua & Barbuda borders reopened on June 1, 2020.](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/)"
+  visa_quarantine:
+  - "[The regulations](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    published on June 10, 2020 states that “All visitors to Antigua and Barbuda shall
+    be tested for COVID-19 and shall pay a charge of US$100 or its equivalent in Eastern
+    Caribbean Dollars as a charge for the test."
+  - All arriving passengers will be monitored for COVID-19 in accordance with [guidelines](https://bb.usembassy.gov/u-s-citizen-services/covid-19-information/)
+    of the Quarantine Authority and may undergo a rapid antigen test on arrival or
+    at the hotel of lodging as determined by the Health Authorities.
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

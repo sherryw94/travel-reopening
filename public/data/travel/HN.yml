@@ -1,0 +1,20 @@
+---
+reopening:
+  '2020-08-17': International commercial flight operations will [commence on August
+    17, 2020](https://www.garda.com/crisis24/news-alerts/366136/honduras-authorities-to-resume-international-flights-from-august-17-update-15).
+sources:
+  domestic:
+  - "[The curfew remains in place](https://www.garda.com/crisis24/news-alerts/365846/honduras-nationwide-curfew-extended-until-august-9-update-14)
+    between the hours of 5 pm and 7 am (local time) until August 23, 2020."
+  - Face masks are mandatory in [all public spaces](https://www.garda.com/crisis24/news-alerts/365846/honduras-nationwide-curfew-extended-until-august-9-update-14)
+  - Domestic flights will be permitted to [resume from August 10, 2020](https://www.garda.com/crisis24/news-alerts/366136/honduras-authorities-to-resume-international-flights-from-august-17-update-15)
+  inbound:
+  - Honduras will reopen airports for [international commercial flight operations
+    on August 17, 2020](https://hn.usembassy.gov/covid-19-information/).
+  outbound:
+  - The Honduran government announced all borders (air, land, and sea) would be closed
+    as of March 15, 2020, [until further notice.](https://hn.usembassy.gov/covid-19-information/)
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

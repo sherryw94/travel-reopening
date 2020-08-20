@@ -1,0 +1,68 @@
+---
+sources:
+  domestic:
+  - "[From June 3, 2020, it is possible to travel from one region to the other](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html)."
+  - Authorities announced the extension of the state of emergency until [September
+    7, 2020](https://www.garda.com/crisis24/news-alerts/359941/italy-authorities-extend-restrictions-until-july-31-update-36).
+    All individuals must wear face masks on public transport and in public spaces,
+    including in shops, public offices, hospitals and clinics. Night clubs will also
+    be closed.
+  inbound:
+  - 'From June 3, 2020, [travelling to and from the following States is allowed](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html):
+    Member States of the European Union, States parties to the Schengen Agreement,
+    the United Kingdom of Great Britain and Northern Ireland, Andorra, Monaco.'
+  - Flights from Bangladesh have been [suspended from July 7, 2020](http://www.italia.it/en/useful-info/covid-19-information-and-updates-for-tourists.html).
+  - "[Italy bans entry from 13 countries](https://www.thejakartapost.com/travel/2020/07/10/italy-bans-entry-from-13-countries-due-to-coronavirus-fears.html)."
+  - All international arrivals are required to [fill out and present a form upon request](https://www.garda.com/crisis24/news-alerts/367781/italy-authorities-extend-covid-19-restrictions-until-september-7-update-38).
+  - Those who travel from or through Colombia will [not be allowed to enter the country](https://www.garda.com/crisis24/news-alerts/368531/italy-authorities-make-covid-19-tests-mandatory-for-arrivals-from-spain-croatia-greece-and-malta-august-12-update-39).
+  outbound:
+  - The Italian government has decided to [permit unrestricted travel between Italy
+    and other Schengen countries and within Italy itself](https://www.schengenvisainfo.com/news/italy-to-permit-unrestricted-travel-starting-june-3/)
+    starting June 3, 2020.
+  visa_quarantine:
+  - From July 1, 2020, if you are traveling to Italy from any of the above-mentioned
+    countries you will no longer be required to self-isolate for 14 days, under supervision
+    by the competent health authorities, [unless you stayed in another country prior
+    to traveling to Italy](https://www.esteri.it/mae/en/ministero/normativaonline/decreto-iorestoacasa-domande-frequenti/focus-cittadini-italiani-in-rientro-dall-estero-e-cittadini-stranieri-in-italia.html).
+  - The Italian government made [COVID-19 tests on arrival mandatory](https://www.garda.com/crisis24/news-alerts/368531/italy-authorities-make-covid-19-tests-mandatory-for-arrivals-from-spain-croatia-greece-and-malta-august-12-update-39)
+    for travelers arriving from Spain, Croatia, Greece, and Malta on August 12, 2020.
+travel:
+  domestic: 'yes'
+  inbound: partial
+  inbound_allowed:
+  - AD
+  - AT
+  - BE
+  - BG
+  - CH
+  - CY
+  - CZ
+  - DE
+  - DK
+  - EE
+  - EL
+  - ES
+  - FI
+  - FR
+  - FR
+  - HR
+  - HU
+  - IE
+  - IS
+  - IT
+  - LI
+  - LT
+  - LU
+  - LV
+  - MA
+  - MT
+  - NL
+  - false
+  - PL
+  - PT
+  - PO
+  - SE
+  - SI
+  - SK
+  - GB
+  outbound: partial

@@ -1,0 +1,16 @@
+---
+sources:
+  domestic:
+  - All West Bank governorates, towns, and villages will be [closed off](https://www.worldaware.com/covid-19-alert-israel-extends-entry-ban-non-residents-until-july-1)
+    until July 12, with businesses closed and movement restricted. However, pharmacies,
+    bakeries, and supermarkets will remain open.
+  inbound:
+  - "[Authorities in Israel extended the existing nationwide entry ban on non-residents
+    until July 1, 2020, as part of the country's efforts to limit the spread of coronavirus
+    disease (COVID-19)](https://www.worldaware.com/covid-19-alert-israel-extends-entry-ban-non-residents-until-july-1)"
+  outbound:
+  - "[Avoid non-essential travel](https://govextra.gov.il/ministry-of-health/corona/corona-virus-en/faq-corona-en/)"
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: partial

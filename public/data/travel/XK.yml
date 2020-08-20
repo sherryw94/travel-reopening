@@ -1,0 +1,24 @@
+---
+sources:
+  domestic:
+  - "[Curfews will be in place](https://www.garda.com/crisis24/news-alerts/357091/kosovo-curfews-reintroduced-in-several-cities-july-6-update-6)
+    from 21:00 and 05:00 (local time) in Pristina, Ferizaj, Prizren, and Vushtrri."
+  - Authorities also stated that cafes, bars, restaurants, and clubs can remain open
+    until 21:00. They also encouraged public and private organizations to operate
+    with [essential staff only](https://www.garda.com/crisis24/news-alerts/357091/kosovo-curfews-reintroduced-in-several-cities-july-6-update-6).
+  inbound:
+  - Authorities announced the [reopening of some of Kosovo's land borders on Wednesday,
+    July 1, 2020](https://www.garda.com/crisis24/news-alerts/355991/kosovo-authorities-ease-covid-19-restrictions-as-of-july-1-update-5).
+  - All travelers entering the country as of June 28, 2020 when [limited international
+    flights resumed](https://www.garda.com/crisis24/news-alerts/355991/kosovo-authorities-ease-covid-19-restrictions-as-of-july-1-update-5),
+    are recommended to have evidence of a negative RT-PCR test, that is no older than
+    four days.
+  outbound:
+  - "[Limited flights out of the country, while land borders are also open](https://www.garda.com/crisis24/news-alerts/355991/kosovo-authorities-ease-covid-19-restrictions-as-of-july-1-update-5)."
+  visa_quarantine:
+  - "[There are no mandatory quarantine requirements for individuals who enter into
+    Kosovo](https://xk.usembassy.gov/coronavirus/#:~:text=There%20are%20no%20mandatory%20quarantine,information%20can%20be%20found%20here.)."
+travel:
+  domestic: 'yes'
+  inbound: partial
+  outbound: partial

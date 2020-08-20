@@ -1,0 +1,29 @@
+---
+reopening:
+  '2020-08-01': Flights to a limited number of countries will [resume on August 1,
+    2020](https://www.garda.com/crisis24/news-alerts/363596/russia-authorities-announce-resumption-of-flights-to-certain-destinations-from-august-1-update-43).
+sources:
+  domestic:
+  - As of June 9, 2020, authorities have [eased lockdown measures in Moscow](https://www.garda.com/crisis24/news-alerts/349181/russia-authorities-ease-lockdown-measures-in-moscow-june-9-update-40).
+  - As of July 13, 2020 Moscow city authorities [no longer require wearing a mask](https://ru.usembassy.gov/covid-19-information/)
+    while walking on the street.
+  inbound:
+  - International flights to the UK, Turkey, and Tanzania will be the first to [resume
+    on August 1, 2020](https://www.garda.com/crisis24/news-alerts/363596/russia-authorities-announce-resumption-of-flights-to-certain-destinations-from-august-1-update-43).
+  - Starting from the August 15, 2020, there will be [regular flights between Switzerland
+    and Russia](https://waytorussia.net/russia/coronavirus-travel-updates.html).
+  outbound:
+  - The government has allowed limited commercial international flights out of Russia
+    to [countries that meet benchmarks](https://ru.usembassy.gov/covid-19-information/).
+  visa_quarantine:
+  - Foreign travelers arriving in Russia will be required to present negative COVID-19
+    test results that are [less than 72-hours old upon arrival](https://www.garda.com/crisis24/news-alerts/363596/russia-authorities-announce-resumption-of-flights-to-certain-destinations-from-august-1-update-43).
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - GB
+  - TR
+  - TZ
+  - CH
+  outbound: partial

@@ -1,0 +1,24 @@
+---
+reopening:
+  '2020-08-01': Authorities have announced that [international flights will resume
+    on August 1, 2020](https://www.garda.com/crisis24/news-alerts/364081/burkina-faso-international-flights-to-resume-from-august-1-update-9).
+sources:
+  domestic:
+  - As of June 3, 2020, the Government of Burkina Faso [canceled the curfew](https://www.smartraveller.gov.au/destinations/africa/burkina-faso)
+    which was in effect throughout the country, except for the provinces that are
+    under a state of emergency (the East and Sahel regions, the provinces of Kossi
+    and Sourou in Boucle de Mouhoun, the province of Kenedougou in Hauts Bassins,
+    the province of Louroum in the North, and the province of Koulpelogo in the Center-East
+    region).
+  - Domestic flight operations [resumed on July 24, 2020](https://www.garda.com/crisis24/news-alerts/364081/burkina-faso-international-flights-to-resume-from-august-1-update-9).
+  inbound:
+  - Land borders remain [closed until further notice](https://www.garda.com/crisis24/news-alerts/364081/burkina-faso-international-flights-to-resume-from-august-1-update-9).
+  - Authorities have announced that [international flights will resume on August 1,
+    2020](https://www.garda.com/crisis24/news-alerts/364081/burkina-faso-international-flights-to-resume-from-august-1-update-9).
+  outbound:
+  - Authorities have announced that [international flights will resume on August 1,
+    2020](https://www.garda.com/crisis24/news-alerts/364081/burkina-faso-international-flights-to-resume-from-august-1-update-9).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

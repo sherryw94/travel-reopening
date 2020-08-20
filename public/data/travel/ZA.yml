@@ -1,0 +1,18 @@
+---
+sources:
+  domestic:
+  - A night time curfew remains in place [between 10 pm to 4 am (local time)](https://www.garda.com/crisis24/news-alerts/365031/south-africa-authorities-revise-level-3-lockdown-measures-july-30-update-23).
+  - Hotels and guest houses have been [permitted to reopen](https://www.garda.com/crisis24/news-alerts/365031/south-africa-authorities-revise-level-3-lockdown-measures-july-30-update-23).
+  - Restaurants, bars, and taverns will be permitted to open, according to approved
+    protocols [including limits to capacity and operating hours.](https://www.garda.com/crisis24/news-alerts/369496/south-africa-south-africa-to-enter-level-2-lockdown-measures-from-august-18-update-25).
+  inbound:
+  - "[International travel is suspended indefinitely](https://www.garda.com/crisis24/news-alerts/354681/south-africa-government-to-ease-covid-19-restrictions-further-from-june-29-update-18)."
+  outbound:
+  - "[International travel is suspended indefinitely](https://www.garda.com/crisis24/news-alerts/354681/south-africa-government-to-ease-covid-19-restrictions-further-from-june-29-update-18)."
+  visa_quarantine:
+  - South Africa is currently testing an [e-visa system for travelers who need to
+    obtain a visa](https://www.southafricavisa.com/).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

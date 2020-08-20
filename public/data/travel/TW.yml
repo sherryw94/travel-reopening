@@ -1,0 +1,20 @@
+---
+reopening:
+  '2020-10-01': Foreign tourists may be [allowed to visit the country in October](https://www.taiwannews.com.tw/en/news/3937453).
+sources:
+  domestic:
+  - The CECC has forwarded text messages via the national “Public Warning System (PWS)
+    for transmissible diseases” to remind the public at particular locations [to maintain
+    a safe social distance and wear masks.](https://covid19.mohw.gov.tw/en/cp-4786-53904-206.html).
+  inbound:
+  - Foreign nationals may apply to enter Taiwan for reasons [other than tourism and
+    regular social visits.](https://covid19.mohw.gov.tw/en/cp-4868-54641-206.html).
+  outbound:
+  - Foreign nationals may apply to enter Taiwan for reasons [other than tourism and
+    regular social visits.](https://covid19.mohw.gov.tw/en/cp-4868-54641-206.html).
+  visa_quarantine:
+  - Taiwan advises against [non-essential travel to all countries](https://www.cdc.gov.tw/En/Category/Page/6RfZbI-lhs_Y4Xm9YRx1yw).
+travel:
+  domestic: 'yes'
+  inbound: partial
+  outbound: 'no'

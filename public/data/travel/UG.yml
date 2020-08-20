@@ -1,0 +1,23 @@
+---
+sources:
+  domestic:
+  - The curfew is in place between 9 pm and 5.30 am (local time). [Most other existing
+    restrictions](https://www.garda.com/crisis24/news-alerts/354821/uganda-authorities-lift-lockdown-measures-in-gulu-district-on-june-29-update-10)
+    will also remain in effect during this time, such as a ban on gatherings of more
+    than five people.
+  - Some non-essential businesses such as hair salons, and shopping arcades are to
+    be [allowed to reopen with immediate effect](https://www.garda.com/crisis24/news-alerts/362066/uganda-covid-19-restrictions-eased-as-curfew-hours-reduced-july-22-update-11).
+  inbound:
+  - "[Uganda's borders remain closed since March 21.](https://www.garda.com/crisis24/news-alerts/354821/uganda-authorities-lift-lockdown-measures-in-gulu-district-on-june-29-update-10)
+    Authorities have closed all land, water, and air points of entry until further
+    notice, while only cargo and humanitarian flights will be allowed to land in the
+    country."
+  outbound:
+  - "[Uganda's borders remain closed since March 21.](https://www.garda.com/crisis24/news-alerts/354821/uganda-authorities-lift-lockdown-measures-in-gulu-district-on-june-29-update-10)
+    Authorities have closed all land, water, and air points of entry until further
+    notice, while only cargo and humanitarian flights will be allowed to land in the
+    country."
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

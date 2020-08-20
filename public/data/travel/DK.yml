@@ -1,0 +1,46 @@
+---
+sources:
+  domestic:
+  - "[Domestic travel is not restricted](https://www.visitdenmark.com/denmark/travel-essentials/safe-travel-denmark)
+    and it is not mandatory to wear a mask."
+  inbound:
+  - "[Denmark’s borders are open](https://www.visitdenmark.com/denmark/travel-essentials/safe-travel-denmark)
+    to most European countries (except Portugal and Sweden), as well as Australia,
+    Canada, Japan, New Zealand, South Korea, and Thailand from June 27, 2020."
+  - Tourists from the approved countries must show documentation of a [valid booking
+    for a minimum of 6 days on entry.](https://www.visitdenmark.com/denmark/travel-essentials/safe-travel-denmark)
+  outbound:
+  - "[Avoid all non-essential travel](https://politi.dk/en/-/media/mediefiler/corona/fact-sheet-regarding-borders.pdf?la=en&hash=D87B1914C4F2700A007F9471BDA92C75CFA3AE99)"
+  visa_quarantine:
+  - Tourists from the approved countries must show documentation of a [valid booking
+    for a minimum of 6 days on entry.](https://www.visitdenmark.com/denmark/travel-essentials/safe-travel-denmark)
+travel:
+  domestic: true
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - BG
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IE
+  - IT
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - PL
+  - RO
+  - SK
+  - SI
+  - ES
+  outbound: partial

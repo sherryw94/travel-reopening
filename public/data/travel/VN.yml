@@ -1,0 +1,31 @@
+---
+reopening:
+sources:
+  domestic:
+  - Domestic flights have resumed on several routes [amid the easing of lockdown measures
+    nationwide.](https://www.garda.com/crisis24/news-alerts/341166/vietnam-hanoi-authorities-ease-covid-19-restrictions-may-11-update-27)
+  - As of April 23, 2020, tourism attractions in the country are allowed to reopen
+    but must ensure [safety measures are in place for all visitors.](https://www.garda.com/crisis24/news-alerts/341166/vietnam-hanoi-authorities-ease-covid-19-restrictions-may-11-update-27)
+  - The wearing of masks is [no longer mandatory in public](https://www.garda.com/crisis24/news-alerts/363266/vietnam-authorities-announce-first-locally-transmitted-covid-19-case-in-three-months-on-july-25-update-28),
+    although they may be required at hospitals and on some public transport.
+  - As of April 23, 2020, tourism attractions in the country are allowed to reopen
+    but must ensure [safety measures are in place for all visitors.](https://www.garda.com/crisis24/news-alerts/341166/vietnam-hanoi-authorities-ease-covid-19-restrictions-may-11-update-27)
+  - Movement is restricted into and out of Da Nang](https://www.garda.com/crisis24/news-alerts/363851/vietnam-authorities-restrict-da-nang-movement-following-recent-covid-19-cases-july-27-update-30).
+  inbound:
+  - International commercial flights to Vietnam [are banned](https://www.garda.com/crisis24/news-alerts/363851/vietnam-authorities-restrict-da-nang-movement-following-recent-covid-19-cases-july-27-update-30)
+  outbound:
+  - Limited international flights are [available](https://www.vietnamairlines.com/sg/en/travel-alerts/2020/~/media/2C52390659B14A27BDE026D2B430AB6C.ashx)
+  visa_quarantine:
+  - Anyone entering Vietnam must undergo medical checks and [14-day quarantine upon
+    arrival.](https://vietnam.travel/things-to-do/information-travellers-novel-coronavirus-vietnam)
+  - All inbound travellers coming to Vietnam will be required to [submit a health
+    declaration.](https://vietnam.travel/things-to-do/covid-19-travel-policies-vietnam)
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: partial
+travel_ideas:
+- alt: New Places to Discover in Vietnam
+  href: https://www.tourhero.com/en/magazine/travel/highland-getaways-7-stunning-mountain-towns-in-vietnam-to-discover/
+  src: mountain-towns-in-vietnam-1900x880.jpg
+  title: 'Highland Getaways: 7 Stunning mountain towns in Vietnam to discover'

@@ -1,0 +1,20 @@
+---
+sources:
+  domestic:
+  - "[Ban on movement for all citizens at the domestic level](https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-North-Macedonia.pdf).
+    The travel ban applies from Monday to Friday, from 4 pm to 5 am the next day.
+    During the weekend, the movement of all citizens is prohibited throughout the
+    country from Friday to Monday, from 4 to 5 am."
+  - As of Friday, June 26, 2020, the indoor areas of bars and restaurants, along with
+    gyms, are [permitted to operate while implementing specific protocols](https://www.oecd.org/south-east-europe/COVID-19-Crisis-in-North-Macedonia.pdf).
+  inbound:
+  - The resumption of airport operations follows the [reopening of North Macedonia's
+    borders on June 26, 2020](https://www.garda.com/crisis24/news-alerts/356231/north-macedonia-authorities-announce-the-reopening-of-airports-july-2-update-13),
+    amid the easing of COVID-19 restrictions.
+  visa_quarantine:
+  - "[There is no longer a requirement](https://www.garda.com/crisis24/news-alerts/356231/north-macedonia-authorities-announce-the-reopening-of-airports-july-2-update-13)
+    for travelers arriving in North Macedonia to self-isolate, present a PCR test
+    or quarantine upon entry."
+travel:
+  domestic: partial
+  inbound: partial

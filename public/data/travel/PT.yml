@@ -1,0 +1,67 @@
+---
+sources:
+  domestic:
+  - Wearing a face mask is mandatory and [social distancing rules need to be observed](https://www.visitportugal.com/en/node/421189).
+  - Portuguese authorities announced on June 22, 2020, that [some lockdown measures
+    would be restored in Lisbon](https://www.garda.com/crisis24/news-alerts/363546/portugal-over-50000-confirmed-covid-19-cases-as-of-july-26-update-19).
+    Gatherings are limited to 20 people, except for religious ceremonies and family
+    events, such as weddings and christenings.
+  - Gatherings in some areas are [restricted to no more than 10 people](https://www.garda.com/crisis24/news-alerts/365571/portugal-authorities-in-lisbon-ease-covid-19-restrictions-on-august-1-update-21)
+    and are in 19 parishes in Lisbon, Sintra, Amadora, Loures, and Odivelas.
+  inbound:
+  - "[Flights will be permitted from countries](https://www.schengenvisainfo.com/news/portugal-to-open-its-borders-for-tourists-from-certain-countries-only/)
+    in the European Schengen travel zone except Spain and Italy. Flights are also
+    permitted to some countries outside of the EU."
+  outbound:
+  - Citizens residing in other countries are [guaranteed exit from Portugal.](https://www.visitportugal.com/en/node/421189)
+travel:
+  domestic: true
+  inbound: partial
+  inbound_allowed:
+  - AO
+  - AT
+  - BE
+  - BG
+  - CV
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - GW
+  - HU
+  - IS
+  - IE
+  - LV
+  - LT
+  - LU
+  - MT
+  - MZ
+  - NL
+  - false
+  - PL
+  - PT
+  - RO
+  - ST
+  - SK
+  - SI
+  - ZA
+  - SE
+  - CH
+  - VE
+  - BR
+  - MZ
+  - CV
+  - GW
+  - ST
+  - TL
+  - US
+  - GB
+  - VE
+  - CA
+  - ZA
+  outbound: partial

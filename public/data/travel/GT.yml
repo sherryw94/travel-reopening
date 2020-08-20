@@ -1,0 +1,13 @@
+---
+sources:
+  domestic:
+  - Guatemalan authorities further stated that all [international and domestic flights
+    will remain suspended indefinitely](https://www.garda.com/crisis24/news-alerts/356821/guatemala-covid-19-cases-exceed-20000-as-of-july-5-update-16).
+  - All movement will be restricted nightly [between 18:00 and 05:00 (local time)
+    from Monday to Saturday](https://www.garda.com/crisis24/news-alerts/356821/guatemala-covid-19-cases-exceed-20000-as-of-july-5-update-16).
+  inbound:
+  - Guatemalan authorities further stated that all [international and domestic flights
+    will remain suspended indefinitely](https://www.garda.com/crisis24/news-alerts/356821/guatemala-covid-19-cases-exceed-20000-as-of-july-5-update-16).
+travel:
+  domestic: partial
+  inbound: 'no'

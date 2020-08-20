@@ -1,0 +1,41 @@
+---
+sources:
+  domestic:
+  - Inter-island ferry travel is [not permitted](https://www.garda.com/crisis24/news-alerts/366096/maldives-curfew-reimposed-in-male-and-nearby-islands-from-august-4-update-14).
+  - The 10 pm to 5 am (local time) curfew affects Malé, Vilimalé, and Hulhumalé, will
+    remain in place until [an unspecified time](https://www.garda.com/crisis24/news-alerts/366096/maldives-curfew-reimposed-in-male-and-nearby-islands-from-august-4-update-14).
+  - Tourists can only stay on the island they are based on, and are [restricted from
+    going to other islands / traveling to inhabited islands.](https://covid19.health.gov.mv/new-normal-faq-for-visiting-the-maldives/).
+  - Public gatherings of more than five people are banned, while the use of face masks
+    is [mandatory in all enclosed and public spaces.](https://www.garda.com/crisis24/news-alerts/366096/maldives-curfew-reimposed-in-male-and-nearby-islands-from-august-4-update-14).
+  inbound:
+  - "[The Government of Maldives has announced a ban on entry into Maldives](https://www.gov.uk/foreign-travel-advice/maldives)
+    of anyone who has left or transited the UK in the last 14 days, as well as people
+    who have in the last 14 days been to mainland China (not including Hong Kong),
+    Iran, South Korea (North Gyeongsang and South Gyeongsang provinces), Italy, Bangladesh,
+    Spain, Germany (the federal states of Bavaria, North Rhine-Westphalia and Baden-Württemberg),
+    France (Île-de-France and Grand Est regions), Malaysia and Sri Lanka."
+  - 'Holiday travel is allowed and visa-on-arrival facilities have resumed, [subject
+    to conditions](https://covid19.health.gov.mv/new-normal-faq-for-visiting-the-maldives/)
+    such as: travelers must provide confirmed hotel booking, confirmed return ticket,
+    proof of sufficient funds, and health declaration forms.'
+  outbound:
+  - Travelers may leave, [as per return ticket](https://covid19.health.gov.mv/new-normal-faq-for-visiting-the-maldives/)
+  visa_quarantine:
+  - Travel from Malé to the surrounding islands [requires a 14-day mandatory quarantine
+    period](https://www.garda.com/crisis24/news-alerts/356226/maldives-curfew-extended-in-greater-male-until-14-july-update-13).
+travel:
+  domestic: partial
+  inbound: true
+  inbound_restricted:
+  - UK
+  - CN
+  - IR
+  - KR
+  - IT
+  - BD
+  - ES
+  - DE
+  - FR
+  - LK
+  outbound: true

@@ -1,0 +1,21 @@
+---
+reopening:
+  '2020-08-07': Dominica is projected to open airports and seaports on July 15, 2020,
+    for nationals. And on [August 7, 2020, for non-nationals](https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements).
+sources:
+  inbound:
+  - "[Dominica has closed its airports](https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements)
+    (Douglas Charles and Canefield) and its seaports to arriving and departing passengers.
+    They will open for nationals and residents on July 15, 2020, and for non-nationals
+    on August 7, 2020."
+  outbound:
+  - "[Dominica has closed its airports](https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements)
+    (Douglas Charles and Canefield) and its seaports to arriving and departing passengers.
+    They will open for nationals and residents on July 15, 2020, and for non-nationals
+    on August 7, 2020."
+  visa_quarantine:
+  - "[Mandatory 14 day quarantine will be necessary](https://www.gov.uk/foreign-travel-advice/dominica/entry-requirements),
+    self-isolating, in a Government facility, or in a certified hotel or guest house."
+travel:
+  inbound: 'no'
+  outbound: 'no'

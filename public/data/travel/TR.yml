@@ -1,0 +1,45 @@
+---
+sources:
+  domestic:
+  - "[Turkish Airlines has resumed domestic flights](https://tr.usembassy.gov/covid-19-information-2/).
+    Effective June 6, 2020, all travelers must have a HES code (Hayat Eve Sığar) for
+    domestic and international flights, train and ferry travel."
+  - Hair salons, shopping malls, and some stores have reopened, but require social
+    distancing and [restrict the number of people who can enter](https://tr.usembassy.gov/covid-19-information-2/).
+  - People over the age of 65 years old can only [go out between 10 am to 8 pm](https://tr.usembassy.gov/covid-19-information-2/),
+    as well as travel within Turkey only after obtaining a permit from the Ministry
+    of The Interior.
+  - The wearing of face masks is [mandatory in all crowded places](https://www.garda.com/crisis24/news-alerts/366111/turkey-authorities-toughen-covid-19-measures-following-increase-in-cases-on-august-4-update-31),
+    such as markets, supermarkets, hairdressers, and barber shops, as well as on all
+    public transport.
+  inbound:
+  - On June 11, 2020, Turkey announced opening the majority of its international air,
+    land, and sea borders. The [border with Iran remains closed.](https://tr.usembassy.gov/covid-19-information-2/)
+  - Travelers from Afghanistan, Bangladesh, Benin, Burkina Faso, Congo, Cote d'Ivoire,
+    Djibouti, Gabon, Ghana, Guinea, Kenya, Mali, Mauritius, Niger, Senegal, Sierra
+    Leone, and Somalia are [banned from entering Turkey](https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm)
+  outbound:
+  - "[Limited international commercial flight options exist in Turkey.](https://tr.usembassy.gov/covid-19-information-2/)"
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_restricted:
+  - IR
+  - AF
+  - BD
+  - BJ
+  - BF
+  - CG
+  - CI
+  - DJ
+  - GA
+  - GH
+  - GN
+  - KE
+  - ML
+  - MU
+  - NE
+  - SN
+  - SL
+  - SO
+  outbound: partial

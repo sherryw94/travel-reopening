@@ -1,0 +1,29 @@
+---
+reopening:
+  '2020-08-15': DRC has suspended all international passenger flights until [at least
+    August 15, 2020](https://www.garda.com/crisis24/news-alerts/358551/congo-state-of-health-emergency-extended-until-july-30-update-8).
+sources:
+  domestic:
+  - The Congolese government has been easing COVID-19 restrictions across the country
+    since the end of April, with the [reopening of shops and other facilities in major
+    urban centers](https://www.garda.com/crisis24/news-alerts/352646/drc-government-extends-state-of-health-emergency-until-july-5-update-17).
+  - Shops, cafes, bars, restaurants, and government offices have [reopened in Gombe](https://www.garda.com/crisis24/news-alerts/352646/drc-government-extends-state-of-health-emergency-until-july-5-update-17),
+    but the central market remains closed.
+  - The restrictions imposed on social gatherings, public transport, events, and meetings
+    [have been lifted](https://www.garda.com/crisis24/news-alerts/362081/drc-authorities-lift-covid-19-state-of-emergency-july-22-update-19).
+  - Domestic passenger flights and road travel have [resumed nationwide](https://www.garda.com/crisis24/news-alerts/363941/congo-authorities-extend-state-of-health-emergency-until-august-19-update-9).
+  inbound:
+  - Authorities reopened the country's borders, ports and airports, on [August 15,
+    2020.](https://www.garda.com/crisis24/news-alerts/369551/drc-authorities-reopen-borders-august-15-update-20)
+  - "[Increased exceptions for cross-border travel.](https://www.garda.com/crisis24/news-alerts/352646/drc-government-extends-state-of-health-emergency-until-july-5-update-17)"
+  outbound:
+  - Authorities reopened the country's borders, ports and airports, on [August 15,
+    2020.](https://www.garda.com/crisis24/news-alerts/369551/drc-authorities-reopen-borders-august-15-update-20)
+  visa_quarantine:
+  - Travelers will reportedly be expected to [present a negative COVID-19 PCR test
+    result](https://www.garda.com/crisis24/news-alerts/369551/drc-authorities-reopen-borders-august-15-update-20),
+    taken no more than 3 days prior, for entry and exit and may be required for domestic
+    travelers also. Additional screening measures will also be implemented upon arrival
+travel:
+  domestic: partial
+  inbound: partial

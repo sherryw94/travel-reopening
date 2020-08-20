@@ -1,0 +1,44 @@
+---
+sources:
+  domestic:
+  - Wearing face masks is compulsory in [public and commercial spaces](https://www.garda.com/crisis24/news-alerts/365661/cyprus-facemasks-made-compulsory-from-july-31-update-13).
+  - "[Gatherings of no more than 10 people are allowed](https://www.garda.com/crisis24/news-alerts/365661/cyprus-facemasks-made-compulsory-from-july-31-update-13).
+    While restaurants, cafe, and bars have reduced their capacity to a maximum of
+    75 people for indoor areas and 150 for outdoor areas."
+  inbound:
+  - "[Entry is allowed for certain countries](https://cy.usembassy.gov/covid-19-information/#:~:text=For%20Tourists%3A,14%20days%20prior%20to%20travel)."
+  - Cyprian authorities announced on July 4, 2020, that the country will [no longer
+    accept flights arriving from Lebanon from July 6, 2020](https://www.garda.com/crisis24/news-alerts/356776/cyprus-authorities-ban-flights-arriving-from-lebanon-from-july-6-update-12).
+  outbound:
+  - Many airlines have resumed flights to and out of Cyprus. [Please check with your
+    air carrier.](https://www.visitcyprus.com/files/COVID-19_Destination_Protocol-Cyprus_31-07-2020.pdf).
+  visa_quarantine:
+  - "[The suspension of all visa services](https://www.garda.com/crisis24/news-alerts/356776/cyprus-authorities-ban-flights-arriving-from-lebanon-from-july-6-update-12)
+    will also apply and remain in place indefinitely."
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BG
+  - HR
+  - CZ
+  - DK
+  - EE
+  - FI
+  - DE
+  - GR
+  - HU
+  - LV
+  - LT
+  - LU
+  - MT
+  - SK
+  - SI
+  - CH
+  - IL
+  - PL
+  - RO
+  inbound_restricted:
+  - LB
+  outbound: partial

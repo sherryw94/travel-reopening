@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - The current nightly nationwide curfew has been [reduced to 2 am to 5 am](https://www.garda.com/crisis24/news-alerts/367636/st-kitts-and-nevis-authorities-extend-nationwide-covid-19-restrictions-until-august-29-update-5).
+    During the curfew, individuals are only permitted to leave their homes for medical
+    emergencies or essential work.
+  - There is a [restriction on domestic travel.](https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/st-kitts-tourism-(eblast-only)/media/skb-emergency-powers-covid-19-regulations-v4.docx.docx-5ef109d10fa7f.pdf)
+  - Restrictions in place have been [extended until at least August 29, 2020.](https://www.garda.com/crisis24/news-alerts/367636/st-kitts-and-nevis-authorities-extend-nationwide-covid-19-restrictions-until-august-29-update-5)
+  inbound:
+  - As of June 13, 2020, St Kittis & Nevis will [remained closed to commercial traffic
+    by air and sea.](https://www.stkittstourism.kn/travel-advisory-update)
+  outbound:
+  - Outgoing flights or outgoing ships [are allowed.](https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/st-kitts-tourism-(eblast-only)/media/skb-emergency-powers-covid-19-regulations-v4.docx.docx-5ef109d10fa7f.pdf)
+  visa_quarantine:
+  - "[Safety protocols are in place.](https://2486634c787a971a3554-d983ce57e4c84901daded0f67d5a004f.ssl.cf1.rackcdn.com/st-kitts-tourism-(eblast-only)/media/skb-emergency-powers-covid-19-regulations-v4.docx.docx-5ef109d10fa7f.pdf)"
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'yes'

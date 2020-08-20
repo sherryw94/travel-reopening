@@ -1,0 +1,24 @@
+---
+sources:
+  domestic:
+  - Walvis Bay (Erongo region), remains under strict movement restrictions where gatherings
+    of more than ten people are prohibited, and [permits will be required to travel
+    to other areas in Namibia](https://www.garda.com/crisis24/news-alerts/353431/namibia-authorities-announce-further-easing-of-some-covid-19-restrictions-june-22-update-7)
+  - Under increased restrictions, mandatory wearing of face masks in public, a limit
+    on public gatherings of 10 people, the closure of night clubs, gambling houses,
+    and casinos, and limitations on the sale of alcohol [will be imposed](https://www.garda.com/crisis24/news-alerts/369286/namibia-authorities-tighten-covid-19-restrictions-from-august-12-28-update-9).
+  - Namibian schools will be suspended for 28 days as of August 4, 2020](https://www.garda.com/crisis24/news-alerts/353431/namibia-authorities-announce-further-easing-of-some-covid-19-restrictions-june-22-update-7).
+  inbound:
+  - Borders [remain closed and international flights suspended](https://www.garda.com/crisis24/news-alerts/365346/namibia-authorities-to-reimpose-some-covid-19-restrictions-july-31-update-8).
+  outbound:
+  - Borders [remain closed and international flights suspended](https://www.garda.com/crisis24/news-alerts/365346/namibia-authorities-to-reimpose-some-covid-19-restrictions-july-31-update-8).
+  visa_quarantine:
+  - Individuals will be required to present a [negative polymerase chain reaction
+    (PCR) test conducted 3 days before arrival](https://www.garda.com/crisis24/news-alerts/365346/namibia-authorities-to-reimpose-some-covid-19-restrictions-july-31-update-8).
+    They will have to remain at their initial destination in the country for seven
+    days while a test is conducted, after which they can leave for their final destination
+    if the test is negative.
+travel:
+  domestic: partial
+  inbound: false
+  outbound: false

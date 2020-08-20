@@ -1,0 +1,232 @@
+---
+sources:
+  domestic:
+  - In Ukraine, all public transportation, hotels, restaurants and coffee shops, church
+    services, day care centers, swimming pools and sports gyms (except groups that
+    are larger than 10 people) are [open](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/),
+    including sporting events without spectators.
+  - Inter-regional transportation, including passenger rail travel on Ukrzaliznytsia
+    (Ukrainian Railways) are [available](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/).
+  - Nationwide quarantine measures [extended through August 31, 2020](https://www.garda.com/crisis24/news-alerts/362611/ukraine-nationwide-quarantine-measures-extended-through-august-31-update-17).
+  inbound:
+  - The Ministry of Health of Ukraine have created a ['RED Zone' country list and
+    a 'GREEN Zone' country list](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/).
+  - The 'RED Zone' countries are defined by having more than 40 active cases per 100,000
+    population. Tourists entering Ukraine from the 'RED Zone' countries may still
+    be permitted, but [need to undergo quarantine for 14 days.](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/).
+  - The 'Green Zone' countries are defined by having less than 40 active cases per
+    100,000 population. Tourists entering Ukraine from the 'Green Zone' countries
+    [do not need to quarantine.](https://www.traveloffpath.com/ukraine-has-reopened-for-tourism-everything-you-need-to-know/).
+  outbound:
+  - Commercial international passenger services to and from Ukraine have [resumed
+    as of June 15, 2020](https://ua.usembassy.gov/covid-19-information/).
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - AF
+  - AL
+  - DZ
+  - AD
+  - AO
+  - AI
+  - AG
+  - AW
+  - AU
+  - AT
+  - BS
+  - BB
+  - BZ
+  - BJ
+  - BM
+  - BT
+  - BW
+  - VG
+  - BG
+  - BF
+  - BI
+  - KH
+  - CM
+  - NL
+  - KY
+  - TD
+  - CN
+  - KM
+  - CG
+  - CU
+  - CW
+  - CY
+  - CZ
+  - DK
+  - DM
+  - DJ
+  - ER
+  - EE
+  - SZ
+  - ET
+  - FO
+  - FK
+  - FJ
+  - FI
+  - PF
+  - GM
+  - GE
+  - DE
+  - GH
+  - GI
+  - GR
+  - GL
+  - GD
+  - GP
+  - GN
+  - GY
+  - HK
+  - HU
+  - IS
+  - IN
+  - ID
+  - IR
+  - IQ
+  - IE
+  - IM
+  - IT
+  - CI
+  - JM
+  - JP
+  - JO
+  - KE
+  - KG
+  - LA
+  - LV
+  - LB
+  - LS
+  - LR
+  - LY
+  - LI
+  - LT
+  - LU
+  - MO
+  - MG
+  - MW
+  - MY
+  - ML
+  - MT
+  - MQ
+  - MR
+  - MU
+  - MC
+  - MN
+  - MS
+  - MA
+  - MZ
+  - MM
+  - NA
+  - NP
+  - NC
+  - NZ
+  - NI
+  - NE
+  - NG
+  - false
+  - PG
+  - PY
+  - PH
+  - PL
+  - RE
+  - RO
+  - RW
+  - SM
+  - SN
+  - RS
+  - SL
+  - SK
+  - SI
+  - SO
+  - KR
+  - SD
+  - LK
+  - KN
+  - VC
+  - SD
+  - CH
+  - SY
+  - TW
+  - TJ
+  - TZ
+  - TH
+  - TL
+  - TG
+  - TT
+  - TN
+  - TR
+  - UG
+  - UY
+  - UZ
+  - VA
+  - VE
+  - VN
+  - EH
+  - YE
+  - ZM
+  - ZW
+  - AG
+  - AR
+  - AM
+  - AZ
+  - BH
+  - BD
+  - BY
+  - BE
+  - BO
+  - BA
+  - BR
+  - CV
+  - CA
+  - CL
+  - CO
+  - CR
+  - DO
+  - EC
+  - EG
+  - SV
+  - GQ
+  - FR
+  - GF
+  - GA
+  - GT
+  - GW
+  - HT
+  - HN
+  - IQ
+  - IL
+  - KZ
+  - KW
+  - KG
+  - LU
+  - MV
+  - MR
+  - YT
+  - MX
+  - MD
+  - ME
+  - MK
+  - OM
+  - PK
+  - PS
+  - PA
+  - PE
+  - PT
+  - QA
+  - RU
+  - ST
+  - SA
+  - SC
+  - SG
+  - ZA
+  - ES
+  - SR
+  - SE
+  - UA
+  - GB
+  - US
+  outbound: true

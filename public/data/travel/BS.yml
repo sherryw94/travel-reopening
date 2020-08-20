@@ -1,0 +1,55 @@
+---
+sources:
+  domestic:
+  - A two-week nationwide lockdown would [be in place until August 19, 2020](https://www.garda.com/crisis24/news-alerts/366456/bahamas-authorities-declare-two-week-nationwide-lockdown-from-august-4-update-11).
+  - All public and private beaches on the island of New Providence, Paradise Island,
+    Rose Island, Athol Island, and surrounding cays have closed from July 20, 2020.
+    Indoor dining is also not permitted, bars will be closed, and public gatherings,
+    including church services and sports activities, [will be prohibited](https://www.garda.com/crisis24/news-alerts/361576/bahamas-authorities-announce-new-restrictions-from-july-20-update-8).
+  - Starting July 27, 2020, a curfew from [7 pm to 5 am will be in effect](https://www.garda.com/crisis24/news-alerts/363226/bahamas-government-to-implement-nationwide-weekend-lockdown-july-24-update-9).
+  - A public state of emergency has been [extended through September 30, 2020](https://www.garda.com/crisis24/news-alerts/364276/bahamas-government-extends-state-of-emergency-through-september-30-update-10).
+  - The Bahamas government announced that a complete lockdown will be in effect in
+    [New Providence until August 25, 2020](https://www.garda.com/crisis24/news-alerts/370456/bahamas-authorities-to-ease-some-covid-19-measures-during-lockdown-in-new-providence-from-august-19-update-13).
+  inbound:
+  - On July 1, 2020, the Bahamian government [reopened the country's borders](https://www.garda.com/crisis24/news-alerts/355966/bahamas-authorities-reopen-borders-to-international-tourism-on-july-1-update-6)
+    to flights from Canada, the United Kingdom, and the European Union, but only after
+    presenting proof of a negative COVID-19 test taken within 10 days of their arrival.
+  - After July 7, 2020, arrivals must provide a COVID-19 RT PCR test result that is
+    no more than seven days old](https://www.garda.com/crisis24/news-alerts/364276/bahamas-government-extends-state-of-emergency-through-september-30-update-10).
+  visa_quarantine:
+  - Each traveler must submit a [Travel Health Visa Application form](https://www.osac.gov/Content/Report/1e5dbe0f-306f-429e-b385-18d348bd34ff).
+travel:
+  domestic: 'yes'
+  inbound: partial
+  inbound_allowed:
+  - CA
+  - GB
+  - AT
+  - BE
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IS
+  - IT
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - false
+  - PL
+  - PT
+  - SK
+  - SI
+  - ES
+  - SE
+  - BG
+  - HR
+  - CY
+  - IE
+  - RO

@@ -1,0 +1,28 @@
+---
+sources:
+  domestic:
+  - The Cambodian Ministry of Education has issued an immediate, indefinite, closure
+    of all schools in in Cambodia until further notice. The Cambodian government has
+    also shuttered all museums, cinemas, concert halls, bars, and karaoke establishments.
+    Any large religious gatherings are [prohibited until further notice](https://kh.usembassy.gov/covid-19-information/).
+  inbound:
+  - Visitors must possess a [COVID-19 negative medical certificate](https://kh.usembassy.gov/covid-19-information/)
+    issued no more than 72 hours prior to the date of arrival and proof of medical
+    insurance coverage of at least $50,000.
+  - A temporary ban on [all commercial flights from Malaysia and Indonesia](https://www.garda.com/crisis24/news-alerts/363451/cambodia-government-announce-that-they-will-temporarily-ban-all-flights-from-malaysia-and-indonesia-from-august-1-update-11)
+    will be in effect from Saturday, August 1, 2020.
+  visa_quarantine:
+  - "[Cambodia has imposed suspension of visa exemption policy for ASEAN nationals,
+    tourist visas, and e-visas.Tourists will no longer be issued visas](https://www.mfa.gov.sg/countries-regions/c/cambodia/travel-page)"
+  - In the event one or more travelers on an arriving vessel/flight test positive,
+    [all passengers must undergo a 14-day quarantine](https://www.mfa.gov.sg/countries-regions/c/cambodia/travel-page)
+    at a location designated by Cambodian authorities. If all travelers test negative,
+    health authorities will require travelers to self-isolate for 14-days at their
+    home or lodging under supervision of local authorities. Health authorities will
+    then oversee another COVID-19 test on the 13th day of self-isolation.
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_restricted:
+  - MY
+  - ID

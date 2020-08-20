@@ -1,0 +1,69 @@
+---
+sources:
+  domestic:
+  - "[Germany has reimposed coronavirus lockdown measures in two northwestern districts](https://www.aa.com.tr/en/europe/covid-19-germany-hit-by-local-infection-spikes/1888588)
+    on Wednesday after local outbreaks linked to a meat processing factory."
+  - German authorities announced on July 15, 2020 that the ban on large events will
+    be [extended until at least October 31, 2020](https://www.garda.com/crisis24/news-alerts/357631/germany-lockdown-in-gutersloh-district-lifted-following-court-ruling-july-7-update-33).
+  inbound:
+  - EU Citizens, Liechtenstein, Switzerland, Norway and Iceland and all family members
+    of these citizens are [permitted to return to their home country or to their place
+    of normal residence in Germany or another country.](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/coronavirus-faqs.html;jsessionid=6E220CBEC1484CEF34F9618F8E5197FA.2_cid287#doc13797140bodyText3)
+  outbound:
+  - The travel warning to non-European countries for German citizens will [remain
+    in place until August 31, 2020](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/coronavirus-faqs.html;jsessionid=6E220CBEC1484CEF34F9618F8E5197FA.2_cid287#doc13797140bodyText3).
+  - German authorities advised against all non-essential travel to [Belgium's Antwerp
+    province on August 5, 2020](https://www.garda.com/crisis24/news-alerts/366451/germany-authorities-advise-against-non-essential-travel-to-antwerp-province-august-5-update-36).
+  - German authorities also advised against travel to [Spain's Aragon, Navarra, and
+    Catalonia regions](https://www.garda.com/crisis24/news-alerts/366451/germany-authorities-advise-against-non-essential-travel-to-antwerp-province-august-5-update-36).
+  - German authorities added regions of Romania and Bulgaria to its [list of risk
+    areas on August 6, 2020](https://www.garda.com/crisis24/news-alerts/367391/germany-authorities-add-regions-of-romania-and-bulgaria-to-list-of-covid-19-risk-areas-august-6-update-38).
+  visa_quarantine:
+  - The federal and state governments have agreed that all persons entering Germany
+    from third countries are required to [remain in self-quarantine for two weeks.](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/coronavirus-faqs.html;jsessionid=6E220CBEC1484CEF34F9618F8E5197FA.2_cid287#doc13797140bodyText3)
+    Third countries are countries outside the European Union (EU). Persons traveling
+    from Iceland, Liechtenstein, Norway, Switzerland, and the United Kingdom of Great
+    Britain and Northern Ireland are exempt from this requirement, as are persons
+    traveling from EU countries.
+  - "[The quarantine requirement does not apply to persons entering from a third country](https://www.bmi.bund.de/SharedDocs/faqs/EN/topics/civil-protection/coronavirus/coronavirus-faqs.html;jsessionid=6E220CBEC1484CEF34F9618F8E5197FA.2_cid287#doc13797140bodyText3)
+    if it is determined that the infection rate in that country is low. The names
+    of these countries will be published on the website of the Robert-Koch-Institut."
+  - Travelers who have visited these locations deemed as high-risk for COVID-19, must
+    [undergo a mandatory COVID-19 test upon their arrival in Germany.](https://www.garda.com/crisis24/news-alerts/364331/germany-authorities-advise-against-travel-to-parts-of-spain-july-28-update-35)
+travel:
+  domestic: partial
+  inbound: partial
+  inbound_allowed:
+  - BE
+  - BG
+  - CZ
+  - DK
+  - DE
+  - EE
+  - IE
+  - EL
+  - ES
+  - FR
+  - HR
+  - IT
+  - CY
+  - LV
+  - LT
+  - LU
+  - HU
+  - MT
+  - NL
+  - AT
+  - PL
+  - PT
+  - RO
+  - SI
+  - SK
+  - FI
+  - SE
+  - IS
+  - LI
+  - MC
+  - false
+  - CH
+  outbound: partial

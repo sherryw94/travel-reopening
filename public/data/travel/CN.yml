@@ -1,0 +1,43 @@
+---
+sources:
+  domestic:
+  - Certain areas need a 'green health code', [more information can be found in the
+    link](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg).
+  - "[Beijing lifted lockdowns in five neighborhoods](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg)
+    following a decrease in coronavirus disease (COVID-19) cases."
+  - Urumqi locked down all residential areas of the city, [forbidding residents to
+    leave their housing compounds](https://www.garda.com/crisis24/news-alerts/361556/china-authorities-declare-wartime-state-for-urumqi-xinjiang-region-july-18-update-75).
+  - Public gatherings of more than two people remain banned while individuals are
+    required to wear face coverings in all public indoor and outdoor areas, as well
+    as on public transportation [until August 25, 2020](https://www.garda.com/crisis24/news-alerts/370111/hong-kong-some-covid-19-measures-extended-until-august-25-update-38).
+  - Restaurants are permitted to open until 6 pm (local time) and indoor restaurants
+    are only permitted to operate at 50 percent capacity. Non-essential businesses
+    including bars, gyms, cinemas, sports venues, and swimming pools [remain closed](https://www.garda.com/crisis24/news-alerts/370111/hong-kong-some-covid-19-measures-extended-until-august-25-update-38).
+  inbound:
+  - In Beijing, all international flights are [currently being redirected to one of
+    12 other cities.](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/)
+  outbound:
+  - "[US bans all commercial passenger flights by Chinese carriers.](https://www.washingtonpost.com/local/trafficandcommuting/trump-administration-bans-flights-by-chinese-airlines/2020/06/03/d5eb7136-a5a5-11ea-b619-3f9133bbb482_story.html)"
+  - Land border crossings in the northeast and surveilling the flights from Moscow
+    [are restricted.](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/)
+  - "[China has signed fast track agreements](https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/)
+    with Germany, France, South Korea, UK, and Japan."
+  visa_quarantine:
+  - 'Hong Kong: People coming from Mainland China, Macau, and Taiwan will be put under
+    [14 day home based quarantine.](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg)'
+  - Refer to cities which have no quarantine requirement if [travelers can provide
+    a green health code.](https://www.europeanchamber.com.cn/en/national-news/3188/travel_policies_to_and_from_cities_in_china)
+  - From April 1, 2020, the customs authorities have said they would cooperate with
+    local governments to carry out nucleic acid testing for [all overseas passengers
+    entering China by air, sea, or land.](http://www.gov.cn/xinwen/2020-04/06/content_5499662.htm)
+    More information [here](https://www.china-briefing.com/news/wp-content/uploads/2020/05/Travel-_-Entry-Policy-By-Province-As-of-May-24.jpg).
+  - Those arriving in Urumqi, need to provide a negative COVID-19 test if arriving
+    from a low-risk country, while those arriving from high-risk countries are [required
+    to undertake a 14-day quarantine](https://www.garda.com/crisis24/news-alerts/365166/china-entry-restrictions-tightened-in-urumqi-xinjiang-uyghur-autonomous-region-july-30-update-76).
+  - "[Non-residents planning to depart the city](https://www.garda.com/crisis24/news-alerts/365166/china-entry-restrictions-tightened-in-urumqi-xinjiang-uyghur-autonomous-region-july-30-update-76)
+    will need to test negative for COVID-19 in nucleic acid and antibody tests if
+    they have been in Urumqi for 14 days or more."
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial

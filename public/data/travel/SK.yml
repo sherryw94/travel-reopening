@@ -1,0 +1,43 @@
+---
+sources:
+  domestic:
+  - "[Domestic travel is allowed with social distancing measures in place](https://spectator.sme.sk/c/22437827/mass-events-and-rules-for-swimming-pools-more-measures-lifted-from-july-1.html)"
+  inbound:
+  - "[Slovakia's borders are currently open](https://www.schengenvisainfo.com/news/slovakia-reopens-its-borders-for-citizens-of-16-countries/)
+    to travelers from Liechtenstein, Germany, Switzerland, Croatia, Slovenia, Bulgaria,
+    Cyprus, Greece, Malta, Estonia, Lithuania, Finland, Latvia, Denmark, Norway, and
+    Iceland."
+  outbound:
+  - International airports in [Bratislava and Košice have reopened](https://spectator.sme.sk/c/22427760/coronavirus-in-slovakia-how-to-travel-borders-bus-train-air-transport.html).
+  visa_quarantine:
+  - Travelers who have visited or have arrived from countries not considered as low-risk
+    during the last 14 days are required to [remain in self-isolation at home for
+    14 days](https://www.mzv.sk/web/en/covid-19).
+  - After the fifth day, the traveler will be required to contact the Regional Public
+    Health Authority to undergo diagnosis for COVID-19. They will be able to stop
+    self-isolating when a [negative PT-PCR test for COVID-19 is produced](https://www.mzv.sk/web/en/covid-19).
+travel:
+  domestic: 'yes'
+  inbound: partial
+  inbound_allowed:
+  - LI
+  - DE
+  - CH
+  - HR
+  - SI
+  - BG
+  - CY
+  - GR
+  - MT
+  - EE
+  - LT
+  - FI
+  - LV
+  - DK
+  - false
+  - IS
+  - CZ
+  - AT
+  - PL
+  - HU
+  outbound: partial

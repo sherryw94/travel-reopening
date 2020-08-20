@@ -1,0 +1,42 @@
+---
+sources:
+  domestic:
+  - "[Wearing the mask is still mandatory](https://koronavirus.gov.hu/korlatozasok)
+    in shops and on public transport."
+  - Music and dance events for over 500 people are [still not possible.](https://koronavirus.gov.hu/korlatozasok)
+  inbound:
+  - As of June 17, citizens of Switzerland, Lichtenstein, Norway, and Iceland can
+    enter Hungary without restrictions, and Hungarian citizens [can enter these countries
+    freely](https://hu.usembassy.gov/covid-19/#:~:text=General%20Rule%3A,able%20to%20enter%20the%20country.),
+    without having to undergo a mandatory quarantine.
+  - Authorities announced that [selected countries will be divided into "red" or "yellow"
+    categories](https://hungarytoday.hu/coronavirus-travel-restrictions-import-abroad-hungary/).
+    From July 15, 2020, foreign nationals arriving from a "yellow" country will be
+    required to go into quarantine for 14 days on their arrival in Hungary, whilst
+    those arriving from a red country will be denied entry.
+  - Yellow states include Bulgaria, China, Japan, Norway, Portugal, Romania, Russia,
+    Serbia, Sweden, UK and US. Red states include Albania, Belarus, Bosnia and Herzegovina,
+    Moldova, Montenegro, North Macedonia, and Ukraine in addition to a number of destinations
+    in Africa, Asia, and South America](https://hungarytoday.hu/coronavirus-travel-restrictions-import-abroad-hungary/).
+  outbound:
+  - Borders to some [neighboring countries have reopened](https://hu.usembassy.gov/covid-19/#:~:text=General%20Rule%3A,able%20to%20enter%20the%20country).
+  visa_quarantine:
+  - Authorities announced that selected countries will be divided into "red" or "yellow"
+    categories. From July 15, 2020, foreign nationals arriving from a "yellow" country
+    will be [required to go into quarantine for 14 days](https://hungarytoday.hu/coronavirus-travel-restrictions-import-abroad-hungary/)
+    on their arrival in Hungary, whilst those arriving from a red country will be
+    denied entry.
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial
+  inbound_allowed:
+  - RS
+  - SI
+  - AT
+  - CZ
+  - SK
+  - DE
+  - KR
+  - JP
+  - PL

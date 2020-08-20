@@ -1,0 +1,13 @@
+---
+sources:
+  domestic:
+  - "[The Palestinian Authorities imposed a night time and weekend curfew](https://www.thejakartapost.com/news/2020/07/13/palestinian-authority-orders-nightly-weekend-coronavirus-curfew-.html)
+    on the occupied West Bank for 2 weeks, starting July 13, 2020."
+  inbound:
+  - "[State of emergency lockdown. Border crossings with Israel and Jordan are closed.](https://www.channelnewsasia.com/news/world/palestinians-extend-covid-19-state-of-emergency-to-jun-5-12704002)"
+  outbound:
+  - "[State of emergency lockdown. Border crossings with Israel and Jordan are closed.](https://www.channelnewsasia.com/news/world/palestinians-extend-covid-19-state-of-emergency-to-jun-5-12704002)"
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

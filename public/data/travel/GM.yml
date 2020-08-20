@@ -1,0 +1,16 @@
+---
+sources:
+  domestic:
+  - Markets have been [ordered to close by 2 pm (local time)](https://www.garda.com/crisis24/news-alerts/366491/gambia-authorities-introduce-nationwide-curfew-august-5-update-6).
+  - Gambian authorities [banned public gatherings and closed non-essential public
+    places](https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/).
+  - A ban on social gatherings has also been introduced, as well as a [curfew from
+    10 pm to 5 am](https://www.garda.com/crisis24/news-alerts/366491/gambia-authorities-introduce-nationwide-curfew-august-5-update-6).
+  inbound:
+  - "[Gambian airspace and land borders remain closed, as of March 23, 2020.](https://gm.usembassy.gov/u-s-citizen-services/covid-19-information/)"
+  visa_quarantine:
+  - Individuals entering Gambia will be [subjected to a 14-day quarantine period upon
+    entry](https://www.garda.com/crisis24/news-alerts/358461/gambia-state-of-emergency-extended-until-july-15-update-4).
+travel:
+  domestic: partial
+  inbound: 'no'

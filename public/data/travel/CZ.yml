@@ -1,0 +1,45 @@
+---
+sources:
+  domestic:
+  - Domestic travel is [allowed in the Czech Republic](https://koronavirus.mzcr.cz/en/roadmap-for-easing-measures/).
+  - The compulsory wearing of face coverings has been reintroduced, while [restaurant
+    opening hours have been reduced.](https://www.garda.com/crisis24/news-alerts/360956/czech-republic-authorities-tighten-covid-19-restrictions-on-july-17-update-17).
+  inbound:
+  - The Czech Republic allows entry to citizens of the [European Union](https://koronavirus.mzcr.cz/en/list-of-european-countries-according-to-the-level-of-risk/).
+  outbound:
+  - Exit for Czech Republic citizens is [allowed](https://www.bbc.com/news/world-europe-52411989).
+  visa_quarantine:
+  - "[Entry for travelers of any origin, must present the necessaary travel documents
+    required for entry](https://www.mvcr.cz/mvcren/docDetail.aspx?docid=22239932&doctype=ART)."
+travel:
+  domestic: true
+  inbound: partial
+  inbound_allowed:
+  - AT
+  - BE
+  - BG
+  - HR
+  - CY
+  - CZ
+  - DK
+  - EE
+  - FI
+  - FR
+  - DE
+  - GR
+  - HU
+  - IE
+  - IT
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - PL
+  - PT
+  - RO
+  - SK
+  - SI
+  - ES
+  - SE
+  outbound: partial

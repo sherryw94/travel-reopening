@@ -1,0 +1,19 @@
+---
+sources:
+  domestic:
+  - Non-essential businesses, schools, and places of worship also [remain closed](https://www.garda.com/crisis24/news-alerts/353951/congo-number-of-confirmed-covid-19-cases-passes-1000-on-june-23-as-state-of-emergency-extended-update-7).
+  - Curfew hours in Brazzaville and Pointe-Noire will be extended, [between 8 pm and
+    5 am (local time) from July 28, 2020](https://www.garda.com/crisis24/news-alerts/363941/congo-authorities-extend-state-of-health-emergency-until-august-19-update-9).
+  - Domestic passenger flights and road travel [have resumed nationwide](https://www.garda.com/crisis24/news-alerts/363941/congo-authorities-extend-state-of-health-emergency-until-august-19-update-9).
+  inbound:
+  - The Republic of Congo has closed its land, air, and maritime borders due to the
+    ongoing pandemic. Domestic and [international commercial flights currently remain
+    suspended](https://www.garda.com/crisis24/news-alerts/353951/congo-number-of-confirmed-covid-19-cases-passes-1000-on-june-23-as-state-of-emergency-extended-update-7).
+  outbound:
+  - The Republic of Congo has closed its land, air, and maritime borders due to the
+    ongoing pandemic. Domestic and [international commercial flights currently remain
+    suspended](https://www.garda.com/crisis24/news-alerts/353951/congo-number-of-confirmed-covid-19-cases-passes-1000-on-june-23-as-state-of-emergency-extended-update-7).
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

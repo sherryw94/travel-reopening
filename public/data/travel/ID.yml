@@ -1,0 +1,20 @@
+---
+sources:
+  domestic:
+  - "[Some exceptions made for inter-city travelers.](https://www.channelnewsasia.com/news/asia/covid-19-indonesia-mudik-ban-idul-fitri-exceptions-12707348)"
+  - "[List of closed tourism spots](https://www.indonesia.travel/gb/en/news/list-of-closed-tourism-spots-in-regards-to-covid-19-outbreak)."
+  - "[The government has implemented green, yellow, orange, and red zones, depending
+    on the level of infection, with varying levels of restrictions](https://www.garda.com/crisis24/news-alerts/357971/indonesia-record-daily-high-in-new-covid-19-cases-july-8-update-29)."
+  inbound:
+  - "[All foreign visitors are restricted to enter and transit through the Indonesian
+    territory.](https://www.imigrasi.go.id/berita/detail/informasi-terkini-kebijakan-imigrasi-terkait-covid-19)"
+  outbound:
+  - "[Immigration control at borders remains open for Indonesian citizens leaving
+    the Indonesian Territory for international essential travels only unless required
+    otherwise.](https://www.imigrasi.go.id/berita/detail/informasi-terkini-kebijakan-imigrasi-terkait-covid-19#_Toc36915641)"
+  visa_quarantine:
+  - "[All flight requirements and necessary documents on Indonesia's government website.](https://www.indonesia.travel/gb/en/news/garuda-indonesia-reopens-flight-for-exceptional-passengers)"
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: partial

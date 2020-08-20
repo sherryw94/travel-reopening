@@ -1,0 +1,27 @@
+---
+reopening:
+  '2020-08-07': The Dominican Republic has [reopened for international tourism from
+    August 7, 2020](https://www.garda.com/crisis24/news-alerts/355031/dominican-republic-authorities-to-allow-international-tourism-to-resume-from-july-1-update-12).
+sources:
+  domestic:
+  - The government of the Dominican Republic has declared a [state of emergency for
+    45 days from July 20, 2020](https://www.garda.com/crisis24/news-alerts/354771/dominican-republic-authorities-lift-curfew-from-june-28-update-11)
+    that provides the government with the ability to apply proportional restrictions
+    on freedom of movement, public assembly, and other powers needed to control the
+    spread of the virus.
+  - Many hotels on the island have reopened with [health and safety measures in place](https://www.garda.com/crisis24/news-alerts/361486/dominican-republic-government-declares-state-of-emergency-july-20-update-14).
+  - Curfews from 7 pm to 5 am (local time) Monday to Friday, and from 5 pm to 5 am
+    on Saturdays and Sundays will be in place [in certain districts](https://www.garda.com/crisis24/news-alerts/362481/dominican-republic-authorities-impose-nationwide-nighttime-curfews-july-21-update-15).
+  inbound:
+  - The Dominican Republic has [reopened for international tourism from August 7,
+    2020](https://www.garda.com/crisis24/news-alerts/355031/dominican-republic-authorities-to-allow-international-tourism-to-resume-from-july-1-update-12).
+  outbound:
+  - The Dominican Republic has [reopened for international tourism from August 7,
+    2020](https://www.garda.com/crisis24/news-alerts/355031/dominican-republic-authorities-to-allow-international-tourism-to-resume-from-july-1-update-12).
+  visa_quarantine:
+  - All travelers arriving into the county have to provide evidence of a negative
+    RT-PCR COVID-19 test, [taken within five days prior to arrival](https://www.garda.com/crisis24/news-alerts/365616/dominican-republic-authorities-announce-new-entry-requirements-as-of-july-30-update-16).
+travel:
+  domestic: partial
+  inbound: 'yes'
+  outbound: 'yes'

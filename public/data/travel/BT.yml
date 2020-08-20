@@ -1,0 +1,18 @@
+---
+sources:
+  domestic:
+  - "[Most tourism sites closed](https://www.tourism.gov.bt/announcements/tourism-bhutan-situation-report-on-covid-19-as-of-23rd-march-2020)."
+  - Schools have resumed for most classes and all students are required to wear masks.
+    While all parks and public spaces have reopened, huge gatherings of crowds including
+    tournaments and spectators are prohibited. Wearing of face masks are a requirement
+    at all gatherings and [safe distancing protocols are to be followed](https://www.drukasia.com/bhutan/update-on-covid-19-is-bhutan-safe/).
+  - All schools, government institutions, offices, and commercial establishments will
+    [remain closed until further notice and exams will be postponed](https://www.garda.com/crisis24/news-alerts/367836/bhutan-authorities-impose-nationwide-lockdown-due-to-covid-19-august-11-update-1).
+  inbound:
+  - "[All inbound tourists will be denied entry into Bhutan, till further notice](https://www.mfa.gov.sg/countries-regions/b/bhutan/travel-page)."
+  outbound:
+  - "[All flights suspended](https://www.tourism.gov.bt/announcements/tourism-bhutan-situation-report-on-covid-19-as-of-23rd-march-2020)."
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'no'

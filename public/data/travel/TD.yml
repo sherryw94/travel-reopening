@@ -1,0 +1,20 @@
+---
+sources:
+  domestic:
+  - There are curfews in place in certain provinces from 11 pm to 5 am [through to
+    August 17, 2020](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).
+    The nightly curfew applies in N'Djamena, Logone Occidental, Logone Oriental, Mayo-Kebbi
+    Ouest, Guera, Kanem, and Mayo-Kebbi Est regions, Mandelia and Lougoun sub-prefectures
+    in Chari Baguirmi region, and N'Djamena Fara sub-prefecture in Hadjer-Lamis region.
+  - There are [restrictions on movement and public gatherings](https://www.garda.com/crisis24/news-alerts/370001/chad-authorities-extend-nightly-curfew-in-ndjamena-and-other-regions-through-august-31-update-15).
+  inbound:
+  - All international commercial passenger flights [have resumed](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).
+  outbound:
+  - All international commercial passenger flights [have resumed](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).
+  visa_quarantine:
+  - Travelers arriving in Chad will be required to present a negative COVID-19 test
+    certificate dated [no more than 3 days prior to arrival.](https://www.garda.com/crisis24/news-alerts/365446/chad-international-flights-to-resume-august-1-update-13).
+travel:
+  domestic: partial
+  inbound: true
+  outbound: true

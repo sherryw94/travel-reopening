@@ -1,0 +1,25 @@
+---
+sources:
+  domestic:
+  - "[Domestic travel is allowed in Croatia](https://www.visit-croatia.co.uk/travelling-around-croatia/flights-in-croatia/)
+    between Zagreb, Pula, Dubrovnik, Split and Zadar."
+  inbound:
+  - As of July 1, 2020, all EU/EEA nationals and EU/EEA persons with permanent residence
+    can [enter Croatia with no restrictions](https://hr.usembassy.gov/covid-19-information-2/#:~:text=IMPORTANT%3A%20As%20of%20July%2010,than%2048%20hours%20(starting%20from).
+  - All other foreign nationals, including U.S. citizens, [may enter Croatia](https://hr.usembassy.gov/covid-19-information-2/#:~:text=IMPORTANT%3A%20As%20of%20July%2010,than%2048%20hours%20(starting%20from)
+    for business, tourism, or other pressing personal reasons if they provide the
+    relevant proof.
+  outbound:
+  - Borders to some [neighbouring countries have reopened](https://hu.usembassy.gov/covid-19/#:~:text=General%20Rule%3A,able%20to%20enter%20the%20country).
+  visa_quarantine:
+  - As of July 10, 2020, if you do not have a negative Polymerase Chain Reaction (PCR)
+    test not older than 48 hours you will be [required to self-isolate for 14 days.](https://hr.usembassy.gov/covid-19-information-2/#:~:text=IMPORTANT%3A%20As%20of%20July%2010,than%2048%20hours%20(starting%20from).
+travel:
+  domestic: true
+  inbound: true
+  outbound: partial
+travel_ideas:
+- alt: 48 Hours in Dubrovnik, Croatia
+  href: https://www.tourhero.com/en/magazine/travel/48-hours-in-dubrovnik-croatia/
+  src: 48-hours-in-Dubrovnik-Croatia-1900x880.jpg
+  title: '48 hours in the world of Game of Thrones: Visit Dubrovnik, Croatia'

@@ -1,0 +1,23 @@
+---
+sources:
+  domestic:
+  - There are [no limits on movement around Andorra.](https://visitandorra.com/en/covid-19-in-andorra/faq-if-you-re-spending-a-few-days-in-andorra/)
+    However, a minimum safe distance of 1.5 metres between individuals has been stipulated.
+    You should also be aware that, in open spaces, you must maintain a safe distance
+    of 4 metres (if you are on foot), 10 metres (if you are running) and 20 metres
+    (if you are cycling).
+  inbound:
+  - Since June 1, 2020, Andorra has [lifted the restrictions](https://visitandorra.com/en/covid-19-in-andorra/faq-if-you-re-spending-a-few-days-in-andorra/)
+    on entering the country via the borders with France and Spain. This applies to
+    all visitors, including tourists and hikers.
+  outbound:
+  - Since June 1, 2020, Andorra has [lifted the restrictions](https://visitandorra.com/en/covid-19-in-andorra/faq-if-you-re-spending-a-few-days-in-andorra/)
+    on entering the country via the borders with France and Spain. This applies to
+    all visitors, including tourists and hikers.
+  visa_quarantine:
+  - There will be [no quarantine](https://visitandorra.com/en/covid-19-in-andorra/faq-if-you-re-spending-a-few-days-in-andorra/)
+    if you are travelling from Spain, France or Portugal.
+travel:
+  domestic: 'yes'
+  inbound: 'yes'
+  outbound: 'yes'

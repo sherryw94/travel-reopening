@@ -1,0 +1,24 @@
+---
+sources:
+  domestic:
+  - "[People are now allowed to move around freely](https://www.garda.com/crisis24/news-alerts/357461/albania-public-transportation-services-resume-in-tirana-july-6-update-14),
+    with parks, gyms and internet cafes now open."
+  - A ban on public gatherings [remains in place](https://www.garda.com/crisis24/news-alerts/357461/albania-public-transportation-services-resume-in-tirana-july-6-update-14).
+  inbound:
+  - "[Commercial flights returned to Albania on June 15, 2020,](https://al.usembassy.gov/updates_covid19/)
+    with flights from Tirana to Vienna, Belgrade, and Athens. The Government of Albania
+    has declared that only European Union residents and nationals are eligible to
+    board these flights at this time."
+  outbound:
+  - "[Commercial flights returned to Albania on June 15, 2020](https://al.usembassy.gov/updates_covid19/),
+    with flights from Tirana to Vienna, Belgrade, and Athens. The Government of Albania
+    has declared that only European Union residents and nationals are eligible to
+    board these flights at this time."
+  visa_quarantine:
+  - "[There is no general requirement](https://al.usembassy.gov/updates_covid19/)
+    for travelers returning to Albania to self-quarantine. Quarantine will only apply
+    in specific cases when ordered by health authorities."
+travel:
+  domestic: partial
+  inbound: partial
+  outbound: partial

@@ -1,0 +1,24 @@
+---
+reopening:
+  '2020-10-01': Commercial air travel to Georgia is [suspended until October 1, 2020,
+    at least](https://www.garda.com/crisis24/news-alerts/370046/georgia-international-flight-restrictions-extended-until-october-1-update-16).
+sources:
+  domestic:
+  - All public transport—including the metro—has resumed service, though passengers
+    are required to wear face masks. [Intercity trains have also resumed service](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).
+  - Assembly of persons in one location up to a maximum of 10 people is now permitted.
+    Restaurants are now able to operate both indoor and outdoor seating. Customers
+    in restaurants are required to wear masks and maintain social distancing measures,
+    and a maximum of six people are allowed at one table. All retail and wholesale
+    shops, including malls and currency exchanges, are now open. Hotels may resume
+    operations after [inspection and permission from the Ministry of Health](https://ge.usembassy.gov/covid-19-information-on-georgia/#:~:text=The%20Government%20of%20Georgia%20announced,31%2C%202020%20with%20no%20penalty).
+  - Hotels and non-essential shops [have reopened](https://www.garda.com/crisis24/news-alerts/370046/georgia-international-flight-restrictions-extended-until-october-1-update-16).
+  inbound:
+  - Commercial air travel to Georgia is [suspended until October 1, 2020, at least](https://www.garda.com/crisis24/news-alerts/370046/georgia-international-flight-restrictions-extended-until-october-1-update-16).
+  - The restrictions on regular international flights [do not apply to direct international
+    flights](https://www.garda.com/crisis24/news-alerts/370046/georgia-international-flight-restrictions-extended-until-october-1-update-16)
+    between Tbilisi International Airport (TBS) and the Airport of Munich (MUC), Charles
+    de Gaulle Airport (CDG), and Riga International Airport (RIX).
+travel:
+  domestic: partial
+  inbound: 'no'

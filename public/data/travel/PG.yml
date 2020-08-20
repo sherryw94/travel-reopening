@@ -1,0 +1,23 @@
+---
+sources:
+  domestic:
+  - Some COVID-19 restrictions eased, including the reopening of bars and entertainment
+    venues on specific days and the lifting of bans on sporting activities and [inter-provincial
+    travel](https://www.garda.com/crisis24/news-alerts/352821/papua-new-guinea-first-covid-19-case-since-april-identified-june-21-update-12).
+  - Face masks, which are due to be issued to all the city's residents, [must be worn
+    in all public places](https://www.garda.com/crisis24/news-alerts/362061/papua-new-guinea-government-makes-face-masks-compulsory-in-port-moresby-on-july-21-due-to-covid-19-cluster-update-13).
+  - Papua New Guinea announced that domestic flights between provinces have been [suspended
+    as of August 7, 2020](https://www.garda.com/crisis24/news-alerts/367191/papua-new-guinea-authorities-suspend-domestic-flights-from-august-7-update-15).
+  - Under the state of emergency through to September 21, 2020, there are [limits
+    on movement and travel and requirements for social distancing](https://www.garda.com/crisis24/news-alerts/369806/papua-new-guinea-bougainville-government-extends-state-of-emergency-through-september-1-update-17).
+  inbound:
+  - All international flights [remain severely restricted](https://www.garda.com/crisis24/news-alerts/362061/papua-new-guinea-government-makes-face-masks-compulsory-in-port-moresby-on-july-21-due-to-covid-19-cluster-update-13),
+    with only limited services operating from Port Moresby to Brisbane and Cairns.
+  - The country's maritime and land borders have been [closed as of July 27, 2020](https://www.garda.com/crisis24/news-alerts/362061/papua-new-guinea-government-makes-face-masks-compulsory-in-port-moresby-on-july-21-due-to-covid-19-cluster-update-13)
+  visa_quarantine:
+  - Those arriving in the country are required to provide evidence of a [negative
+    COVID-19 Polymerase Chain Reaction (PCR) test from within seven days prior to
+    their flight.](https://www.garda.com/crisis24/news-alerts/362061/papua-new-guinea-government-makes-face-masks-compulsory-in-port-moresby-on-july-21-due-to-covid-19-cluster-update-13)
+travel:
+  domestic: partial
+  inbound: partial

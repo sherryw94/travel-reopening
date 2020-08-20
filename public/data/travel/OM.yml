@@ -1,0 +1,17 @@
+---
+sources:
+  domestic:
+  - Authorities announced that the ongoing lockdown in the region of Dhofar will [remain
+    in place until further notice](https://www.garda.com/crisis24/news-alerts/359781/oman-authorities-allow-international-travel-to-resume-july-14-update-17).
+  - The domestic ban on [inter-state movement has been lifted](https://www.garda.com/crisis24/news-alerts/364066/oman-authorities-extend-eid-al-adha-holiday-from-july-30-august-6-following-spike-in-covid-19-cases-update-19).
+  inbound:
+  - Omani authorities announced on July 14, 2020, that they will [allow international
+    travel to resume, but have not announced a specific date](https://www.garda.com/crisis24/news-alerts/359781/oman-authorities-allow-international-travel-to-resume-july-14-update-17).
+  outbound:
+  - Citizens who wish to travel abroad will have to [apply for permission](https://www.garda.com/crisis24/news-alerts/359781/oman-authorities-allow-international-travel-to-resume-july-14-update-17)
+    with authorities and will be required to quarantine for 14 days when they return
+    to the country.
+travel:
+  domestic: partial
+  inbound: 'no'
+  outbound: 'yes'
