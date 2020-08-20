@@ -60,7 +60,7 @@ jobs:
 
   lint:
     name: Lint Code Base
-    timeout-minutes: 2
+    timeout-minutes: 5
     runs-on: ubuntu-latest
 
     steps:
