@@ -31,7 +31,7 @@ jobs:
             ${{ runner.os }}-yarn-
       - name: "Get travel.yml Last Updated On"
         id: travel-updated-on
-        run: echo "::set-output name=date::$(git log -1 --format=%cs -- src/constants/travel.yaml)"
+        run: echo "::set-output name=date::$(git log -1 --format=%cs -- public/data/travel/*)"
       - name: Installing project dependencies
         run: yarn install
       - name: Build travel file
