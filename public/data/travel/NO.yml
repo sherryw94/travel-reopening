@@ -7,8 +7,8 @@ sources:
   outbound:
     - 'The Ministry of Foreign Affairs is maintaining its global advice against all [non-essential travel to all countries](https://www.regjeringen.no/en/topics/foreign-affairs/reiseinformasjon/travel_coronavirus/id2691821/).'
   visa_quarantine:
-    - 'Authorities imposed a [10-day quarantine requirement](https://www.garda.com/crisis24/news-alerts/366761/norway-authorities-halt-easing-of-covid-19-restrictions-and-impose-further-quarantine-requirements-for-selected-countries-august-6-update-12) for travelers arriving from Switzerland, France, and the Czech Republic on August 6, 2020.'
-    - 'Authorities imposed a [10-day quarantine requirement](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/travel-advice-COVID19/)for travelers arriving from United Kingdom, Austria, Greece, and Ireland.'
+    - 'Authorities imposed a [10-day quarantine requirement](https://www.garda.com/crisis24/news-alerts/366761/norway-authorities-halt-easing-of-covid-19-restrictions-and-impose-further-quarantine-requirements-for-selected-countries-august-6-update-12) for travellers arriving from Switzerland, France, and the Czech Republic on August 6, 2020.'
+    - 'Authorities imposed a [10-day quarantine requirement](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/travel-advice-COVID19/)for travellers arriving from United Kingdom, Austria, Greece, and Ireland.'
     - 'All travelers arriving into the country from countries with more than 20 confirmed new COVID-19 cases per 100,000 population in the previous two weeks will have to quarantine on arrival](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/travel-advice-COVID19/).'
 travel:
   domestic: 'yes'
@@ -45,4 +45,71 @@ travel:
     - SE
     - CH
     - GB
-  outbound: 'yes'
+  outbound: partial
+sources:
+travel:
+inbound: partial
+inbound_allowed:
+  - AT
+  - BG
+  - BE
+  - CZ
+  - HR
+  - CY
+  - DK
+  - EE
+  - FR
+  - FI
+  - DE
+  - GR
+  - HU
+  - IE
+  - IS
+  - IT
+  - LI
+  - LV
+  - LT
+  - LU
+  - MT
+  - NL
+  - PT
+  - PL
+  - RO
+  - SK
+  - ES
+  - SI
+  - SE
+  - CH
+  - GB
+inbound_restricted:
+inbound_source: https://www.udi.no/en/important-messages/endring-i-innreiseregler-fra-15.-juli/
+outbound: partial
+outbound_source: https://www.regjeringen.no/en/topics/foreign-affairs/reiseinformasjon/travel_coronavirus/id2691821/
+interstate_commercial_flights: yes
+interstate_commercial_flights_source: https://helsenorge.no/koronavirus/travel-advice
+interstate_private_land_transportation: yes
+interstate_private_land_transportation_source: https://helsenorge.no/koronavirus/travel-advice#Domestic-leisure-travel
+interstate_public_transportation: yes
+interstate_public_transportation_source: https://helsenorge.no/koronavirus/travel-advice#Domestic-leisure-travel
+public_transportation_in_region: yes
+public_transportation_in_region_source: https://reopen.europa.eu/en/map/NOR
+restaurants_open: yes
+restaurants_capacity_text:
+restaurants_open_source: https://reopen.europa.eu/en/map/NOR
+stay_in_hotel: yes
+stay_in_hotel_text:
+stay_in_hotel_source: https://reopen.europa.eu/en/map/NOR
+no_curfew:
+curfew_time_text:
+no_curfew_source:
+visit_ticketed_tourist_attractions: yes
+visit_non_ticketed_tourist_attractions: yes
+visit_tourist_attractions_source: https://reopen.europa.eu/en/map/NOR
+apply_visa: yes
+apply_visa_source: https://www.example.com
+quarantine_requirement: partial
+quarantine_requirement_source: https://www.example.com
+covid_test_requirement: no
+covid_test_requirement_source: https://reopen.europa.eu/en/map/NOR
+submit_documentation_upon_arrival: no
+submit_documentation_upon_arrival_source: https://reopen.europa.eu/en/map/NOR
