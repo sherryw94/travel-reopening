@@ -1,20 +1,16 @@
 ---
 sources:
   domestic:
-  - A ban on inter-city public transport, a ban on public social, political, and religious
-    gatherings, and the compulsory use of face masks in public, [remain in force](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12).
-  - A 6 pm to 6 am curfew, will be enforced across Zimbabwe [from July 22, 2020](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12).
-  - Opening hours for essential businesses have also been reduced to 8 am - 1 pm (local
-    time), with the enforcement of health and hygiene measures in shops [being tightened.](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12)
+    - 'A ban on inter-regional travel, inter-city public transport, a ban on public social, political, and religious gatherings, and the compulsory use of face masks in public, [remain in force](https://www.garda.com/crisis24/news-alerts/370591/zimbabwe-authorities-reduce-covid-19-curfew-hours-august-18-update-13).'
+    - 'A 6 pm to 6 am curfew, will be enforced across Zimbabwe [from July 22, 2020](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12).'
+    - 'Opening hours for essential businesses have also been reduced to 8 am - 1 pm (local time), with the enforcement of health and hygiene measures in shops [being tightened.](https://www.garda.com/crisis24/news-alerts/362041/zimbabwe-government-imposes-new-curfew-and-covid-19-lockdown-measures-amid-surge-in-cases-july-22-update-12)'
+    - 'The curfew has been [shortened from 8 pm to 6 am (local time).](https://www.garda.com/crisis24/news-alerts/370591/zimbabwe-authorities-reduce-covid-19-curfew-hours-august-18-update-13)'
   inbound:
-  - "[Zimbabwe’s borders are closed to all human traffic except for returning Zimbabwean
-    nationals and permit holders.](https://www.garda.com/crisis24/news-alerts/347696/zimbabwe-security-forces-enforce-lockdown-in-central-harare-june-2-update-10)"
+    - '[Zimbabwe’s borders are closed to all human traffic except for returning Zimbabwean nationals and permit holders.](https://www.garda.com/crisis24/news-alerts/347696/zimbabwe-security-forces-enforce-lockdown-in-central-harare-june-2-update-10)'
   outbound:
-  - "[Zimbabwe’s borders are closed to all human traffic except for returning Zimbabwean
-    nationals and permit holders.](https://www.garda.com/crisis24/news-alerts/347696/zimbabwe-security-forces-enforce-lockdown-in-central-harare-june-2-update-10)"
+    - '[Zimbabwe’s borders are closed to all human traffic except for returning Zimbabwean nationals and permit holders.](https://www.garda.com/crisis24/news-alerts/347696/zimbabwe-security-forces-enforce-lockdown-in-central-harare-june-2-update-10)'
   visa_quarantine:
-  - All arrivals will be subject to strict screening procedures and will be required
-    to [self-quarantine for 21 days](https://www.garda.com/crisis24/news-alerts/347696/zimbabwe-security-forces-enforce-lockdown-in-central-harare-june-2-update-10).
+    - 'All arrivals will be subject to strict screening procedures and will be required to [self-quarantine for 21 days](https://www.garda.com/crisis24/news-alerts/347696/zimbabwe-security-forces-enforce-lockdown-in-central-harare-june-2-update-10).'
 travel:
   domestic: 'no'
   inbound: 'no'
