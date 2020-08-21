@@ -10,7 +10,7 @@ sources:
     - 'The Foreign and Commonwealth Office (FCO) [advises against non-essential international travel.](https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors)'
   visa_quarantine:
     - 'From June 8, 2020, the UK Government has announced that all passengers arriving in the UK will be required to complete a [mandatory 14-day period of self-isolation.](https://www.heathrow.com/customer-support/faq/coronavirus-covid-19)'
-    - 'Travellers from affected countries - including UK nationals - are asked to [provide an address where they will self-isolate for 14 days](https://www.bbc.com/news/explainers-52544307). They can be fined £100 for failing to fill in a form with these details.'
+    - 'Travelers from affected countries - including UK nationals - are asked to [provide an address where they will self-isolate for 14 days](https://www.bbc.com/news/explainers-52544307). They can be fined £100 for failing to fill in a form with these details.'
     - 'Travelers from France and the Netherlands will no longer be exempt from [quarantine for 14 days upon arrival in the UK](https://www.garda.com/crisis24/news-alerts/368766/uk-travelers-from-several-countries-no-longer-exempt-from-quarantine-measures-as-of-august-15-update-38).'
 travel:
   domestic: partial
