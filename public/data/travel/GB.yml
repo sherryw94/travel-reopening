@@ -5,9 +5,9 @@ sources:
     - 'Bowling alleys, skating rinks, and casinos are allowed to reopen. Indoor performances, music, and theater events can [also resume.](https://www.garda.com/crisis24/news-alerts/369141/uk-authorities-further-ease-lockdown-restrictions-in-england-august-14-update-39)'
     - 'Scotland''s First Minister Nicola Sturgeon has announced that the local lockdown in Aberdeen, has been [extended until at least August 26, 2020](https://www.garda.com/crisis24/news-alerts/370586/uk-local-lockdown-in-aberdeen-extended-until-august-26-due-to-covid-19-update-40)'
   inbound:
-    - '[No entry restrictions. However, from June 8, 2020, mandatory 14-day quarantine for all travelers will be in effect.](https://www.gov.uk/uk-border-control)'
+    - 'No entry restrictions. However, from June 8, 2020, mandatory [14-day quarantine for all travelers will be in effect.](https://www.gov.uk/uk-border-control)'
   outbound:
-    - '[The Foreign and Commonwealth Office (FCO) advises against non-essential international travel.](https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors)'
+    - 'The Foreign and Commonwealth Office (FCO) [advises against non-essential international travel.](https://www.gov.uk/guidance/coronavirus-covid-19-travel-corridors)'
   visa_quarantine:
     - 'From June 8, 2020, the UK Government has announced that all passengers arriving in the UK will be required to complete a [mandatory 14-day period of self-isolation.](https://www.heathrow.com/customer-support/faq/coronavirus-covid-19)'
     - 'Travellers from affected countries - including UK nationals - are asked to [provide an address where they will self-isolate for 14 days](https://www.bbc.com/news/explainers-52544307). They can be fined £100 for failing to fill in a form with these details.'
