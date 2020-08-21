@@ -45,4 +45,35 @@ travel:
     - SE
     - CH
     - GB
-  outbound: 'yes'
+  outbound: partial
+  inbound_restricted:
+  inbound_source: https://www.udi.no/en/important-messages/endring-i-innreiseregler-fra-15.-juli/
+  outbound_source: https://www.regjeringen.no/en/topics/foreign-affairs/reiseinformasjon/travel_coronavirus/id2691821/
+  interstate_commercial_flights: yes
+  interstate_commercial_flights_source: https://helsenorge.no/koronavirus/travel-advice
+  interstate_private_land_transportation: yes
+  interstate_private_land_transportation_source: https://helsenorge.no/koronavirus/travel-advice#Domestic-leisure-travel
+  interstate_public_transportation: yes
+  interstate_public_transportation_source: https://helsenorge.no/koronavirus/travel-advice#Domestic-leisure-travel
+  public_transportation_in_region: yes
+  public_transportation_in_region_source: https://reopen.europa.eu/en/map/NOR
+  restaurants_open: yes
+  restaurants_capacity_text:
+  restaurants_open_source: https://reopen.europa.eu/en/map/NOR
+  stay_in_hotel: yes
+  stay_in_hotel_text:
+  stay_in_hotel_source: https://reopen.europa.eu/en/map/NOR
+  no_curfew:
+  curfew_time_text:
+  no_curfew_source:
+  visit_ticketed_tourist_attractions: yes
+  visit_non_ticketed_tourist_attractions: yes
+  visit_tourist_attractions_source: https://reopen.europa.eu/en/map/NOR
+  apply_visa: yes
+  apply_visa_source: https://www.example.com
+  quarantine_requirement: partial
+  quarantine_requirement_source: https://www.example.com
+  covid_test_requirement: no
+  covid_test_requirement_source: https://reopen.europa.eu/en/map/NOR
+  submit_documentation_upon_arrival: no
+  submit_documentation_upon_arrival_source: https://reopen.europa.eu/en/map/NOR
