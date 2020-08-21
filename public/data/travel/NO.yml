@@ -7,8 +7,8 @@ sources:
   outbound:
     - 'The Ministry of Foreign Affairs is maintaining its global advice against all [non-essential travel to all countries](https://www.regjeringen.no/en/topics/foreign-affairs/reiseinformasjon/travel_coronavirus/id2691821/).'
   visa_quarantine:
-    - 'Authorities imposed a [10-day quarantine requirement](https://www.garda.com/crisis24/news-alerts/366761/norway-authorities-halt-easing-of-covid-19-restrictions-and-impose-further-quarantine-requirements-for-selected-countries-august-6-update-12) for travellers arriving from Switzerland, France, and the Czech Republic on August 6, 2020.'
-    - 'Authorities imposed a [10-day quarantine requirement](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/travel-advice-COVID19/)for travellers arriving from United Kingdom, Austria, Greece, and Ireland.'
+    - 'Authorities imposed a [10-day quarantine requirement](https://www.garda.com/crisis24/news-alerts/366761/norway-authorities-halt-easing-of-covid-19-restrictions-and-impose-further-quarantine-requirements-for-selected-countries-august-6-update-12) for travelers arriving from Switzerland, France, and the Czech Republic on August 6, 2020.'
+    - 'Authorities imposed a [10-day quarantine requirement](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/travel-advice-COVID19/)for travelers arriving from United Kingdom, Austria, Greece, and Ireland.'
     - 'All travelers arriving into the country from countries with more than 20 confirmed new COVID-19 cases per 100,000 population in the previous two weeks will have to quarantine on arrival](https://www.fhi.no/en/op/novel-coronavirus-facts-advice/facts-and-general-advice/travel-advice-COVID19/).'
 travel:
   domestic: 'yes'
