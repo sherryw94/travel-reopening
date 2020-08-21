@@ -1,18 +1,15 @@
----
 reopening:
-  '2020-08-17': International flights will resume from [August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).
+  '2020-08-17': 'International flights will resume from [August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
 sources:
   domestic:
-  - Domestic flights will resume from [August 5, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).
-  - Long-route buses will resume operations from August 17. Restaurants will be [allowed
-    to reopen from July 30, 2020, and hotels from July 31, 2020.](https://www.garda.com/crisis24/news-alerts/362021/nepal-authorities-lift-covid-19-restrictions-july-21-update-19)
+    - 'Domestic flights will resume from [August 5, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
+    - 'Long-route buses will resume operations from August 17. Restaurants will be [allowed to reopen from July 30, 2020, and hotels from July 31, 2020.](https://www.garda.com/crisis24/news-alerts/362021/nepal-authorities-lift-covid-19-restrictions-july-21-update-19)'
+    - 'Public and religious gatherings in the capital will be prohibited until at least August 26, 2020 while the use of public and private vehicles will only be [permitted for haulage providers and essential health workers](https://www.garda.com/crisis24/news-alerts/370551/nepal-transport-and-public-gatherings-banned-in-kathmandu-from-august-19-update-20)'
   inbound:
-  - The Ministry of Culture, Tourism and Civil Aviation announced that it [plans to
-    resume international flights from August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).
+    - 'The Ministry of Culture, Tourism and Civil Aviation announced that it [plans to resume international flights from August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
   outbound:
-  - The Ministry of Culture, Tourism and Civil Aviation announced that it [plans to
-    resume international flights from August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).
+    - 'The Ministry of Culture, Tourism and Civil Aviation announced that it [plans to resume international flights from August 17, 2020](https://www.garda.com/crisis24/news-alerts/360961/nepal-authorities-to-resume-domestic-and-international-flights-from-august-5-update-17).'
 travel:
-  domestic: partial
+  domestic: 'partial'
   inbound: 'yes'
   outbound: 'yes'
