@@ -1,4 +1,4 @@
-Domestic travel is restricted in Chile. Chile is currently under a nationwide curfew from 10 pm to 5 pm (GMT-4).
+Domestic travel is restricted in Chile. Chile is currently under a nationwide curfew from 11 pm to 5 pm (GMT-4).
 
 [Restrictions are gradually lifted](https://www.garda.com/crisis24/news-alerts/368666/chile-authorities-to-gradually-lift-lockdown-restrictions-in-central-santiago-from-august-17-update-24) from central Santiago from August 17, 2020.
 

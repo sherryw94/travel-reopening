@@ -2,16 +2,21 @@ Restrictions apply for inbound and outbound travel. See below for more details.
 
 #### Inbound Travel: Who can travel into Finland?
 
-**Travel restrictions apply.** The government is in talks to [lift internal border control and restrictions](https://valtioneuvosto.fi/en/-/10616/hallitus-linjasi-neuvottelussaan-rajakysymyksista-etatyosta-ja-yli-70-vuotiaita-koskevista-suosituksista) on July 13, 2020, between Finland and countries where internal border controls have been lifted. These countries include Norway, Denmark, Iceland, Estonia, Latvia, and Lithuania. The government will confirm on the lifting of internal border control and restrictions on July 10, 2020.
+**Travel restrictions apply.** The government has [re-tightened travel restrictions at internal and external borders](https://valtioneuvosto.fi/-/10616/x). Internal borders will be restored to traffic between Finland and:
 
-On July 13, 2020, internal border controls could be lifted for:
+- Iceland
+- Greece
+- Malta
+- Germany
+- Norway
+- Denmark
 
-**Schengen countries**: Germany, Italy, Austria, Greece, Switzerland, Slovakia, Slovenia, Hungary, and Liechtenstein
+External border traffic will be reinstated for traffic from:
 
-**EU member states**: Croatia, Cyprus, and Ireland
-
-Internal border control and travel restrictions still remain for:
-The Netherlands, Belgium, Spain, Luxembourg, Malta, Portugal, Poland, France, Sweden, and the Czech Republic
+- Ireland
+- Cyprus
+- San Marino
+- Japan
 
 Currently, recreational travel (for example, visiting the summer cottage of an acquaintance) is not a necessary reason for foreign citizens to enter Finland.
 
