@@ -3,6 +3,7 @@ sources:
   domestic:
   - "[Domestic travel allowed](https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/muutoksia-koronavirusepidemian-vuoksi-asetettuihin-rajoituksiin-1-kesakuuta)
     as long as health and safety guidelines are observed."
+  - '[Events with more than 500 attendees will be permitted from August 31, 2020](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions), both indoors and outdoors, providing certain social distancing and hygiene measures are adhered to.'
   inbound:
   - Air traffic and regular ferry services have resumed between Finland and Norway,
     Denmark, Iceland, Estonia, Latvia and Lithuania [as of June 15, 2020](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions).
@@ -17,6 +18,7 @@ sources:
     control. Such countries include Sweden, Germany, and Russia. Self-isolation is
     not required if the person arrives from Estonia, Latvia, Lithuania, Norway, Denmark,
     or Iceland.
+  - 'Travelers arriving from Cyprus, Denmark, Iceland, Ireland, Germany, Greece, Malta, Norway, San Marino, and Japan will be required to undertake a [2 week self-quarantine.](https://www.channelnewsasia.com/news/world/finland-returns-covid-19-travel-restrictions-for-several-13034210).'
 travel:
   domestic: 'yes'
   inbound: partial
