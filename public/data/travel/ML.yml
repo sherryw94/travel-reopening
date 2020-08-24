@@ -1,15 +1,63 @@
 ---
+reopening:
+  '2020-08-21': 'All ports of entry to Mali have [reopened since August 21, 2020](https://www.garda.com/crisis24/news-alerts/371031/mali-military-junta-announce-that-borders-will-reopen-from-august-21-update-4).'
 sources:
   domestic:
   - The nationwide curfew has been [lifted](https://www.garda.com/crisis24/news-alerts/346821/mali-first-un-peacekeeper-covid-19-deaths-confirmed-update-5).
   - Gatherings of over 50 people are [prohibited](https://www.garda.com/crisis24/news-alerts/346821/mali-first-un-peacekeeper-covid-19-deaths-confirmed-update-5).
+  - A curfew will remain in place from [12 am until 5 am (local time)](https://www.garda.com/crisis24/news-alerts/371426/mali-military-junta-eases-curfew-orders-august-21-update-5).
   inbound:
-  - Authorities stated that [air borders will reopen on July 25, 2020, and land borders
-    on July 31, 2020](https://www.garda.com/crisis24/news-alerts/363201/mali-authorities-announce-reopening-of-air-and-land-borders-july-24-update-6).
+  - 'All ports of entry to Mali have [reopened since August 21, 2020](https://www.garda.com/crisis24/news-alerts/371031/mali-military-junta-announce-that-borders-will-reopen-from-august-21-update-4).'
   outbound:
-  - Authorities stated that [air borders will reopen on July 25, 2020, and land borders
-    on July 31, 2020](https://www.garda.com/crisis24/news-alerts/363201/mali-authorities-announce-reopening-of-air-and-land-borders-july-24-update-6).
+  - 'The Economic Community of West African States (ECOWAS) has instructed its member states (Benin, Burkina Faso, Cape Verde, Côte d''Ivoire, The Gambia, Ghana, Guinea, Guinea-Bissau, Liberia, Niger, Nigeria, Senegal, Sierra Leone, and Togo) to [keep their borders with Mali closed](https://www.garda.com/crisis24/news-alerts/371031/mali-military-junta-announce-that-borders-will-reopen-from-august-21-update-4).'
 travel:
-  domestic: partial
-  inbound: partial
-  outbound: partial
+domestic: partial
+inbound: 'yes'
+inbound_allowed:
+inbound_restricted:
+inbound_source: https://www.garda.com/crisis24/news-alerts/371031/mali-military-junta-announce-that-borders-will-reopen-from-august-21-update-4
+outbound: partial
+outbound_restricted:
+  - BJ
+  - BF
+  - CV
+  - CI
+  - GM
+  - GH
+  - GN
+  - GW
+  - LR
+  - NE
+  - NG
+  - SN
+  - SL
+  - TG
+outbound_source: https://www.garda.com/crisis24/news-alerts/371031/mali-military-junta-announce-that-borders-will-reopen-from-august-21-update-4
+interstate_commercial_flights:
+interstate_commercial_flights_source: 
+interstate_private_land_transportation:
+interstate_private_land_transportation_source:
+interstate_public_transportation:
+interstate_public_transportation_source:
+public_transportation_in_region:
+public_transportation_in_region_source:
+restaurants_open:
+restaurants_capacity_text:
+restaurants_open_source:
+stay_in_hotel:
+stay_in_hotel_text:
+stay_in_hotel_source:
+no_curfew: 'no'
+curfew_time_text: 12 am to 5 am
+no_curfew_source: https://www.garda.com/crisis24/news-alerts/371426/mali-military-junta-eases-curfew-orders-august-21-update-5
+visit_ticketed_tourist_attractions:
+visit_non_ticketed_tourist_attractions:
+visit_tourist_attractions_source:
+apply_visa:
+apply_visa_source:
+quarantine_requirement:
+quarantine_requirement_source:
+covid_test_requirement:
+covid_test_requirement_source:
+submit_documentation_upon_arrival:
+submit_documentation_upon_arrival_source:
