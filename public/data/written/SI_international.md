@@ -10,7 +10,7 @@ Slovenia's borders have reopened. The following types of travelers may enter the
 
 Strict quarantine restrictions apply to other foreign travelers entering Slovenia from countries in the yellow and red list. Red list countries include the following:
 
-- Qatar, Bahrain, Chile, Kuwait, Peru, Armenia, Djibouti, Oman, Brazil, Panama, Belarus, Andorra, Singapore, Sweden, Maldives, Sao Tomé and Príncipe, United Arab Emirates, United States of America, Saudi Arabia, Russia, Moldova, Gibraltar, Bolivia, Puerto Rico, Gabon, Cayman Islands, Dominican Republic, Republic of South Africa, Iran, the United Kingdom, North Macedonia, Serbia, Bosnia and Herzegovina, Kosovo, Portugal, and Albania.
+- Croatia, Qatar, Bahrain, Chile, Kuwait, Peru, Armenia, Djibouti, Oman, Brazil, Panama, Belarus, Andorra, Singapore, Sweden, Maldives, Sao Tomé and Príncipe, United Arab Emirates, United States of America, Saudi Arabia, Russia, Moldova, Gibraltar, Bolivia, Puerto Rico, Gabon, Cayman Islands, Dominican Republic, Republic of South Africa, Iran, the United Kingdom, North Macedonia, Serbia, Bosnia and Herzegovina, Kosovo, Portugal, and Albania.
 
 All other countries not mentioned in either the green list or red list are considered part of the yellow list.
 
