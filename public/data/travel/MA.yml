@@ -1,26 +1,52 @@
 ---
-sources:
-  domestic:
-  - Government has classified the country into 2 zones, [with different restrictions
-    for each zone.](https://www.garda.com/crisis24/news-alerts/352501/morocco-further-easing-of-covid-19-restrictions-from-june-19-update-17)
-  - "[Inter-provincial travel is permitted for certain states](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18),
-    subject to movement restrictions in certain areas. You must carry identification
-    documents with you at all times."
-  - As of June 25, 2020, [domestic transport services, including flights and railways,
-    have resumed](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18).
-  - Authorities will be permitted to [enforce lockdowns on a region-by-region basis](https://www.garda.com/crisis24/news-alerts/366886/morocco-authorities-extend-state-of-emergency-until-september-10-update-25),
-    due to the national state of health emergency being extended to September 10,
-    2020.
-  - Individuals in Tangier and Fez will be required to carry a permit authorized by
-    local authorities to [travel to and from the two cities](https://www.garda.com/crisis24/news-alerts/366171/morocco-authorities-reintroduce-lockdown-measures-in-tangier-and-fez-august-5-update-24).
-    Authorities have banned all forms of gatherings. All shops, cafes, and commercial
-    centers are required to close at 10 pm (local time) while restaurants can only
-    operate until 11 pm.
-  inbound:
-  - The borders remain closed to [all foreign nationals and tourism.](https://www.garda.com/crisis24/news-alerts/359606/morocco-authorities-announce-the-partial-reopening-of-borders-from-july-15-update-22).
-  outbound:
-  - All commercial flights to or from Morocco [have now been suspended.](https://www.gov.uk/foreign-travel-advice/morocco/entry-requirements)
-travel:
+  sources:
+    domestic:
+      - 'Government has classified the country into 2 zones, [with different restrictions for each zone.](https://www.garda.com/crisis24/news-alerts/352501/morocco-further-easing-of-covid-19-restrictions-from-june-19-update-17)'
+      - '[Inter-provincial travel is permitted for certain states](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18), subject to movement restrictions in certain areas. You must carry identification documents with you at all times.'
+      - 'As of June 25, 2020, [domestic transport services, including flights and railways, have resumed](https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18).'
+      - 'Authorities will be permitted to [enforce lockdowns on a region-by-region basis](https://www.garda.com/crisis24/news-alerts/366886/morocco-authorities-extend-state-of-emergency-until-september-10-update-25), due to the national state of health emergency being extended to September 10, 2020.'
+      - 'Individuals in Tangier and Fez will be required to carry a permit authorized by local authorities to [travel to and from the two cities](https://www.garda.com/crisis24/news-alerts/366171/morocco-authorities-reintroduce-lockdown-measures-in-tangier-and-fez-august-5-update-24). Authorities have banned all forms of gatherings. All shops, cafes, and commercial centers are required to close at 10 pm (local time) while restaurants can only operate until 11 pm.'
+      - 'Cafes, shops, and other commercial centers in Casablanca will have to close from 8 pm, and [local markets are to close at 4 pm.](https://www.moroccoworldnews.com/2020/08/316061/morocco-intensifies-lockdown-measures-in-casablanca-marrakech/)'
+      - 'In Marrakech, authorities will deny entry into 12 neighborhoods in the city](https://www.moroccoworldnews.com/2020/08/316061/morocco-intensifies-lockdown-measures-in-casablanca-marrakech/) and eateries have to operate at a 50 percent capacity.'
+    inbound:
+      - 'The borders remain closed to [all foreign nationals and tourism.](https://www.garda.com/crisis24/news-alerts/359606/morocco-authorities-announce-the-partial-reopening-of-borders-from-july-15-update-22).'
+    outbound:
+      - 'All commercial flights to or from Morocco [have now been suspended.](https://www.gov.uk/foreign-travel-advice/morocco/entry-requirements)'
+    visa_quarantine:
+      - 'A mandatory COVID-19 test is required within 48 hours of traveling and individuals entering the country will be subject to a 7 day isolation period followed by a [second COVID-19 test.](https://www.garda.com/crisis24/news-alerts/371091/morocco-covid-19-measures-tightened-in-marrakech-and-other-areas-august-21-update-26)'
+  travel:
   domestic: partial
-  inbound: 'no'
-  outbound: 'no'
+  inbound: no
+  inbound_allowed:
+  inbound_restricted:
+  inbound_source: https://www.moroccoworldnews.com/2020/08/314887/moroccos-borders-remain-closed-to-non-citizens-non-residents/
+  outbound: no
+  outbound_source: https://www.moroccoworldnews.com/2020/08/314887/moroccos-borders-remain-closed-to-non-citizens-non-residents/
+  interstate_commercial_flights: yes
+  interstate_commercial_flights_source: https://www.garda.com/crisis24/news-alerts/353416/morocco-authorities-announce-resumption-of-domestic-flights-from-june-25-update-18
+  interstate_private_land_transportation:
+  interstate_private_land_transportation_source:
+  interstate_public_transportation:
+  interstate_public_transportation_source:
+  public_transportation_in_region:
+  public_transportation_in_region_source:
+  restaurants_open:
+  restaurants_capacity_text: Maximum of 50% capacity
+  restaurants_open_source: https://www.moroccoworldnews.com/2020/08/316061/morocco-intensifies-lockdown-measures-in-casablanca-marrakech/
+  stay_in_hotel:
+  stay_in_hotel_text:
+  stay_in_hotel_source:
+  no_curfew:
+  curfew_time_text:
+  no_curfew_source:
+  visit_ticketed_tourist_attractions:
+  visit_non_ticketed_tourist_attractions: partial
+  visit_tourist_attractions_source: https://www.moroccoworldnews.com/2020/08/316061/morocco-intensifies-lockdown-measures-in-casablanca-marrakech/
+  apply_visa:
+  apply_visa_source:
+  quarantine_requirement: yes
+  quarantine_requirement_source: https://www.garda.com/crisis24/news-alerts/371091/morocco-covid-19-measures-tightened-in-marrakech-and-other-areas-august-21-update-26
+  covid_test_requirement: yes
+  covid_test_requirement_source: https://www.garda.com/crisis24/news-alerts/371091/morocco-covid-19-measures-tightened-in-marrakech-and-other-areas-august-21-update-26
+  submit_documentation_upon_arrival:
+  submit_documentation_upon_arrival_source:
