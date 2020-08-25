@@ -4,10 +4,10 @@ sources:
   - "[Domestic travel allowed](https://valtioneuvosto.fi/en/article/-/asset_publisher/10616/muutoksia-koronavirusepidemian-vuoksi-asetettuihin-rajoituksiin-1-kesakuuta)
     as long as health and safety guidelines are observed."
   inbound:
-  - Air traffic and regular ferry services have resumed between Finland and Norway,
-    Denmark, Iceland, Estonia, Latvia and Lithuania [as of June 15, 2020](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions).
-  - Effective July 13, 2020, Finland's new border restrictions are in effect, expanding
-    the list of countries from which [unrestricted travel is permitted](https://fi.usembassy.gov/covid-19-information/).
+  - 'Effective August 24, 2020, [unrestricted travel is permitted](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) for travelers from Estonia, Hungary, Italy, Latvia, Liechtenstein, Lithuania and Slovakia.'
+  - '[Recreational boat travel](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) between Schengen countries is permitted.'
+ - '[Internal border control is in place](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) for travelers from Austria, Belgium, the Czech Republic, Denmark, France, Germany, Greece, Iceland, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden and Switzerland.'
+- '[Travel is allowed](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) for residents of Georgia, New Zealand, Rwanda, South Korea, Thailand, Tunisia and Uruguay, provided they are arriving from their country of residence.'
   outbound:
   - "[Avoid all non-essential travel](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions)."
   visa_quarantine:
@@ -19,7 +19,7 @@ sources:
     or Iceland.
 travel:
   domestic: 'yes'
-  inbound: partial
+  inbound: 'partial'
   inbound_allowed:
   - CY
   - IE
@@ -27,3 +27,34 @@ travel:
   - SM
   - VA
   outbound: partial
+  inbound_restricted:
+  inbound_source: https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions
+  outbound_source: https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions
+  interstate_commercial_flights: yes
+  interstate_commercial_flights_source: https://fi.usembassy.gov/covid-19-information/
+  interstate_private_land_transportation: no
+  interstate_private_land_transportation_source: https://reopen.europa.eu/en/map/FIN
+  interstate_public_transportation: yes
+  interstate_public_transportation_source: https://reopen.europa.eu/en/map/FIN
+  public_transportation_in_region: yes
+  public_transportation_in_region_source: https://reopen.europa.eu/en/map/FIN
+  restaurants_open: yes
+  restaurants_capacity_text:
+  restaurants_open_source: https://reopen.europa.eu/en/map/FIN
+  stay_in_hotel: yes
+  stay_in_hotel_text:
+  stay_in_hotel_source: https://reopen.europa.eu/en/map/FIN
+  no_curfew: yes
+  curfew_time_text:
+  no_curfew_source: https://fi.usembassy.gov/covid-19-information/
+  visit_ticketed_tourist_attractions: yes
+  visit_non_ticketed_tourist_attractions: yes
+  visit_tourist_attractions_source: https://reopen.europa.eu/en/map/FIN
+  apply_visa: yes
+  apply_visa_source: https://um.fi/visa-requirement-and-travel-documents-accepted-by-finland
+  quarantine_requirement: yes
+  quarantine_requirement_source: https://reopen.europa.eu/en/map/FIN
+  covid_test_requirement: no
+  covid_test_requirement_source: https://reopen.europa.eu/en/map/FIN
+  submit_documentation_upon_arrival: yes
+  submit_documentation_upon_arrival_source: https://reopen.europa.eu/en/map/FIN
