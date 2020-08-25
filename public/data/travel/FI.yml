@@ -6,8 +6,8 @@ sources:
   inbound:
   - 'Effective August 24, 2020, [unrestricted travel is permitted](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) for travelers from Estonia, Hungary, Italy, Latvia, Liechtenstein, Lithuania and Slovakia.'
   - '[Recreational boat travel](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) between Schengen countries is permitted.'
- - '[Internal border control is in place](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) for travelers from Austria, Belgium, the Czech Republic, Denmark, France, Germany, Greece, Iceland, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden and Switzerland.'
-- '[Travel is allowed](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) for residents of Georgia, New Zealand, Rwanda, South Korea, Thailand, Tunisia and Uruguay, provided they are arriving from their country of residence.'
+  - '[Internal border control is in place](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) for travelers from Austria, Belgium, the Czech Republic, Denmark, France, Germany, Greece, Iceland, Luxembourg, Malta, the Netherlands, Norway, Poland, Portugal, Slovenia, Spain, Sweden and Switzerland.'
+  - '[Travel is allowed](https://www.raja.fi/current_issues/guidelines_for_border_traffic#2.1%20Internal%20border%20traffic%20without%20restrictions) for residents of Georgia, New Zealand, Rwanda, South Korea, Thailand, Tunisia and Uruguay, provided they are arriving from their country of residence.'
   outbound:
   - "[Avoid all non-essential travel](https://valtioneuvosto.fi/en/information-on-coronavirus/current-restrictions)."
   visa_quarantine:
